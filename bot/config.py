@@ -20,7 +20,7 @@ def load_sources(path: Path | None = None) -> dict:
 
 
 def secret(name: str, required: bool = True) -> str | None:
-    value = os.environ.get(name)
+    value = (os.environ.get(name) or "").strip().strip('"').strip("'") or None
     if required and not value:
         raise RuntimeError(f"Missing secret {name}. Add it to .env (local) or GitHub Actions secrets.")
     return value
