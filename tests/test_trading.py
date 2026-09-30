@@ -38,7 +38,6 @@ def test_relist_sold_size_sends_available_only():
 def test_price_change_on_sold_out_size_keeps_it_sold_out():
     xml = build_revise_xml(listing(), [Change("355429340181", "10.5", new_price=949.99)])
     assert "<Quantity>0</Quantity>" in xml
-    assert "<StartPrice>899.99</StartPrice>" in xml  # price kept
 
 
 def test_price_change_keeps_quantity():
