@@ -8,6 +8,8 @@
   python -m bot.cli alert-test               # send a test alert
   python -m bot.cli sync [--live]            # fix every listing vs data/source_prices.csv, alert Rafael
   python -m bot.cli sales                    # alert Rafael about new orders (what to buy + address)
+  python -m bot.cli drafts                   # new candidates → eBay-verified drafts → Telegram for approval
+  python -m bot.cli inbox [--live]           # apply Telegram replies (APPROVE/SKIP/PAUSE/RESUME/STATUS), list approved drafts
 
 plan.csv columns: item_id,size,new_price,new_available   (size blank for no-variation items; blank = unchanged)
 """
@@ -120,6 +122,8 @@ def main(argv=None) -> int:
     sub.add_parser("alert-test")
     sy = sub.add_parser("sync"); sy.add_argument("--live", action="store_true")
     sub.add_parser("sales")
+    sub.add_parser("drafts")
+    pb = sub.add_parser("inbox"); pb.add_argument("--live", action="store_true")
     args = p.parse_args(argv)
 
     if args.cmd == "auth-url":
@@ -145,6 +149,15 @@ def main(argv=None) -> int:
         for a in run():
             print(a); send(a)
         return 0
+    if args.cmd == "drafts":
+        from bot.alerts import send
+        from bot.newlistings import drafts
+        for t in drafts():
+            print(t); send(t)
+        return 0
+    if args.cmd == "inbox":
+        from bot.newlistings import run_all
+        run_all(args.live); return 0
     if args.cmd == "alert-test":
         from bot.alerts import send
         send("✅ eBay bot is connected. Alerts will arrive here."); print("sent"); return 0

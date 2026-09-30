@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "30 11 * * 0-5"   # 07:30 New York (daylight time)
   push:
-    paths: ["data/source_prices.csv", "plans/approved/**"]
+    paths: ["data/source_prices.csv", "plans/approved/**", "data/candidates/**"]
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -29,6 +29,9 @@ jobs:
       - name: Sync listings
         if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
         run: python -m bot.cli sync ${{ vars.LIVE == 'true' && '--live' || '' }}
+      - name: New listing drafts
+        if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
+        run: python -m bot.cli drafts
       - name: Save state
         run: |
           git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"

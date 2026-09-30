@@ -70,6 +70,7 @@ Python, single repo · GitHub Actions cron (no server) · Supabase Postgres (`db
 ## How the pieces run
 - `daily-sync` workflow: applies `plans/approved/*.csv`, then fixes every listing against `data/source_prices.csv` (hide unsourceable sizes, relist sold sizes that are sourceable again, propose raises for underwater sizes).
 - `sale-alerts` workflow (every 30 min): new order → Telegram message with what to buy, where, and the exact ship-to address.
+- New listings: `data/candidates/<id>.yaml` (format in `bot/listing.py`) → `daily-sync` builds a draft, applies the rules, has eBay verify it (nothing listed), and sends it to Telegram. Rafael replies `APPROVE <id>` / `SKIP <id>`; `sale-alerts` (every 30 min) lists approved drafts with fresh numbers. `PAUSE` / `RESUME` / `STATUS` also work on Telegram. Business policies are copied from `listing.template_item_id`.
 - `connect-ebay` workflow: one-time eBay approval; stores the refresh token as a repo secret.
 - The repo variable `LIVE=true` is the on/off switch for writing to eBay.
 - Until source adapters exist, `data/source_prices.csv` is maintained by a daily research task.

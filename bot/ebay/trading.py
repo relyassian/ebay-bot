@@ -198,3 +198,50 @@ def get_recent_sales(token: str, hours: int = 48) -> list[Sale]:
 
 def revise(listing: Listing, changes: list[Change], token: str, max_qty: int = 1) -> None:
     _call("ReviseFixedPriceItem", build_revise_xml(listing, changes, max_qty), token)
+
+
+# ---------- new listings (M3) ----------
+def get_listing_template(item_id: str, token: str) -> tuple[str, str]:
+    """Reuse Rafael's business policies (shipping, returns, payment, handling) and item location
+    from one of his existing shoe listings, so new listings get exactly the same terms."""
+    root = _call("GetItem", f"<ItemID>{escape(item_id)}</ItemID><DetailLevel>ReturnAll</DetailLevel>", token)
+    item = root.find("e:Item", NS)
+    sp = item.find("e:SellerProfiles", NS)
+    ids = {}
+    if sp is not None:
+        for tag, key in (("SellerShippingProfile", "ShippingProfileID"),
+                         ("SellerReturnProfile", "ReturnProfileID"),
+                         ("SellerPaymentProfile", "PaymentProfileID")):
+            v = sp.findtext(f"e:{tag}/e:{key}", namespaces=NS)
+            if v:
+                ids[(tag, key)] = v
+    xml = "<SellerProfiles>" + "".join(f"<{t}><{k}>{v}</{k}></{t}>" for (t, k), v in ids.items()) + "</SellerProfiles>"
+    postal = item.findtext("e:PostalCode", namespaces=NS) or "11023"
+    if len(ids) < 3:
+        raise RuntimeError(f"Listing {item_id} has no complete business policies to copy ({list(ids)})")
+    return xml, postal
+
+
+def _call_soft(call_name: str, body_xml: str, token: str) -> tuple[bool, ET.Element, list[str]]:
+    xml = (f'<?xml version="1.0" encoding="utf-8"?>'
+           f'<{call_name}Request xmlns="urn:ebay:apis:eBLBaseComponents">{body_xml}</{call_name}Request>')
+    r = requests.post(ENDPOINT, data=xml.encode(), timeout=60, headers={
+        "X-EBAY-API-CALL-NAME": call_name, "X-EBAY-API-SITEID": "0",
+        "X-EBAY-API-COMPATIBILITY-LEVEL": COMPAT, "X-EBAY-API-IAF-TOKEN": token, "Content-Type": "text/xml"})
+    r.raise_for_status()
+    root = ET.fromstring(r.content)
+    ok = root.findtext("e:Ack", namespaces=NS) in ("Success", "Warning")
+    msgs = [f"{e.findtext('e:SeverityCode', namespaces=NS)}: {e.findtext('e:LongMessage', namespaces=NS)}"
+            for e in root.findall("e:Errors", NS)]
+    return ok, root, msgs
+
+
+def verify_add(item_xml: str, token: str) -> tuple[bool, list[str]]:
+    """eBay checks the listing (category, specifics, photos, policies) WITHOUT creating it."""
+    ok, _, msgs = _call_soft("VerifyAddFixedPriceItem", item_xml, token)
+    return ok, msgs
+
+
+def add_item(item_xml: str, token: str) -> tuple[str | None, list[str]]:
+    ok, root, msgs = _call_soft("AddFixedPriceItem", item_xml, token)
+    return (root.findtext("e:ItemID", namespaces=NS) if ok else None), msgs

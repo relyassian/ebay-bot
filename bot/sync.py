@@ -114,8 +114,11 @@ def run(live: bool) -> str:
     from bot.ebay.auth import access_token
     from bot.ebay.trading import build_revise_xml, get_active_item_ids, get_item, revise
 
+    from bot.listing import PAUSE_FLAG
     cfg = load_config()
     live = live and not cfg.get("dry_run", True)
+    if PAUSE_FLAG.exists():
+        return "⏸ Bot is paused (send RESUME on Telegram). No listing changes made."
     token = access_token()
     sources = load_sources()
     ignore = set(map(str, cfg.get("sync", {}).get("ignore_items", [])))

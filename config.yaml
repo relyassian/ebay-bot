@@ -17,6 +17,7 @@ listing:
   handling_days_min: 3
   returns: none
   auto_publish: false         # launch mode: new listings need Rafael's approval
+  template_item_id: 355429340181   # copy business policies + location from this listing
 
 pricing:
   decay_after_days: 7
