@@ -112,7 +112,7 @@ def archive_plan(p: Path) -> None:
 def run(live: bool) -> str:
     from bot.cli import read_plan
     from bot.ebay.auth import access_token
-    from bot.ebay.trading import get_active_item_ids, get_item, revise
+    from bot.ebay.trading import build_revise_xml, get_active_item_ids, get_item, revise
 
     cfg = load_config()
     live = live and not cfg.get("dry_run", True)
@@ -125,6 +125,7 @@ def run(live: bool) -> str:
     for plan in load_approved_plans():
         for item_id, changes in read_plan(plan).items():
             listing = get_item(item_id, token)
+            build_revise_xml(listing, changes)          # validates every size exists, even in dry run
             if live:
                 revise(listing, changes, token, cfg["listing"]["quantity_per_size"])
             lines.append(f"{'Applied' if live else 'Would apply'} {plan.name}: {item_id} ({len(changes)} sizes)")
