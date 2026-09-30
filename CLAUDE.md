@@ -55,8 +55,10 @@ Telegram first (instant setup), WhatsApp Business Cloud API later (needs Meta-ap
 ## Also required
 Google Sheet dashboard (read-only) each run · bookkeeping per order (sale, fees, cost, tax, promo, net) with a monthly CSV export · read eBay selling limits each run · per-store authentication pass/fail tracking · AI-drafted buyer replies, Rafael approves before sending.
 
-## Expansion (only after shoes are profitable with no cancellations)
-1. Wallets, cardholders, belts, sunglasses, bags. 2. High-ticket apparel only (≥ ~$800 retail). Skip cheap apparel.
+## Product scope
+- Now: luxury men's shoes (sneakers, loafers, dress shoes), belts and ties. The $100 floor filters out anything that doesn't pay (many ties won't).
+- Later, only if the numbers prove out: wallets, cardholders, sunglasses, bags, then high-ticket apparel (≥ ~$800 retail). Skip cheap apparel.
+- Belts are sized as the brand marks them (usually cm); ties are one-size single listings. Neither goes through Authenticity Guarantee.
 
 ## Architecture
 Python, single repo · GitHub Actions cron (no server) · Supabase Postgres (`db/schema.sql`) · secrets in `.env` / GitHub secrets, never committed.

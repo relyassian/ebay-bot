@@ -12,7 +12,7 @@ import requests
 from bot.alerts import send
 from bot.alerts.telegram import _chat_id
 from bot.config import ROOT, load_config, secret
-from bot.listing import (PAUSE_FLAG, build_add_xml, draft_message, load_candidates, load_state, make_draft,
+from bot.listing import (PAUSE_FLAG, SIZE_NAME, build_add_xml, draft_message, load_candidates, load_state, make_draft,
                          save_state)
 
 OFFSET = ROOT / "data" / "telegram_offset.txt"
@@ -39,7 +39,7 @@ def drafts() -> list[str]:
             state[cid] = {"status": "blocked", "reason": d.blocked_reason}
             out.append(f"⏸ {cid}: not listed — {d.blocked_reason}.")
             continue
-        ok, msgs = verify_add(build_add_xml(d, profiles, postal), token)
+        ok, msgs = verify_add(build_add_xml(d, profiles, postal, SIZE_NAME.get(c["category"], "US Shoe Size")), token)
         if not ok:
             state[cid] = {"status": "invalid", "errors": msgs[:5]}
             if cid.startswith("test-"):
@@ -121,7 +121,8 @@ def publish(live: bool) -> list[str]:
         if not live:
             out.append(f"(dry run) would list {cid}: {len(d.sizes)} sizes")
             continue
-        item_id, msgs = add_item(build_add_xml(d, profiles, postal), token)
+        item_id, msgs = add_item(build_add_xml(d, profiles, postal,
+                                               SIZE_NAME.get(cands[cid]["category"], "US Shoe Size")), token)
         if item_id:
             state[cid] = {"status": "live", "item_id": item_id}
             out.append(f"✅ Listed {d.title}\nhttps://www.ebay.com/itm/{item_id}\n{len(d.sizes)} sizes, "

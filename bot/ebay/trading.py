@@ -35,7 +35,7 @@ class Variation:
 
     @property
     def size(self) -> str | None:
-        return self.specifics.get(SIZE_NAME)
+        return self.specifics.get(SIZE_NAME) or self.specifics.get("Size") or next(iter(self.specifics.values()), None)
 
 
 @dataclass

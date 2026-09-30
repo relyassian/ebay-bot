@@ -47,3 +47,19 @@ def test_add_xml_quantity_one_and_policies():
     assert xml.count("<Quantity>1</Quantity>") == len(d.sizes)
     assert "<ConditionID>1000</ConditionID>" in xml and "<SellerProfiles>" in xml
     assert "Dolce &amp; Gabbana" in xml
+
+
+def test_tie_is_single_item():
+    tie = dict(CAND, id="hermes-tie", category="tie", size_system="", price=399.99,
+               sizes=[{"us": "One Size", "native": "", "cost": 150, "source": "X", "url": "u", "in_stock_sources": 2}])
+    d = make_draft(tie, CFG)
+    xml = build_add_xml(d, "<SellerProfiles/>", "11023", None)
+    assert "<Variations>" not in xml and "<Quantity>1</Quantity>" in xml and "<CategoryID>15662</CategoryID>" in xml
+
+
+def test_belt_uses_size_variation():
+    belt = dict(CAND, id="gucci-belt", category="belt", size_system="cm", price=599.99,
+                sizes=[{"us": "90", "native": "90", "cost": 250, "source": "X", "url": "u", "in_stock_sources": 2}])
+    d = make_draft(belt, CFG)
+    xml = build_add_xml(d, "<SellerProfiles/>", "11023", "Size")
+    assert "<Name>Size</Name>" in xml and "<CategoryID>2993</CategoryID>" in xml

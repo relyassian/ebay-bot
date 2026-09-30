@@ -40,12 +40,17 @@ CANDIDATES = ROOT / "data" / "candidates"
 STATE = ROOT / "data" / "drafts_state.json"      # {id: {"status": "sent|approved|skipped|live|blocked", "item_id": ...}}
 PAUSE_FLAG = ROOT / "data" / "PAUSED"
 
-CATEGORY_IDS = {           # eBay US leaf categories
+CATEGORY_IDS = {           # eBay US leaf categories (eBay's Verify step rejects a wrong one before anything lists)
     "sneaker": "15709",     # Men's Sneakers
     "loafer": "53120",      # Men's Dress Shoes (Rafael's loafer listings live here)
     "dress_shoe": "53120",
+    "belt": "2993",         # Men's Accessories > Belts
+    "tie": "15662",         # Men's Accessories > Ties
 }
-TYPE = {"sneaker": "Sneaker", "loafer": "Loafer", "dress_shoe": "Dress"}
+TYPE = {"sneaker": "Sneaker", "loafer": "Loafer", "dress_shoe": "Dress", "belt": "Belt", "tie": "Tie"}
+# variation name per category; None = one-size item (single SKU, quantity 1)
+SIZE_NAME = {"sneaker": "US Shoe Size", "loafer": "US Shoe Size", "dress_shoe": "US Shoe Size",
+             "belt": "Size", "tie": None}
 
 
 @dataclass
@@ -109,6 +114,14 @@ def build_specifics(c: dict) -> dict:
 
 
 def build_description(c: dict, sizes: list[SizeLine]) -> str:
+    if c["category"] in ("belt", "tie"):
+        size_note = ""
+        if c["category"] == "belt":
+            size_note = ("<p><b>Belt sizing:</b> sizes are listed as the brand marks them (usually cm to the middle hole). "
+                         + "".join(f"{html.escape(s.us)} " for s in sizes) + "</p>")
+        return (f"<h2>{html.escape(c['brand'])} {html.escape(c['model'])} — {html.escape(c.get('colorway',''))}</h2>"
+                f"<p>Brand new with original packaging. Style code: {html.escape(c.get('style_code',''))}.</p>"
+                f"{size_note}<p>All sales final.</p>")
     rows = "".join(f"<tr><td>US {html.escape(s.us)}</td><td>{html.escape(c.get('size_system','US'))} "
                    f"{html.escape(s.native)}</td></tr>" for s in sizes)
     return (
@@ -153,15 +166,20 @@ def make_draft(c: dict, cfg: dict | None = None) -> Draft:
     return d
 
 
-def build_add_xml(d: Draft, seller_profiles_xml: str, postal_code: str) -> str:
+def build_add_xml(d: Draft, seller_profiles_xml: str, postal_code: str, size_name: str | None = "US Shoe Size") -> str:
     specifics = "".join(f"<NameValueList><Name>{escape(k)}</Name><Value>{escape(str(v))}</Value></NameValueList>"
                         for k, v in d.specifics.items())
     size_values = "".join(f"<Value>{escape(s.us)}</Value>" for s in d.sizes)
     variations = "".join(
         "<Variation>"
         f"<SKU>{escape(d.id)}-{escape(s.us)}</SKU><StartPrice>{s.price:.2f}</StartPrice><Quantity>1</Quantity>"
-        f"<VariationSpecifics><NameValueList><Name>US Shoe Size</Name><Value>{escape(s.us)}</Value>"
+        f"<VariationSpecifics><NameValueList><Name>{escape(size_name or '')}</Name><Value>{escape(s.us)}</Value>"
         "</NameValueList></VariationSpecifics></Variation>" for s in d.sizes)
+    if size_name is None:        # one-size item (e.g. a tie): single SKU at the single line's price
+        body = (f"<StartPrice>{d.sizes[0].price:.2f}</StartPrice><Quantity>1</Quantity><SKU>{escape(d.id)}</SKU>")
+    else:
+        body = (f"<Variations><VariationSpecificsSet><NameValueList><Name>{escape(size_name)}</Name>{size_values}"
+                f"</NameValueList></VariationSpecificsSet>{variations}</Variations>")
     pics = "".join(f"<PictureURL>{escape(u)}</PictureURL>" for u in d.photos[:24])
     return (
         "<Item>"
@@ -174,9 +192,7 @@ def build_add_xml(d: Draft, seller_profiles_xml: str, postal_code: str) -> str:
         "<ListingDuration>GTC</ListingDuration><ListingType>FixedPriceItem</ListingType>"
         f"<PictureDetails>{pics}</PictureDetails>"
         f"<ItemSpecifics>{specifics}</ItemSpecifics>"
-        f"<Variations><VariationSpecificsSet><NameValueList><Name>US Shoe Size</Name>{size_values}"
-        f"</NameValueList></VariationSpecificsSet>{variations}</Variations>"
-        f"{seller_profiles_xml}"
+        f"{body}{seller_profiles_xml}"
         "</Item>"
     )
 
