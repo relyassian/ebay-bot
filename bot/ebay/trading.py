@@ -3,8 +3,10 @@
 Why Trading API: the 21 legacy listings were created on the website, and the Inventory API
 can only manage listings it created. Trading API ReviseFixedPriceItem works on any listing.
 
-Quantity gotcha: a variation's <Quantity> counts units already sold. Available = Quantity - QuantitySold.
-To show N available you must send Quantity = QuantitySold + N.
+Quantity semantics (verified against eBay's Trading API guide, Sept 2026):
+- GetItem returns a variation's TOTAL quantity (includes sold). Available = Quantity - QuantitySold.
+- ReviseFixedPriceItem takes the AVAILABLE quantity; eBay adds QuantitySold itself.
+  So to show N available, send Quantity = N (never add QuantitySold).
 """
 from __future__ import annotations
 
@@ -115,11 +117,11 @@ def build_revise_xml(listing: Listing, changes: list[Change], max_qty: int = 1) 
             if v is None:
                 raise ValueError(f"{listing.item_id}: size {c.size!r} not on the listing")
             price = v.price if c.new_price is None else c.new_price
-            avail = v.available if c.new_available is None else min(c.new_available, max_qty)
+            avail = min(v.available if c.new_available is None else c.new_available, max_qty)
             parts.append(
                 "<Variation>"
                 f"<StartPrice>{price:.2f}</StartPrice>"
-                f"<Quantity>{v.sold + avail}</Quantity>"
+                f"<Quantity>{avail}</Quantity>"
                 "<VariationSpecifics>"
                 + "".join(f"<NameValueList><Name>{escape(k)}</Name><Value>{escape(val)}</Value></NameValueList>"
                           for k, val in v.specifics.items())
@@ -131,7 +133,7 @@ def build_revise_xml(listing: Listing, changes: list[Change], max_qty: int = 1) 
         if c.new_price is not None:
             parts.append(f"<StartPrice>{c.new_price:.2f}</StartPrice>")
         if c.new_available is not None:
-            parts.append(f"<Quantity>{(listing.sold or 0) + min(c.new_available, max_qty)}</Quantity>")
+            parts.append(f"<Quantity>{min(c.new_available, max_qty)}</Quantity>")
     parts.append("</Item>")
     return "".join(parts)
 

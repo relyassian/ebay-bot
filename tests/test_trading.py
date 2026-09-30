@@ -29,9 +29,15 @@ def test_parse_available_excludes_sold():
     assert by["10.5"].available == 0 and by["10.5"].sold == 1
 
 
-def test_relist_sold_size_sends_sold_plus_one():
+def test_relist_sold_size_sends_available_only():
+    # eBay adds QuantitySold itself on revise; sending sold+1 would put 2 up for sale
     xml = build_revise_xml(listing(), [Change("355429340181", "10.5", new_available=1)])
-    assert "<Quantity>2</Quantity>" in xml          # 1 sold + 1 available
+    assert "<Quantity>1</Quantity>" in xml and "<Quantity>2</Quantity>" not in xml
+
+
+def test_price_change_on_sold_out_size_keeps_it_sold_out():
+    xml = build_revise_xml(listing(), [Change("355429340181", "10.5", new_price=949.99)])
+    assert "<Quantity>0</Quantity>" in xml
     assert "<StartPrice>899.99</StartPrice>" in xml  # price kept
 
 
