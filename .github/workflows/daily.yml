@@ -29,6 +29,11 @@ jobs:
       - name: Sync listings
         if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
         run: python -m bot.cli sync ${{ vars.LIVE == 'true' && '--live' || '' }}
+      - name: Sale alerts + Telegram replies (backup for the 30-minute job)
+        if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
+        run: |
+          python -m bot.cli sales
+          python -m bot.cli inbox ${{ vars.LIVE == 'true' && '--live' || '' }}
       - name: New listing drafts
         if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
         run: python -m bot.cli drafts
