@@ -37,6 +37,11 @@
 - Sale alert: order #, US + native size to buy, cheapest in-stock store + link, best promo code, exact address to paste, eVTN warning if needed.
 - Add tracking to eBay only when a real tracking number exists. Parse store shipping emails for tracking automatically.
 
+## Source notes
+- END US, Farfetch, SSENSE, Cettire, GOAT load sizes/stock with JavaScript: check them in a real browser and treat "SOLD OUT" on the page as out of stock. END sale items sell out within days.
+- Italist is Shopify: `/products/<handle>.js` gives per-size availability; skip its `Vendor::BGW` (BrandsGateway) items.
+- Mytheresa product pages show stock per size in plain HTML.
+
 ## Sources (one adapter per store in `bot/sources/`, status in `sources.yaml`)
 StockX (official API, M2) → Cettire (needs a headless browser: prices load via JavaScript) → GOAT (new only) → Farfetch, SSENSE, END US, Italist, Mytheresa. Saks Off 5th excluded (shutting down). Ranking: lowest landed cost, unless another store is within $15 with better returns or faster shipping. An adapter failing 3 runs in a row is disabled and Rafael is alerted.
 
@@ -56,7 +61,7 @@ Telegram first (instant setup), WhatsApp Business Cloud API later (needs Meta-ap
 Google Sheet dashboard (read-only) each run · bookkeeping per order (sale, fees, cost, tax, promo, net) with a monthly CSV export · read eBay selling limits each run · per-store authentication pass/fail tracking · AI-drafted buyer replies, Rafael approves before sending.
 
 ## Product scope
-- Now: luxury men's shoes (sneakers, loafers, dress shoes), belts and ties. The $100 floor filters out anything that doesn't pay (many ties won't).
+- Now: luxury men's shoes (sneakers, loafers, dress shoes). Belts and ties are supported but only listed when a deep discount clears the floor: new luxury belts/ties resell on eBay below retail (checked Sept 30), so typical buy-price ceilings are ~65–80% off retail (e.g. Gucci GG Supreme belt ≤ ~$199, Ferragamo Gancini ≤ ~$128); ties almost never qualify.
 - Later, only if the numbers prove out: wallets, cardholders, sunglasses, bags, then high-ticket apparel (≥ ~$800 retail). Skip cheap apparel.
 - Belts are sized as the brand marks them (usually cm); ties are one-size single listings. Neither goes through Authenticity Guarantee.
 
