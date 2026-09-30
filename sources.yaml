@@ -1,0 +1,30 @@
+# Per-source facts. Keep current; the ranking uses these.
+# eVTN_ok: does checkout keep "evtn:xxxx" intact on address line 2?
+stockx:
+  method: official_api
+  ships_from: US
+  duties_included: true
+  return_policy_days: 0
+  eVTN_ok: unknown
+  reliable: false
+  status: planned_M2
+goat:
+  method: scraper
+  ships_from: US
+  return_policy_days: 0
+  eVTN_ok: false            # truncated "evtn:l227ktv" to "# L227" (Sept 2026)
+  reliable: false
+  status: planned_M5
+cettire:
+  method: scraper_headless  # prices load via JavaScript
+  ships_from: overseas
+  duties_included: unknown
+  return_policy_days: unknown
+  eVTN_ok: unknown
+  reliable: false
+  status: planned_M5
+farfetch:   {method: scraper, ships_from: varies, duties_included: true, eVTN_ok: unknown, reliable: false, status: planned_M5}
+ssense:     {method: scraper, ships_from: CA/US, eVTN_ok: unknown, reliable: false, status: planned_M5}
+end_us:     {method: scraper, ships_from: US, eVTN_ok: unknown, reliable: false, status: later}
+italist:    {method: scraper, ships_from: overseas, eVTN_ok: unknown, reliable: false, status: later}
+# saks_off_5th: excluded — site showed "Shutting Down" (Sept 2026)
