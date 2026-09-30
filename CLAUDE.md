@@ -62,7 +62,7 @@ Google Sheet dashboard (read-only) each run · bookkeeping per order (sale, fees
 Python, single repo · GitHub Actions cron (no server) · Supabase Postgres (`db/schema.sql`) · secrets in `.env` / GitHub secrets, never committed.
 
 ## Milestones (each: tests pass → commit → next)
-- **M1 (done)**: config, schema, alerts, eBay Trading API client (read + revise price/qty per size), plan-apply CLI, GitHub Actions dry run.
+- **M1 (built; not yet run against live eBay)**: config, schema, alerts, eBay Trading API client (read + revise price/qty per size), plan-apply CLI, GitHub Actions dry run.
 - **M2**: StockX adapter + size mapping + comps + profit calc + opportunity alerts + dashboard. Re-verify all legacy listings first.
 - **M3**: new listings with catalog photos and full item specifics; improve legacy titles. Launch mode.
 - **M4**: automatic sync (reprice, decay, zero out, relist sold sizes) + sale alerts.
