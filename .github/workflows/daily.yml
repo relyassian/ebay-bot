@@ -3,7 +3,7 @@ name: daily-sync
 # Runs after the 7:00am research task, and whenever source prices or approved plans are pushed.
 on:
   schedule:
-    - cron: "30 11 * * 0-5"   # 07:30 New York (daylight time)
+    - cron: "37 11 * * 0-5"   # 07:37 New York (daylight time); off the half-hour so GitHub does not skip it
   push:
     paths: ["data/source_prices.csv", "plans/approved/**", "data/candidates/**"]
   workflow_dispatch: {}
