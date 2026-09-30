@@ -265,8 +265,11 @@ def _call_soft(call_name: str, body_xml: str, token: str) -> tuple[bool, ET.Elem
     r.raise_for_status()
     root = ET.fromstring(r.content)
     ok = root.findtext("e:Ack", namespaces=NS) in ("Success", "Warning")
-    msgs = [f"{e.findtext('e:SeverityCode', namespaces=NS)}: {e.findtext('e:LongMessage', namespaces=NS)}"
-            for e in root.findall("e:Errors", NS)]
+    msgs = []
+    for e in root.findall("e:Errors", NS):
+        params = [p.findtext("e:Value", namespaces=NS) for p in e.findall("e:ErrorParameters", NS)]
+        msgs.append(f"{e.findtext('e:SeverityCode', namespaces=NS)} {e.findtext('e:ErrorCode', namespaces=NS)}: "
+                    f"{e.findtext('e:LongMessage', namespaces=NS)}" + (f" [{', '.join(filter(None, params))}]" if params else ""))
     return ok, root, msgs
 
 

@@ -28,7 +28,7 @@ def drafts() -> list[str]:
     from bot.ebay.auth import access_token
     from bot.ebay.trading import verify_add
     state, out = load_state(), []
-    todo = {k: c for k, c in load_candidates().items() if k not in state}
+    todo = {k: c for k, c in load_candidates().items() if k not in state or k.startswith("test-")}
     if not todo:
         return out
     token = access_token()
