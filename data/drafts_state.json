@@ -1,0 +1,12 @@
+{
+  "test-dg-new-roma": {
+    "errors": [
+      "Error: One or more parameter values in the input request are invalid. Check the response for ErrorParameters elements to determine which parameters have invalid values. Correct these values, and then resend the input request.",
+      "Error: One or more parameter values in the input request are invalid. Check the response for ErrorParameters elements to determine which parameters have invalid values. Correct these values, and then resend the input request.",
+      "Error: One or more parameter values in the input request are invalid. Check the response for ErrorParameters elements to determine which parameters have invalid values. Correct these values, and then resend the input request.",
+      "Warning: Funds from your sales may be unavailable and show as on hold for a period of time. Learn more: https://www.ebay.com/help/selling/getting-paid/getting-paid-items-youve-sold/pending-payments?id=4816",
+      "Warning: This item is eligible for Authenticity Guarantee. This includes verification by an authenticator before it's delivered to your buyer."
+    ],
+    "status": "invalid"
+  }
+}
