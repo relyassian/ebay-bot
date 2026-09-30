@@ -215,11 +215,45 @@ def get_listing_template(item_id: str, token: str) -> tuple[str, str]:
             v = sp.findtext(f"e:{tag}/e:{key}", namespaces=NS)
             if v:
                 ids[(tag, key)] = v
-    xml = "<SellerProfiles>" + "".join(f"<{t}><{k}>{v}</{k}></{t}>" for (t, k), v in ids.items()) + "</SellerProfiles>"
     postal = item.findtext("e:PostalCode", namespaces=NS) or "11023"
-    if len(ids) < 3:
-        raise RuntimeError(f"Listing {item_id} has no complete business policies to copy ({list(ids)})")
-    return xml, postal
+    if len(ids) == 3:
+        xml = "<SellerProfiles>" + "".join(f"<{t}><{k}>{v}</{k}></{t}>" for (t, k), v in ids.items()) + "</SellerProfiles>"
+        return xml, postal
+    return _inline_terms(item), postal
+
+
+def _inline_terms(item: ET.Element) -> str:
+    """Listing has no business policies → copy its shipping/returns/handling settings field by field."""
+    t = lambda el, p: (el.findtext(p, namespaces=NS) or "").strip()
+    parts = [f"<DispatchTimeMax>{max(int(t(item, 'e:DispatchTimeMax') or 3), 3)}</DispatchTimeMax>"]
+    sd = item.find("e:ShippingDetails", NS)
+    if sd is not None:
+        opts = []
+        for o in sd.findall("e:ShippingServiceOptions", NS):
+            svc = t(o, "e:ShippingService")
+            if not svc:
+                continue
+            free = t(o, "e:FreeShipping").lower() == "true"
+            cost = t(o, "e:ShippingServiceCost") or "0.0"
+            opts.append(f"<ShippingServiceOptions><ShippingServicePriority>{t(o, 'e:ShippingServicePriority') or len(opts)+1}"
+                        f"</ShippingServicePriority><ShippingService>{escape(svc)}</ShippingService>"
+                        + ("<FreeShipping>true</FreeShipping><ShippingServiceCost>0.0</ShippingServiceCost>" if free
+                           else f"<ShippingServiceCost>{escape(cost)}</ShippingServiceCost>")
+                        + "</ShippingServiceOptions>")
+        stype = t(sd, "e:ShippingType") or "Flat"
+        parts.append(f"<ShippingDetails><ShippingType>{escape(stype)}</ShippingType>{''.join(opts)}</ShippingDetails>")
+    pkg = item.find("e:ShippingPackageDetails", NS)
+    w = lambda tag, default: (pkg.findtext(f"e:{tag}", namespaces=NS) if pkg is not None else None) or default
+    # weight/size are needed for calculated shipping; default = eBay's own estimate for a boxed pair of shoes
+    parts.append("<ShippingPackageDetails><MeasurementUnit>English</MeasurementUnit>"
+                 f"<PackageDepth>{w('PackageDepth', '9')}</PackageDepth><PackageLength>{w('PackageLength', '14')}</PackageLength>"
+                 f"<PackageWidth>{w('PackageWidth', '12')}</PackageWidth><WeightMajor>{w('WeightMajor', '3')}</WeightMajor>"
+                 f"<WeightMinor>{w('WeightMinor', '0')}</WeightMinor></ShippingPackageDetails>")
+    rp = item.find("e:ReturnPolicy", NS)
+    accepted = t(rp, "e:ReturnsAcceptedOption") if rp is not None else ""
+    parts.append(f"<ReturnPolicy><ReturnsAcceptedOption>{escape(accepted or 'ReturnsNotAccepted')}"
+                 "</ReturnsAcceptedOption></ReturnPolicy>")
+    return "".join(parts)
 
 
 def _call_soft(call_name: str, body_xml: str, token: str) -> tuple[bool, ET.Element, list[str]]:
