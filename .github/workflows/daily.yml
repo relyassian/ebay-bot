@@ -1,0 +1,36 @@
+name: daily-sync
+# Fixes every listing against data/source_prices.csv and applies approved plans.
+# Runs after the 7:00am research task, and whenever source prices or approved plans are pushed.
+on:
+  schedule:
+    - cron: "30 11 * * 0-5"   # 07:30 New York (daylight time)
+  push:
+    paths: ["data/source_prices.csv", "plans/approved/**"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: {group: ebay-write, cancel-in-progress: false}
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+      EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+      EBAY_RUNAME: ${{ secrets.EBAY_RUNAME }}
+      EBAY_REFRESH_TOKEN: ${{ secrets.EBAY_REFRESH_TOKEN }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - run: python -m pytest -q
+      - name: Sync listings
+        if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
+        run: python -m bot.cli sync ${{ vars.LIVE == 'true' && '--live' || '' }}
+      - name: Save state
+        run: |
+          git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"
+          git add -A plans data || true
+          git diff --cached --quiet || (git commit -m "bot: sync state" && git pull --rebase && git push)

@@ -1,0 +1,31 @@
+name: sale-alerts
+# New order → Telegram alert with what to buy, where, and the exact ship-to address (eVTN).
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 min keeps GitHub Actions inside the free 2,000 min/month
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: {group: ebay-sales, cancel-in-progress: false}
+jobs:
+  sales:
+    runs-on: ubuntu-latest
+    env:
+      EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+      EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+      EBAY_RUNAME: ${{ secrets.EBAY_RUNAME }}
+      EBAY_REFRESH_TOKEN: ${{ secrets.EBAY_REFRESH_TOKEN }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
+        uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
+        run: pip install -r requirements.txt && python -m bot.cli sales
+      - name: Save seen orders
+        run: |
+          git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"
+          git add data/seen_orders.txt 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "bot: seen orders" && git pull --rebase && git push)

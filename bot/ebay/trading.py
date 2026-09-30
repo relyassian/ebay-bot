@@ -136,5 +136,63 @@ def build_revise_xml(listing: Listing, changes: list[Change], max_qty: int = 1) 
     return "".join(parts)
 
 
+def get_active_item_ids(token: str) -> list[str]:
+    ids, page = [], 1
+    while True:
+        root = _call("GetMyeBaySelling",
+                     "<ActiveList><Include>true</Include><Pagination>"
+                     f"<EntriesPerPage>200</EntriesPerPage><PageNumber>{page}</PageNumber>"
+                     "</Pagination></ActiveList>", token)
+        ids += [e.text for e in root.findall("e:ActiveList/e:ItemArray/e:Item/e:ItemID", NS)]
+        pages = int(root.findtext("e:ActiveList/e:PaginationResult/e:TotalNumberOfPages", "1", NS) or 1)
+        if page >= pages:
+            return ids
+        page += 1
+
+
+@dataclass
+class Sale:
+    order_id: str
+    item_id: str
+    title: str
+    size: str | None
+    price: float
+    buyer_city: str
+    ship_to: list[str]          # address lines exactly as eBay gives them (authenticator + eVTN)
+    created: str
+
+
+def parse_orders(root: ET.Element) -> list[Sale]:
+    out = []
+    t = lambda el, p: (el.findtext(p, namespaces=NS) or "").strip()
+    for o in root.findall("e:OrderArray/e:Order", NS):
+        addr = o.find("e:ShippingAddress", NS)
+        lines = [t(addr, f"e:{k}") for k in ("Name", "Street1", "Street2", "CityName",
+                                              "StateOrProvince", "PostalCode", "Phone")] if addr is not None else []
+        for tr in o.findall("e:TransactionArray/e:Transaction", NS):
+            size = None
+            for nv in tr.findall("e:Variation/e:VariationSpecifics/e:NameValueList", NS):
+                if t(nv, "e:Name") == SIZE_NAME:
+                    size = t(nv, "e:Value")
+            out.append(Sale(
+                order_id=t(o, "e:OrderID"), item_id=t(tr, "e:Item/e:ItemID"),
+                title=t(tr, "e:Item/e:Title") or t(tr, "e:Variation/e:VariationTitle"),
+                size=size, price=float(t(tr, "e:TransactionPrice") or 0),
+                buyer_city=t(addr, "e:CityName") if addr is not None else "",
+                ship_to=[l for l in lines if l], created=t(o, "e:CreatedTime"),
+            ))
+    return out
+
+
+def get_recent_sales(token: str, hours: int = 48) -> list[Sale]:
+    from datetime import datetime, timedelta, timezone
+    now = datetime.now(timezone.utc)
+    frm = (now - timedelta(hours=hours)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    to = now.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    root = _call("GetOrders", f"<CreateTimeFrom>{frm}</CreateTimeFrom><CreateTimeTo>{to}</CreateTimeTo>"
+                              "<OrderRole>Seller</OrderRole><OrderStatus>Completed</OrderStatus>", token)
+    return parse_orders(root)
+
+
 def revise(listing: Listing, changes: list[Change], token: str, max_qty: int = 1) -> None:
     _call("ReviseFixedPriceItem", build_revise_xml(listing, changes, max_qty), token)

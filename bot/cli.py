@@ -6,6 +6,8 @@
   python -m bot.cli apply plan.csv           # dry run: print exactly what would change
   python -m bot.cli apply plan.csv --live    # write to eBay (also needs dry_run: false in config.yaml)
   python -m bot.cli alert-test               # send a test alert
+  python -m bot.cli sync [--live]            # fix every listing vs data/source_prices.csv, alert Rafael
+  python -m bot.cli sales                    # alert Rafael about new orders (what to buy + address)
 
 plan.csv columns: item_id,size,new_price,new_available   (size blank for no-variation items; blank = unchanged)
 """
@@ -116,6 +118,8 @@ def main(argv=None) -> int:
     ap = sub.add_parser("apply"); ap.add_argument("plan"); ap.add_argument("--live", action="store_true")
     ap.add_argument("--force", action="store_true")
     sub.add_parser("alert-test")
+    sy = sub.add_parser("sync"); sy.add_argument("--live", action="store_true")
+    sub.add_parser("sales")
     args = p.parse_args(argv)
 
     if args.cmd == "auth-url":
@@ -131,6 +135,16 @@ def main(argv=None) -> int:
         return cmd_show(args)
     if args.cmd == "apply":
         return cmd_apply(args)
+    if args.cmd == "sync":
+        from bot.alerts import send
+        from bot.sync import run
+        report = run(args.live); print(report); send(report); return 0
+    if args.cmd == "sales":
+        from bot.alerts import send
+        from bot.sales import run
+        for a in run():
+            print(a); send(a)
+        return 0
     if args.cmd == "alert-test":
         from bot.alerts import send
         send("✅ eBay bot is connected. Alerts will arrive here."); print("sent"); return 0

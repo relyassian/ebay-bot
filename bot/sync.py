@@ -1,0 +1,152 @@
+"""Daily sync: compare every live size against the cheapest known source and fix it.
+
+Inputs
+- Live listings from eBay (Trading API).
+- data/source_prices.csv — one row per item/size with the cheapest current NEW source.
+  Written by the source adapters (M2+) or by the daily research task until adapters exist.
+  Columns: item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
+  (size blank = item without sizes; cost blank = no source found)
+- plans/approved/*.csv — changes Rafael approved (e.g. price raises). Applied once, then moved to plans/done/.
+
+Decisions per size (all rules from CLAUDE.md / config.yaml)
+- No profitable in-stock source → available 0                         (pre-approved, auto)
+- Sold / zeroed size that is profitably sourceable again → available 1 (pre-approved, auto)
+- Current price below the floor price for the cheapest source → available 0 now, and a raise is
+  PROPOSED to Rafael (raises need approval)
+- Price drops only come from approved plans or future pricing logic; never below the floor.
+Source data older than `max_source_age_hours` counts as unknown → the size is not relisted.
+"""
+from __future__ import annotations
+
+import csv
+import shutil
+from dataclasses import dataclass
+from datetime import datetime, timezone
+from pathlib import Path
+
+from bot.config import ROOT, load_config
+from bot.ebay.trading import Change, Listing
+from bot.profit import floor_price, landed_cost, net_profit
+
+DATA = ROOT / "data" / "source_prices.csv"
+
+
+@dataclass
+class Source:
+    cost: float | None
+    source: str
+    url: str
+    overseas: bool
+    in_stock_sources: int
+    checked_at: datetime | None
+
+
+def load_sources(path: Path = DATA) -> dict[tuple[str, str | None], Source]:
+    out = {}
+    if not path.exists():
+        return out
+    with path.open(newline="") as f:
+        for r in csv.DictReader(f):
+            if not r.get("item_id"):
+                continue
+            ts = r.get("checked_at") or ""
+            out[(r["item_id"].strip(), (r.get("size") or "").strip() or None)] = Source(
+                cost=float(r["cost"]) if (r.get("cost") or "").strip() else None,
+                source=r.get("source", ""), url=r.get("url", ""),
+                overseas=(r.get("overseas", "").strip().lower() in ("1", "true", "yes")),
+                in_stock_sources=int(r.get("in_stock_sources") or 0),
+                checked_at=datetime.fromisoformat(ts.replace("Z", "+00:00")) if ts else None,
+            )
+    return out
+
+
+def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = None):
+    """Return (auto_changes, proposals, notes). Pure function: easy to test."""
+    now = now or datetime.now(timezone.utc)
+    max_age = cfg.get("sync", {}).get("max_source_age_hours", 36)
+    min_sources = cfg["risk"]["min_sources_per_size"]
+    auto, proposals, notes = [], [], []
+
+    rows = ([(v.size, v.price, v.available, v.sold) for v in listing.variations] if listing.variations
+            else [(None, listing.price, (listing.quantity or 0) - (listing.sold or 0), listing.sold or 0)])
+
+    for size, price, available, sold in rows:
+        src = sources.get((listing.item_id, size))
+        fresh = bool(src and src.checked_at and (now - src.checked_at).total_seconds() <= max_age * 3600)
+        if not fresh or src.cost is None:
+            if available > 0 and src is not None and src.cost is None and fresh:
+                auto.append(Change(listing.item_id, size, new_available=0))
+                notes.append(f"{size or '-'}: no source in stock → hidden")
+            elif not fresh and available == 0:
+                pass  # unknown: leave hidden
+            continue
+        landed = landed_cost(src.cost, cfg, overseas=src.overseas)
+        need = floor_price(landed, cfg)
+        net_now = net_profit(price, landed, cfg)
+        enough_sources = src.in_stock_sources >= min_sources or cfg.get("sync", {}).get("allow_single_source", False)
+
+        if net_now < cfg["profit"]["floor"]:
+            if available > 0:
+                auto.append(Change(listing.item_id, size, new_available=0))
+            proposals.append((listing.item_id, size, price, need,
+                              f"cost ${src.cost:.0f} at {src.source}; at ${price:.2f} net is ${net_now:.0f}"))
+        elif available == 0 and enough_sources:
+            auto.append(Change(listing.item_id, size, new_available=1))
+            notes.append(f"{size or '-'}: relisted (net ${net_now:.0f}, {src.source})")
+        elif available == 0 and not enough_sources:
+            notes.append(f"{size or '-'}: profitable but only {src.in_stock_sources} source(s) → kept hidden")
+    return auto, proposals, notes
+
+
+def load_approved_plans() -> list[Path]:
+    d = ROOT / "plans" / "approved"
+    return sorted(d.glob("*.csv")) if d.exists() else []
+
+
+def archive_plan(p: Path) -> None:
+    done = ROOT / "plans" / "done"
+    done.mkdir(parents=True, exist_ok=True)
+    shutil.move(str(p), done / p.name)
+
+
+def run(live: bool) -> str:
+    from bot.cli import read_plan
+    from bot.ebay.auth import access_token
+    from bot.ebay.trading import get_active_item_ids, get_item, revise
+
+    cfg = load_config()
+    live = live and not cfg.get("dry_run", True)
+    token = access_token()
+    sources = load_sources()
+    ignore = set(map(str, cfg.get("sync", {}).get("ignore_items", [])))
+    lines, props = [], []
+
+    # 1) approved plans first (e.g. price raises Rafael said yes to)
+    for plan in load_approved_plans():
+        for item_id, changes in read_plan(plan).items():
+            listing = get_item(item_id, token)
+            if live:
+                revise(listing, changes, token, cfg["listing"]["quantity_per_size"])
+            lines.append(f"{'Applied' if live else 'Would apply'} {plan.name}: {item_id} ({len(changes)} sizes)")
+        if live:
+            archive_plan(plan)
+
+    # 2) sync every active listing
+    for item_id in get_active_item_ids(token):
+        if item_id in ignore:
+            continue
+        listing = get_item(item_id, token)
+        auto, proposals, notes = decide(listing, sources, cfg)
+        if auto and live:
+            revise(listing, auto, token, cfg["listing"]["quantity_per_size"])
+        if notes or auto:
+            lines.append(f"{listing.title[:40]} ({item_id}): " + "; ".join(notes or [f"{len(auto)} size(s) hidden"]))
+        for p in proposals:
+            props.append(f"{listing.title[:35]} size {p[1] or '-'}: ${p[2]:.2f} → ${p[3]:.2f} ({p[4]})")
+
+    mode = "LIVE" if live else "DRY RUN"
+    msg = [f"🛍 eBay sync ({mode})"]
+    msg += lines or ["No changes needed."]
+    if props:
+        msg += ["", "Needs your OK — raise these (they're hidden until then):"] + props
+    return "\n".join(msg)

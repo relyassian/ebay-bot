@@ -46,8 +46,8 @@ StockX (official API, M2) → Cettire (needs a headless browser: prices load via
 - New listings (M3) may use the Inventory API or the Trading API; decide in M3.
 - The browser-driving assistant can't press Save on eBay, so everything goes through the API or a Seller Hub upload CSV.
 
-## Existing store (seller `rafaelelyassian`, Sept 2026)
-21 active listings: Gucci Ace/Tennis/loafer, D&G New Roma/Tropez/Portofino, Ferragamo moccasins and cufflinks, one AirPods Max (Rafael's own item; ignore). 146 feedback at 100%. Titles use about half of the 80 characters and lack style codes. The bot adopts these listings (keeping their watchers) rather than recreating them. Sept 30 audit: several were underwater at their old prices. Prices were raised to clear the floor, and brown Ferragamo and black D&G Tropez have no source at all.
+## Existing store
+The bot adopts listings that already exist on the seller account (keeping watchers and sales history) instead of recreating them, and ignores items listed in `config.yaml` → `sync.ignore_items`. Legacy listings get the same checks as new ones.
 
 ## Alerts
 Telegram first (instant setup), WhatsApp Business Cloud API later (needs Meta-approved templates). Alert on every Tier A/B opportunity, sales, offers needing a decision, paused listings, and adapter failures. Daily summary. "PAUSE" / "RESUME" kill switch.
@@ -62,8 +62,15 @@ Google Sheet dashboard (read-only) each run · bookkeeping per order (sale, fees
 Python, single repo · GitHub Actions cron (no server) · Supabase Postgres (`db/schema.sql`) · secrets in `.env` / GitHub secrets, never committed.
 
 ## Milestones (each: tests pass → commit → next)
-- **M1 (built; not yet run against live eBay)**: config, schema, alerts, eBay Trading API client (read + revise price/qty per size), plan-apply CLI, GitHub Actions dry run.
+- **M1**: config, schema, alerts, eBay Trading API client (read + revise price/qty per size), plan-apply CLI, GitHub Actions dry run.
 - **M2**: StockX adapter + size mapping + comps + profit calc + opportunity alerts + dashboard. Re-verify all legacy listings first.
 - **M3**: new listings with catalog photos and full item specifics; improve legacy titles. Launch mode.
 - **M4**: automatic sync (reprice, decay, zero out, relist sold sizes) + sale alerts.
+
+## How the pieces run
+- `daily-sync` workflow: applies `plans/approved/*.csv`, then fixes every listing against `data/source_prices.csv` (hide unsourceable sizes, relist sold sizes that are sourceable again, propose raises for underwater sizes).
+- `sale-alerts` workflow (every 30 min): new order → Telegram message with what to buy, where, and the exact ship-to address.
+- `connect-ebay` workflow: one-time eBay approval; stores the refresh token as a repo secret.
+- The repo variable `LIVE=true` is the on/off switch for writing to eBay.
+- Until source adapters exist, `data/source_prices.csv` is maintained by a daily research task.
 - **M5**: Cettire, GOAT, other stores; promo inbox; tracking ingest.

@@ -1,0 +1,48 @@
+name: connect-ebay
+# Step 1: run with the box EMPTY → open the job summary → click the eBay link → sign in → Agree.
+# Step 2: copy the code from the page you land on (after "code=" up to "&"), run again with it pasted.
+#         The refresh token is saved straight into the repo's secrets. It is never shown anywhere.
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "Leave empty the first time. Second time: paste the code from eBay's page."
+        required: false
+jobs:
+  connect:
+    runs-on: ubuntu-latest
+    env:
+      EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+      EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+      EBAY_RUNAME: ${{ secrets.EBAY_RUNAME }}
+      GH_TOKEN: ${{ secrets.GH_PAT }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: Show eBay approval link
+        if: ${{ inputs.code == '' }}
+        run: |
+          echo "### Click to connect eBay" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "[Approve the bot on eBay]($(python -m bot.cli auth-url))" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Then copy the code from the page's address (after code= up to &) and run this workflow again with it. The code expires in about 5 minutes." >> $GITHUB_STEP_SUMMARY
+      - name: Save refresh token as a secret
+        if: ${{ inputs.code != '' }}
+        env:
+          CODE: ${{ inputs.code }}
+        run: |
+          python - <<'PY'
+          import os, subprocess, urllib.parse
+          from bot.ebay.auth import exchange_code
+          body = exchange_code(urllib.parse.unquote(os.environ["CODE"].strip()))
+          subprocess.run(["gh", "secret", "set", "EBAY_REFRESH_TOKEN", "--repo", os.environ["GITHUB_REPOSITORY"]],
+                         input=body["refresh_token"].encode(), check=True)
+          print("Saved EBAY_REFRESH_TOKEN (valid ~%d days)" % (int(body.get("refresh_token_expires_in", 0)) // 86400))
+          PY
+      - name: Confirm on Telegram
+        if: ${{ inputs.code != '' && env.TELEGRAM_BOT_TOKEN != '' }}
+        run: python -m bot.cli alert-test
