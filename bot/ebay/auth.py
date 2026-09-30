@@ -49,7 +49,9 @@ def exchange_code(code: str) -> dict:
         data={"grant_type": "authorization_code", "code": code, "redirect_uri": secret("EBAY_RUNAME")},
         timeout=30,
     )
-    r.raise_for_status()
+    if r.status_code != 200:
+        raise RuntimeError(f"eBay rejected the code ({r.status_code}): {r.text[:300]} — codes work once and "
+                           "expire in ~5 minutes; approve again and paste the NEW code.")
     return r.json()  # contains refresh_token + refresh_token_expires_in
 
 
