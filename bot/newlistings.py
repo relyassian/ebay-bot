@@ -42,7 +42,15 @@ def drafts() -> list[str]:
         ok, msgs = verify_add(build_add_xml(d, profiles, postal), token)
         if not ok:
             state[cid] = {"status": "invalid", "errors": msgs[:5]}
+            if cid.startswith("test-"):
+                out.append(f"🧪 Test draft {cid}: eBay found problems (nothing was listed):\n" + "\n".join(msgs[:5]))
+                continue
             out.append(f"⚠️ {cid}: eBay rejected the draft:\n" + "\n".join(msgs[:5]))
+            continue
+        if cid.startswith("test-"):              # verification-only drafts: never offered for approval
+            state[cid] = {"status": "tested", "ok": True, "notes": msgs[:3]}
+            out.append(f"🧪 Test draft {cid}: eBay accepted it (nothing was listed). {len(d.sizes)} sizes. "
+                       + ("Notes: " + "; ".join(msgs[:3]) if msgs else ""))
             continue
         state[cid] = {"status": "sent"}
         out.append(draft_message(d) + ("\n\n(eBay notes: " + "; ".join(msgs[:3]) + ")" if msgs else ""))
