@@ -235,11 +235,12 @@ def _inline_terms(item: ET.Element) -> str:
                 continue
             free = t(o, "e:FreeShipping").lower() == "true"
             cost = t(o, "e:ShippingServiceCost") or "0.0"
+            calculated = (t(sd, "e:ShippingType") or "Flat").startswith("Calculated")
+            price_xml = ("<FreeShipping>true</FreeShipping>" if free else "") + (
+                "" if calculated else f"<ShippingServiceCost>{escape('0.0' if free else cost)}</ShippingServiceCost>")
             opts.append(f"<ShippingServiceOptions><ShippingServicePriority>{t(o, 'e:ShippingServicePriority') or len(opts)+1}"
-                        f"</ShippingServicePriority><ShippingService>{escape(svc)}</ShippingService>"
-                        + ("<FreeShipping>true</FreeShipping><ShippingServiceCost>0.0</ShippingServiceCost>" if free
-                           else f"<ShippingServiceCost>{escape(cost)}</ShippingServiceCost>")
-                        + "</ShippingServiceOptions>")
+                        f"</ShippingServicePriority><ShippingService>{escape(svc)}</ShippingService>{price_xml}"
+                        "</ShippingServiceOptions>")
         stype = t(sd, "e:ShippingType") or "Flat"
         parts.append(f"<ShippingDetails><ShippingType>{escape(stype)}</ShippingType>{''.join(opts)}</ShippingDetails>")
     pkg = item.find("e:ShippingPackageDetails", NS)
