@@ -205,7 +205,7 @@ def run(live: bool) -> list:
     newest = max((x.checked_at for x in sources.values() if x.checked_at), default=None)
     age_h = (datetime.now(timezone.utc) - newest).total_seconds() / 3600 if newest else None
     if age_h is None or age_h > 20:
-        msgs[0] += ("\n\n⚠️ Store prices weren't refreshed this morning (the research on your Mac didn't run: "
-                    "Mac asleep, offline, or the Claude app closed). Listings stay as they were; a backup run "
-                    "tries again at 10am. Nothing is relisted until stock is confirmed.")
+        msgs[0] += ("\n\n⚠️ Store prices haven't been refreshed yet today. Either the morning research is still running "
+                    "(you'll get an updated report when it finishes) or it couldn't reach your Mac. Listings stay as "
+                    "they were, a backup run tries again at 10am, and nothing is relisted until stock is confirmed.")
     return msgs
