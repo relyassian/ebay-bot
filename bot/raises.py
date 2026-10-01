@@ -71,7 +71,7 @@ def answer(code: str, approve: bool, live: bool) -> list[str]:
             relist = [a for a in auto if a.size == r["size"] and a.new_available == 1]
             if relist:
                 revise(listing, relist, token, cfg["listing"]["quantity_per_size"])
-            status = "back on sale" if relist else "still off sale (fewer than 2 stores have it right now)"
+            status = "back on sale" if relist else "still off sale (no store has it in stock right now)"
             out.append(f"✅ {c}: {short_name(listing.title)} US {r['size']} is now ${r['new']:.2f}, {status}.")
         else:
             out.append(f"(test mode) {c}: would raise {short_name(listing.title)} US {r['size']} to ${r['new']:.2f}.")

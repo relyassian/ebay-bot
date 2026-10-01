@@ -4,7 +4,9 @@ from bot.config import load_config
 from bot.ebay.trading import Listing, Variation
 from bot.sync import Source, decide
 
-CFG = load_config()
+import copy
+CFG = copy.deepcopy(load_config())
+CFG.setdefault('sync', {})['allow_single_source'] = False   # tests pin the strict 2-store rule
 NOW = datetime(2026, 10, 1, 12, tzinfo=timezone.utc)
 S = "US Shoe Size"
 
@@ -51,3 +53,9 @@ def test_stale_data_does_not_relist():
 def test_no_data_leaves_live_size_alone():
     auto, props, _ = decide(lst(("9", 899.99, 1, 0)), {}, CFG, NOW)
     assert not auto and not props
+
+
+def test_single_source_relists_when_allowed():
+    cfg = copy.deepcopy(CFG); cfg["sync"]["allow_single_source"] = True
+    auto, _, _ = decide(lst(("9", 899.99, 1, 1)), {("1", "9"): src(450, n=1)}, cfg, NOW)
+    assert avail(auto) == {"9": 1}

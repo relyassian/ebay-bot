@@ -7,7 +7,7 @@
 1. **Profit floor $100 net per item; target $250.** Tier A ≥ $250 (top-priority alert), Tier B $100–249, under $100 = don't list.
 2. **Net profit** = eBay price × (1 − 0.136 fees − promoted rate − 0.01 buffer) − landed cost − reship cost.
    **Landed cost** = source price − promo + shipping (default $20) + NJ sales tax 6.625% (items ship to eBay's NJ authenticator) + 10% duty if shipped from overseas. Cashback never counts until proven paid. All numbers live in `config.yaml`.
-3. **Never cause a cancellation.** A size is live only if ≥ 2 stores have it in stock at a price that clears the floor (or 1 store marked `reliable`). Out-of-stock cancellations were Rafael's biggest past problem.
+3. **Never cause a cancellation.** A size is live only if a store has it in stock at a price that clears the floor. Rafael (Oct 1) chose to allow a single store (`sync.allow_single_source: true`) and accepts that risk; stock is still re-checked daily and sizes with no store are hidden. Out-of-stock cancellations were Rafael's biggest past problem.
 4. **New items only**: new with box. No used, worn, B-grade, sample, or damaged box.
 5. **Quantity 1 per size, always.** When a size sells, relist it at 1 only if it's still sourceable at a profit.
 6. **Accuracy**: size, width, colorway, style code, and condition must match the source exactly. Identify products by **style code**, never by name, but **never show the style code on eBay** (title, description or item specifics; Rafael, Oct 1: makes price comparison harder). Codes live only in the bot's data files. Only fill item specifics that are verifiably true.

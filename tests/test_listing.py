@@ -1,7 +1,9 @@
 from bot.config import load_config
 from bot.listing import build_add_xml, build_title, make_draft
 
-CFG = load_config()
+import copy
+CFG = copy.deepcopy(load_config())
+CFG.setdefault('sync', {})['allow_single_source'] = False   # tests pin the strict 2-store rule
 
 CAND = {
     "id": "dg-new-roma-black", "brand": "Dolce & Gabbana", "model": "New Roma", "colorway": "Black",

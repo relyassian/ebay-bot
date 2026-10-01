@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "37 11 * * 0-5"   # backup only: GitHub's cron has not fired on this repo; the sale-alerts chain starts this at 7:37 NY
   push:
-    paths: ["data/source_prices.csv", "plans/approved/**", "data/candidates/**"]
+    paths: ["data/source_prices.csv", "plans/approved/**", "data/candidates/**", "config.yaml"]
   workflow_dispatch: {}
 permissions:
   contents: write

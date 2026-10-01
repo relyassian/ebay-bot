@@ -43,7 +43,7 @@ def today() -> str:
 
 
 WHY = {
-    "relisted": ("✅ BACK ON SALE", "A store has it in stock again at a price that still makes you $100+."),
+    "relisted": ("✅ BACK ON SALE", "A store has it in stock at a price that still makes you $100+."),
     "hidden": ("🚫 TAKEN OFF SALE", "No store has it in stock right now, so if it sold you'd have to cancel. "
                                    "It comes back on sale by itself when a store restocks."),
     "waiting": ("⏳ KEPT OFF SALE", "It would make money, but only 1 store has it. I wait for a 2nd store so a sale "
