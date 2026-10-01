@@ -1,9 +1,7 @@
 name: sale-alerts
-# Also reads Rafael's Telegram replies (APPROVE/SKIP/PAUSE/RESUME) and lists approved drafts.
-# New order → Telegram alert with what to buy, where, and the exact ship-to address (eVTN).
+# Always-on loop: each run answers Telegram within seconds and checks sales every 10 min for ~25 min,
+# then starts the next run. daily-sync restarts the chain if it ever stops; touch requests/sales to start it.
 on:
-  schedule:
-    - cron: "7,37 * * * *"   # every 30 min, off the :00/:30 marks GitHub drops under load; fits free minutes
   workflow_dispatch: {}
   push:
     paths: ["requests/sales"]   # touch this file to (re)start the chain
@@ -22,25 +20,21 @@ jobs:
       EBAY_REFRESH_TOKEN: ${{ secrets.EBAY_REFRESH_TOKEN }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
         uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
+      - name: Answer Telegram within seconds + check sales every 10 min, for ~25 min
+        if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
         run: |
-          pip install -r requirements.txt
-          python -m bot.cli sales
-          python -m bot.cli inbox ${{ vars.LIVE == 'true' && '--live' || '' }}
-      - name: Save seen orders
-        run: |
+          pip install -q -r requirements.txt
           git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"
-          git add data 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "bot: sales/inbox state" && git pull --rebase && git push)
-      - name: Start the next check in ~30 minutes (self-chaining; cron above is only a backup)
+          python -m bot.cli listen --minutes 25 ${{ vars.LIVE == 'true' && '--live' || '' }}
+      - name: Start the next run right away (self-chaining)
         if: ${{ always() }}
         env: {GH_TOKEN: "${{ github.token }}"}
         run: |
-          sleep 1500
           busy=$(gh run list -R "$GITHUB_REPOSITORY" -w sales.yml -s queued --json databaseId -q 'length')
           [ "${busy:-0}" = "0" ] && gh workflow run sales.yml -R "$GITHUB_REPOSITORY" || echo "next run already queued"

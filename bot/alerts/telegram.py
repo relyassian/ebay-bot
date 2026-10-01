@@ -30,12 +30,22 @@ def _chat_id(token: str) -> str:
     raise RuntimeError("Telegram: send your bot any message first so it knows where to reach you.")
 
 
-def send(text: str) -> None:
+def send(text: "str | dict") -> None:
+    """Plain text, or {"text": ..., "photo": url} → a picture card (falls back to text if the photo fails)."""
     token = secret("TELEGRAM_BOT_TOKEN")
+    chat = _chat_id(token)
+    if isinstance(text, dict):
+        photo, body = text.get("photo"), text["text"]
+        if photo and len(body) <= 1024:
+            r = requests.post(f"https://api.telegram.org/bot{token}/sendPhoto",
+                              json={"chat_id": chat, "photo": photo, "caption": body}, timeout=30)
+            if r.ok:
+                return
+        text = body
     for chunk in [text[i:i + 3900] for i in range(0, len(text), 3900)] or [""]:
         r = requests.post(
             f"https://api.telegram.org/bot{token}/sendMessage",
-            json={"chat_id": _chat_id(token), "text": chunk, "disable_web_page_preview": True},
+            json={"chat_id": chat, "text": chunk, "disable_web_page_preview": True},
             timeout=20,
         )
         r.raise_for_status()

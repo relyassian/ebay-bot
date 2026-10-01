@@ -46,6 +46,11 @@ class Listing:
     quantity: int | None
     sold: int | None
     variations: list[Variation] = field(default_factory=list)
+    photo: str | None = None                   # first listing photo (for Telegram cards)
+
+    @property
+    def url(self) -> str:
+        return f"https://www.ebay.com/itm/{self.item_id}"
 
 
 @dataclass
@@ -96,6 +101,7 @@ def parse_item(root: ET.Element) -> Listing:
         quantity=None if has_vars else int(num(item, "e:Quantity") or 0),
         sold=None if has_vars else int(num(item, "e:SellingStatus/e:QuantitySold") or 0),
         variations=variations,
+        photo=item.findtext("e:PictureDetails/e:PictureURL", namespaces=NS),
     )
 
 

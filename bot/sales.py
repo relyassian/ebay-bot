@@ -15,7 +15,9 @@ def run() -> list[str]:
     seen = set(SEEN.read_text().split()) if SEEN.exists() else set()
     sources = load_sources()
     alerts, new_keys = [], []
-    for s in get_recent_sales(access_token()):
+    from bot.ebay.trading import get_item
+    token = access_token()
+    for s in get_recent_sales(token):
         key = f"{s.order_id}:{s.item_id}:{s.size}"
         if key in seen:
             continue
@@ -34,10 +36,18 @@ def run() -> list[str]:
         ship = "2. Ship it to this address (copy exactly):\n" + "\n".join(s.ship_to)
         warn = ("\n\n⚠️ Put the line starting with evtn on address line 2. Ship direct from every store, "
                 "GOAT included, even if its form shortens that line." if evtn else "")
-        alerts.append(f"💰 SOLD for ${s.price:.2f}: {name}, US {s.size or '-'}\n\n{buy}\n\n{ship}{warn}")
+        try:
+            photo = get_item(s.item_id, token).photo
+        except Exception:
+            photo = None
+        text = (f"💰 SOLD for ${s.price:.2f}: {name}, US {s.size or '-'}\nOrder {s.order_id}\n\n{buy}\n\n{ship}{warn}"
+                f"\n\nListing: https://www.ebay.com/itm/{s.item_id}")
+        if photo:
+            alerts.append({"photo": photo, "text": f"💰 Sold: {name}, US {s.size or '-'} (details next)"})
+        alerts.append(text)
         new_keys.append(key)
     if new_keys:
         SEEN.parent.mkdir(exist_ok=True)
         with SEEN.open("a") as f:
             f.write("\n".join(new_keys) + "\n")
-    return alerts
+    return [a for a in alerts if a]

@@ -13,14 +13,19 @@ def test_sizes_text():
 
 
 def test_report_quiet_day():
-    msg = sync_report(True, [], {}, [], 20)
-    assert "nothing for you to do" in msg and "LIVE" not in msg
+    msgs = sync_report(True, [], {}, [], 20)
+    assert len(msgs) == 1 and "Nothing for you to do" in msgs[0] and "20 listings" in msgs[0]
 
 
-def test_report_puts_raises_first():
-    r = [{"code": "R1", "name": "Gucci Ace", "size": "9", "old": 699.99, "new": 749.99, "store": "END", "cost": 450}]
-    msg = sync_report(True, [], {"hidden": [("D&G Tropez", ["6", "7"], 13, "")]}, r, 20)
-    assert msg.index("NEEDS YOU") < msg.index("Taken off sale") and "APPROVE R1" in msg
+def test_report_cards_with_photo_link_and_why():
+    r = [{"code": "R1", "name": "Gucci Ace", "size": "9", "old": 699.99, "new": 749.99, "store": "END", "cost": 450,
+          "photo": "https://i.ebayimg.com/p.jpg", "url": "https://www.ebay.com/itm/1"}]
+    g = {"hidden": [("D&G Tropez", ["6", "7"], 13, "", "https://i.ebayimg.com/t.jpg", "https://www.ebay.com/itm/2")]}
+    msgs = sync_report(True, [], g, r, 20)
+    assert "1 thing to answer" in msgs[0]
+    assert msgs[1]["photo"] and "yes R1" in msgs[1]["text"]          # what needs him comes first
+    assert "TAKEN OFF SALE" in msgs[2]["text"] and "Why:" in msgs[2]["text"] and "itm/2" in msgs[2]["text"]
+    assert all(len(m["text"]) <= 1024 for m in msgs[1:])              # fits a photo caption
 
 
 def test_raise_codes_stable(tmp_path, monkeypatch):

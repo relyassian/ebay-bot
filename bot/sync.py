@@ -141,7 +141,7 @@ def archive_plan(p: Path) -> None:
     shutil.move(str(p), done / p.name)
 
 
-def run(live: bool) -> str:
+def run(live: bool) -> list:
     from bot.cli import read_plan
     from bot.ebay.auth import access_token
     from bot.ebay.trading import build_revise_xml, get_active_item_ids, get_item, revise
@@ -152,7 +152,7 @@ def run(live: bool) -> str:
     cfg = load_config()
     live = live and not cfg.get("dry_run", True)
     if PAUSE_FLAG.exists():
-        return "⏸ Bot is paused, so no listing changes were made. Send RESUME to turn it back on."
+        return ["⏸ Bot is paused, so no listing changes were made. Send RESUME to turn it back on."]
     token = access_token()
     sources = load_sources()
     ignore = set(map(str, cfg.get("sync", {}).get("ignore_items", [])))
@@ -195,10 +195,10 @@ def run(live: bool) -> str:
                 nets = [r[2] for r in rows]
                 extra = (f"you'd make ${min(nets):.0f}" if min(nets) == max(nets)
                          else f"you'd make ${min(nets):.0f}–${max(nets):.0f}")
-            groups.setdefault(kind, []).append((name, [r[1] for r in rows], total, extra))
+            groups.setdefault(kind, []).append((name, [r[1] for r in rows], total, extra, listing.photo, listing.url))
         for p in proposals:
             props.append({"item_id": item_id, "size": p[1], "old": p[2], "new": p[3], "name": name,
-                          "store": p[5], "cost": p[6]})
+                          "store": p[5], "cost": p[6], "photo": listing.photo, "url": listing.url})
 
     raises = save_proposals(props)
     return sync_report(live, applied, groups, raises, checked)

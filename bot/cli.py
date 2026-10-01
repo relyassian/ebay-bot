@@ -123,6 +123,8 @@ def main(argv=None) -> int:
     sy = sub.add_parser("sync"); sy.add_argument("--live", action="store_true")
     sub.add_parser("sales")
     sub.add_parser("drafts")
+    sub.add_parser("demo")
+    pl = sub.add_parser("listen"); pl.add_argument("--minutes", type=int, default=25); pl.add_argument("--live", action="store_true")
     sub.add_parser("legacy-plan")
     sub.add_parser("snapshot")
     pb = sub.add_parser("inbox"); pb.add_argument("--live", action="store_true")
@@ -141,6 +143,12 @@ def main(argv=None) -> int:
         return cmd_show(args)
     if args.cmd == "apply":
         return cmd_apply(args)
+    if args.cmd == "demo":
+        from bot.demo import run as demo
+        demo(); return 0
+    if args.cmd == "listen":
+        from bot.listen import run as listen
+        listen(args.minutes, args.live); return 0
     if args.cmd == "legacy-plan":
         from bot.legacy import make_plan
         print(make_plan()); return 0
@@ -150,7 +158,9 @@ def main(argv=None) -> int:
     if args.cmd == "sync":
         from bot.alerts import send
         from bot.sync import run
-        report = run(args.live); print(report); send(report); return 0
+        for m in run(args.live):
+            print(m); send(m)
+        return 0
     if args.cmd == "sales":
         from bot.alerts import send
         from bot.sales import run

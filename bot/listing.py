@@ -301,5 +301,6 @@ def draft_message(d: Draft) -> str:
         lines.append(f"US {s.us}: sell ${s.price:.2f} · make ${s.net:.0f} · buy {s.source} ${s.cost:.0f}")
     if d.skipped:
         lines += ["", "Left out (not safe or not profitable): " + "; ".join(d.skipped)]
-    lines += ["", f"Reply APPROVE {d.id} to list it, or SKIP {d.id}."]
-    return "\n".join(lines)
+    lines += ["", f"Reply \"yes {d.id}\" to list it, or \"no {d.id}\" (or just tell me in your own words)."]
+    text = "\n".join(lines)
+    return {"photo": d.photos[0], "text": text} if d.photos and len(text) <= 1024 else text
