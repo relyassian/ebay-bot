@@ -13,6 +13,7 @@ goat:
   ships_from: US
   return_policy_days: 0
   eVTN_ok: false            # truncated "evtn:l227ktv" to "# L227" (Sept 2026)
+  ship_direct_anyway: true  # Rafael's call (Sept 30): ship GOAT orders straight to the authenticator, no forwarding
   reliable: false
   status: planned_M5
 cettire:

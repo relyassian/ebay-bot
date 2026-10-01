@@ -33,7 +33,7 @@
 
 ## Fulfillment
 - All luxury shoes on Rafael's account go through **eBay Authenticity Guarantee** (sneakers and loafers). Ship to the authenticator address with the **eVTN on address line 2**. Accessories (e.g. cufflinks) don't.
-- GOAT's checkout truncates line 2 (`evtn:l227ktv` → `# L227`). For stores that do this, the sale alert says to ship to Rafael and forward.
+- GOAT's checkout truncates line 2 (`evtn:l227ktv` → `# L227`). Rafael's decision: ship direct from GOAT anyway (no forwarding, no reship cost).
 - Sale alert: order #, US + native size to buy, cheapest in-stock store + link, best promo code, exact address to paste, eVTN warning if needed.
 - Add tracking to eBay only when a real tracking number exists. Parse store shipping emails for tracking automatically.
 

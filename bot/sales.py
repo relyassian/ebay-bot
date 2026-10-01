@@ -27,8 +27,8 @@ def run() -> list[str]:
         else:
             buy = f"1. Buy US {s.size or '-'}: ⚠️ no store on file. Check the stores now."
         ship = "2. Ship it to this address (copy exactly):\n" + "\n".join(s.ship_to)
-        warn = ("\n\n⚠️ The line starting with evtn must be address line 2. If the store's form cuts it "
-                "short (GOAT does), ship to yourself and forward it." if evtn else "")
+        warn = ("\n\n⚠️ Put the line starting with evtn on address line 2. Ship direct from every store, "
+                "GOAT included, even if its form shortens that line." if evtn else "")
         alerts.append(f"💰 SOLD for ${s.price:.2f}: {name}, US {s.size or '-'}\n\n{buy}\n\n{ship}{warn}")
         new_keys.append(key)
     if new_keys:
