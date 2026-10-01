@@ -15,7 +15,7 @@ import requests
 
 from bot.config import ROOT, secret
 
-MODEL = "claude-sonnet-5-5"
+MODEL = "claude-haiku-4-5-20251001"   # cheapest Claude model: about half a cent per reply with this compact state
 REQUESTS = ROOT / "data" / "rafael_requests.txt"   # read by the daily research task
 HISTORY = ROOT / "data" / "chat_history.json"
 
@@ -47,24 +47,30 @@ TOOLS = [
 
 
 def _state() -> str:
+    """Compact on purpose (cost scales with size): one line per listing + what's waiting."""
+    import csv
     from bot.listing import PAUSE_FLAG, load_state
     from bot.raises import pending
-    snap = []
-    p = ROOT / "data" / "snapshot.json"
+    from bot.report import short_name
+    stock: dict[str, list] = {}
+    p = ROOT / "data" / "source_prices.csv"
     if p.exists():
-        for x in json.loads(p.read_text()):
-            snap.append({"item_id": x["item_id"], "title": x["title"], "price": x.get("price"),
-                         "sizes": [next(iter(s.values())) for s in x.get("sizes", []) if s],
-                         "url": f"https://www.ebay.com/itm/{x['item_id']}"})
-    sources = (ROOT / "data" / "source_prices.csv").read_text()[:6000] if (ROOT / "data" / "source_prices.csv").exists() else ""
-    return json.dumps({
-        "now_utc": datetime.now(timezone.utc).isoformat(timespec="minutes"),
-        "paused": PAUSE_FLAG.exists(),
-        "price_raises_waiting": pending(),
-        "new_listing_drafts": load_state(),
-        "listings_snapshot (may be a day old; sizes listed are all sizes on the listing, not just in-stock)": snap,
-        "store_prices_csv (cost blank = no store has it)": sources,
-    }, default=str)[:60000]
+        for r in csv.DictReader(p.open()):
+            stock.setdefault(r["item_id"], []).append(r)
+    lines = []
+    snap = ROOT / "data" / "snapshot.json"
+    for x in (json.loads(snap.read_text()) if snap.exists() else []):
+        rows = stock.get(x["item_id"], [])
+        buyable = [r["size"] or "one size" for r in rows if (r.get("cost") or "").strip()]
+        src = (f"buyable sizes: {', '.join(buyable)}" if buyable
+               else "no store has it (off sale)" if rows else "no store data yet")
+        lines.append(f"{short_name(x['title'], 60)} | ${x.get('price') or '?'} | {src} | https://www.ebay.com/itm/{x['item_id']}")
+    drafts = {k: v.get("status") for k, v in load_state().items()}
+    return "\n".join([f"now (UTC): {datetime.now(timezone.utc):%Y-%m-%d %H:%M}",
+                      f"paused: {PAUSE_FLAG.exists()}",
+                      f"price raises waiting: {json.dumps({c: {k: r[k] for k in ('name', 'size', 'old', 'new')} for c, r in pending().items()})}",
+                      f"new listing drafts: {json.dumps(drafts)}",
+                      "listings (title | price | store stock | link):"] + lines)
 
 
 def _run_tool(name: str, args: dict, live: bool) -> str:
@@ -91,13 +97,13 @@ def reply(text: str, live: bool) -> str:
     if not key:
         return ("I only understand commands right now: yes R1 / no R1, yes <draft>, STATUS, PAUSE, RESUME. "
                 "(Free-text chat turns on once the ANTHROPIC_API_KEY secret is added.)")
-    history = json.loads(HISTORY.read_text())[-10:] if HISTORY.exists() else []
+    history = json.loads(HISTORY.read_text())[-6:] if HISTORY.exists() else []
     messages = history + [{"role": "user", "content": text}]
     system = SYSTEM + "\n\nSTATE:\n" + _state()
     for _ in range(4):                                # a few tool rounds at most
         r = requests.post("https://api.anthropic.com/v1/messages", timeout=90, headers={
             "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
-            json={"model": MODEL, "max_tokens": 800, "system": system, "tools": TOOLS, "messages": messages})
+            json={"model": MODEL, "max_tokens": 400, "system": system, "tools": TOOLS, "messages": messages})
         r.raise_for_status()
         body = r.json()
         messages.append({"role": "assistant", "content": body["content"]})
