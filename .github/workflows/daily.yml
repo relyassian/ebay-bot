@@ -3,7 +3,7 @@ name: daily-sync
 # Runs after the 7:00am research task, and whenever source prices or approved plans are pushed.
 on:
   schedule:
-    - cron: "37 11 * * 0-5"   # 07:37 New York (daylight time); off the half-hour so GitHub does not skip it
+    - cron: "37 11 * * 0-5"   # backup only: GitHub's cron has not fired on this repo; the sale-alerts chain starts this at 7:37 NY
   push:
     paths: ["data/source_prices.csv", "plans/approved/**", "data/candidates/**"]
   workflow_dispatch: {}
@@ -39,6 +39,7 @@ jobs:
         run: python -m bot.cli drafts
       - name: Save state
         run: |
+          TZ=America/New_York date +%F > data/last_daily_run.txt
           git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"
           git add -A plans data || true
           git diff --cached --quiet || (git commit -m "bot: sync state" && git pull --rebase && git push)
