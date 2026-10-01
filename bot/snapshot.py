@@ -29,7 +29,15 @@ def run() -> int:
             "category_name": t("e:PrimaryCategory/e:CategoryName"), "condition": t("e:ConditionDisplayName"),
             "sku": t("e:SKU"), "price": t("e:StartPrice"), "specifics": specifics, "sizes": sizes,
             "photos": [p.text for p in it.findall("e:PictureDetails/e:PictureURL", NS)],
-            "description": (t("e:Description") or "")[:4000],
+            "description": (t("e:Description") or ""),
+            "dispatch_days": t("e:DispatchTimeMax"),
+            "shipping_type": t("e:ShippingDetails/e:ShippingType"),
+            "ship_costs": [c.text for c in it.findall("e:ShippingDetails/e:ShippingServiceOptions/e:ShippingServiceCost", NS)],
+            "free_shipping": [c.text for c in it.findall("e:ShippingDetails/e:ShippingServiceOptions/e:FreeShipping", NS)],
+            "returns": t("e:ReturnPolicy/e:ReturnsAcceptedOption"),
+            "profiles": {"ship": t("e:SellerProfiles/e:SellerShippingProfile/e:ShippingProfileName"),
+                         "ret": t("e:SellerProfiles/e:SellerReturnProfile/e:ReturnProfileName")},
+            "best_offer": t("e:BestOfferDetails/e:BestOfferEnabled"),
             "product_ref": t("e:ProductListingDetails/e:ProductReferenceID"),
             "sold_total": sum(int(v.findtext("e:SellingStatus/e:QuantitySold", namespaces=NS) or 0)
                               for v in it.findall("e:Variations/e:Variation", NS))
