@@ -18,7 +18,7 @@ CAND = {
 
 def test_title_fits_and_has_style_code():
     t = build_title(CAND)
-    assert len(t) <= 80 and "CS2036A1065 80999" in t and t.startswith("Dolce & Gabbana New Roma")
+    assert len(t) <= 80 and "CS2036A1065" not in t and t.startswith("Dolce & Gabbana New Roma")
 
 
 def test_title_trims_when_too_long():
@@ -73,3 +73,9 @@ def test_best_offer_only_on_big_margin_single_items():
     small = dict(big, price=399.99)
     assert "BestOffer" not in build_add_xml(make_draft(small, CFG), "<SellerProfiles/>", "11023", None)
     assert "BestOffer" not in build_add_xml(make_draft(CAND, CFG), "<SellerProfiles/>", "11023")
+
+
+def test_style_code_never_on_listing():
+    d = make_draft(CAND, CFG)
+    xml = build_add_xml(d, "<SellerProfiles/>", "11023")
+    assert "CS2036A1065" not in xml

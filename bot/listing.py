@@ -90,10 +90,10 @@ TITLE_BRAND = {"Salvatore Ferragamo": "Ferragamo"}
 
 
 def build_title(c: dict) -> str:
-    """Brand Model Colour StyleCode Men's New (80 max). Trim order: New → Men's → short brand → model words.
-    Style code and colour are never dropped (buyers search the code)."""
+    """Brand Model Colour Men's New (80 max). Trim order: New → Men's → short brand → model words.
+    No style code (kept internal only so buyers can't easily price-compare)."""
     brand, model = c["brand"], c["model"].split()
-    tail = [c.get("colorway", ""), c.get("style_code", "")]
+    tail = [c.get("colorway", "")]          # style code never shown on eBay (Rafael, Oct 1: harder to price-compare)
     extra = [f"{c.get('department', 'Men')}'s", "New"]
     if c.get("discontinued_verified"):
         extra.insert(0, "Discontinued")
@@ -118,7 +118,6 @@ def build_specifics(c: dict) -> dict:
         "Model": c["model"],
         "Department": c.get("department", "Men"),
         "Type": TYPE.get(c["category"], "Casual"),
-        "Style Code": c.get("style_code"),
         "Color": c.get("color") or c.get("colorway"),
         "Upper Material": c.get("upper_material"),
         "Product Line": c.get("product_line"),
@@ -156,7 +155,7 @@ def build_description(c: dict, sizes: list[SizeLine]) -> str:
     box = "original box" if shoe else "original packaging"
     badges = ["Brand new", f"With {box}"] + (["eBay Authenticity Guarantee"] if shoe else []) + ["Free shipping"]
     details = [("Brand", c["brand"]), ("Model", c["model"]), ("Colour", c.get("colorway") or c.get("color")),
-               ("Style code", c.get("style_code")), ("Material", c.get("upper_material")),
+("Material", c.get("upper_material")),
                ("Made in", c.get("made_in")), ("Condition", f"New with {box}, never worn")]
     out = [f"<div style='{_CSS['wrap']}'>",
            f"<p style='{_CSS['brand']}'>{e(c['brand'])}</p>",

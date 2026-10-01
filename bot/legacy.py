@@ -30,7 +30,8 @@ def item_xml(snap: dict, c: dict) -> str:
     lines = [SizeLine(u, native(u, c["size_system"]), 0, 0, "", "", 0, "") for u in sizes]
     c = dict(c, handling_days=int(snap.get("dispatch_days") or c.get("handling_days", 3)))
     specifics = {k: list(v) for k, v in snap["specifics"].items()}
-    for name, val in (("Style Code", c.get("style_code")), ("Model", c["model"]),
+    specifics.pop("Style Code", None)          # never shown on eBay
+    for name, val in (("Model", c["model"]),
                       ("Product Line", c.get("product_line"))):
         if val:
             specifics[name] = [val]
