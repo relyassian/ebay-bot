@@ -220,6 +220,20 @@ def make_draft(c: dict, cfg: dict | None = None) -> Draft:
     return d
 
 
+def best_offer_xml(line: SizeLine, cfg: dict | None = None) -> str:
+    """Best Offer only for big-margin single items (eBay forbids it on multi-variation listings)."""
+    cfg = cfg or load_config()
+    if line.net < cfg["listing"].get("best_offer_min_net", 10**9):
+        return ""
+    landed = line.price * (1 - cfg["profit"]["ebay_fee_rate"] - cfg["profit"]["promoted_rate"]
+                           - cfg["profit"]["inad_buffer_rate"]) - line.net
+    accept = min(floor_price(landed, cfg, net_target=cfg["profit"]["target"]), line.price)
+    decline = floor_price(landed, cfg)
+    return ("<BestOfferDetails><BestOfferEnabled>true</BestOfferEnabled></BestOfferDetails>"
+            f"<ListingDetails><BestOfferAutoAcceptPrice>{accept:.2f}</BestOfferAutoAcceptPrice>"
+            f"<MinimumBestOfferPrice>{decline:.2f}</MinimumBestOfferPrice></ListingDetails>")
+
+
 def build_add_xml(d: Draft, seller_profiles_xml: str, postal_code: str, size_name: str | None = "US Shoe Size") -> str:
     specifics = "".join(f"<NameValueList><Name>{escape(k)}</Name><Value>{escape(str(v))}</Value></NameValueList>"
                         for k, v in d.specifics.items())
@@ -231,6 +245,7 @@ def build_add_xml(d: Draft, seller_profiles_xml: str, postal_code: str, size_nam
         "</NameValueList></VariationSpecifics></Variation>" for s in d.sizes)
     if size_name is None:        # one-size item (e.g. a tie): single SKU at the single line's price
         body = (f"<StartPrice>{d.sizes[0].price:.2f}</StartPrice><Quantity>1</Quantity><SKU>{escape(d.id)}</SKU>")
+        body += best_offer_xml(d.sizes[0])
     else:
         body = (f"<Variations><VariationSpecificsSet><NameValueList><Name>{escape(size_name)}</Name>{size_values}"
                 f"</NameValueList></VariationSpecificsSet>{variations}</Variations>")

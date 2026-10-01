@@ -11,7 +11,7 @@
 4. **New items only**: new with box. No used, worn, B-grade, sample, or damaged box.
 5. **Quantity 1 per size, always.** When a size sells, relist it at 1 only if it's still sourceable at a profit.
 6. **Accuracy**: size, width, colorway, style code, and condition must match the source exactly. Identify products by **style code**, never by name. Only fill item specifics that are verifiably true.
-7. **Listing terms**: no returns, free shipping, handling ≥ 3 business days (longer for slow stores), Best Offer on (auto-accept ≥ Tier A price, auto-decline below floor, anything in between → ask Rafael).
+7. **Listing terms**: no returns, free shipping, handling ≥ 3 business days (longer for slow stores), Best Offer OFF by default (Rafael, Sept 30). eBay doesn't allow Best Offer on multi-size listings, so shoes never have it. Single items (cufflinks, ties, one-size) get it only when net at the list price ≥ `listing.best_offer_min_net` ($400): auto-accept at the price that nets ≥ $250, auto-decline below the price that nets $100, anything in between → ask Rafael.
 8. **Photos**: eBay catalog photos only. No catalog photo → "needs photos" alert, don't auto-list.
 9. **"Discontinued"** in a title only when verified (brand no longer sells it and no retail stock). Save the evidence.
 10. **Never auto-buy.** The bot sends buy links; Rafael buys.

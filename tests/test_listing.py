@@ -63,3 +63,13 @@ def test_belt_uses_size_variation():
     d = make_draft(belt, CFG)
     xml = build_add_xml(d, "<SellerProfiles/>", "11023", "Size")
     assert "<Name>Size</Name>" in xml and "<CategoryID>2993</CategoryID>" in xml
+
+
+def test_best_offer_only_on_big_margin_single_items():
+    big = dict(CAND, id="cuff", category="tie", price=899.99,
+               sizes=[{"us": "One Size", "native": "", "cost": 150, "source": "X", "url": "u", "in_stock_sources": 2}])
+    xml = build_add_xml(make_draft(big, CFG), "<SellerProfiles/>", "11023", None)
+    assert "<BestOfferEnabled>true</BestOfferEnabled>" in xml and "MinimumBestOfferPrice" in xml
+    small = dict(big, price=399.99)
+    assert "BestOffer" not in build_add_xml(make_draft(small, CFG), "<SellerProfiles/>", "11023", None)
+    assert "BestOffer" not in build_add_xml(make_draft(CAND, CFG), "<SellerProfiles/>", "11023")

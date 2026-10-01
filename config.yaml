@@ -16,6 +16,7 @@ listing:
   quantity_per_size: 1        # never more than 1 per size
   handling_days_min: 3
   returns: none
+  best_offer_min_net: 400     # Best Offer only on single items netting >= this at list price (never on multi-size)
   auto_publish: false         # launch mode: new listings need Rafael's approval
   template_item_id: 355429340181   # copy business policies + location from this listing
 
