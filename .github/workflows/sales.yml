@@ -7,10 +7,12 @@ on:
   workflow_dispatch: {}
 permissions:
   contents: write
+  actions: write   # lets the job start its own next run (GitHub's cron alone proved unreliable here)
 concurrency: {group: ebay-sales, cancel-in-progress: false}
 jobs:
   sales:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     env:
       EBAY_CLIENT_ID: ${{ vars.EBAY_CLIENT_ID || secrets.EBAY_CLIENT_ID }}
       EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
@@ -33,3 +35,10 @@ jobs:
           git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"
           git add data 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "bot: sales/inbox state" && git pull --rebase && git push)
+      - name: Start the next check in ~30 minutes (self-chaining; cron above is only a backup)
+        if: ${{ always() }}
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          sleep 1500
+          busy=$(gh run list -R "$GITHUB_REPOSITORY" -w sales.yml -s queued --json databaseId -q 'length')
+          [ "${busy:-0}" = "0" ] && gh workflow run sales.yml -R "$GITHUB_REPOSITORY" || echo "next run already queued"

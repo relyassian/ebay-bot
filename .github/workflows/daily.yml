@@ -9,6 +9,7 @@ on:
   workflow_dispatch: {}
 permissions:
   contents: write
+  actions: write
 concurrency: {group: ebay-write, cancel-in-progress: false}
 jobs:
   sync:
@@ -42,3 +43,8 @@ jobs:
           git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"
           git add -A plans data || true
           git diff --cached --quiet || (git commit -m "bot: sync state" && git pull --rebase && git push)
+      - name: Make sure the 30-minute sale-alert chain is running
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          active=$(gh run list -R "$GITHUB_REPOSITORY" -w sales.yml --json status -q '[.[]|select(.status!="completed")]|length')
+          [ "${active:-0}" = "0" ] && gh workflow run sales.yml -R "$GITHUB_REPOSITORY" || echo "chain alive"
