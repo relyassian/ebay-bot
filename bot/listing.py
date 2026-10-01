@@ -15,6 +15,10 @@ Candidate files live in data/candidates/<id>.yaml (written by the daily research
   retail_price: 725
   discontinued_verified: false
   photos: [https://...]              # eBay-hosted catalog photos or Rafael's own photos only
+  made_in: Italy                     # optional, only if verified
+  highlights: [Leather upper, Rubber sole]   # optional, verified features from the brand/store page
+  included: [Shoes, Original box, Dust bag]  # optional, only what the source confirms; default = item + box
+  fit_note: Runs true to size        # optional, only if verified
   price: 699.99                      # proposed eBay price (per size may override)
   sizes:
     - {us: "8", native: "41", cost: 324, source: END US, url: https://..., overseas: false, in_stock_sources: 2}
@@ -113,26 +117,76 @@ def build_specifics(c: dict) -> dict:
     return {k: v for k, v in s.items() if v}
 
 
+_CSS = {  # inline styles only: eBay strips <style>/<script>; this reads well on phones (most buyers)
+    "wrap": "max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;",
+    "brand": "font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;",
+    "h1": "font-size:24px;font-weight:600;margin:0 0 6px;",
+    "sub": "font-size:15px;color:#555;margin:0 0 20px;",
+    "badge": "display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;"
+             "text-transform:uppercase;margin:0 6px 6px 0;",
+    "h2": "font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;"
+          "padding-bottom:6px;margin:26px 0 10px;",
+    "table": "border-collapse:collapse;width:100%;font-size:14px;",
+    "th": "text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;",
+    "td": "padding:8px;border:1px solid #e2e2e2;",
+    "p": "font-size:14px;margin:0 0 10px;",
+    "foot": "font-size:12px;color:#777;margin-top:26px;",
+}
+SHOES = ("sneaker", "loafer", "dress_shoe")
+
+
+def _rows(pairs: list[tuple[str, str]]) -> str:
+    return "".join(f"<tr><td style='{_CSS['td']}width:38%;color:#555;'>{html.escape(k)}</td>"
+                   f"<td style='{_CSS['td']}'>{html.escape(str(v))}</td></tr>" for k, v in pairs if v)
+
+
 def build_description(c: dict, sizes: list[SizeLine]) -> str:
-    if c["category"] in ("belt", "tie"):
-        size_note = ""
-        if c["category"] == "belt":
-            size_note = ("<p><b>Belt sizing:</b> sizes are listed as the brand marks them (usually cm to the middle hole). "
-                         + "".join(f"{html.escape(s.us)} " for s in sizes) + "</p>")
-        return (f"<h2>{html.escape(c['brand'])} {html.escape(c['model'])} — {html.escape(c.get('colorway',''))}</h2>"
-                f"<p>Brand new with original packaging. Style code: {html.escape(c.get('style_code',''))}.</p>"
-                f"{size_note}<p>All sales final.</p>")
-    rows = "".join(f"<tr><td>US {html.escape(s.us)}</td><td>{html.escape(c.get('size_system','US'))} "
-                   f"{html.escape(s.native)}</td></tr>" for s in sizes)
-    return (
-        f"<h2>{html.escape(c['brand'])} {html.escape(c['model'])} — {html.escape(c.get('colorway',''))}</h2>"
-        f"<p>Brand new with original box. Style code: {html.escape(c.get('style_code',''))}.</p>"
-        f"<p><b>Sizing:</b> choose your US size. The tag inside the shoe shows the brand's own "
-        f"{html.escape(c.get('size_system','US'))} size:</p>"
-        f"<table border='1' cellpadding='4'><tr><th>US</th><th>Brand size</th></tr>{rows}</table>"
-        "<p>Every pair is inspected by eBay's Authenticity Guarantee before it ships to you.</p>"
-        "<p>All sales final.</p>"
-    )
+    """Professional, mobile-friendly description. Only facts from the candidate file (verified) are shown."""
+    e, cat = html.escape, c["category"]
+    shoe = cat in SHOES
+    box = "original box" if shoe else "original packaging"
+    badges = ["Brand new", f"With {box}"] + (["eBay Authenticity Guarantee"] if shoe else []) + ["Free shipping"]
+    details = [("Brand", c["brand"]), ("Model", c["model"]), ("Colour", c.get("colorway") or c.get("color")),
+               ("Style code", c.get("style_code")), ("Material", c.get("upper_material")),
+               ("Made in", c.get("made_in")), ("Condition", f"New with {box}, never worn")]
+    out = [f"<div style='{_CSS['wrap']}'>",
+           f"<p style='{_CSS['brand']}'>{e(c['brand'])}</p>",
+           f"<h1 style='{_CSS['h1']}'>{e(c['model'])}</h1>",
+           f"<p style='{_CSS['sub']}'>{e(c.get('colorway', ''))}</p>",
+           "<div>" + "".join(f"<span style='{_CSS['badge']}'>{e(b)}</span>" for b in badges) + "</div>"]
+    if c.get("highlights"):       # verified product features only (from the brand/store page)
+        out += [f"<h2 style='{_CSS['h2']}'>Highlights</h2><ul style='font-size:14px;padding-left:18px;margin:0;'>"]
+        out += [f"<li style='margin-bottom:4px;'>{e(h)}</li>" for h in c["highlights"]] + ["</ul>"]
+    out += [f"<h2 style='{_CSS['h2']}'>Details</h2><table style='{_CSS['table']}'>{_rows(details)}</table>"]
+    if shoe and sizes:
+        system = c.get("size_system", "US")
+        rows = "".join(f"<tr><td style='{_CSS['td']}'>US {e(s.us)}</td><td style='{_CSS['td']}'>{e(system)} {e(s.native)}</td></tr>"
+                       for s in sizes)
+        out += [f"<h2 style='{_CSS['h2']}'>Size guide</h2>",
+                f"<p style='{_CSS['p']}'>Choose your <b>US</b> size from the menu. The label inside the shoe shows "
+                f"{e(c['brand'])}'s own {e(system)} size:</p>",
+                f"<table style='{_CSS['table']}'><tr><th style='{_CSS['th']}'>US size</th>"
+                f"<th style='{_CSS['th']}'>Size on the shoe</th></tr>{rows}</table>"]
+        if c.get("fit_note"):
+            out.append(f"<p style='{_CSS['p']}margin-top:10px;'>{e(c['fit_note'])}</p>")
+    elif cat == "belt" and sizes:
+        out += [f"<h2 style='{_CSS['h2']}'>Size guide</h2>",
+                f"<p style='{_CSS['p']}'>Belt sizes are as the brand marks them (usually cm, measured to the middle hole). "
+                f"Available: {e(', '.join(s.us for s in sizes))}.</p>"]
+    included = c.get("included") or [f"The item, in its {box}"]
+    out += [f"<h2 style='{_CSS['h2']}'>What's included</h2>",
+            "<ul style='font-size:14px;padding-left:18px;margin:0;'>"
+            + "".join(f"<li>{e(i)}</li>" for i in included) + "</ul>"]
+    days = c.get("handling_days", 3)
+    ship = (f"Free shipping. Ships within {days} business days. Because this is a luxury item, it first goes to "
+            "eBay's independent authenticators, who inspect it and then send it on to you."
+            if shoe else f"Free shipping. Ships within {days} business days.")
+    out += [f"<h2 style='{_CSS['h2']}'>Shipping</h2><p style='{_CSS['p']}'>{ship}</p>",
+            f"<h2 style='{_CSS['h2']}'>Questions</h2><p style='{_CSS['p']}'>Message us any time before you buy: "
+            "sizing, details, extra photos. We reply quickly.</p>",
+            f"<p style='{_CSS['foot']}'>All sales are final; please check your size before you buy. "
+            "Thank you for shopping with us.</p></div>"]
+    return "".join(out)
 
 
 def make_draft(c: dict, cfg: dict | None = None) -> Draft:
