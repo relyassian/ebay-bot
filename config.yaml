@@ -35,3 +35,4 @@ sync:
   max_source_age_hours: 36    # older source data counts as unknown
   allow_single_source: false  # true = relist a size with only 1 store in stock
   ignore_items: [358573823614]  # AirPods Max — Rafael's own item
+  ignore_title_words: [AirPods]  # Rafael's personal electronics listings: never touched by the bot

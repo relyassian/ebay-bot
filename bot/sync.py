@@ -143,8 +143,11 @@ def run(live: bool) -> str:
     for item_id in get_active_item_ids(token):
         if item_id in ignore:
             continue
-        checked += 1
         listing = get_item(item_id, token)
+        words = [w.lower() for w in cfg.get("sync", {}).get("ignore_title_words", [])]
+        if any(w in listing.title.lower() for w in words):
+            continue
+        checked += 1
         auto, proposals, notes = decide(listing, sources, cfg)
         if auto and live:
             revise(listing, auto, token, cfg["listing"]["quantity_per_size"])
