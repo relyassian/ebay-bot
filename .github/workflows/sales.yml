@@ -5,6 +5,8 @@ on:
   schedule:
     - cron: "7,37 * * * *"   # every 30 min, off the :00/:30 marks GitHub drops under load; fits free minutes
   workflow_dispatch: {}
+  push:
+    paths: ["requests/sales"]   # touch this file to (re)start the chain
 permissions:
   contents: write
   actions: write   # lets the job start its own next run (GitHub's cron alone proved unreliable here)
