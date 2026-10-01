@@ -123,6 +123,7 @@ def main(argv=None) -> int:
     sy = sub.add_parser("sync"); sy.add_argument("--live", action="store_true")
     sub.add_parser("sales")
     sub.add_parser("drafts")
+    sub.add_parser("snapshot")
     pb = sub.add_parser("inbox"); pb.add_argument("--live", action="store_true")
     args = p.parse_args(argv)
 
@@ -139,6 +140,9 @@ def main(argv=None) -> int:
         return cmd_show(args)
     if args.cmd == "apply":
         return cmd_apply(args)
+    if args.cmd == "snapshot":
+        from bot.snapshot import run as snap
+        return snap()
     if args.cmd == "sync":
         from bot.alerts import send
         from bot.sync import run
