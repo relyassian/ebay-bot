@@ -47,7 +47,7 @@ StockX (official API, M2) → Cettire (needs a headless browser: prices load via
 
 ## eBay integration (decided)
 - Rafael's 21 existing listings were created on the website, so they are revised with the **Trading API** (`GetItem`, `ReviseFixedPriceItem`) using an OAuth user token. The Inventory API can only manage listings it created.
-- Variation `Quantity` in the Trading API includes units already sold: to show N available, send `Quantity = QuantitySold + N`.
+- `GetItem` returns variation `Quantity` including units already sold (available = Quantity − QuantitySold), but `ReviseFixedPriceItem` takes the AVAILABLE quantity and eBay adds the sold units itself: to show N available, send `Quantity = N`. Sending sold + N once put sold-out sizes back on sale.
 - New listings (M3) may use the Inventory API or the Trading API; decide in M3.
 - The browser-driving assistant can't press Save on eBay, so everything goes through the API or a Seller Hub upload CSV.
 
@@ -77,7 +77,7 @@ Python, single repo · GitHub Actions cron (no server) · Supabase Postgres (`db
 ## How the pieces run
 - `daily-sync` workflow: applies `plans/approved/*.csv`, then fixes every listing against `data/source_prices.csv` (hide unsourceable sizes, relist sold sizes that are sourceable again, propose raises for underwater sizes).
 - `sale-alerts` workflow (every 30 min): new order → Telegram message with what to buy, where, and the exact ship-to address.
-- New listings: `data/candidates/<id>.yaml` (format in `bot/listing.py`) → `daily-sync` builds a draft, applies the rules, has eBay verify it (nothing listed), and sends it to Telegram. Rafael replies `APPROVE <id>` / `SKIP <id>`; `sale-alerts` (every 30 min) lists approved drafts with fresh numbers. `PAUSE` / `RESUME` / `STATUS` also work on Telegram. Business policies are copied from `listing.template_item_id`.
+- New listings: `data/candidates/<id>.yaml` (format in `bot/listing.py`) → `daily-sync` builds a draft, applies the rules, has eBay verify it (nothing listed), and sends it to Telegram. Rafael replies `APPROVE <id>` / `SKIP <id>`; `sale-alerts` (every 30 min) lists approved drafts with fresh numbers. Price raises the sync proposes get codes (`R1`, `R2`…, state in `data/raises.json`); `APPROVE R1` / `APPROVE ALL` / `SKIP R1` applies them right away and relists the size if the rules allow. `PAUSE` / `RESUME` / `STATUS` also work on Telegram. Telegram messages are plain English (`bot/report.py`): what Rafael must do first, then changes grouped per product with sizes collapsed. Business policies are copied from `listing.template_item_id`.
 - `connect-ebay` workflow: one-time eBay approval; stores the refresh token as a repo secret.
 - The repo variable `LIVE=true` is the on/off switch for writing to eBay.
 - Until source adapters exist, `data/source_prices.csv` is maintained by a daily research task.

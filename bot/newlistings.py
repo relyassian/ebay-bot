@@ -7,6 +7,8 @@
 """
 from __future__ import annotations
 
+import re
+
 import requests
 
 from bot.alerts import send
@@ -58,7 +60,7 @@ def drafts() -> list[str]:
     return out
 
 
-def inbox() -> list[str]:
+def inbox(live: bool = False) -> list[str]:
     """Apply Rafael's Telegram commands. Only messages from his own chat are accepted."""
     token = secret("TELEGRAM_BOT_TOKEN")
     me = _chat_id(token)
@@ -76,23 +78,45 @@ def inbox() -> list[str]:
         if not words:
             continue
         cmd, arg = words[0].upper(), (words[1] if len(words) > 1 else "")
+        if cmd in ("APPROVE", "YES", "SKIP", "NO") and (arg.upper() == "ALL" or re.fullmatch(r"[Rr]\d+", arg)):
+            from bot.raises import answer
+            try:
+                replies += answer(arg, cmd in ("APPROVE", "YES"), live)
+            except Exception as e:  # never let one bad reply stop the others
+                replies.append(f"⚠️ Couldn't do {cmd} {arg}: {e}")
+            continue
+        if cmd in ("YES", "NO"):
+            cmd = "APPROVE" if cmd == "YES" else "SKIP"
         if cmd in ("APPROVE", "SKIP"):
             if state.get(arg, {}).get("status") != "sent":
-                replies.append(f"No draft waiting called '{arg}'.")
+                replies.append(f"Nothing waiting called '{arg}'. Send STATUS to see what's waiting.")
                 continue
             state[arg]["status"] = "approved" if cmd == "APPROVE" else "skipped"
-            replies.append(f"👍 {arg} approved — it goes live within 30 minutes." if cmd == "APPROVE"
+            replies.append(f"👍 {arg} approved. It goes live within 30 minutes." if cmd == "APPROVE"
                            else f"OK, skipped {arg}.")
         elif cmd == "PAUSE":
             PAUSE_FLAG.write_text("paused by Rafael\n")
-            replies.append("⏸ Paused: no listing changes and no new listings until you send RESUME. Sale alerts continue.")
+            replies.append("⏸ Paused. No listing changes and no new listings until you send RESUME. "
+                           "You'll still get sale alerts.")
         elif cmd == "RESUME":
             PAUSE_FLAG.unlink(missing_ok=True)
-            replies.append("▶️ Resumed.")
+            replies.append("▶️ Back on. Changes resume at the next check.")
         elif cmd == "STATUS":
+            from bot.raises import pending
             waiting = [k for k, v in state.items() if v.get("status") == "sent"]
-            replies.append(("⏸ PAUSED\n" if PAUSE_FLAG.exists() else "▶️ Running\n")
-                           + (f"Drafts waiting: {', '.join(waiting)}" if waiting else "No drafts waiting."))
+            raises = pending()
+            lines = ["⏸ Bot is PAUSED (send RESUME)" if PAUSE_FLAG.exists() else "▶️ Bot is running"]
+            lines.append("New listings waiting for you: " + ", ".join(waiting) if waiting
+                         else "No new listings waiting for you.")
+            if raises:
+                lines.append("Price raises waiting for you:")
+                lines += [f"{c} · {r['name']} US {r['size']}: ${r['old']:.2f} → ${r['new']:.2f}"
+                          for c, r in sorted(raises.items(), key=lambda kv: int(kv[0][1:]))]
+            else:
+                lines.append("No price raises waiting.")
+            replies.append("\n".join(lines))
+        else:
+            replies.append("Commands: APPROVE <code>, SKIP <code>, APPROVE ALL, STATUS, PAUSE, RESUME.")
     OFFSET.parent.mkdir(exist_ok=True)
     OFFSET.write_text(str(last + 1))
     save_state(state)
@@ -135,5 +159,5 @@ def publish(live: bool) -> list[str]:
 
 
 def run_all(live: bool) -> None:
-    for text in inbox() + publish(live):
+    for text in inbox(live) + publish(live):
         send(text)

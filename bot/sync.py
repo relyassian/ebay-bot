@@ -61,7 +61,8 @@ def load_sources(path: Path = DATA) -> dict[tuple[str, str | None], Source]:
 
 
 def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = None):
-    """Return (auto_changes, proposals, notes). Pure function: easy to test."""
+    """Return (auto_changes, proposals, notes). Pure function: easy to test.
+    notes: (kind, size, detail) with kind in hidden | relisted | waiting."""
     now = now or datetime.now(timezone.utc)
     max_age = cfg.get("sync", {}).get("max_source_age_hours", 36)
     min_sources = cfg["risk"]["min_sources_per_size"]
@@ -76,7 +77,7 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
         if not fresh or src.cost is None:
             if available > 0 and src is not None and src.cost is None and fresh:
                 auto.append(Change(listing.item_id, size, new_available=0))
-                notes.append(f"{size or '-'}: no source in stock → hidden")
+                notes.append(("hidden", size, ""))
             elif not fresh and available == 0:
                 pass  # unknown: leave hidden
             continue
@@ -89,12 +90,13 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
             if available > 0:
                 auto.append(Change(listing.item_id, size, new_available=0))
             proposals.append((listing.item_id, size, price, need,
-                              f"cost ${src.cost:.0f} at {src.source}; at ${price:.2f} net is ${net_now:.0f}"))
+                              f"cost ${src.cost:.0f} at {src.source}; at ${price:.2f} net is ${net_now:.0f}",
+                              src.source, src.cost))
         elif available == 0 and enough_sources:
             auto.append(Change(listing.item_id, size, new_available=1))
-            notes.append(f"{size or '-'}: relisted (net ${net_now:.0f}, {src.source})")
+            notes.append(("relisted", size, net_now))
         elif available == 0 and not enough_sources:
-            notes.append(f"{size or '-'}: profitable but only {src.in_stock_sources} source(s) → kept hidden")
+            notes.append(("waiting", size, f"only {src.in_stock_sources} source"))
     return auto, proposals, notes
 
 
@@ -113,16 +115,18 @@ def run(live: bool) -> str:
     from bot.cli import read_plan
     from bot.ebay.auth import access_token
     from bot.ebay.trading import build_revise_xml, get_active_item_ids, get_item, revise
-
     from bot.listing import PAUSE_FLAG
+    from bot.raises import save_proposals
+    from bot.report import short_name, sync_report
+
     cfg = load_config()
     live = live and not cfg.get("dry_run", True)
     if PAUSE_FLAG.exists():
-        return "⏸ Bot is paused (send RESUME on Telegram). No listing changes made."
+        return "⏸ Bot is paused, so no listing changes were made. Send RESUME to turn it back on."
     token = access_token()
     sources = load_sources()
     ignore = set(map(str, cfg.get("sync", {}).get("ignore_items", [])))
-    lines, props = [], []
+    applied, groups, props, checked = [], {}, [], 0
 
     # 1) approved plans first (e.g. price raises Rafael said yes to)
     for plan in load_approved_plans():
@@ -131,7 +135,7 @@ def run(live: bool) -> str:
             build_revise_xml(listing, changes)          # validates every size exists, even in dry run
             if live:
                 revise(listing, changes, token, cfg["listing"]["quantity_per_size"])
-            lines.append(f"{'Applied' if live else 'Would apply'} {plan.name}: {item_id} ({len(changes)} sizes)")
+            applied.append(f"{short_name(listing.title)}: {len(changes)} size(s) updated")
         if live:
             archive_plan(plan)
 
@@ -139,18 +143,25 @@ def run(live: bool) -> str:
     for item_id in get_active_item_ids(token):
         if item_id in ignore:
             continue
+        checked += 1
         listing = get_item(item_id, token)
         auto, proposals, notes = decide(listing, sources, cfg)
         if auto and live:
             revise(listing, auto, token, cfg["listing"]["quantity_per_size"])
-        if notes or auto:
-            lines.append(f"{listing.title[:40]} ({item_id}): " + "; ".join(notes or [f"{len(auto)} size(s) hidden"]))
+        name, total = short_name(listing.title), max(len(listing.variations), 1)
+        for kind in ("relisted", "hidden", "waiting"):
+            rows = [n for n in notes if n[0] == kind]
+            if not rows:
+                continue
+            extra = ""
+            if kind == "relisted":
+                nets = [r[2] for r in rows]
+                extra = (f"you'd make ${min(nets):.0f}" if min(nets) == max(nets)
+                         else f"you'd make ${min(nets):.0f}–${max(nets):.0f}")
+            groups.setdefault(kind, []).append((name, [r[1] for r in rows], total, extra))
         for p in proposals:
-            props.append(f"{listing.title[:35]} size {p[1] or '-'}: ${p[2]:.2f} → ${p[3]:.2f} ({p[4]})")
+            props.append({"item_id": item_id, "size": p[1], "old": p[2], "new": p[3], "name": name,
+                          "store": p[5], "cost": p[6]})
 
-    mode = "LIVE" if live else "DRY RUN"
-    msg = [f"🛍 eBay sync ({mode})"]
-    msg += lines or ["No changes needed."]
-    if props:
-        msg += ["", "Needs your OK — raise these (they're hidden until then):"] + props
-    return "\n".join(msg)
+    raises = save_proposals(props)
+    return sync_report(live, applied, groups, raises, checked)

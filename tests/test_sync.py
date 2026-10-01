@@ -34,7 +34,7 @@ def test_relists_sold_size_when_profitable_with_two_sources():
 
 def test_keeps_hidden_with_single_source():
     auto, _, notes = decide(lst(("9", 899.99, 1, 1)), {("1", "9"): src(450, n=1)}, CFG, NOW)
-    assert not auto and "only 1 source" in notes[0]
+    assert not auto and notes[0][0] == "waiting"
 
 
 def test_underwater_size_hidden_and_raise_proposed():

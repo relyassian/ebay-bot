@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 from bot.config import ROOT
+from bot.report import short_name
 from bot.sync import load_sources
 
 SEEN = ROOT / "data" / "seen_orders.txt"
@@ -20,14 +21,15 @@ def run() -> list[str]:
             continue
         src = sources.get((s.item_id, s.size))
         evtn = any("evtn" in l.lower() for l in s.ship_to)
-        buy = (f"Buy: {src.source} ${src.cost:.2f}\n{src.url}" if src and src.cost is not None
-               else "Buy: ⚠️ no source on file — check stores now")
-        alerts.append(
-            f"💰 SOLD: {s.title}\nSize: US {s.size or '-'}   Sale: ${s.price:.2f}\n{buy}\n\n"
-            f"Ship to (paste exactly):\n" + "\n".join(s.ship_to)
-            + ("\n\n⚠️ Keep the evtn line on address line 2. If the store's form cuts it (GOAT does), "
-               "ship to yourself and forward." if evtn else "")
-        )
+        name = short_name(s.title, 60)
+        if src and src.cost is not None:
+            buy = f"1. Buy US {s.size or '-'} at {src.source} for about ${src.cost:.2f}:\n{src.url}"
+        else:
+            buy = f"1. Buy US {s.size or '-'}: ⚠️ no store on file. Check the stores now."
+        ship = "2. Ship it to this address (copy exactly):\n" + "\n".join(s.ship_to)
+        warn = ("\n\n⚠️ The line starting with evtn must be address line 2. If the store's form cuts it "
+                "short (GOAT does), ship to yourself and forward it." if evtn else "")
+        alerts.append(f"💰 SOLD for ${s.price:.2f}: {name}, US {s.size or '-'}\n\n{buy}\n\n{ship}{warn}")
         new_keys.append(key)
     if new_keys:
         SEEN.parent.mkdir(exist_ok=True)

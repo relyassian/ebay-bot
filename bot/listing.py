@@ -217,10 +217,11 @@ def load_candidates() -> dict[str, dict]:
 
 
 def draft_message(d: Draft) -> str:
-    lines = [f"🆕 New listing draft: {d.id}", d.title, ""]
+    lines = [f"👉 NEW LISTING for your OK: {d.title}", "",
+             f"{len(d.sizes)} sizes ready. Each line: eBay price, your profit, where you'd buy it."]
     for s in d.sizes:
-        lines.append(f"US {s.us}: ${s.price:.2f} → net ${s.net:.0f} ({s.tier}) · buy {s.source} ${s.cost:.0f}")
+        lines.append(f"US {s.us}: sell ${s.price:.2f} · make ${s.net:.0f} · buy {s.source} ${s.cost:.0f}")
     if d.skipped:
-        lines += ["", "Left out: " + "; ".join(d.skipped)]
-    lines += ["", f"Reply  APPROVE {d.id}  to list it, or  SKIP {d.id}."]
+        lines += ["", "Left out (not safe or not profitable): " + "; ".join(d.skipped)]
+    lines += ["", f"Reply APPROVE {d.id} to list it, or SKIP {d.id}."]
     return "\n".join(lines)
