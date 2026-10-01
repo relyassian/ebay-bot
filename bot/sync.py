@@ -201,4 +201,11 @@ def run(live: bool) -> list:
                           "store": p[5], "cost": p[6], "photo": listing.photo, "url": listing.url})
 
     raises = save_proposals(props)
-    return sync_report(live, applied, groups, raises, checked)
+    msgs = sync_report(live, applied, groups, raises, checked)
+    newest = max((x.checked_at for x in sources.values() if x.checked_at), default=None)
+    age_h = (datetime.now(timezone.utc) - newest).total_seconds() / 3600 if newest else None
+    if age_h is None or age_h > 20:
+        msgs[0] += ("\n\n⚠️ Store prices weren't refreshed this morning (the research on your Mac didn't run: "
+                    "Mac asleep, offline, or the Claude app closed). Listings stay as they were; a backup run "
+                    "tries again at 10am. Nothing is relisted until stock is confirmed.")
+    return msgs
