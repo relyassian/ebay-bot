@@ -111,6 +111,22 @@ def inbox(live: bool = False, wait: int = 0) -> list[str]:
         if not words:
             continue
         cmd, arg = words[0].upper().strip(".!,"), (words[1].strip(".!,") if len(words) > 1 else "")
+        low = text.lower().strip(" .!?")
+        yes_words = {"yes", "y", "ok", "okay", "yep", "sure", "go", "do it", "approve", "approved", "yes please"}
+        no_words = {"no", "n", "nope", "skip", "don't", "dont", "no thanks"}
+        if low in yes_words | no_words:                 # bare yes/no: fine when exactly one thing is waiting
+            from bot.raises import pending
+            waiting = list(pending()) + [k for k, v in load_state().items() if v.get("status") == "sent"]
+            if len(waiting) == 1:
+                replies += apply_decision(waiting[0], low in yes_words, live)
+            else:
+                replies.append("Nothing is waiting for an answer right now." if not waiting else
+                               "Which one? " + ", ".join(waiting) + " (e.g. \"yes " + waiting[0] + "\").")
+            continue
+        if any(k in low for k in ("status", "what's going on", "whats going on", "what's waiting", "whats waiting",
+                                  "update", "what's up", "whats up")) and "API" not in text:
+            replies.append(status_text())
+            continue
         if cmd in ("APPROVE", "YES", "SKIP", "NO") and len(words) == 2:
             replies += apply_decision(arg, cmd in ("APPROVE", "YES"), live)
         elif cmd == "PAUSE" and len(words) == 1:
