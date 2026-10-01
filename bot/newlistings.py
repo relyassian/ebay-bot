@@ -114,6 +114,13 @@ def inbox(live: bool = False, wait: int = 0) -> list[str]:
         low = text.lower().strip(" .!?")
         yes_words = {"yes", "y", "ok", "okay", "yep", "sure", "go", "do it", "approve", "approved", "yes please"}
         no_words = {"no", "n", "nope", "skip", "don't", "dont", "no thanks"}
+        lw = set(re.findall(r"[a-z]+", low))
+        if "all" in lw and lw & {"yes", "approve", "approved", "ok", "okay", "accept", "do"} and not lw & {"no", "skip", "dont", "don"}:
+            replies += apply_decision("ALL", True, live)  # "yes to all", "approve all of them", "ok all"
+            continue
+        if "all" in lw and lw & {"no", "skip"} and not lw & {"yes", "approve"}:
+            replies += apply_decision("ALL", False, live)
+            continue
         if low in yes_words | no_words:                 # bare yes/no: fine when exactly one thing is waiting
             from bot.raises import pending
             waiting = list(pending()) + [k for k, v in load_state().items() if v.get("status") == "sent"]
