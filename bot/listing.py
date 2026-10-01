@@ -86,21 +86,30 @@ class Draft:
         return max((s.net for s in self.sizes), default=0)
 
 
+TITLE_BRAND = {"Salvatore Ferragamo": "Ferragamo"}
+
+
 def build_title(c: dict) -> str:
-    parts = [c["brand"], c["model"], c.get("colorway", ""), c.get("style_code", ""),
-             f"{c.get('department', 'Men')}'s", "New"]
+    """Brand Model Colour StyleCode Men's New (80 max). Trim order: New → Men's → short brand → model words.
+    Style code and colour are never dropped (buyers search the code)."""
+    brand, model = c["brand"], c["model"].split()
+    tail = [c.get("colorway", ""), c.get("style_code", "")]
+    extra = [f"{c.get('department', 'Men')}'s", "New"]
     if c.get("discontinued_verified"):
-        parts.insert(-1, "Discontinued")
-    title = " ".join(p for p in parts if p).replace("  ", " ")
-    while len(title) > 80 and len(parts) > 3:     # drop least important words first
-        for drop in ("New", "Discontinued"):
-            if drop in parts:
-                parts.remove(drop)
-                break
+        extra.insert(0, "Discontinued")
+    join = lambda: " ".join(p for p in [brand, *model, *tail, *extra] if p)
+    while len(join()) > 80:
+        if "New" in extra:
+            extra.remove("New")
+        elif extra and extra[-1].endswith("'s"):
+            extra.pop()
+        elif brand in TITLE_BRAND:
+            brand = TITLE_BRAND[brand]
+        elif len(model) > 1:
+            model.pop()
         else:
-            parts.pop(2)                          # colorway last resort
-        title = " ".join(p for p in parts if p)
-    return title[:80]
+            break
+    return join()[:80]
 
 
 def build_specifics(c: dict) -> dict:

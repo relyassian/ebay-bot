@@ -102,9 +102,37 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
     return auto, proposals, notes
 
 
-def load_approved_plans() -> list[Path]:
+def load_approved_plans(ext: str = "csv") -> list[Path]:
     d = ROOT / "plans" / "approved"
-    return sorted(d.glob("*.csv")) if d.exists() else []
+    return sorted(d.glob(f"*.{ext}")) if d.exists() else []
+
+
+def apply_raw_plan(path: Path, token: str, live: bool) -> list[str]:
+    """JSON plan: [{item_id, item_xml, ...}] → ReviseFixedPriceItem each (titles, descriptions, specifics, offers).
+    If eBay refuses a title change (e.g. listing has sales), retry once without the title."""
+    import json
+    import re
+    from bot.ebay.trading import _call
+    from bot.report import short_name
+    out = []
+    for row in json.loads(path.read_text()):
+        name = short_name(row.get("new_title") or row.get("old_title") or row["item_id"])
+        if not live:
+            out.append(f"(test mode) would update {name}")
+            continue
+        try:
+            _call("ReviseFixedPriceItem", row["item_xml"], token)
+            out.append(f"{name}: updated")
+        except Exception as e:
+            if "<Title>" in row["item_xml"] and "itle" in str(e):
+                try:
+                    _call("ReviseFixedPriceItem", re.sub(r"<Title>.*?</Title>", "", row["item_xml"]), token)
+                    out.append(f"{name}: updated (eBay kept the old title)")
+                    continue
+                except Exception as e2:
+                    e = e2
+            out.append(f"⚠️ {name}: eBay refused ({str(e)[:160]})")
+    return out
 
 
 def archive_plan(p: Path) -> None:
@@ -138,6 +166,10 @@ def run(live: bool) -> str:
             if live:
                 revise(listing, changes, token, cfg["listing"]["quantity_per_size"])
             applied.append(f"{short_name(listing.title)}: {len(changes)} size(s) updated")
+        if live:
+            archive_plan(plan)
+    for plan in load_approved_plans("json"):
+        applied += apply_raw_plan(plan, token, live)
         if live:
             archive_plan(plan)
 

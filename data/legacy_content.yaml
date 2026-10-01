@@ -1,0 +1,97 @@
+# New-style titles/descriptions for listings that already exist (adopted, not recreated).
+# Facts come from each listing's own brand description + verified style codes (Sept 30 research).
+# style_code only when VERIFIED on a matching product page; highlights only when consistent with the photos.
+# size_system: how the brand labels the shoe (Gucci men's UK = US - 0.5; D&G IT = US + 33; Ferragamo US).
+defaults: {department: Men, made_in: Italy, handling_days: 3}
+
+items:
+  "355426430327":
+    {brand: Dolce & Gabbana, model: New Roma Sneakers, colorway: White Calfskin Nappa, category: sneaker,
+     style_code: CS2036A1065 80001, upper_material: Calfskin nappa leather, size_system: IT,
+     highlights: [Calfskin nappa upper, DG logo on the tongue, Flat laces, Calfskin footbed with branded label,
+                  Rubber sole with branded bottom assembly]}
+  "355422702908":
+    {brand: Dolce & Gabbana, model: New Roma Sneakers, colorway: Black Calfskin Nappa, category: sneaker,
+     style_code: CS2036A1065 80999, upper_material: Calfskin nappa leather, size_system: IT,
+     highlights: [Calfskin nappa upper, DG logo on the tongue, Flat laces, Calfskin footbed with branded label,
+                  Rubber sole with branded bottom assembly]}
+  "355422678861":
+    {brand: Dolce & Gabbana, model: Portofino Vintage Sneakers, colorway: Black Coated Jacquard, category: sneaker,
+     style_code: CS2203 AM924 8B969, upper_material: Coated fabric, size_system: IT,
+     highlights: [Coated fabric with all-over jacquard DG logo, Contrasting calfskin heel cup, Flat laces,
+                  Calfskin footbed with branded label, Branded rubber sole]}
+  "355422689102":
+    {brand: Dolce & Gabbana, model: Saint Tropez Sneakers, colorway: Black Calfskin, category: sneaker,
+     upper_material: Calfskin leather, size_system: IT,
+     highlights: [Calfskin upper, Logo tag with two metal plating finishes, Calfskin heel cup, Flat laces,
+                  Calfskin footbed with branded label, Branded rubber sole]}
+  "355422763143":
+    {brand: Dolce & Gabbana, model: Saint Tropez Sneakers, colorway: White Calfskin, category: sneaker,
+     upper_material: Calfskin leather, size_system: IT,
+     highlights: [Calfskin upper, Logo tag with two metal plating finishes, Calfskin heel cup, Flat laces,
+                  Calfskin footbed with branded label, Branded rubber sole]}
+  "355426469262":
+    {brand: Gucci, model: Ace GG Supreme Sneaker, colorway: Black/Grey, category: sneaker, product_line: Ace,
+     upper_material: GG Supreme canvas, size_system: UK,
+     highlights: [Black/grey GG Supreme canvas, Blue and red Web, Blue leather detail on one heel and red on the other,
+                  Rubber sole, Extra pair of laces included]}
+  "355429309757":
+    {brand: Gucci, model: Ace GG Crystal Canvas Sneaker, colorway: Blue, category: sneaker, product_line: Ace,
+     style_code: 760775 FACRF 4349, upper_material: GG Crystal canvas, size_system: UK,
+     highlights: [Blue GG Crystal canvas, Green and red Web, Metal ACE tag, Tonal rubber sole, Lace-up closure]}
+  "355429340181":
+    {brand: Gucci, model: Ace GG Crystal Canvas Sneaker, colorway: Green, category: sneaker, product_line: Ace,
+     style_code: 760775 FACRF 3751, upper_material: GG Crystal canvas, size_system: UK,
+     highlights: [Green GG Crystal canvas, Green and red Web, Metal ACE tag, Tonal rubber sole, Lace-up closure]}
+  "355429355271":
+    {brand: Gucci, model: Ace GG Crystal Canvas Sneaker, colorway: Black, category: sneaker, product_line: Ace,
+     style_code: 760775 FACRF 1163, upper_material: GG Crystal canvas, size_system: UK,
+     highlights: [Black GG Crystal canvas, Metal ACE tag, Tonal rubber sole, Lace-up closure]}
+  "355429385763":
+    {brand: Gucci, model: Ace Sneaker with Web, colorway: Beige/Ebony GG Supreme, category: sneaker, product_line: Ace,
+     style_code: 760775 FACMZ 9746, upper_material: GG Supreme canvas, size_system: UK,
+     highlights: [Beige and ebony GG Supreme canvas, Red and green Web, Leather details, Metal ACE tag,
+                  Tonal rubber sole]}
+  "355423513413":
+    {brand: Gucci, model: Tennis 1977 Sneaker, colorway: Beige/Ebony GG Canvas, category: sneaker,
+     product_line: Tennis 1977, style_code: 606111 HVK20 9766, upper_material: GG canvas, size_system: UK,
+     highlights: [Beige/ebony original GG canvas, White contrast details, Green and red Web, Green grosgrain trim,
+                  Gucci Tennis 1977 label, GG motif on the sole]}
+  "355428047951":
+    {brand: Gucci, model: Ace Embroidered Bee Sneaker, colorway: White, category: sneaker, product_line: Ace,
+     upper_material: Leather, size_system: UK,
+     highlights: [White leather, Gold thread-embroidered bee, Green and red Web,
+                  Red leather detail on one heel and green on the other, Rubber sole]}
+  "355428079713":
+    {brand: Gucci, model: Ace Embroidered Bee Sneaker, colorway: Black, category: sneaker, product_line: Ace,
+     upper_material: Leather, size_system: UK,
+     highlights: [Black leather, Gold thread-embroidered bee, Rubber sole]}
+  "355420967506":
+    {brand: Gucci, model: Horsebit Loafer with Web, colorway: Black Leather, category: loafer, product_line: Horsebit,
+     upper_material: Leather, size_system: UK,
+     highlights: [Soft black leather, Horsebit with Web, Gold-toned hardware, Leather sole]}
+  "355066429434":
+    {brand: Salvatore Ferragamo, model: Grandioso Moccasin with Gancini Ornament, colorway: Black, category: loafer,
+     style_code: 029392 642848, upper_material: Tumbled calfskin leather, size_system: US,
+     highlights: [Soft tumbled calfskin with a natural grain, Metal Gancini ornament on a glossy strap,
+                  Tubular construction for a soft lightweight feel, Hand-crafted upper, Branded insole]}
+  "355066509978":
+    {brand: Salvatore Ferragamo, model: Rolo Moccasin with Reversible Gancini Bit, colorway: Black, category: loafer,
+     style_code: 02B715 712557, upper_material: Calfskin leather, size_system: US,
+     highlights: [Calfskin leather, Reversible two-tone palladio and gold Gancini bit,
+                  Upper hand-sewn with the Tubular technique, Slip-on style, Branded insole]}
+  "355420832785":
+    {brand: Salvatore Ferragamo, model: Moccasin with Reversible Gancini Bit, colorway: Black, category: loafer,
+     upper_material: Leather, size_system: US,
+     highlights: [Supple leather, Reversible metal Gancini bit across the tongue, Moc toe,
+                  Tubular construction for comfort and a lightweight feel, Branded insole]}
+  "355420948879":
+    {brand: Salvatore Ferragamo, model: Moccasin with Painted Gancini Bit, colorway: Black, category: loafer,
+     upper_material: Calfskin leather, size_system: US,
+     highlights: [Soft calfskin, Gancini bit in a painted finish, Upper hand-stitched with the Tubular technique,
+                  Slip-on style, Branded insole]}
+  "355066574768":
+    {brand: Salvatore Ferragamo, model: Moccasin with Gancini Ornament, colorway: Brown, category: loafer,
+     upper_material: Tumbled calfskin leather, size_system: US,
+     highlights: [Soft tumbled calfskin with a natural grain, Metal Gancini ornament on a glossy strap,
+                  Tubular construction for a soft lightweight feel, Hand-crafted upper, Branded insole]}
