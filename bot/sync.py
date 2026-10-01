@@ -84,7 +84,9 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
         landed = landed_cost(src.cost, cfg, overseas=src.overseas)
         need = floor_price(landed, cfg)
         net_now = net_profit(price, landed, cfg)
-        enough_sources = src.in_stock_sources >= min_sources or cfg.get("sync", {}).get("allow_single_source", False)
+        enough_sources = (src.in_stock_sources >= min_sources or cfg.get("sync", {}).get("allow_single_source", False)
+                          or (src.in_stock_sources >= 1
+                              and listing.item_id in set(map(str, cfg.get("sync", {}).get("single_source_items", [])))))
 
         if net_now < cfg["profit"]["floor"]:
             if available > 0:
