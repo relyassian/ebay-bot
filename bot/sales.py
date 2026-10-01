@@ -1,7 +1,7 @@
 """Sale alerts: for every new order, tell Rafael exactly what to buy, where, and the address to paste."""
 from __future__ import annotations
 
-from bot.config import ROOT
+from bot.config import ROOT, load_config
 from bot.report import short_name
 from bot.sync import load_sources
 
@@ -22,7 +22,12 @@ def run() -> list[str]:
         src = sources.get((s.item_id, s.size))
         evtn = any("evtn" in l.lower() for l in s.ship_to)
         name = short_name(s.title, 60)
-        if src and src.cost is not None:
+        cfg_sync = load_config().get("sync", {})
+        own = (s.item_id in set(map(str, cfg_sync.get("ignore_items", [])))
+               or any(w.lower() in s.title.lower() for w in cfg_sync.get("ignore_title_words", [])))
+        if own:
+            buy = "1. This is your own item: just pack it up."
+        elif src and src.cost is not None:
             buy = f"1. Buy US {s.size or '-'} at {src.source} for about ${src.cost:.2f}:\n{src.url}"
         else:
             buy = f"1. Buy US {s.size or '-'}: ⚠️ no store on file. Check the stores now."
