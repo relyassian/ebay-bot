@@ -22,6 +22,9 @@ only. Read CLAUDE.md for the business rules before starting.
    If eBay shows a security check or sign-in, or the browser isn't available, don't try to pass it; use the item
    IDs in data/source_prices.csv and data/legacy_content.yaml. Skip config.yaml sync.ignore_items and any
    listing whose title contains a word in sync.ignore_title_words (e.g. AirPods).
+   Store sites that block automated reading (Cettire, GOAT, StockX, Farfetch, SSENSE, END) must be checked in
+   the built-in browser on Rafael's Mac; tip for Cettire: find product URLs with a web search
+   "site:cettire.com <brand> <model>", then open each product page and read price and sizes.
 3. For every item and size, find the cheapest reputable NEW-with-box source with that exact size in stock
    (StockX, GOAT new, Farfetch, SSENSE, Mytheresa, END, Italist, Nugnes1920, Cettire, brand sites, Nordstrom,
    Neiman). Shopify stores (Italist, Nugnes1920, other boutiques) show per-size stock at /products/<handle>.js;
@@ -39,8 +42,9 @@ only. Read CLAUDE.md for the business rules before starting.
    listed, where the cheapest new source leaves ≥ $100 net at a realistic eBay price:
    net = price × (0.854 − ad rate) − (cost × 1.06625 + 20) − (0.10 × cost if overseas with duties extra);
    ad rate = config.yaml ads.rate if data/ads_state.json has a campaign_id, else 0. Prefer ≥ $250 net.
-   The price must be competitive: check eBay listings for the same model (sold if visible, else active new)
-   and never propose a price above what other sellers ask for the same new item.
+   Price (Rafael, Oct 2): the price that clears $100 net is fine even if it's somewhat above what other eBay
+   sellers ask, but never above the brand's current US retail price. Note the eBay comps you saw.
+   Rule of thumb: with 8% ads, a shoe works only if the store price is about 40% or more below US retail.
 6. Photos: ONLY eBay catalog stock photos (ebay.com/p/<epid>, i.ebayimg.com URLs) or photos from Rafael's own
    listings of the same style code. Never other sellers', retailers' or brands' photos. If none: photos: [].
 7. Write each as data/candidates/<short-id>.yaml in exactly the format at the top of bot/listing.py. Never
