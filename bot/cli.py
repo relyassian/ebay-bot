@@ -145,9 +145,20 @@ def main(argv=None) -> int:
     if args.cmd == "apply":
         return cmd_apply(args)
     if args.cmd == "ads-on":
+        import traceback
         from bot.ads import setup
-        for m in setup(args.live):
-            print(m); send(m)
+        log = ROOT / "data" / "ads_last_run.txt"
+        try:
+            msgs = setup(args.live)
+        except Exception:
+            log.write_text(traceback.format_exc()); raise
+        log.write_text("\n".join(msgs))
+        for m in msgs:
+            print(m)
+            try:
+                send(m)
+            except Exception as e:
+                log.write_text(log.read_text() + f"\nTELEGRAM SEND FAILED: {e}")
         return 0
     if args.cmd == "demo":
         from bot.demo import run as demo
