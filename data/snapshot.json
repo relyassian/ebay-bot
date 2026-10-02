@@ -185,37 +185,59 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 1100.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 1098.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 1098.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 1048.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 1048.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 1100.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 1048.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 1100.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 1048.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "5"
+    "US Shoe Size": "5",
+    "price": 1100.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 1100.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -304,25 +326,39 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 1048.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "5"
+    "US Shoe Size": "5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 1048.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -409,25 +445,39 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "5"
+    "US Shoe Size": "5",
+    "price": 882.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 882.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 882.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 882.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 882.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 882.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 882.99,
+    "available": 0
    }
   ],
   "photos": [
@@ -517,37 +567,59 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "5"
+    "US Shoe Size": "5",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 1136.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 1136.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -639,25 +711,39 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "5"
+    "US Shoe Size": "5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 1048.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -747,37 +833,59 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 1544.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 1544.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -869,40 +977,64 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11"
+    "US Shoe Size": "11",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 805.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "12"
+    "US Shoe Size": "12",
+    "price": 805.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -989,43 +1121,69 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "11"
+    "US Shoe Size": "11",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "12"
+    "US Shoe Size": "12",
+    "price": 772.99,
+    "available": 0
    }
   ],
   "photos": [
@@ -1117,43 +1275,69 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "11"
+    "US Shoe Size": "11",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "12"
+    "US Shoe Size": "12",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "13"
+    "US Shoe Size": "13",
+    "price": 772.99,
+    "available": 0
    }
   ],
   "photos": [
@@ -1244,43 +1428,69 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11"
+    "US Shoe Size": "11",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 772.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "12"
+    "US Shoe Size": "12",
+    "price": 772.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -1369,37 +1579,59 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11"
+    "US Shoe Size": "11",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 1026.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "12.5"
+    "US Shoe Size": "12.5",
+    "price": 1026.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -1493,43 +1725,69 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "11"
+    "US Shoe Size": "11",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "12"
+    "US Shoe Size": "12",
+    "price": 772.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "13"
+    "US Shoe Size": "13",
+    "price": 772.99,
+    "available": 0
    }
   ],
   "photos": [
@@ -1621,40 +1879,64 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6"
+    "US Shoe Size": "6",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -1747,46 +2029,74 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11"
+    "US Shoe Size": "11",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "12.5"
+    "US Shoe Size": "12.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "15"
+    "US Shoe Size": "15",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -1883,16 +2193,24 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 993.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -1986,16 +2304,24 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -2090,28 +2416,44 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 993.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 993.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -2205,31 +2547,49 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 1048.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 1048.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 1048.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 1048.99,
+    "available": 0
    }
   ],
   "photos": [
@@ -2320,40 +2680,64 @@
   },
   "sizes": [
    {
-    "US Shoe Size": "5.5"
+    "US Shoe Size": "5.5",
+    "price": 1103.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "6.5"
+    "US Shoe Size": "6.5",
+    "price": 1103.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7"
+    "US Shoe Size": "7",
+    "price": 1103.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "7.5"
+    "US Shoe Size": "7.5",
+    "price": 1103.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8"
+    "US Shoe Size": "8",
+    "price": 1103.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "8.5"
+    "US Shoe Size": "8.5",
+    "price": 1103.99,
+    "available": 0
    },
    {
-    "US Shoe Size": "9"
+    "US Shoe Size": "9",
+    "price": 1103.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "9.5"
+    "US Shoe Size": "9.5",
+    "price": 1103.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10"
+    "US Shoe Size": "10",
+    "price": 1103.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "10.5"
+    "US Shoe Size": "10.5",
+    "price": 1215.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "11.5"
+    "US Shoe Size": "11.5",
+    "price": 1215.99,
+    "available": 1
    },
    {
-    "US Shoe Size": "12.5"
+    "US Shoe Size": "12.5",
+    "price": 1103.99,
+    "available": 0
    }
   ],
   "photos": [
