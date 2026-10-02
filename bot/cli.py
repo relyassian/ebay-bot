@@ -128,6 +128,7 @@ def main(argv=None) -> int:
     pl = sub.add_parser("listen"); pl.add_argument("--minutes", type=int, default=25); pl.add_argument("--live", action="store_true")
     sub.add_parser("legacy-plan")
     sub.add_parser("snapshot")
+    sub.add_parser("catalog")
     pb = sub.add_parser("inbox"); pb.add_argument("--live", action="store_true")
     args = p.parse_args(argv)
 
@@ -173,6 +174,9 @@ def main(argv=None) -> int:
     if args.cmd == "snapshot":
         from bot.snapshot import run as snap
         return snap()
+    if args.cmd == "catalog":
+        from bot.catalog import run
+        return run()
     if args.cmd == "sync":
         from bot.alerts import send
         from bot.sync import run
