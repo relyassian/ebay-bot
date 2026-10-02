@@ -14,7 +14,8 @@ Decisions per size (all rules from CLAUDE.md / config.yaml)
 - Current price below the floor price for the cheapest source → available 0 now, and a raise is
   PROPOSED to Rafael (raises need approval)
 - Price drops only come from approved plans or future pricing logic; never below the floor.
-Source data older than `max_source_age_hours` counts as unknown → the size is not relisted.
+Source data older than `max_source_age_hours`, or no row at all, counts as unknown → a live size is hidden
+and a hidden size is not relisted.
 """
 from __future__ import annotations
 
@@ -75,11 +76,11 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
         src = sources.get((listing.item_id, size))
         fresh = bool(src and src.checked_at and (now - src.checked_at).total_seconds() <= max_age * 3600)
         if not fresh or src.cost is None:
-            if available > 0 and src is not None and src.cost is None and fresh:
+            # No current, in-stock source (none found, no data, or data too old) → never leave it on sale:
+            # a sale there could only end in a cancellation. Hidden sizes stay hidden until fresh data says so.
+            if available > 0:
                 auto.append(Change(listing.item_id, size, new_available=0))
-                notes.append(("hidden", size, ""))
-            elif not fresh and available == 0:
-                pass  # unknown: leave hidden
+                notes.append(("hidden", size, "" if (fresh and src is not None) else "no current price data"))
             continue
         landed = landed_cost(src.cost, cfg, overseas=src.overseas)
         need = floor_price(landed, cfg)

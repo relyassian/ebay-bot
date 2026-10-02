@@ -21,8 +21,11 @@ def run() -> int:
         t = lambda p: it.findtext(p, namespaces=NS)
         specifics = {nv.findtext("e:Name", namespaces=NS): [v.text for v in nv.findall("e:Value", NS)]
                      for nv in it.findall("e:ItemSpecifics/e:NameValueList", NS)}
-        sizes = [{nv.findtext("e:Name", namespaces=NS): nv.findtext("e:Value", namespaces=NS)
-                  for nv in v.findall("e:VariationSpecifics/e:NameValueList", NS)}
+        sizes = [{**{nv.findtext("e:Name", namespaces=NS): nv.findtext("e:Value", namespaces=NS)
+                     for nv in v.findall("e:VariationSpecifics/e:NameValueList", NS)},
+                  "price": float(v.findtext("e:StartPrice", namespaces=NS) or 0),
+                  "available": int(v.findtext("e:Quantity", namespaces=NS) or 0)
+                  - int(v.findtext("e:SellingStatus/e:QuantitySold", namespaces=NS) or 0)}
                  for v in it.findall("e:Variations/e:Variation", NS)]
         out.append({
             "item_id": item_id, "title": t("e:Title"), "category": t("e:PrimaryCategory/e:CategoryID"),

@@ -50,9 +50,11 @@ def test_stale_data_does_not_relist():
     assert not auto
 
 
-def test_no_data_leaves_live_size_alone():
-    auto, props, _ = decide(lst(("9", 899.99, 1, 0)), {}, CFG, NOW)
-    assert not auto and not props
+def test_no_data_hides_live_size():
+    # no price data = can't promise the pair can be bought → off sale (cancellation guard)
+    auto, props, notes = decide(lst(("9", 899.99, 1, 0)), {}, CFG, NOW)
+    assert [c.new_available for c in auto] == [0] and not props
+    assert notes[0][0] == "hidden"
 
 
 def test_single_source_relists_when_allowed():
