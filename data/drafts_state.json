@@ -1,1 +1,36 @@
-{}
+{
+  "gucci-ace-web-white": {
+    "status": "sent"
+  },
+  "gucci-adidas-gazelle-black-gg": {
+    "status": "sent"
+  },
+  "gucci-adidas-gazelle-light-blue": {
+    "status": "sent"
+  },
+  "gucci-driver-web-black": {
+    "errors": [
+      "Error 21919303: The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again. [The item specific Style\u00a0is missing., The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again., 3, Style]",
+      "Error 21919303: The item specific Upper Material\u00a0is missing.\u00a0Add Upper Material to this listing, enter a valid value, and then try again. [The item specific Upper Material\u00a0is missing., The item specific Upper Material\u00a0is missing.\u00a0Add Upper Material to this listing, enter a valid value, and then try again., 3, Upper Material]",
+      "Warning 21920406: Authenticity Guarantee [Authenticity Guarantee, Authenticity Guarantee]"
+    ],
+    "status": "invalid"
+  },
+  "gucci-horsebit-driver-black": {
+    "errors": [
+      "Error 21919303: The item specific Upper Material\u00a0is missing.\u00a0Add Upper Material to this listing, enter a valid value, and then try again. [The item specific Upper Material\u00a0is missing., The item specific Upper Material\u00a0is missing.\u00a0Add Upper Material to this listing, enter a valid value, and then try again., 3, Upper Material]",
+      "Error 21919303: The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again. [The item specific Style\u00a0is missing., The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again., 3, Style]",
+      "Warning 21920406: Authenticity Guarantee [Authenticity Guarantee, Authenticity Guarantee]"
+    ],
+    "status": "invalid"
+  },
+  "gucci-re-web-white-beige": {
+    "status": "sent"
+  },
+  "gucci-rhyton-ivory": {
+    "status": "sent"
+  },
+  "gucci-screener-black-gg": {
+    "status": "sent"
+  }
+}
