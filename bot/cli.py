@@ -147,6 +147,7 @@ def main(argv=None) -> int:
     if args.cmd == "ads-on":
         import traceback
         from bot.ads import setup
+        from bot.alerts import send as tg_send
         log = ROOT / "data" / "ads_last_run.txt"
         try:
             msgs = setup(args.live)
@@ -156,7 +157,7 @@ def main(argv=None) -> int:
         for m in msgs:
             print(m)
             try:
-                send(m)
+                tg_send(m)
             except Exception as e:
                 log.write_text(log.read_text() + f"\nTELEGRAM SEND FAILED: {e}")
         return 0
