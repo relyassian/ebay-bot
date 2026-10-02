@@ -62,7 +62,19 @@ def drafts() -> list[str]:
 
 def apply_decision(code: str, approve: bool, live: bool) -> list[str]:
     """Yes/no on a waiting item: a price-raise code (R1 / ALL) or a new-listing draft id."""
-    if code.upper() == "ALL" or re.fullmatch(r"[Rr]\d+", code):
+    if code.upper() == "ALL":                     # every waiting raise AND every waiting new listing
+        from bot.raises import answer, pending
+        out = answer("ALL", approve, live) if pending() else []
+        state = load_state()
+        drafts = [k for k, v in state.items() if v.get("status") == "sent"]
+        for k in drafts:
+            state[k]["status"] = "approved" if approve else "skipped"
+        save_state(state)
+        if drafts:
+            out.append(f"👍 Approved {len(drafts)} new listing(s); they go live within a few minutes."
+                       if approve else f"OK, skipped {len(drafts)} new listing(s).")
+        return out or ["Nothing is waiting for an answer right now."]
+    if re.fullmatch(r"[Rr]\d+", code):
         from bot.raises import answer
         return answer(code, approve, live)
     state = load_state()
