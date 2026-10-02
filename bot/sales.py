@@ -30,7 +30,10 @@ def run() -> list[str]:
         if own:
             buy = "1. This is your own item: just pack it up."
         elif src and src.cost is not None:
-            buy = f"1. Buy US {s.size or '-'} at {src.source} for about ${src.cost:.2f}:\n{src.url}"
+            from bot.promos import lines_for
+            buy = (f"1. Buy US {s.size or '-'} at {src.source} for about ${src.cost:.2f}:\n{src.url}\n"
+                   + "\n".join(lines_for(src.source))
+                   + "\nTip: buy through Rakuten for cashback if the store is on it.")
         else:
             buy = f"1. Buy US {s.size or '-'}: ⚠️ no store on file. Check the stores now."
         ship = "2. Ship it to this address (copy exactly):\n" + "\n".join(s.ship_to)
