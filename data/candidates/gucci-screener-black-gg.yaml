@@ -1,0 +1,47 @@
+id: gucci-screener-black-gg
+brand: Gucci
+model: Screener GG Canvas Sneaker
+colorway: Black/Green/Red
+style_code: 576223 FAD94 1058
+category: sneaker
+color: Black
+product_line: Screener
+size_system: UK
+retail_price: 1020
+price: 1099.99
+department: Men
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/SkkAAOSwP9BnupCf/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7'
+  native: UK 6.5
+  cost: 422.94
+  source: StockX (ask $399 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-screener-black-canvas
+  overseas: false
+  in_stock_sources: 1
+- us: '7.5'
+  native: UK 7
+  cost: 585.12
+  source: StockX (ask $552 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-screener-black-canvas
+  overseas: false
+  in_stock_sources: 1
+- us: '8.5'
+  native: UK 8
+  cost: 576.64
+  source: StockX (ask $544 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-screener-black-canvas
+  overseas: false
+  in_stock_sources: 1
+- us: '9'
+  native: UK 8.5
+  cost: 636.0
+  source: StockX (ask $600 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-screener-black-canvas
+  overseas: false
+  in_stock_sources: 1

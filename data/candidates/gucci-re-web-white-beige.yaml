@@ -1,0 +1,40 @@
+id: gucci-re-web-white-beige
+brand: Gucci
+model: Re-Web GG Canvas Sneaker
+colorway: White/Beige
+style_code: 787476 AADHW 9573
+category: sneaker
+color: White
+product_line: Re-Web
+size_system: UK
+retail_price: 1150
+price: 1149.99
+department: Men
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/pW8AAeSw93hqtwZg/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '9'
+  native: UK 8.5
+  cost: 530.0
+  source: StockX (ask $500 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-re-web-sneaker-gg-canvas-white-beige
+  overseas: false
+  in_stock_sources: 1
+- us: '9.5'
+  native: UK 9
+  cost: 686.88
+  source: StockX (ask $648 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-re-web-sneaker-gg-canvas-white-beige
+  overseas: false
+  in_stock_sources: 1
+- us: '10'
+  native: UK 9.5
+  cost: 686.88
+  source: StockX (ask $648 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-re-web-sneaker-gg-canvas-white-beige
+  overseas: false
+  in_stock_sources: 1

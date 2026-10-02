@@ -1,0 +1,33 @@
+id: gucci-rhyton-ivory
+brand: Gucci
+model: Rhyton Leather Sneaker
+colorway: Ivory
+style_code: 498916 A9L00 9522
+category: sneaker
+color: Ivory
+product_line: Rhyton
+size_system: UK
+retail_price: 790
+price: 849.99
+department: Men
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/zDkAAeSw9zdo4Ggy/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '12.5'
+  native: UK 12
+  cost: 422.94
+  source: StockX (ask $399 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-rhyton-distressed
+  overseas: false
+  in_stock_sources: 1
+- us: '13.5'
+  native: UK 13
+  cost: 305.28
+  source: StockX (ask $288 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-rhyton-distressed
+  overseas: false
+  in_stock_sources: 1

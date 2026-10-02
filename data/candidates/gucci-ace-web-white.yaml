@@ -1,0 +1,33 @@
+id: gucci-ace-web-white
+brand: Gucci
+model: Ace Sneaker with Web
+colorway: White/Green/Red
+style_code: 757892 AACAG 9055
+category: sneaker
+color: White
+product_line: Ace
+size_system: UK
+retail_price: 870
+price: 949.99
+department: Men
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/bMYAAOSwnQVn4A8o/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7'
+  native: UK 6.5
+  cost: 402.8
+  source: StockX (ask $380 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-ace-web-white-green-red
+  overseas: false
+  in_stock_sources: 1
+- us: '12.5'
+  native: UK 12
+  cost: 497.14
+  source: StockX (ask $469 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/gucci-ace-web-white-green-red
+  overseas: false
+  in_stock_sources: 1

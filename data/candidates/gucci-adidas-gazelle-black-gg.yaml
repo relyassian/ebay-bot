@@ -1,0 +1,26 @@
+id: gucci-adidas-gazelle-black-gg
+brand: Gucci
+model: x adidas Gazelle GG Monogram Sneaker
+colorway: Black
+style_code: IE2264
+category: sneaker
+color: Black
+product_line: Gazelle
+size_system: US
+retail_price: 850
+price: 899.99
+department: Men
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/RaAAAeSwMrlpRenA/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6.5'
+  native: US 6.5
+  cost: 446.26
+  source: StockX (ask $421 + 6% fee, browser read 2026-10-02)
+  url: https://stockx.com/adidas-x-gucci-gazelle-black-gg-monogram
+  overseas: false
+  in_stock_sources: 1
