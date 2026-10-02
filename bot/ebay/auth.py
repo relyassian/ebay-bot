@@ -23,6 +23,8 @@ SCOPES = [
     "https://api.ebay.com/oauth/api_scope/sell.account",
     "https://api.ebay.com/oauth/api_scope/sell.fulfillment",
 ]
+MARKETING = "https://api.ebay.com/oauth/api_scope/sell.marketing"   # Promoted Listings (needs re-consent, Oct 2026)
+CONSENT_SCOPES = SCOPES + [MARKETING]
 
 _cache: dict = {}
 
@@ -37,7 +39,7 @@ def consent_url() -> str:
         "client_id": secret("EBAY_CLIENT_ID"),
         "response_type": "code",
         "redirect_uri": secret("EBAY_RUNAME"),
-        "scope": " ".join(SCOPES),
+        "scope": " ".join(CONSENT_SCOPES),
     }
     return AUTH_URL + "?" + urllib.parse.urlencode(q, quote_via=urllib.parse.quote)
 
@@ -55,17 +57,27 @@ def exchange_code(code: str) -> dict:
     return r.json()  # contains refresh_token + refresh_token_expires_in
 
 
-def access_token() -> str:
-    if _cache.get("exp", 0) > time.time() + 60:
-        return _cache["token"]
+def access_token(marketing: bool = False) -> str:
+    """Base token for Trading/sell APIs. marketing=True asks for the Promoted Listings scope too
+    (only works after Rafael re-approved with CONSENT_SCOPES)."""
+    key = "mkt" if marketing else "base"
+    c = _cache.get(key, {})
+    if c.get("exp", 0) > time.time() + 60:
+        return c["token"]
+    scopes = SCOPES + ([MARKETING] if marketing else [])
     r = requests.post(
         TOKEN_URL,
         headers={"Authorization": _basic(), "Content-Type": "application/x-www-form-urlencoded"},
         data={"grant_type": "refresh_token", "refresh_token": secret("EBAY_REFRESH_TOKEN"),
-              "scope": " ".join(SCOPES)},
+              "scope": " ".join(scopes)},
         timeout=30,
     )
-    r.raise_for_status()
+    if r.status_code != 200:
+        raise RuntimeError(f"eBay token refresh failed ({r.status_code}): {r.text[:200]}")
     body = r.json()
-    _cache.update(token=body["access_token"], exp=time.time() + int(body.get("expires_in", 7200)))
-    return _cache["token"]
+    _cache[key] = {"token": body["access_token"], "exp": time.time() + int(body.get("expires_in", 7200))}
+    return body["access_token"]
+
+
+def reset_cache() -> None:
+    _cache.clear()

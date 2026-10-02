@@ -12,7 +12,15 @@ load_dotenv(ROOT / ".env")
 
 
 def load_config(path: Path | None = None) -> dict:
-    return yaml.safe_load((path or ROOT / "config.yaml").read_text())
+    cfg = yaml.safe_load((path or ROOT / "config.yaml").read_text())
+    # Once ads are live (bot/ads.py), every profit calculation includes the ad fee.
+    ads_state = ROOT / "data" / "ads_state.json"
+    if path is None and ads_state.exists():
+        import json
+        st = json.loads(ads_state.read_text())
+        if st.get("campaign_id") and st.get("raised"):
+            cfg["profit"]["promoted_rate"] = float(st.get("rate", 0))
+    return cfg
 
 
 def load_sources(path: Path | None = None) -> dict:

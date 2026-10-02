@@ -20,6 +20,9 @@ listing:
   auto_publish: false         # launch mode: new listings need Rafael's approval
   template_item_id: 355429340181   # copy business policies + location from this listing
 
+ads:
+  rate: 0.08                  # Promoted Listings ad rate on every shoe listing (Rafael, Oct 2); prices raised once to cover it
+
 pricing:
   decay_after_days: 7
   decay_step: 0.03

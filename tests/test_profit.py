@@ -19,3 +19,15 @@ def test_floor_price_clears_floor():
 
 def test_tiers():
     assert tier(300, CFG) == "A" and tier(150, CFG) == "B" and tier(50, CFG) == "skip"
+
+
+def test_ad_price_cover_keeps_profit():
+    from bot.ads import covered_price
+    from bot.config import load_config
+    from bot.profit import net_profit
+    cfg = load_config()
+    base = dict(cfg, profit=dict(cfg["profit"], promoted_rate=0.0))
+    ads = dict(cfg, profit=dict(cfg["profit"], promoted_rate=0.08))
+    new = covered_price(899.99, 0.08, cfg)
+    assert 985 < new < 1000
+    assert net_profit(new, 600, ads) >= net_profit(899.99, 600, base) - 1

@@ -111,6 +111,14 @@ def inbox(live: bool = False, wait: int = 0) -> list[str]:
         if not words:
             continue
         cmd, arg = words[0].upper().strip(".!,"), (words[1].strip(".!,") if len(words) > 1 else "")
+        if cmd == "ADS" and arg.upper() == "ON":
+            try:
+                from bot.ads import setup
+                replies += setup(live)
+            except Exception as e:
+                replies.append(f"⚠️ Couldn't switch ads on: {str(e)[:200]}. If it mentions scope or permissions, "
+                               "eBay needs to be reconnected first (connect-ebay in GitHub).")
+            continue
         low = text.lower().strip(" .!?")
         yes_words = {"yes", "y", "ok", "okay", "yep", "sure", "go", "do it", "approve", "approved", "yes please"}
         no_words = {"no", "n", "nope", "skip", "don't", "dont", "no thanks"}
