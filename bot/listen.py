@@ -19,6 +19,11 @@ def _save(note: str) -> None:
         subprocess.run(c, check=False)
 
 
+def _pull() -> None:
+    """Pick up what other jobs committed (new price raises, drafts) before answering Rafael."""
+    subprocess.run(["git", "pull", "-q", "--rebase", "--autostash"], check=False)
+
+
 def run(minutes: int, live: bool) -> None:
     from bot import sales
     from bot.newlistings import inbox, publish
@@ -34,6 +39,7 @@ def run(minutes: int, live: bool) -> None:
             except Exception as e:
                 print("sales/publish error:", e)
             next_sales = time.time() + 600
+        _pull()
         try:
             for t in inbox(live, wait=min(50, max(1, int(end - time.time())))):
                 send(t); changed = True
