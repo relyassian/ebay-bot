@@ -123,6 +123,7 @@ def main(argv=None) -> int:
     sy = sub.add_parser("sync"); sy.add_argument("--live", action="store_true")
     sub.add_parser("sales")
     sub.add_parser("drafts")
+    pa = sub.add_parser("ads-on"); pa.add_argument("--live", action="store_true")
     sub.add_parser("demo")
     pl = sub.add_parser("listen"); pl.add_argument("--minutes", type=int, default=25); pl.add_argument("--live", action="store_true")
     sub.add_parser("legacy-plan")
@@ -143,6 +144,11 @@ def main(argv=None) -> int:
         return cmd_show(args)
     if args.cmd == "apply":
         return cmd_apply(args)
+    if args.cmd == "ads-on":
+        from bot.ads import setup
+        for m in setup(args.live):
+            print(m); send(m)
+        return 0
     if args.cmd == "demo":
         from bot.demo import run as demo
         demo(); return 0
