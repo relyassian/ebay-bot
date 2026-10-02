@@ -40,9 +40,15 @@ def test_keeps_hidden_with_single_source():
 
 
 def test_underwater_size_hidden_and_raise_proposed():
-    auto, props, _ = decide(lst(("9", 699.99, 1, 0)), {("1", "9"): src(650)}, CFG, NOW)
+    auto, props, _ = decide(lst(("9", 699.99, 1, 0)), {("1", "9"): src(520)}, CFG, NOW)
     assert avail(auto) == {"9": 0}
     assert props and props[0][3] > 699.99
+
+
+def test_unrealistic_raise_not_proposed():
+    # the store costs so much the price would need +50%: just stay off sale, don't bother Rafael
+    auto, props, notes = decide(lst(("9", 699.99, 1, 0)), {("1", "9"): src(650)}, CFG, NOW)
+    assert avail(auto) == {"9": 0} and not props and notes[0][0] == "hidden"
 
 
 def test_stale_data_does_not_relist():

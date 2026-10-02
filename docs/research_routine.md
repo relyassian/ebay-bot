@@ -17,14 +17,21 @@ only. Read CLAUDE.md for the business rules before starting.
    notify Rafael that GitHub access is broken.
 
 ## PART A — prices for existing listings
-2. Live listings: in the built-in browser (Rafael's eBay is signed in) open ebay.com/itm/<id> for each active
-   listing (ebay.com/sh/lst/active); the page's "menuItemMap"/"variationsMap" JSON lists every US size and stock.
-   If eBay shows a security check or sign-in, or the browser isn't available, don't try to pass it; use the item
-   IDs in data/source_prices.csv and data/legacy_content.yaml. Skip config.yaml sync.ignore_items and any
-   listing whose title contains a word in sync.ignore_title_words (e.g. AirPods).
+2. Live listings: read data/snapshot.json (every listing, every size with its price and "available" count).
+   To refresh it, write the current time to requests/snapshot, commit and push, wait ~2 minutes, then pull.
+   Don't scrape ebay.com in the browser (eBay shows a bot check; never try to pass it). Skip config.yaml
+   sync.ignore_items and any listing whose title contains a word in sync.ignore_title_words (e.g. AirPods).
+   IMPORTANT: every size that is live needs a row checked within the last 36 hours, or the bot takes it off sale.
    Store sites that block automated reading (Cettire, GOAT, StockX, Farfetch, SSENSE, END) must be checked in
-   the built-in browser on Rafael's Mac; tip for Cettire: find product URLs with a web search
-   "site:cettire.com <brand> <model>", then open each product page and read price and sizes.
+   the built-in browser on Rafael's Mac. What works (tested Oct 2):
+   - StockX: open stockx.com/<slug> (find slugs via stockx.com/search?s=<style code>), wait ~2.5s, then run JS
+     `document.getElementById('pdp-mobile-size-selector').click()` and read the buttons "US M <size> $<ask>"
+     (BID = no seller). Sizes shown are US (Gucci: UK + 0.5). cost = ask × 1.06 (StockX fee). New only.
+   - GOAT: open goat.com/sneakers/<slug> (find via goat.com/search?query=<style code>, wait 5s), wait 5s, click
+     the "BUY NEW" button, wait 3s, read "<size> | $<price>" pairs; Gucci sizes there are UK (US = UK + 0.5).
+   - Cettire: find product URLs with a web search "site:cettire.com <brand> <model>" or browse
+     cettire.com/collections/mens-shoes/<brand>, then open each product page and read price and sizes.
+   - Farfetch returned "Access Denied" even in the browser (Oct 2): note it and move on.
 3. For every item and size, find the cheapest reputable NEW-with-box source with that exact size in stock
    (StockX, GOAT new, Farfetch, SSENSE, Mytheresa, END, Italist, Nugnes1920, Cettire, brand sites, Nordstrom,
    Neiman). Shopify stores (Italist, Nugnes1920, other boutiques) show per-size stock at /products/<handle>.js;
@@ -35,7 +42,9 @@ only. Read CLAUDE.md for the business rules before starting.
    cost = cheapest price incl. store fees in USD; blank ONLY if you read that every store you could check is
    sold out for that size; overseas = true if it ships from outside the US with duties extra; checked_at =
    current UTC ISO time; size blank for items without sizes. Leave rows you couldn't check unchanged (never
-   blank a size just because a site wouldn't load).
+   blank a size just because a site wouldn't load); they expire after 36 hours and the size goes off sale.
+   Also add rows for sizes NOT on the listing yet when a store has them at a price that clears $100 at the
+   listing's price: list them in the summary as "sizes to add" (Rafael approves; plans/pending/ holds the plan).
 
 ## PART B — up to 5 NEW products to list (skip if time runs short)
 5. New luxury men's sneakers/loafers (brands in CLAUDE.md; D&G and Gucci Ace have been best) NOT already

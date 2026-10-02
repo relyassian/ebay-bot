@@ -46,18 +46,6 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355066574768,8,,no in-stock source found 2026-09-30,,false,0,2026-09-30T23:22:02Z
 355066574768,9,,no in-stock source found 2026-09-30,,false,0,2026-09-30T23:22:02Z
 356084785661,,246.48,"Cettire (page read 2026-09-30, in stock, duties included; code 775189CLNKGANST676145 Palladio)",https://www.cettire.com/products/salvatore-ferragamo-logo-engraved-cuff-links-922605775,false,1,2026-10-01T00:30:47Z
-355429385763,5.5,,out of stock at Nugnes1920 and Italist 2026-10-02 (Shopify read),,false,0,2026-10-02T18:44:08Z
-355429385763,6.5,625.00,"Nugnes1920 UK 6 (Shopify stock read 2026-10-02; style 760775FACMZ9746; ships from Italy DDU, duties extra)",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,1,2026-10-02T18:44:08Z
-355429385763,7,625.00,"Nugnes1920 UK 6.5 (Shopify stock read 2026-10-02; style 760775FACMZ9746; ships from Italy DDU, duties extra; also Italist/CHN @699.15)",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,2,2026-10-02T18:44:08Z
-355429385763,7.5,625.00,"Nugnes1920 UK 7 (Shopify stock read 2026-10-02; style 760775FACMZ9746; ships from Italy DDU, duties extra)",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,1,2026-10-02T18:44:08Z
-355429385763,8,625.00,"Nugnes1920 UK 7.5 (Shopify stock read 2026-10-02; style 760775FACMZ9746; ships from Italy DDU, duties extra)",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,1,2026-10-02T18:44:08Z
-355429385763,8.5,,out of stock at Nugnes1920 and Italist 2026-10-02 (Shopify read),,false,0,2026-10-02T18:44:08Z
-355429385763,9,625.00,"Nugnes1920 UK 8.5 (Shopify stock read 2026-10-02; style 760775FACMZ9746; ships from Italy DDU, duties extra; also Italist/CHN @699.15)",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,2,2026-10-02T18:44:08Z
-355429385763,9.5,625.00,"Nugnes1920 UK 9 (Shopify stock read 2026-10-02; style 760775FACMZ9746; ships from Italy DDU, duties extra)",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,1,2026-10-02T18:44:08Z
-355429385763,10,625.00,"Nugnes1920 UK 9.5 (Shopify stock read 2026-10-02; style 760775FACMZ9746; ships from Italy DDU, duties extra)",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,1,2026-10-02T18:44:08Z
-355429385763,10.5,699.15,"Italist/CHN boutique UK 10 (Shopify stock read 2026-10-02; SKU 760775FACMZ 9746; ships from Italy, duties at checkout)",https://italist.com/products/gucci-upper-sneaker-beige-6156372107,true,1,2026-10-02T18:44:08Z
-355429385763,11.5,625.00,"Nugnes1920 UK 11 (Shopify stock read 2026-10-02; style 760775FACMZ9746; ships from Italy DDU, duties extra; also Italist/CHN @699.15)",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,2,2026-10-02T18:44:08Z
-355429385763,12.5,,out of stock at Nugnes1920 and Italist 2026-10-02 (Shopify read),,false,0,2026-10-02T18:44:08Z
 355066429434,5,622.71,"Italist/CHN boutique (Shopify stock read 2026-10-02; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-02T18:44:08Z
 355066429434,5.5,622.71,"Italist/CHN boutique (Shopify stock read 2026-10-02; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-02T18:44:08Z
 355066429434,6,622.71,"Italist/CHN boutique (Shopify stock read 2026-10-02; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-02T18:44:08Z
@@ -69,3 +57,70 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355066429434,9,,out of stock at Italist CHN and SWT 2026-10-02 (Shopify read),,false,0,2026-10-02T18:44:08Z
 355066429434,9.5,,out of stock at Italist CHN and SWT 2026-10-02 (Shopify read),,false,0,2026-10-02T18:44:08Z
 355066429434,10,,out of stock at Italist CHN and SWT 2026-10-02 (Shopify read),,false,0,2026-10-02T18:44:08Z
+355423513413,5.5,1057.88,StockX UK 5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=5,false,1,2026-10-02T21:56:13Z
+355423513413,6,634.94,StockX UK 5.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=5.5,false,1,2026-10-02T21:56:13Z
+355423513413,6.5,475.94,StockX UK 6 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=6,false,1,2026-10-02T21:56:13Z
+355423513413,7,530.00,StockX UK 6.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=6.5,false,1,2026-10-02T21:56:13Z
+355423513413,7.5,747.30,StockX UK 7 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=7,false,1,2026-10-02T21:56:13Z
+355423513413,8,642.36,StockX UK 7.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=7.5,false,1,2026-10-02T21:56:13Z
+355423513413,8.5,823.62,StockX UK 8 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=8,false,1,2026-10-02T21:56:13Z
+355423513413,9,823.62,StockX UK 8.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=8.5,false,1,2026-10-02T21:56:13Z
+355423513413,9.5,716.56,StockX UK 9 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=9,false,1,2026-10-02T21:56:13Z
+355423513413,10,958.24,StockX UK 9.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=9.5,false,1,2026-10-02T21:56:13Z
+355423513413,10.5,571.34,StockX UK 10 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=10,false,1,2026-10-02T21:56:13Z
+355423513413,11,1057.88,StockX UK 10.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=10.5,false,1,2026-10-02T21:56:13Z
+355423513413,11.5,1015.48,StockX UK 11 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=11,false,1,2026-10-02T21:56:13Z
+355423513413,12,743.06,StockX UK 11.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=11.5,false,1,2026-10-02T21:56:13Z
+355423513413,12.5,922.20,StockX UK 12 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=12,false,1,2026-10-02T21:56:13Z
+355423513413,13,927.50,StockX UK 12.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-tennis-1977-gg-canvas?size=12.5,false,1,2026-10-02T21:56:13Z
+355429309757,5.5,2443.00,GOAT UK 5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-02T21:56:13Z
+355429309757,6.5,527.00,GOAT UK 6 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-02T21:56:13Z
+355429309757,7.5,937.00,GOAT UK 7 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-02T21:56:13Z
+355429309757,8,421.88,StockX UK 7.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-blue?size=7.5,false,1,2026-10-02T21:56:13Z
+355429309757,8.5,2443.00,GOAT UK 8 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-02T21:56:13Z
+355429309757,9,609.50,StockX UK 8.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-blue?size=8.5,false,1,2026-10-02T21:56:13Z
+355429309757,9.5,647.00,GOAT UK 9 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-02T21:56:13Z
+355429309757,10,2443.00,GOAT UK 9.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-02T21:56:13Z
+355429309757,11,821.00,GOAT UK 10.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-02T21:56:13Z
+355429340181,5.5,941.00,GOAT UK 5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-02T21:56:13Z
+355429340181,6,829.00,GOAT UK 5.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-02T21:56:13Z
+355429340181,6.5,702.00,GOAT UK 6 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-02T21:56:13Z
+355429340181,7,1239.14,StockX UK 6.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=6.5,false,1,2026-10-02T21:56:13Z
+355429340181,7.5,705.00,GOAT UK 7 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-02T21:56:13Z
+355429340181,8,1239.14,StockX UK 7.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=7.5,false,1,2026-10-02T21:56:13Z
+355429340181,8.5,634.94,StockX UK 8 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=8,false,1,2026-10-02T21:56:13Z
+355429340181,9,524.70,StockX UK 8.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=8.5,false,1,2026-10-02T21:56:13Z
+355429340181,9.5,,no new pair at StockX/GOAT 2026-10-02 (browser read),,false,0,2026-10-02T21:56:13Z
+355429340181,10,584.06,StockX UK 9.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=9.5,false,1,2026-10-02T21:56:13Z
+355429340181,10.5,,no new pair at StockX/GOAT 2026-10-02 (browser read),,false,0,2026-10-02T21:56:13Z
+355429340181,11.5,2443.00,GOAT UK 11 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-02T21:56:13Z
+355429355271,5.5,2443.00,GOAT UK 5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-02T21:56:13Z
+355429355271,6,943.00,GOAT UK 5.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-02T21:56:13Z
+355429355271,6.5,1313.00,GOAT UK 6 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-02T21:56:13Z
+355429355271,7,2443.00,GOAT UK 6.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-02T21:56:13Z
+355429355271,7.5,594.66,StockX UK 7 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-black?size=7,false,1,2026-10-02T21:56:13Z
+355429355271,8,895.00,GOAT UK 7.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-02T21:56:13Z
+355429355271,8.5,985.80,StockX UK 8 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-black?size=8,false,1,2026-10-02T21:56:13Z
+355429355271,9,785.00,GOAT UK 8.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-02T21:56:13Z
+355429355271,9.5,1043.04,StockX UK 9 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-black?size=9,false,1,2026-10-02T21:56:13Z
+355429355271,10,703.00,GOAT UK 9.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-02T21:56:13Z
+355429355271,10.5,811.00,GOAT UK 10 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-02T21:56:13Z
+355429355271,11.5,1086.50,StockX UK 11 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-gg-crystal-canvas-black?size=11,false,1,2026-10-02T21:56:13Z
+355429385763,5,965.00,GOAT UK 4.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-02T21:56:13Z
+355429385763,5.5,961.00,GOAT UK 5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-02T21:56:13Z
+355429385763,6,1058.94,StockX UK 5.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-web-beige-ebony?size=5.5,false,1,2026-10-02T21:56:13Z
+355429385763,6.5,633.00,GOAT UK 6 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-02T21:56:13Z
+355429385763,7,625.00,Nugnes1920 UK 6.5 UK 6.5 (browser read 2026-10-02),https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,1,2026-10-02T21:56:13Z
+355429385763,7.5,670.00,GOAT UK 7 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-02T21:56:13Z
+355429385763,8,625.00,Nugnes1920 UK 7.5 UK 7.5 (browser read 2026-10-02),https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,1,2026-10-02T21:56:13Z
+355429385763,8.5,670.00,GOAT UK 8 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-02T21:56:13Z
+355429385763,9,670.00,GOAT UK 8.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-02T21:56:13Z
+355429385763,9.5,450.50,StockX UK 9 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-web-beige-ebony?size=9,false,1,2026-10-02T21:56:13Z
+355429385763,10,636.00,StockX UK 9.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-web-beige-ebony?size=9.5,false,1,2026-10-02T21:56:13Z
+355429385763,10.5,670.00,GOAT UK 10 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-02T21:56:13Z
+355429385763,11,646.00,GOAT UK 10.5 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-02T21:56:13Z
+355429385763,11.5,660.38,StockX UK 11 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-web-beige-ebony?size=11,false,1,2026-10-02T21:56:13Z
+355429385763,12,1015.48,StockX UK 11.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-web-beige-ebony?size=11.5,false,1,2026-10-02T21:56:13Z
+355429385763,12.5,669.00,GOAT UK 12 (browser read 2026-10-02),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-02T21:56:13Z
+355429385763,13,460.04,StockX UK 12.5 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-web-beige-ebony?size=12.5,false,1,2026-10-02T21:56:13Z
+355429385763,13.5,835.28,StockX UK 13 (ask incl. 6% StockX fee; browser read 2026-10-02),https://stockx.com/gucci-ace-web-beige-ebony?size=13,false,1,2026-10-02T21:56:13Z

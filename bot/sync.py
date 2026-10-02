@@ -92,6 +92,9 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
         if net_now < cfg["profit"]["floor"]:
             if available > 0:
                 auto.append(Change(listing.item_id, size, new_available=0))
+                notes.append(("hidden", size, f"loses money at ${price:.0f} (cheapest: {src.source} ${src.cost:.0f})"))
+            if need > price * (1 + cfg.get("sync", {}).get("max_raise_pct", 0.25)):
+                continue  # the price that would work is unrealistic → just keep it off sale, don't ask
             proposals.append((listing.item_id, size, price, need,
                               f"cost ${src.cost:.0f} at {src.source}; at ${price:.2f} net is ${net_now:.0f}",
                               src.source, src.cost))

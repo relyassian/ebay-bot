@@ -1,0 +1,20 @@
+[
+ {
+  "item_id": "355429340181",
+  "old_title": "Gucci Ace GG Crystal Canvas Sneaker Green Men's New",
+  "new_title": "Gucci Ace GG Crystal Canvas Sneaker Green Men's New (add US 9, 10)",
+  "item_xml": "<Item><ItemID>355429340181</ItemID><Variations><VariationSpecificsSet><NameValueList><Name>US Shoe Size</Name><Value>6.5</Value><Value>7</Value><Value>7.5</Value><Value>8</Value><Value>8.5</Value><Value>9</Value><Value>9.5</Value><Value>10</Value><Value>10.5</Value><Value>11.5</Value></NameValueList></VariationSpecificsSet><Variation><StartPrice>993.99</StartPrice><Quantity>1</Quantity><VariationSpecifics><NameValueList><Name>US Shoe Size</Name><Value>9</Value></NameValueList></VariationSpecifics></Variation><Variation><StartPrice>993.99</StartPrice><Quantity>1</Quantity><VariationSpecifics><NameValueList><Name>US Shoe Size</Name><Value>10</Value></NameValueList></VariationSpecifics></Variation></Variations></Item>"
+ },
+ {
+  "item_id": "355429309757",
+  "old_title": "Gucci Ace GG Crystal Canvas Sneaker Blue Men's New",
+  "new_title": "Gucci Ace GG Crystal Canvas Sneaker Blue Men's New (add US 8)",
+  "item_xml": "<Item><ItemID>355429309757</ItemID><Variations><VariationSpecificsSet><NameValueList><Name>US Shoe Size</Name><Value>6.5</Value><Value>7.5</Value><Value>8</Value><Value>8.5</Value><Value>9</Value></NameValueList></VariationSpecificsSet><Variation><StartPrice>993.99</StartPrice><Quantity>1</Quantity><VariationSpecifics><NameValueList><Name>US Shoe Size</Name><Value>8</Value></NameValueList></VariationSpecifics></Variation></Variations></Item>"
+ },
+ {
+  "item_id": "355429385763",
+  "old_title": "Gucci Ace Sneaker with Web Beige/Ebony GG Supreme Men's New",
+  "new_title": "Gucci Ace Sneaker with Web Beige/Ebony GG Supreme Men's New (add US 11, 13)",
+  "item_xml": "<Item><ItemID>355429385763</ItemID><Variations><VariationSpecificsSet><NameValueList><Name>US Shoe Size</Name><Value>5.5</Value><Value>6.5</Value><Value>7</Value><Value>7.5</Value><Value>8</Value><Value>8.5</Value><Value>9</Value><Value>9.5</Value><Value>10</Value><Value>10.5</Value><Value>11</Value><Value>11.5</Value><Value>12.5</Value><Value>13</Value></NameValueList></VariationSpecificsSet><Variation><StartPrice>1103.99</StartPrice><Quantity>1</Quantity><VariationSpecifics><NameValueList><Name>US Shoe Size</Name><Value>11</Value></NameValueList></VariationSpecifics></Variation><Variation><StartPrice>1103.99</StartPrice><Quantity>1</Quantity><VariationSpecifics><NameValueList><Name>US Shoe Size</Name><Value>13</Value></NameValueList></VariationSpecifics></Variation></Variations></Item>"
+ }
+]

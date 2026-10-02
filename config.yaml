@@ -37,6 +37,7 @@ alerts:
 
 sync:
   max_source_age_hours: 36    # older source data counts as unknown
+  max_raise_pct: 0.25         # only propose a price raise if it's at most +25%; bigger gaps just stay off sale
   allow_single_source: true   # Rafael, Oct 1: list/relist with just 1 store in stock; he accepts the cancellation risk
   ignore_items: [358573823614]  # AirPods Max — Rafael's own item
   single_source_items: [356084785661]  # Ferragamo cufflinks: only Cettire stocks them; Rafael OK'd (Sept 30)
