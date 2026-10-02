@@ -24,6 +24,7 @@ ads:
   rate: 0.08                  # Promoted Listings ad rate on every shoe listing (Rafael, Oct 2); prices raised once to cover it
 
 pricing:
+  decay: true                 # unsold 7 days at the same price → −3% (pre-approved), never below the $100 floor
   decay_after_days: 7
   decay_step: 0.03
 

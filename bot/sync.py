@@ -107,6 +107,30 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
     return auto, proposals, notes
 
 
+def decays(listing: Listing, sources: dict, cfg: dict, log: dict, auto: list, now: datetime | None = None):
+    """Pre-approved 3% price drops for sizes that are on sale, still profitable, and unsold at the same price
+    for `pricing.decay_after_days`. Sizes already being changed this run are left alone."""
+    from bot.pricing import decay_price, due, track
+    now = now or datetime.now(timezone.utc)
+    max_age = cfg.get("sync", {}).get("max_source_age_hours", 36)
+    touched = {c.size for c in auto}
+    out = []
+    rows = ([(v.size, v.price, v.available) for v in listing.variations] if listing.variations
+            else [(None, listing.price, (listing.quantity or 0) - (listing.sold or 0))])
+    for size, price, available in rows:
+        row = track(log, listing.item_id, size, price, now)
+        if available <= 0 or size in touched or not due(row, now, cfg):
+            continue
+        src = sources.get((listing.item_id, size))
+        if not (src and src.cost is not None and src.checked_at
+                and (now - src.checked_at).total_seconds() <= max_age * 3600):
+            continue
+        new = decay_price(price, src.cost, src.overseas, cfg)
+        if new is not None:
+            out.append(Change(listing.item_id, size, new_price=new))
+    return out
+
+
 def load_approved_plans(ext: str = "csv") -> list[Path]:
     d = ROOT / "plans" / "approved"
     return sorted(d.glob(f"*.{ext}")) if d.exists() else []
@@ -161,7 +185,9 @@ def run(live: bool) -> list:
     token = access_token()
     sources = load_sources()
     ignore = set(map(str, cfg.get("sync", {}).get("ignore_items", [])))
+    from bot.pricing import load_log, save_log
     applied, groups, props, checked, errors = [], {}, [], 0, []
+    price_log = load_log()
 
     # 1) approved plans first (e.g. price raises Rafael said yes to)
     for plan in load_approved_plans():
@@ -192,18 +218,28 @@ def run(live: bool) -> list:
             continue
         checked += 1
         auto, proposals, notes = decide(listing, sources, cfg)
+        drops = decays(listing, sources, cfg, price_log, auto) if cfg.get("pricing", {}).get("decay", True) else []
+        auto += drops
+        notes += [("lowered", c.size, c.new_price) for c in drops]
         if auto and live:
             try:
                 revise(listing, auto, token, cfg["listing"]["quantity_per_size"])
             except Exception as e:      # one listing failing must not stop the others
                 errors.append(f"{short_name(listing.title)} ({item_id}): eBay refused the change ({str(e)[:300]})")
                 continue
+        if live:
+            from bot.pricing import track
+            for c in drops:
+                row = track(price_log, item_id, c.size, c.new_price, datetime.now(timezone.utc))
+                row["drops"] = row.get("drops", 0) + 1
         name, total = short_name(listing.title), max(len(listing.variations), 1)
-        for kind in ("relisted", "hidden", "waiting"):
+        for kind in ("relisted", "hidden", "waiting", "lowered"):
             rows = [n for n in notes if n[0] == kind]
             if not rows:
                 continue
             extra = ""
+            if kind == "lowered":
+                extra = "now from $" + f"{min(r[2] for r in rows):,.2f}"
             if kind == "relisted":
                 nets = [r[2] for r in rows]
                 extra = (f"you'd make ${min(nets):.0f}" if min(nets) == max(nets)
@@ -213,6 +249,8 @@ def run(live: bool) -> list:
             props.append({"item_id": item_id, "size": p[1], "old": p[2], "new": p[3], "name": name,
                           "store": p[5], "cost": p[6], "photo": listing.photo, "url": listing.url})
 
+    if live:
+        save_log(price_log)
     raises = save_proposals(props)
     msgs = sync_report(live, applied, groups, raises, checked)
     ERRORS.write_text("\n".join(errors) + ("\n" if errors else ""))

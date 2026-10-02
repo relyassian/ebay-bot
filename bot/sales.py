@@ -49,6 +49,11 @@ def run() -> list[str]:
             alerts.append({"photo": photo, "text": f"💰 Sold: {name}, US {s.size or '-'} (details next)"})
         alerts.append(text)
         new_keys.append(key)
+        try:
+            from bot.pricing import log_sale
+            log_sale(s.item_id, s.size, s.title, s.price, s.order_id)
+        except Exception as e:
+            print("sales log error:", e)
     if new_keys:
         SEEN.parent.mkdir(exist_ok=True)
         with SEEN.open("a") as f:

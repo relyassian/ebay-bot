@@ -48,6 +48,8 @@ WHY = {
                                    "It comes back on sale by itself when a store restocks."),
     "waiting": ("⏳ KEPT OFF SALE", "It would make money, but only 1 store has it. I wait for a 2nd store so a sale "
                                    "can't turn into a cancellation."),
+    "lowered": ("📉 PRICE LOWERED 3%", "No sale in 7 days at the old price. It still makes you $100+, and it drops "
+                                     "again next week if it doesn't sell (never below $100 profit)."),
 }
 MAX_CARDS = 8
 
@@ -61,6 +63,8 @@ def sync_report(live: bool, applied: list[str], groups: dict, raises: list[dict]
         did.append(f"took {n['hidden']} listing{'s' * (n['hidden'] > 1)} (or some sizes) off sale because stores ran out")
     if n.get("relisted"):
         did.append(f"put {n['relisted']} listing{'s' * (n['relisted'] > 1)} back on sale")
+    if n.get("lowered"):
+        did.append(f"lowered the price 3% on {n['lowered']} listing{'s' * (n['lowered'] > 1)} that hadn't sold in a week")
     if n.get("waiting"):
         did.append(f"kept {n['waiting']} off sale until a 2nd store has them")
     if applied:
@@ -85,7 +89,7 @@ def sync_report(live: bool, applied: list[str], groups: dict, raises: list[dict]
             f"Reply \"yes {r['code']}\" or \"no {r['code']}\" (or just tell me in your own words).\n"
             f"{r.get('url', '')}")})
 
-    cards = [(k, row) for k in ("relisted", "hidden", "waiting") for row in groups.get(k, [])]
+    cards = [(k, row) for k in ("relisted", "lowered", "hidden", "waiting") for row in groups.get(k, [])]
     for kind, (name, sizes, total, extra, photo, url) in cards[:MAX_CARDS]:
         title, why = WHY[kind]
         text = (f"{title}\n{name}\nSizes: {sizes_text(sizes, total)}" + (f" · {extra}" if extra else "")
