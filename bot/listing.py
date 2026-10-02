@@ -86,6 +86,9 @@ class Draft:
         return max((s.net for s in self.sizes), default=0)
 
 
+STYLE = {"sneaker": "Sneaker", "loafer": "Loafer"}   # eBay requires Style in the shoe categories
+
+
 TITLE_BRAND = {"Salvatore Ferragamo": "Ferragamo"}
 
 
@@ -121,6 +124,7 @@ def build_specifics(c: dict) -> dict:
         "Color": c.get("color") or c.get("colorway"),
         "Upper Material": c.get("upper_material"),
         "Product Line": c.get("product_line"),
+        "Style": c.get("style") or STYLE.get(c["category"]),
     }
     return {k: v for k, v in s.items() if v}
 
