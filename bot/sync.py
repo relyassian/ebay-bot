@@ -30,6 +30,7 @@ from bot.ebay.trading import Change, Listing
 from bot.profit import floor_price, landed_cost, net_profit
 
 DATA = ROOT / "data" / "source_prices.csv"
+ERRORS = ROOT / "data" / "sync_errors.txt"
 
 
 @dataclass
@@ -160,7 +161,7 @@ def run(live: bool) -> list:
     token = access_token()
     sources = load_sources()
     ignore = set(map(str, cfg.get("sync", {}).get("ignore_items", [])))
-    applied, groups, props, checked = [], {}, [], 0
+    applied, groups, props, checked, errors = [], {}, [], 0, []
 
     # 1) approved plans first (e.g. price raises Rafael said yes to)
     for plan in load_approved_plans():
@@ -181,14 +182,22 @@ def run(live: bool) -> list:
     for item_id in get_active_item_ids(token):
         if item_id in ignore:
             continue
-        listing = get_item(item_id, token)
+        try:
+            listing = get_item(item_id, token)
+        except Exception as e:
+            errors.append(f"{item_id}: couldn't read it from eBay ({str(e)[:200]})")
+            continue
         words = [w.lower() for w in cfg.get("sync", {}).get("ignore_title_words", [])]
         if any(w in listing.title.lower() for w in words):
             continue
         checked += 1
         auto, proposals, notes = decide(listing, sources, cfg)
         if auto and live:
-            revise(listing, auto, token, cfg["listing"]["quantity_per_size"])
+            try:
+                revise(listing, auto, token, cfg["listing"]["quantity_per_size"])
+            except Exception as e:      # one listing failing must not stop the others
+                errors.append(f"{short_name(listing.title)} ({item_id}): eBay refused the change ({str(e)[:300]})")
+                continue
         name, total = short_name(listing.title), max(len(listing.variations), 1)
         for kind in ("relisted", "hidden", "waiting"):
             rows = [n for n in notes if n[0] == kind]
@@ -206,6 +215,11 @@ def run(live: bool) -> list:
 
     raises = save_proposals(props)
     msgs = sync_report(live, applied, groups, raises, checked)
+    ERRORS.write_text("\n".join(errors) + ("\n" if errors else ""))
+    if errors:
+        print("SYNC ERRORS:\n" + "\n".join(errors))
+        msgs[0] += "\n\n⚠️ Couldn't update " + str(len(errors)) + " listing(s); I'm looking into it:\n" + "\n".join(
+            "• " + e[:160] for e in errors)
     newest = max((x.checked_at for x in sources.values() if x.checked_at), default=None)
     age_h = (datetime.now(timezone.utc) - newest).total_seconds() / 3600 if newest else None
     if age_h is None or age_h > 20:

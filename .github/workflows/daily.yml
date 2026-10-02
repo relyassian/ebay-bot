@@ -29,7 +29,7 @@ jobs:
       - run: python -m pytest -q
       - name: Sync listings
         if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
-        run: python -m bot.cli sync ${{ vars.LIVE == 'true' && '--live' || '' }}
+        run: python -m bot.cli sync ${{ vars.LIVE == 'true' && '--live' || '' }} 2>&1 | tee data/sync_log.txt; exit ${PIPESTATUS[0]}
       - name: Sale alerts (backup for the always-on job)
         if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
         run: |
@@ -38,6 +38,7 @@ jobs:
         if: ${{ env.EBAY_REFRESH_TOKEN != '' }}
         run: python -m bot.cli drafts
       - name: Save state
+        if: ${{ always() }}
         run: |
           TZ=America/New_York date +%F > data/last_daily_run.txt
           git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"
