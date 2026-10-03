@@ -19,8 +19,8 @@ included:
 sizes:
 - us: '7.5'
   native: US 7.5
-  cost: 509.86
-  source: StockX (ask $481 + 6% fee, browser read 2026-10-02)
+  cost: 510.92
+  source: StockX (ask $482 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/adidas-x-gucci-gazelle-blue
   overseas: false
   in_stock_sources: 1

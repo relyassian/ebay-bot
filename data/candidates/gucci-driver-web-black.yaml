@@ -19,42 +19,42 @@ sizes:
 - us: '6'
   native: UK 5.5
   cost: 289.38
-  source: StockX (ask $273 + 6% fee, browser read 2026-10-02)
+  source: StockX (ask $273 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black
   overseas: false
   in_stock_sources: 1
 - us: '7'
   native: UK 6.5
   cost: 302.1
-  source: StockX (ask $285 + 6% fee, browser read 2026-10-02)
+  source: StockX (ask $285 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black
   overseas: false
   in_stock_sources: 1
 - us: '8'
   native: UK 7.5
-  cost: 507.74
-  source: StockX (ask $479 + 6% fee, browser read 2026-10-02)
+  cost: 508.8
+  source: StockX (ask $480 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black
   overseas: false
   in_stock_sources: 1
 - us: '11.5'
   native: UK 11
-  cost: 498.2
-  source: StockX (ask $470 + 6% fee, browser read 2026-10-02)
+  cost: 499.26
+  source: StockX (ask $471 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black
   overseas: false
   in_stock_sources: 1
 - us: '12'
   native: UK 11.5
   cost: 510.92
-  source: StockX (ask $482 + 6% fee, browser read 2026-10-02)
+  source: StockX (ask $482 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black
   overseas: false
   in_stock_sources: 1
 - us: '12.5'
   native: UK 12
   cost: 451.56
-  source: StockX (ask $426 + 6% fee, browser read 2026-10-02)
+  source: StockX (ask $426 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black
   overseas: false
   in_stock_sources: 1

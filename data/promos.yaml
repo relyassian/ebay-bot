@@ -1,2 +1,4 @@
 # Store promo codes, refreshed by the daily research (see bot/promos.py)
-{}
+# 2026-10-03: Gmail (last 21 days) searched for all 12 stores; only StockX had a code. Cettire site banner: "up to 30% off" sale, no code.
+stockx:
+  - {code: KLARNA15, discount: "$15 off one order of $100+ (StockX iOS app only, must pay with Klarna, 1 use)", expires: 2026-10-04, source: "StockX email Oct 2 (expires Oct 4 11:59am ET)"}

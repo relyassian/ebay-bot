@@ -18,29 +18,29 @@ included:
 sizes:
 - us: '6.5'
   native: UK 6
-  cost: 509.86
-  source: StockX (ask $481 + 6% fee, browser read 2026-10-02)
+  cost: 510.92
+  source: StockX (ask $482 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-horsebit-driver-loafers-black
   overseas: false
   in_stock_sources: 1
 - us: '7'
   native: UK 6.5
-  cost: 539.54
-  source: StockX (ask $509 + 6% fee, browser read 2026-10-02)
+  cost: 540.6
+  source: StockX (ask $510 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-horsebit-driver-loafers-black
   overseas: false
   in_stock_sources: 1
 - us: '7.5'
   native: UK 7
   cost: 508.8
-  source: StockX (ask $480 + 6% fee, browser read 2026-10-02)
+  source: StockX (ask $480 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-horsebit-driver-loafers-black
   overseas: false
   in_stock_sources: 1
 - us: '9'
   native: UK 8.5
   cost: 530.0
-  source: StockX (ask $500 + 6% fee, browser read 2026-10-02)
+  source: StockX (ask $500 + 6% fee, browser read 2026-10-03)
   url: https://stockx.com/gucci-horsebit-driver-loafers-black
   overseas: false
   in_stock_sources: 1
