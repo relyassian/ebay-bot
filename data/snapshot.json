@@ -2322,6 +2322,11 @@
     "US Shoe Size": "9",
     "price": 994.99,
     "available": 1
+   },
+   {
+    "US Shoe Size": "8",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -2454,6 +2459,16 @@
     "US Shoe Size": "11.5",
     "price": 993.99,
     "available": 0
+   },
+   {
+    "US Shoe Size": "9",
+    "price": 993.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "10",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -2736,6 +2751,16 @@
    },
    {
     "US Shoe Size": "12.5",
+    "price": 1103.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "11",
+    "price": 1103.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "13",
     "price": 1103.99,
     "available": 1
    }
