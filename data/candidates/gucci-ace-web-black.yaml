@@ -1,0 +1,40 @@
+id: gucci-ace-web-black
+brand: Gucci
+model: Ace Sneaker with Web
+colorway: Black/Navy/Red
+style_code: 757892 AACAG 1096
+category: sneaker
+color: Black
+product_line: Ace
+size_system: UK
+retail_price: 950
+price: 949.99
+department: Men
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/YWQAAeSwoAVpTqG5/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6.5'
+  native: UK 6
+  cost: 506.68
+  source: StockX (ask $478 + 6% fee, browser read 2026-10-04)
+  url: https://stockx.com/gucci-ace-web-black-navy-red
+  overseas: false
+  in_stock_sources: 1
+- us: '7.5'
+  native: UK 7
+  cost: 397.5
+  source: StockX (ask $375 + 6% fee, browser read 2026-10-04)
+  url: https://stockx.com/gucci-ace-web-black-navy-red
+  overseas: false
+  in_stock_sources: 1
+- us: '13'
+  native: UK 12.5
+  cost: 371.0
+  source: StockX (ask $350 + 6% fee, browser read 2026-10-04)
+  url: https://stockx.com/gucci-ace-web-black-navy-red
+  overseas: false
+  in_stock_sources: 1

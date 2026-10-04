@@ -20,14 +20,14 @@ sizes:
 - us: '12.5'
   native: UK 12
   cost: 422.94
-  source: StockX (ask $399 + 6% fee, browser read 2026-10-03)
+  source: StockX (ask $399 + 6% fee, browser read 2026-10-04)
   url: https://stockx.com/gucci-rhyton-distressed
   overseas: false
   in_stock_sources: 1
 - us: '13.5'
   native: UK 13
-  cost: 306.34
-  source: StockX (ask $289 + 6% fee, browser read 2026-10-03)
+  cost: 305.28
+  source: StockX (ask $288 + 6% fee, browser read 2026-10-04)
   url: https://stockx.com/gucci-rhyton-distressed
   overseas: false
   in_stock_sources: 1

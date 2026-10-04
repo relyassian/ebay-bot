@@ -20,28 +20,28 @@ sizes:
 - us: '7'
   native: UK 6.5
   cost: 422.94
-  source: StockX (ask $399 + 6% fee, browser read 2026-10-03)
+  source: StockX (ask $399 + 6% fee, browser read 2026-10-04)
   url: https://stockx.com/gucci-screener-black-canvas
   overseas: false
   in_stock_sources: 1
 - us: '7.5'
   native: UK 7
-  cost: 584.06
-  source: StockX (ask $551 + 6% fee, browser read 2026-10-03)
+  cost: 551.2
+  source: StockX (ask $520 + 6% fee, browser read 2026-10-04)
   url: https://stockx.com/gucci-screener-black-canvas
   overseas: false
   in_stock_sources: 1
 - us: '8.5'
   native: UK 8
   cost: 576.64
-  source: StockX (ask $544 + 6% fee, browser read 2026-10-03)
+  source: StockX (ask $544 + 6% fee, browser read 2026-10-04)
   url: https://stockx.com/gucci-screener-black-canvas
   overseas: false
   in_stock_sources: 1
 - us: '9'
   native: UK 8.5
   cost: 636.0
-  source: StockX (ask $600 + 6% fee, browser read 2026-10-03)
+  source: StockX (ask $600 + 6% fee, browser read 2026-10-04)
   url: https://stockx.com/gucci-screener-black-canvas
   overseas: false
   in_stock_sources: 1
