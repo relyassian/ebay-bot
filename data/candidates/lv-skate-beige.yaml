@@ -1,0 +1,33 @@
+id: lv-skate-beige
+brand: Louis Vuitton
+model: LV Skate Sneaker
+colorway: Beige/White
+style_code: 1AARQH
+category: sneaker
+department: Men
+color: Beige
+product_line: LV Skate
+size_system: LV (UK)
+retail_price: 1340
+price: 0
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/aK4AAOSwAeVnupCD/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6'
+  native: LV 5
+  cost: 1271.4
+  source: StockX (ask $1200 + fee, browser read 2026-10-05)
+  url: https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white
+  overseas: false
+  in_stock_sources: 1
+- us: '11'
+  native: LV 10
+  cost: 1218.43
+  source: StockX (ask $1150 + fee, browser read 2026-10-05)
+  url: https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white
+  overseas: false
+  in_stock_sources: 1
