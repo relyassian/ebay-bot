@@ -1,0 +1,40 @@
+id: gucci-interlocking-g-driver-indigo
+brand: Gucci
+model: Interlocking G Driver Moccasin
+colorway: Washed Indigo
+style_code: 692379 1XH00 4246
+color: Blue
+retail_price: 750
+price: 824.99
+category: loafer
+department: Men
+upper_material: Leather
+size_system: UK
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/nrsAAeSwmiFqenvp/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '9.5'
+  native: UK 9
+  cost: 503.26
+  source: StockX (ask $475 + fee, checkout-verified formula, browser read 2026-10-05)
+  url: https://stockx.com/gucci-interlocking-g-driver-washed-indigo
+  overseas: false
+  in_stock_sources: 1
+- us: '10'
+  native: UK 9.5
+  cost: 506.44
+  source: StockX (ask $478 + fee, checkout-verified formula, browser read 2026-10-05)
+  url: https://stockx.com/gucci-interlocking-g-driver-washed-indigo
+  overseas: false
+  in_stock_sources: 1
+- us: '13'
+  native: UK 12.5
+  cost: 343.28
+  source: StockX (ask $324 + fee, checkout-verified formula, browser read 2026-10-05)
+  url: https://stockx.com/gucci-interlocking-g-driver-washed-indigo
+  overseas: false
+  in_stock_sources: 1

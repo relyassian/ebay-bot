@@ -1,0 +1,26 @@
+id: gucci-noel-driver-black
+brand: Gucci
+model: Noel Driver Loafer
+colorway: Black
+style_code: 450891 DTM10 1060
+color: Black
+retail_price: 850
+price: 934.99
+category: loafer
+department: Men
+upper_material: Leather
+size_system: UK
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/pNgAAeSwmbxqtwZ2/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '12.5'
+  native: UK 12
+  cost: 452.41
+  source: StockX (ask $427 + fee, checkout-verified formula, browser read 2026-10-05)
+  url: https://stockx.com/gucci-noel-driver-loafer-black
+  overseas: false
+  in_stock_sources: 1

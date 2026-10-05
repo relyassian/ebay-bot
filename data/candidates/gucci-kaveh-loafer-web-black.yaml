@@ -1,0 +1,26 @@
+id: gucci-kaveh-loafer-web-black
+brand: Gucci
+model: Interlocking G Loafer with Web
+colorway: Black/Green/Red
+style_code: 644724 17X10 1060
+color: Black
+retail_price: 850
+price: 934.99
+category: loafer
+department: Men
+upper_material: Leather
+size_system: UK
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/cQIAAeSwT7xojX8L/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '12'
+  native: UK 11.5
+  cost: 511.74
+  source: StockX (ask $483 + fee, checkout-verified formula, browser read 2026-10-05)
+  url: https://stockx.com/gucci-interlocking-g-loafers-black-green-red-web
+  overseas: false
+  in_stock_sources: 1
