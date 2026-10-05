@@ -129,6 +129,7 @@ def main(argv=None) -> int:
     sub.add_parser("legacy-plan")
     sub.add_parser("snapshot")
     sub.add_parser("catalog")
+    sub.add_parser("dump-shipping")
     pb = sub.add_parser("inbox"); pb.add_argument("--live", action="store_true")
     args = p.parse_args(argv)
 
@@ -174,6 +175,22 @@ def main(argv=None) -> int:
     if args.cmd == "snapshot":
         from bot.snapshot import run as snap
         return snap()
+    if args.cmd == "dump-shipping":     # read-only: raw shipping/AG settings of the items in requests/dump.txt
+        import re as _re
+        from bot.ebay.auth import access_token
+        from bot.ebay.trading import _call
+        import xml.etree.ElementTree as _ET
+        tok, out = access_token(), []
+        for iid in (ROOT / "requests" / "dump.txt").read_text().split():
+            root = _call("GetItem", f"<ItemID>{iid}</ItemID><DetailLevel>ReturnAll</DetailLevel>", tok)
+            raw = _ET.tostring(root, encoding="unicode")
+            for tag in ("ShippingDetails", "ShippingPackageDetails", "SellerProfiles", "ShipToLocations",
+                        "ShippingServiceCostOverrideList", "eBayPlus", "UseRecommendedShippingService", "ShippingTermsInDescription"):
+                for m in _re.findall(rf"<(?:\w+:)?{tag}[ >].*?</(?:\w+:)?{tag}>", raw, flags=_re.S):
+                    clean = _re.sub(r'<(/?)ns\d+:', lambda mm: '<' + mm.group(1), m)[:3000]
+                    out.append(f"== {iid} {tag}\n{clean}")
+        (ROOT / "data" / "shipping_dump.txt").write_text("\n".join(out))
+        return 0
     if args.cmd == "catalog":
         from bot.catalog import run
         return run()
