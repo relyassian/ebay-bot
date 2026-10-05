@@ -34,3 +34,10 @@ def test_ad_price_cover_keeps_profit():
     new = covered_price(899.99, 0.08, cfg)
     assert 985 < new < 1000
     assert net_profit(new, 600, ads) >= net_profit(899.99, 600, base) - 1
+
+
+def test_measured_store_shipping():
+    from bot.profit import store_shipping
+    assert store_shipping(CFG, "StockX UK 8 (ask $500 + 6% fee)") == 14.95
+    assert store_shipping(CFG, "GOAT UK 9 (browser read)") == 14.95
+    assert store_shipping(CFG, "Nugnes1920 UK 6") is None          # unknown store → default $20

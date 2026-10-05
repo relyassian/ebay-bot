@@ -11,6 +11,9 @@ profit:
   taxable_items: [356084785661]        # NJ exempts clothing & footwear (shoes, belts, ties); jewelry (cufflinks) is taxed
   taxable_categories: [accessory, jewelry]
   default_shipping: 20        # source shipping + fees if unknown
+  store_shipping:             # measured at real checkout (Oct 5): StockX total = ask × 1.0595 + $14.95; GOAT = price + $14.95
+    StockX: 14.95             # (StockX's ~6% fee is already in the cost rows; GOAT charges no fee; no NJ tax on shoes)
+    GOAT: 14.95
   overseas_duty_rate: 0.10
   reship_cost: 20             # when a source can't keep the eVTN on line 2
 

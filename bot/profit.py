@@ -4,6 +4,15 @@ from __future__ import annotations
 import math
 
 
+def store_shipping(cfg: dict, source: str | None) -> float | None:
+    """Real checkout shipping for stores we've measured (config profit.store_shipping), else None (= default)."""
+    s = (source or "").lower()
+    for store, cost in (cfg["profit"].get("store_shipping") or {}).items():
+        if s.startswith(store.lower()):
+            return float(cost)
+    return None
+
+
 def landed_cost(source_price: float, cfg: dict, *, shipping: float | None = None,
                 overseas: bool = False, promo_off: float = 0.0, taxable: bool = False) -> float:
     """Everything ships to eBay's authenticator in New Jersey, and NJ doesn't tax clothing or footwear
