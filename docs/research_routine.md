@@ -51,6 +51,9 @@ only. Read CLAUDE.md for the business rules before starting.
    Rotate through brands so each day covers different ones: Gucci (Ace, Screener, Rhyton, Re-Web, Horsebit and
    Jordaan loafers, drivers, adidas x Gucci Gazelle), Prada, Balenciaga, Bottega Veneta, Alexander McQueen,
    Loewe, Ferragamo, D&G.
+   Ferragamo (Rafael, Oct 5: wants more): check Gancini loafers/drivers/moccasins at Italist, Nugnes1920, Cettire,
+   Mytheresa, Nordstrom and StockX/GOAT every day; Ferragamo widths matter (D = medium, EE = 'wide', EEE = 'extra wide').
+   Louis Vuitton: skip (Oct 5 check: StockX asks ≥ retail, LV is never discounted, so it can't clear $100).
    NEVER (Rafael, Oct 4: nothing connected to idol worship): the brands and motifs in config.yaml `exclude`
    (Dior, Hermès, Louboutin, Versace, Nike, Saint Laurent, Valentino; religious/mythological imagery). Don't
    exclude any other brand yourself: if you think one should be, ask Rafael in the summary instead. Find cheap ones from
