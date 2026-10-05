@@ -76,7 +76,15 @@ def drafts() -> list[str]:
         d = make_draft(c)
         if d.blocked_reason:
             state[cid] = {"status": "blocked", "reason": d.blocked_reason}
-            out.append(f"⏸ {cid}: not listed — {d.blocked_reason}.")
+            if d.blocked_reason.startswith("needs photos") and d.sizes:
+                # Rafael (Oct 5): tell him whenever something would make money but has no photo
+                out.append(f"📷 NEEDS PHOTOS: {d.title}\n"
+                           f"Would make ${min(s.net for s in d.sizes):.0f}–${d.best_net:.0f} per pair "
+                           f"(US {', '.join(s.us for s in d.sizes)}, at ${min(s.price for s in d.sizes):,.2f}+), "
+                           "but eBay's catalog has no photo for it. If you have your own photos of this exact shoe, "
+                           "send them and I'll list it.\n" + (d.sizes[0].url or ""))
+            else:
+                out.append(f"⏸ {cid}: not listed — {d.blocked_reason}.")
             continue
         ok, msgs = verify_add(build_add_xml(d, profiles, postal, SIZE_NAME.get(c["category"], "US Shoe Size")), token)
         if not ok:

@@ -70,8 +70,9 @@ only. Read CLAUDE.md for the business rules before starting.
    US = UK + 1; EU for Dior/Louboutin/YSL/Balenciaga: US = EU − 33). Skip a size you can't map confidently.
 6. Photos FIRST (saves time): put the style codes in requests/catalog.txt, commit + push, wait ~2 minutes, pull,
    and read data/catalog_results.json; only products with "match": true and images can be listed. Never other
-   sellers', retailers' or brands' photos. Products without catalog photos: list them in the commit message
-   under "needs photos" (Oct 4: Prada 2DE127 brushed loafer had none).
+   sellers', retailers' or brands' photos. Products WITHOUT catalog photos that would clear the minimum profit:
+   still write the candidate file with photos: [] (Rafael, Oct 5: "if there's no photo, let me know"); the bot
+   then sends him a "needs photos" message with the profit instead of listing it.
 7. Write each as data/candidates/<short-id>.yaml in exactly the format at the top of bot/listing.py. Never
    reuse an id from data/candidates or data/drafts_state.json. Style codes are for matching only; the bot never
    shows them on eBay. category: sneaker or loafer (eBay needs Upper Material: take it from the catalog aspects).
