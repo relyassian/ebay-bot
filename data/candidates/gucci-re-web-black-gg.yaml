@@ -1,0 +1,27 @@
+id: gucci-re-web-black-gg
+brand: Gucci
+model: Re-Web GG Canvas Sneaker
+colorway: Black
+style_code: 787476 AADHW 1077
+category: sneaker
+color: Black
+product_line: Re-Web
+upper_material: Canvas
+retail_price: 1190
+price: 1309.99
+department: Men
+size_system: UK
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/u8EAAeSwHrtqtwZk/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '9'
+  native: UK 8.5
+  cost: 529.75
+  source: StockX (ask $500 + fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-re-web-sneaker-black-gg-canvas
+  overseas: false
+  in_stock_sources: 1
