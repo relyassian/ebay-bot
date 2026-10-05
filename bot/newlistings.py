@@ -241,6 +241,20 @@ def record_sources(item_id: str, cand: dict, d) -> None:
         w = csv.DictWriter(f, fieldnames=fields); w.writeheader(); w.writerows(rows)
 
 
+def record_min_net(item_id: str, cand: dict) -> None:
+    """Brand minimums (e.g. Louis Vuitton $200) must keep applying after listing (raises, weekly drops)."""
+    import json
+    from bot.profit import item_min_net
+    cfg = load_config()
+    base = item_min_net(cfg, brand=cand.get("brand"))
+    if base <= cfg["profit"]["floor"]:
+        return
+    f = ROOT / "data" / "item_min_net.json"
+    d = json.loads(f.read_text()) if f.exists() else {}
+    d[str(item_id)] = base
+    f.write_text(json.dumps(d, indent=1))
+
+
 def publish(live: bool) -> list[str]:
     from bot.ebay.auth import access_token
     from bot.ebay.trading import add_item
@@ -268,6 +282,7 @@ def publish(live: bool) -> list[str]:
         if item_id:
             state[cid] = {"status": "live", "item_id": item_id}
             record_sources(item_id, cands[cid], d)   # so the daily check knows where each size comes from
+            record_min_net(item_id, cands[cid])
             out.append(f"✅ Listed {d.title}\nhttps://www.ebay.com/itm/{item_id}\n{len(d.sizes)} sizes, "
                        f"best net ${d.best_net:.0f}")
         else:

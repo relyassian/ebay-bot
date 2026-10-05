@@ -41,3 +41,21 @@ def test_measured_store_shipping():
     assert store_shipping(CFG, "StockX UK 8 (ask $500 + 6% fee)") == 14.95
     assert store_shipping(CFG, "GOAT UK 9 (browser read)") == 14.95
     assert store_shipping(CFG, "Nugnes1920 UK 6") is None          # unknown store → default $20
+
+
+def test_price_tiers_and_brand_minimum():
+    from bot.profit import required_net, item_min_net
+    assert required_net(1200, CFG) == 100
+    assert required_net(1600, CFG) == 300
+    assert required_net(2100, CFG) == 400
+    assert required_net(2600, CFG) == 500
+    assert item_min_net(CFG, brand="Louis Vuitton") == 200
+    assert required_net(1300, CFG, 200) == 200
+
+
+def test_floor_price_respects_tiers():
+    from bot.profit import required_net
+    for cost in (500, 1150, 1200, 1600):
+        landed = landed_cost(cost, CFG, shipping=14.95)
+        p = floor_price(landed, CFG)
+        assert net_profit(p, landed, CFG) >= required_net(p, CFG) - 0.01

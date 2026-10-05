@@ -38,7 +38,8 @@ from xml.sax.saxutils import escape
 import yaml
 
 from bot.config import ROOT, load_config
-from bot.profit import floor_price, is_taxable, landed_cost, net_profit, store_shipping, tier
+from bot.profit import (floor_price, is_taxable, item_min_net, landed_cost, net_profit, required_net,
+                        store_shipping, tier)
 
 CANDIDATES = ROOT / "data" / "candidates"
 STATE = ROOT / "data" / "drafts_state.json"      # {id: {"status": "sent|approved|skipped|live|blocked", "item_id": ...}}
@@ -229,9 +230,10 @@ def make_draft(c: dict, cfg: dict | None = None) -> Draft:
         landed = landed_cost(float(s["cost"]), cfg, overseas=bool(s.get("overseas")),
                              taxable=is_taxable(cfg, category=c.get("category")),
                              shipping=store_shipping(cfg, s.get("source")))
-        price = max(float(s.get("price") or c.get("price") or 0), floor_price(landed, cfg))
+        base = item_min_net(cfg, brand=c.get("brand"))
+        price = max(float(s.get("price") or c.get("price") or 0), floor_price(landed, cfg, base=base))
         net = net_profit(price, landed, cfg)
-        if tier(net, cfg) == "skip":
+        if net < required_net(price, cfg, base):
             skipped.append(f"US {s['us']}: net ${net:.0f}"); continue
         lines.append(SizeLine(str(s["us"]), str(s.get("native", "")), round(price, 2), float(s["cost"]),
                               s.get("source", ""), s.get("url", ""), round(net, 2), tier(net, cfg)))

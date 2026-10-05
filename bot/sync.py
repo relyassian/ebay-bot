@@ -27,7 +27,8 @@ from pathlib import Path
 
 from bot.config import ROOT, load_config
 from bot.ebay.trading import Change, Listing
-from bot.profit import floor_price, is_taxable, landed_cost, net_profit, store_shipping
+from bot.profit import (floor_price, is_taxable, item_min_net, landed_cost, net_profit, required_net,
+                        store_shipping)
 
 DATA = ROOT / "data" / "source_prices.csv"
 ERRORS = ROOT / "data" / "sync_errors.txt"
@@ -85,13 +86,14 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
             continue
         landed = landed_cost(src.cost, cfg, overseas=src.overseas, taxable=is_taxable(cfg, listing.item_id),
                              shipping=store_shipping(cfg, src.source))
-        need = floor_price(landed, cfg)
+        base = item_min_net(cfg, listing.item_id)
+        need = floor_price(landed, cfg, base=base)
         net_now = net_profit(price, landed, cfg)
         enough_sources = (src.in_stock_sources >= min_sources or cfg.get("sync", {}).get("allow_single_source", False)
                           or (src.in_stock_sources >= 1
                               and listing.item_id in set(map(str, cfg.get("sync", {}).get("single_source_items", [])))))
 
-        if net_now < cfg["profit"]["floor"]:
+        if net_now < required_net(price, cfg, base):
             # Rafael (Oct 5): price changes don't need his OK. A raise of up to `auto_raise_pct` is applied
             # automatically (and the size stays/goes on sale); a bigger one wouldn't sell, so the size just
             # stays off sale until the store gets cheaper again.
@@ -129,7 +131,7 @@ def decays(listing: Listing, sources: dict, cfg: dict, log: dict, auto: list, no
                 and (now - src.checked_at).total_seconds() <= max_age * 3600):
             continue
         new = decay_price(price, src.cost, src.overseas, cfg, taxable=is_taxable(cfg, listing.item_id),
-                          shipping=store_shipping(cfg, src.source))
+                          shipping=store_shipping(cfg, src.source), base=item_min_net(cfg, listing.item_id))
         if new is not None:
             out.append(Change(listing.item_id, size, new_price=new))
     return out

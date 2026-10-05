@@ -10,6 +10,13 @@ profit:
   sales_tax_rate: 0.06625     # NJ — items ship to eBay's NJ authenticator; only charged on taxable items:
   taxable_items: [356084785661]        # NJ exempts clothing & footwear (shoes, belts, ties); jewelry (cufflinks) is taxed
   taxable_categories: [accessory, jewelry]
+  price_tiers:                # Rafael, Oct 5: over $1,500 → at least $300 profit, +$100 for every $500 more
+    above: 1500
+    min_net: 300
+    step_price: 500
+    step_net: 100
+  brand_min_net:              # Rafael, Oct 5: Louis Vuitton only listed at ≥ $200 profit
+    Louis Vuitton: 200
   default_shipping: 20        # source shipping + fees if unknown
   store_shipping:             # measured at real checkout (Oct 5): StockX total = ask × 1.0595 + $14.95; GOAT = price + $14.95
     StockX: 14.95             # (StockX's ~6% fee is already in the cost rows; GOAT charges no fee; no NJ tax on shoes)
