@@ -31,6 +31,8 @@
 2. Start near the **top** of the recent sold range. With few comps, price at or just above retail. Verified discontinued → up to +15% over last retail, capped at the highest comp.
 3. Unsold after 7 days → drop 3% per step, never below 1.5× the required profit (Rafael, Oct 5: $150 normally, $300 on LV; `pricing.decay_floor_mult`). Listing minimum stays $100. Slow on purpose so drops aren't obvious.
 4. Log start vs. final sale price per model so starting prices improve.
+5. **eBay sale badges** (Rafael, Oct 5; `bot/markdown.py`, `config.yaml` → `markdown`): a 14-day eBay markdown sale ("X% off" with the crossed-out price) on every listing where ALL live sizes still make 1.5× the required profit at the sale price (steps 20/15/10/5%). Honest discounts only: never raise a price just to show a bigger discount (eBay and FTC rules on fake reference prices). While in a sale, the sync checks profit at the sale price and skips weekly drops; any price change drops the listing from the sale (eBay rule). Renewed when < 1 day is left.
+6. **Fuller titles** (Rafael, Oct 5; `bot/titles.py`, `listing.fuller_titles`): the sync fills titles toward 80 characters with true keywords only (Men's, material from item specifics, Low/High Top Sneakers / Loafers / Driving Shoes, Authentic, Made in Italy only if the listing says so). Never style codes.
 
 ## Fulfillment
 - All luxury shoes on Rafael's account go through **eBay Authenticity Guarantee** (sneakers and loafers). Ship to the authenticator address with the **eVTN on address line 2**. Accessories (e.g. cufflinks) don't.

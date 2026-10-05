@@ -125,7 +125,7 @@ def build(token: str) -> str:
             for i, v in top))
     day = json.loads(DAYLOG.read_text()) if DAYLOG.exists() else {}
     label = {"new": "new listings", "relisted": "sizes back on sale", "hidden": "sizes off sale",
-             "lowered": "price drops", "raised": "small raises"}
+             "lowered": "price drops", "raised": "small raises", "titles": "titles improved"}
     ch = [f"{day[k]} {label[k]}" for k in label if day.get(k)]
     if ch:
         lines.append("Since yesterday: " + " · ".join(ch))

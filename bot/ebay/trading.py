@@ -47,6 +47,7 @@ class Listing:
     sold: int | None
     variations: list[Variation] = field(default_factory=list)
     photo: str | None = None                   # first listing photo (for Telegram cards)
+    specifics: dict = field(default_factory=dict)   # item-level item specifics (name → first value)
 
     @property
     def url(self) -> str:
@@ -102,7 +103,14 @@ def parse_item(root: ET.Element) -> Listing:
         sold=None if has_vars else int(num(item, "e:SellingStatus/e:QuantitySold") or 0),
         variations=variations,
         photo=item.findtext("e:PictureDetails/e:PictureURL", namespaces=NS),
+        specifics={nv.findtext("e:Name", namespaces=NS): nv.findtext("e:Value", namespaces=NS)
+                   for nv in item.findall("e:ItemSpecifics/e:NameValueList", NS)},
     )
+
+
+def revise_title(item_id: str, title: str, token: str) -> None:
+    _call("ReviseFixedPriceItem", f"<Item><ItemID>{escape(item_id)}</ItemID><Title>{escape(title)}</Title></Item>",
+          token)
 
 
 def get_item(item_id: str, token: str) -> Listing:

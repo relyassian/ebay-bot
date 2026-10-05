@@ -29,6 +29,7 @@ listing:
   handling_days_min: 3
   returns: none
   best_offer_min_net: 400     # Best Offer only on single items netting >= this at list price (never on multi-size)
+  fuller_titles: true         # Rafael, Oct 5: fill titles toward 80 chars with true keywords (bot/titles.py)
   auto_publish: true          # Rafael, Oct 5: list new products without asking if they clear the rules, have a catalog photo + verified style code, and aren't already listed
   template_item_id: 355429340181   # copy business policies + location from this listing
 
@@ -39,6 +40,12 @@ exclude:                      # Rafael, Oct 4: nothing connected to idol worship
   brands: [Dior, Christian Dior, Hermes, Hermès, Christian Louboutin, Louboutin, Versace, Nike,
            Saint Laurent, Yves Saint Laurent, YSL, Valentino, Valentino Garavani]
   words: [Medusa, Buddha, cross, crucifix, saint, angel, angels]   # religious/mythological imagery (confirmed Oct 4)
+
+markdown:                     # Rafael, Oct 5: eBay sale badges ("X% off", crossed-out price) — bot/markdown.py
+  enabled: true
+  days: 14
+  steps: [20, 15, 10, 5]      # biggest step where every live size still makes 1.5× the required profit
+  tagline: Authentic designer shoes on sale
 
 pricing:
   decay: true                 # unsold 7 days at the same price → −3% (pre-approved), never below the $100 floor

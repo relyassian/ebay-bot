@@ -63,7 +63,7 @@ def load_sources(path: Path = DATA) -> dict[tuple[str, str | None], Source]:
     return out
 
 
-def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = None):
+def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = None, discount: float = 0.0):
     """Return (auto_changes, proposals, notes). Pure function: easy to test.
     notes: (kind, size, detail) with kind in hidden | relisted | waiting."""
     now = now or datetime.now(timezone.utc)
@@ -88,12 +88,15 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
                              shipping=store_shipping(cfg, src.source))
         base = item_min_net(cfg, listing.item_id)
         need = floor_price(landed, cfg, base=base)
-        net_now = net_profit(price, landed, cfg)
+        # in an eBay sale (bot/markdown.py) the buyer pays price × (1 − discount): check profit at THAT price.
+        # A raise takes the listing out of the sale (eBay rule), so `need` stays a full-price figure.
+        paid = round(price * (1 - discount), 2)
+        net_now = net_profit(paid, landed, cfg)
         enough_sources = (src.in_stock_sources >= min_sources or cfg.get("sync", {}).get("allow_single_source", False)
                           or (src.in_stock_sources >= 1
                               and listing.item_id in set(map(str, cfg.get("sync", {}).get("single_source_items", [])))))
 
-        if net_now < required_net(price, cfg, base):
+        if net_now < required_net(paid, cfg, base):
             # Rafael (Oct 5): price changes don't need his OK. A raise of up to `auto_raise_pct` is applied
             # automatically (and the size stays/goes on sale); a bigger one wouldn't sell, so the size just
             # stays off sale until the store gets cheaper again.
@@ -112,7 +115,8 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
     return auto, proposals, notes
 
 
-def decays(listing: Listing, sources: dict, cfg: dict, log: dict, auto: list, now: datetime | None = None):
+def decays(listing: Listing, sources: dict, cfg: dict, log: dict, auto: list, now: datetime | None = None,
+           discount: float = 0.0):
     """Pre-approved 3% price drops for sizes that are on sale, still profitable, and unsold at the same price
     for `pricing.decay_after_days`. Sizes already being changed this run are left alone."""
     from bot.pricing import decay_price, due, track
@@ -124,7 +128,7 @@ def decays(listing: Listing, sources: dict, cfg: dict, log: dict, auto: list, no
             else [(None, listing.price, (listing.quantity or 0) - (listing.sold or 0))])
     for size, price, available in rows:
         row = track(log, listing.item_id, size, price, now)
-        if available <= 0 or size in touched or not due(row, now, cfg):
+        if discount or available <= 0 or size in touched or not due(row, now, cfg):   # sale replaces drops
             continue
         src = sources.get((listing.item_id, size))
         if not (src and src.cost is not None and src.checked_at
@@ -223,8 +227,23 @@ def run(live: bool) -> list:
         if any(w in listing.title.lower() for w in words):
             continue
         checked += 1
-        auto, proposals, notes = decide(listing, sources, cfg)
-        drops = decays(listing, sources, cfg, price_log, auto) if cfg.get("pricing", {}).get("decay", True) else []
+        if cfg.get("listing", {}).get("fuller_titles"):
+            from bot.titles import enhance
+            new_title = enhance(listing.title, listing.specifics)
+            if new_title:
+                print(f"title {item_id}: {listing.title!r} -> {new_title!r}")
+                if live:
+                    try:
+                        from bot.ebay.trading import revise_title
+                        revise_title(item_id, new_title, token)
+                        groups.setdefault("titles", []).append((short_name(new_title), [None], 1, "", None, listing.url))
+                    except Exception as e:      # eBay may refuse title edits on some listings: not worth a warning
+                        print(f"title not updated for {item_id}: {str(e)[:200]}")
+        from bot.markdown import discount_for
+        disc = discount_for(item_id)
+        auto, proposals, notes = decide(listing, sources, cfg, discount=disc)
+        drops = (decays(listing, sources, cfg, price_log, auto, discount=disc)
+                 if cfg.get("pricing", {}).get("decay", True) else [])
         auto += drops
         notes += [("lowered", c.size, c.new_price) for c in drops]
         if auto and live:

@@ -199,6 +199,15 @@ def main(argv=None) -> int:
         from bot.sync import run
         for m in run(args.live):
             print(m)                      # full detail stays in the log (data/sync_log.txt)
+        # eBay sale badges (Rafael, Oct 5): keep a markdown sale running on listings with enough margin
+        try:
+            from bot.markdown import run as markdown_run
+            for m in markdown_run(args.live):
+                print(m)
+        except Exception as e:
+            print("markdown error:", e)
+            from bot.notices import add
+            add("problem", f"Couldn't start the eBay sale: {str(e)[:160]}")
         # Rafael (Oct 5): one short morning update instead of a report per run
         from bot import digest
         if args.live and digest.due():
