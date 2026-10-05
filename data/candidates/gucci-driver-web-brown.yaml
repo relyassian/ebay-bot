@@ -1,0 +1,67 @@
+id: gucci-driver-web-brown
+brand: Gucci
+model: Horsebit Driver Loafer with Web
+colorway: Brown
+style_code: 624698 1XH10 2160
+category: loafer
+color: Brown
+upper_material: Leather
+size_system: UK
+retail_price: 850
+price: 899.99
+department: Men
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6.5'
+  native: UK 6
+  cost: 311.64
+  source: StockX (ask $294 + 6% fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-brown
+  overseas: false
+  in_stock_sources: 1
+- us: '7.5'
+  native: UK 7
+  cost: 395.38
+  source: StockX (ask $373 + 6% fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-brown
+  overseas: false
+  in_stock_sources: 1
+- us: '11'
+  native: UK 10.5
+  cost: 501.38
+  source: StockX (ask $473 + 6% fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-brown
+  overseas: false
+  in_stock_sources: 1
+- us: '11.5'
+  native: UK 11
+  cost: 416.58
+  source: StockX (ask $393 + 6% fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-brown
+  overseas: false
+  in_stock_sources: 1
+- us: '12'
+  native: UK 11.5
+  cost: 425.06
+  source: StockX (ask $401 + 6% fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-brown
+  overseas: false
+  in_stock_sources: 1
+- us: '12.5'
+  native: UK 12
+  cost: 384.78
+  source: StockX (ask $363 + 6% fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-brown
+  overseas: false
+  in_stock_sources: 1
+- us: '13'
+  native: UK 12.5
+  cost: 396.44
+  source: StockX (ask $374 + 6% fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-brown
+  overseas: false
+  in_stock_sources: 1

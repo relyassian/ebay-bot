@@ -1,15 +1,15 @@
 item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
-355066429434,5,623.18,"Italist/CHN boutique (Shopify stock read 2026-10-04; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-04T10:43:51Z
-355066429434,5.5,623.18,"Italist/CHN boutique (Shopify stock read 2026-10-04; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-04T10:43:51Z
-355066429434,6,623.18,"Italist/CHN boutique (Shopify stock read 2026-10-04; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-04T10:43:51Z
-355066429434,6.5,623.18,"Italist/CHN boutique (Shopify stock read 2026-10-04; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-04T10:43:51Z
-355066429434,7,623.18,"Italist/CHN boutique (Shopify stock read 2026-10-04; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-04T10:43:51Z
-355066429434,7.5,,out of stock at Italist CHN 2026-10-04 (Shopify read),,false,0,2026-10-04T10:43:51Z
-355066429434,8,623.18,"Italist/CHN boutique (Shopify stock read 2026-10-04; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-04T10:43:51Z
-355066429434,8.5,623.18,"Italist/CHN boutique (Shopify stock read 2026-10-04; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-04T10:43:51Z
-355066429434,9,,out of stock at Italist CHN 2026-10-04 (Shopify read),,false,0,2026-10-04T10:43:51Z
-355066429434,9.5,,out of stock at Italist CHN 2026-10-04 (Shopify read),,false,0,2026-10-04T10:43:51Z
-355066429434,10,,out of stock at Italist CHN 2026-10-04 (Shopify read),,false,0,2026-10-04T10:43:51Z
+355066429434,5,623.08,"Italist/CHN boutique (Shopify stock read 2026-10-05; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-05T10:57:00Z
+355066429434,5.5,623.08,"Italist/CHN boutique (Shopify stock read 2026-10-05; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-05T10:57:00Z
+355066429434,6,623.08,"Italist/CHN boutique (Shopify stock read 2026-10-05; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-05T10:57:00Z
+355066429434,6.5,623.08,"Italist/CHN boutique (Shopify stock read 2026-10-05; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-05T10:57:00Z
+355066429434,7,623.08,"Italist/CHN boutique (Shopify stock read 2026-10-05; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-05T10:57:00Z
+355066429434,7.5,,no new pair in stock at Italist 2026-10-05 (browser/Shopify read),,false,0,2026-10-05T10:57:00Z
+355066429434,8,623.08,"Italist/CHN boutique (Shopify stock read 2026-10-05; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-05T10:57:00Z
+355066429434,8.5,623.08,"Italist/CHN boutique (Shopify stock read 2026-10-05; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-05T10:57:00Z
+355066429434,9,,no new pair in stock at Italist 2026-10-05 (browser/Shopify read),,false,0,2026-10-05T10:57:00Z
+355066429434,9.5,,no new pair in stock at Italist 2026-10-05 (browser/Shopify read),,false,0,2026-10-05T10:57:00Z
+355066429434,10,,no new pair in stock at Italist 2026-10-05 (browser/Shopify read),,false,0,2026-10-05T10:57:00Z
 355066574768,5,,no in-stock source found 2026-09-30,,false,0,2026-09-30T23:22:02Z
 355066574768,5.5,,no in-stock source found 2026-09-30,,false,0,2026-09-30T23:22:02Z
 355066574768,6,,no in-stock source found 2026-09-30,,false,0,2026-09-30T23:22:02Z
@@ -43,22 +43,22 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355422702908,11,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355422702908,12,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355422702908,13,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
-355423513413,5.5,1057.88,StockX US M 5.5 = Gucci UK 5 (ask $998 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=5.5,false,1,2026-10-04T10:43:51Z
-355423513413,6,634.94,StockX US M 6 = Gucci UK 5.5 (ask $599 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=6,false,1,2026-10-04T10:43:51Z
-355423513413,6.5,475.94,StockX US M 6.5 = Gucci UK 6 (ask $449 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=6.5,false,1,2026-10-04T10:43:51Z
-355423513413,7,,no new pair at StockX/GOAT 2026-10-04 (browser read),,false,0,2026-10-04T10:43:51Z
-355423513413,7.5,747.30,StockX US M 7.5 = Gucci UK 7 (ask $705 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=7.5,false,1,2026-10-04T10:43:51Z
-355423513413,8,643.42,StockX US M 8 = Gucci UK 7.5 (ask $607 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=8,false,1,2026-10-04T10:43:51Z
-355423513413,8.5,816.20,StockX US M 8.5 = Gucci UK 8 (ask $770 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=8.5,false,1,2026-10-04T10:43:51Z
-355423513413,9,823.62,StockX US M 9 = Gucci UK 8.5 (ask $777 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=9,false,1,2026-10-04T10:43:51Z
-355423513413,9.5,716.56,StockX US M 9.5 = Gucci UK 9 (ask $676 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=9.5,false,1,2026-10-04T10:43:51Z
-355423513413,10,937.04,StockX US M 10 = Gucci UK 9.5 (ask $884 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=10,false,1,2026-10-04T10:43:51Z
-355423513413,10.5,572.40,StockX US M 10.5 = Gucci UK 10 (ask $540 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=10.5,false,1,2026-10-04T10:43:51Z
-355423513413,11,1057.88,StockX US M 11 = Gucci UK 10.5 (ask $998 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=11,false,1,2026-10-04T10:43:51Z
-355423513413,11.5,1005.94,StockX US M 11.5 = Gucci UK 11 (ask $949 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=11.5,false,1,2026-10-04T10:43:51Z
-355423513413,12,744.12,StockX US M 12 = Gucci UK 11.5 (ask $702 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=12,false,1,2026-10-04T10:43:51Z
-355423513413,12.5,920.08,StockX US M 12.5 = Gucci UK 12 (ask $868 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=12.5,false,1,2026-10-04T10:43:51Z
-355423513413,13,927.50,StockX US M 13 = Gucci UK 12.5 (ask $875 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-tennis-1977-gg-canvas?size=13,false,1,2026-10-04T10:43:51Z
+355423513413,5.5,1057.88,"StockX US M 5.5 (ask $998 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,6,634.94,"StockX US M 6 (ask $599 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,6.5,475.94,"StockX US M 6.5 (ask $449 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,7,1128.90,"StockX US M 7 (ask $1065 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,7.5,744.12,"StockX US M 7.5 (ask $702 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,8,639.18,"StockX US M 8 (ask $603 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,8.5,823.62,"StockX US M 8.5 (ask $777 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,9,824.68,"StockX US M 9 (ask $778 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,9.5,716.56,"StockX US M 9.5 (ask $676 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,10,937.04,"StockX US M 10 (ask $884 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,10.5,569.22,"StockX US M 10.5 (ask $537 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,11,1057.88,"StockX US M 11 (ask $998 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,11.5,1005.94,"StockX US M 11.5 (ask $949 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,12,739.88,"StockX US M 12 (ask $698 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,12.5,920.08,"StockX US M 12.5 (ask $868 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
+355423513413,13,927.50,"StockX US M 13 (ask $875 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-gg-canvas,false,1,2026-10-05T10:57:00Z
 355426430327,6,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,6.5,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,7,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
@@ -72,168 +72,168 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355426430327,11,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,12,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,13,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
-355429309757,5.5,2443.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-04T10:43:51Z
-355429309757,6.5,527.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-04); also 1 other store(s), next $937.04",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,2,2026-10-04T10:43:51Z
-355429309757,7.5,937.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-04); also 1 other store(s), next $937.04",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,2,2026-10-04T10:43:51Z
-355429309757,8,421.88,"StockX US M 8 = Gucci UK 7.5 (ask $398 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $645.00",https://stockx.com/gucci-ace-gg-crystal-canvas-blue?size=8,false,2,2026-10-04T10:43:51Z
-355429309757,8.5,2443.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-04T10:43:51Z
-355429309757,9,609.50,"StockX US M 9 = Gucci UK 8.5 (ask $575 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $633.00",https://stockx.com/gucci-ace-gg-crystal-canvas-blue?size=9,false,2,2026-10-04T10:43:51Z
-355429309757,9.5,647.00,"GOAT new UK 9 = US 9.5 (browser read 2026-10-04); also 1 other store(s), next $744.12",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,2,2026-10-04T10:43:51Z
-355429309757,10,2443.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-04T10:43:51Z
-355429309757,11,821.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-04T10:43:51Z
-355429340181,5.5,940.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-04); also 1 other store(s), next $1239.14",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,2,2026-10-04T10:43:51Z
-355429340181,6,829.00,"GOAT new UK 5.5 = US 6 (browser read 2026-10-04); also 1 other store(s), next $1002.76",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,2,2026-10-04T10:43:51Z
-355429340181,6.5,702.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-04); also 1 other store(s), next $1239.14",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,2,2026-10-04T10:43:51Z
-355429340181,7,1239.14,StockX US M 7 = Gucci UK 6.5 (ask $1169 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=7,false,1,2026-10-04T10:43:51Z
-355429340181,7.5,705.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-04T10:43:51Z
-355429340181,8,1239.14,StockX US M 8 = Gucci UK 7.5 (ask $1169 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=8,false,1,2026-10-04T10:43:51Z
-355429340181,8.5,634.94,"StockX US M 8.5 = Gucci UK 8 (ask $599 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $795.00",https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=8.5,false,2,2026-10-04T10:43:51Z
-355429340181,9,514.10,StockX US M 9 = Gucci UK 8.5 (ask $485 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=9,false,1,2026-10-04T10:43:51Z
-355429340181,9.5,,no new pair at StockX/GOAT 2026-10-04 (browser read),,false,0,2026-10-04T10:43:51Z
-355429340181,10,585.12,"StockX US M 10 = Gucci UK 9.5 (ask $552 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $1255.00",https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=10,false,2,2026-10-04T10:43:51Z
-355429340181,10.5,,no new pair at StockX/GOAT 2026-10-04 (browser read),,false,0,2026-10-04T10:43:51Z
-355429340181,11.5,2443.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-04T10:43:51Z
-355429340181,13.5,795.00,StockX US M 13.5 = Gucci UK 13 (ask $750 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-ace-gg-crystal-canvas-green?size=13.5,false,1,2026-10-04T10:43:51Z
-355429355271,5.5,2443.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-04T10:43:51Z
-355429355271,6,943.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-04T10:43:51Z
-355429355271,6.5,1313.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-04); also 1 other store(s), next $1367.40",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,2,2026-10-04T10:43:51Z
-355429355271,7,2443.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-04T10:43:51Z
-355429355271,7.5,595.72,"StockX US M 7.5 = Gucci UK 7 (ask $562 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $943.00",https://stockx.com/gucci-ace-gg-crystal-canvas-black?size=7.5,false,2,2026-10-04T10:43:51Z
-355429355271,8,895.00,"GOAT new UK 7.5 = US 8 (browser read 2026-10-04); also 1 other store(s), next $1038.80",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,2,2026-10-04T10:43:51Z
-355429355271,8.5,985.80,"StockX US M 8.5 = Gucci UK 8 (ask $930 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $1405.00",https://stockx.com/gucci-ace-gg-crystal-canvas-black?size=8.5,false,2,2026-10-04T10:43:51Z
-355429355271,9,785.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-04); also 1 other store(s), next $1238.08",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,2,2026-10-04T10:43:51Z
-355429355271,9.5,1043.04,StockX US M 9.5 = Gucci UK 9 (ask $984 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-ace-gg-crystal-canvas-black?size=9.5,false,1,2026-10-04T10:43:51Z
-355429355271,10,703.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-04T10:43:51Z
-355429355271,10.5,811.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-04T10:43:51Z
-355429355271,11.5,1086.50,StockX US M 11.5 = Gucci UK 11 (ask $1025 + 6% StockX fee; browser read 2026-10-04),https://stockx.com/gucci-ace-gg-crystal-canvas-black?size=11.5,false,1,2026-10-04T10:43:51Z
-355429385763,4.5,1440.00,GOAT new UK 4 = US 4.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-04T10:43:51Z
-355429385763,5,965.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-04T10:43:51Z
-355429385763,5.5,961.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-04); also 1 other store(s), next $1015.48",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-04T10:43:51Z
-355429385763,6,1057.88,"StockX US M 6 = Gucci UK 5.5 (ask $998 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $1072.00",https://stockx.com/gucci-ace-web-beige-ebony?size=6,false,2,2026-10-04T10:43:51Z
-355429385763,6.5,633.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-04); also 2 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-04T10:43:51Z
-355429385763,7,625.00,"Nugnes1920 UK 6.5 = US 7 (Shopify stock read 2026-10-04; ships from Italy); also 2 other store(s), next $837.40",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,3,2026-10-04T10:43:51Z
-355429385763,7.5,670.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-04); also 2 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-04T10:43:51Z
-355429385763,8,625.00,"Nugnes1920 UK 7.5 = US 8 (Shopify stock read 2026-10-04; ships from Italy); also 2 other store(s), next $740.00",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,3,2026-10-04T10:43:51Z
-355429385763,8.5,670.00,"GOAT new UK 8 = US 8.5 (browser read 2026-10-04); also 1 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-04T10:43:51Z
-355429385763,9,670.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-04); also 2 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-04T10:43:51Z
-355429385763,9.5,450.50,"StockX US M 9.5 = Gucci UK 9 (ask $425 + 6% StockX fee; browser read 2026-10-04); also 2 other store(s), next $451.00",https://stockx.com/gucci-ace-web-beige-ebony?size=9.5,false,3,2026-10-04T10:43:51Z
-355429385763,10,636.00,"StockX US M 10 = Gucci UK 9.5 (ask $600 + 6% StockX fee; browser read 2026-10-04); also 2 other store(s), next $625.00",https://stockx.com/gucci-ace-web-beige-ebony?size=10,false,3,2026-10-04T10:43:51Z
-355429385763,10.5,670.00,"GOAT new UK 10 = US 10.5 (browser read 2026-10-04); also 1 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-04T10:43:51Z
-355429385763,11,646.00,"GOAT new UK 10.5 = US 11 (browser read 2026-10-04); also 2 other store(s), next $625.00",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-04T10:43:51Z
-355429385763,11.5,660.38,"StockX US M 11.5 = Gucci UK 11 (ask $623 + 6% StockX fee; browser read 2026-10-04); also 2 other store(s), next $668.00",https://stockx.com/gucci-ace-web-beige-ebony?size=11.5,false,3,2026-10-04T10:43:51Z
-355429385763,12,1015.48,"StockX US M 12 = Gucci UK 11.5 (ask $958 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $1072.00",https://stockx.com/gucci-ace-web-beige-ebony?size=12,false,2,2026-10-04T10:43:51Z
-355429385763,12.5,669.00,"GOAT new UK 12 = US 12.5 (browser read 2026-10-04); also 1 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-04T10:43:51Z
-355429385763,13,460.04,"StockX US M 13 = Gucci UK 12.5 (ask $434 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $1073.00",https://stockx.com/gucci-ace-web-beige-ebony?size=13,false,2,2026-10-04T10:43:51Z
-355429385763,13.5,835.28,"StockX US M 13.5 = Gucci UK 13 (ask $788 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $1084.00",https://stockx.com/gucci-ace-web-beige-ebony?size=13.5,false,2,2026-10-04T10:43:51Z
-355429385763,14,1015.48,"StockX US M 14 = Gucci UK 13.5 (ask $958 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $1073.00",https://stockx.com/gucci-ace-web-beige-ebony?size=14,false,2,2026-10-04T10:43:51Z
-355429385763,14.5,1015.48,"StockX US M 14.5 = Gucci UK 14 (ask $958 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $1072.00",https://stockx.com/gucci-ace-web-beige-ebony?size=14.5,false,2,2026-10-04T10:43:51Z
-355429385763,15,1015.48,"StockX US M 15 = Gucci UK 14.5 (ask $958 + 6% StockX fee; browser read 2026-10-04); also 1 other store(s), next $1072.00",https://stockx.com/gucci-ace-web-beige-ebony?size=15,false,2,2026-10-04T10:43:51Z
-355429385763,15.5,1089.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-04T10:43:51Z
-355429385763,16.5,1196.00,GOAT new UK 16 = US 16.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-04T10:43:51Z
-356084785661,,246.48,"Cettire (page read 2026-10-04, Add to bag shown, duties included; code 775189CLNKGANST676145 Palladio)",https://www.cettire.com/products/salvatore-ferragamo-logo-engraved-cuff-links-922605775,false,1,2026-10-04T10:43:51Z
-820204075354,6.5,506.68,"StockX (ask $478 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-black-navy-red,false,1,2026-10-04T10:49:00Z
-820204075354,7.5,397.50,"StockX (ask $375 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-black-navy-red,false,1,2026-10-04T10:49:00Z
-820204075354,13,371.00,"StockX (ask $350 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-black-navy-red,false,1,2026-10-04T10:49:00Z
-820204075398,7,402.80,"StockX (ask $380 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-white-green-red,false,1,2026-10-04T10:49:00Z
-820204075398,12.5,497.14,"StockX (ask $469 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-white-green-red,false,1,2026-10-04T10:49:00Z
-820204075433,6.5,446.26,"StockX US 6.5 (ask $421 + 6% fee, browser read 2026-10-05)",https://stockx.com/adidas-x-gucci-gazelle-black-gg-monogram,false,1,2026-10-05T01:08:36Z
-820204075474,7.5,510.92,"StockX (ask $482 + 6% fee, browser read 2026-10-04)",https://stockx.com/adidas-x-gucci-gazelle-blue,false,1,2026-10-04T10:49:00Z
-820204075517,6,289.38,"StockX UK 5.5 (ask $273 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075517,7,302.10,"StockX UK 6.5 (ask $285 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075517,8,507.74,"StockX UK 7.5 (ask $479 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075517,11.5,499.26,"StockX UK 11 (ask $471 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075517,12,510.92,"StockX UK 11.5 (ask $482 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075517,12.5,451.56,"StockX UK 12 (ask $426 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075592,6.5,509.86,"StockX UK 6 (ask $481 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075592,7,539.54,"StockX UK 6.5 (ask $509 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075592,7.5,508.80,"StockX UK 7 (ask $480 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075592,9,530.00,"StockX UK 8.5 (ask $500 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T01:08:36Z
-820204075633,9,530.00,"StockX (ask $500 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-re-web-sneaker-gg-canvas-white-beige,false,1,2026-10-04T10:49:00Z
-820204075737,12.5,422.94,"StockX (ask $399 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-rhyton-distressed,false,1,2026-10-04T10:49:00Z
-820204075737,13.5,305.28,"StockX (ask $288 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-rhyton-distressed,false,1,2026-10-04T10:49:00Z
-820204075830,7,422.94,"StockX UK 6.5 (ask $399 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T01:08:36Z
-820204075830,7.5,551.20,"StockX UK 7 (ask $520 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T01:08:36Z
-820204075830,8.5,576.64,"StockX UK 8 (ask $544 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T01:08:36Z
-820204075830,9,636.00,"StockX UK 8.5 (ask $600 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T01:08:36Z
-820204075433,6,550.14,"StockX US 6 (ask $519 + 6% fee, browser read 2026-10-05)",https://stockx.com/adidas-x-gucci-gazelle-black-gg-monogram,false,1,2026-10-05T01:08:50Z
-820204075517,8.5,550.14,"StockX UK 8 (ask $519 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:50Z
-355426469262,5.5,422.74,"StockX UK 5 (ask $399 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,6,581.67,"StockX UK 5.5 (ask $549 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,6.5,603.92,"StockX UK 6 (ask $570 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,7,359.17,"StockX UK 6.5 (ask $339 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,7.5,660.07,"StockX UK 7 (ask $623 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,8,529.75,"StockX UK 7.5 (ask $500 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,8.5,601.80,"StockX UK 8 (ask $568 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,9,760.72,"StockX UK 8.5 (ask $718 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,9.5,423.80,"StockX UK 9 (ask $400 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,10,528.69,"StockX UK 9.5 (ask $499 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,10.5,731.06,"StockX UK 10 (ask $690 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,11.5,1115.65,"StockX UK 11 (ask $1053 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,12,507.50,"StockX UK 11.5 (ask $479 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355426469262,13,642.06,"StockX UK 12.5 (ask $606 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T08:11:00Z
-355428047951,5,841.24,"StockX UK 4.5 (ask $794 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,5.5,841.24,"StockX UK 5 (ask $794 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,6,787.21,"StockX UK 5.5 (ask $743 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,6.5,504.32,"StockX UK 6 (ask $476 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,7,825.35,"StockX UK 6.5 (ask $779 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,7.5,820.05,"StockX UK 7 (ask $774 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,8,529.75,"StockX UK 7.5 (ask $500 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,8.5,692.91,"StockX UK 8 (ask $654 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,9,839.12,"StockX UK 8.5 (ask $792 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,9.5,397.31,"StockX UK 9 (ask $375 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,10,610.27,"StockX UK 9.5 (ask $576 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,10.5,1091.29,"StockX UK 10 (ask $1030 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,11,1095.52,"StockX UK 10.5 (ask $1034 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,11.5,1091.29,"StockX UK 11 (ask $1030 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,12,841.24,"StockX UK 11.5 (ask $794 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,12.5,529.75,"StockX UK 12 (ask $500 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,13,588.02,"StockX UK 12.5 (ask $555 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428047951,15,841.24,"StockX UK 14.5 (ask $794 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T08:11:00Z
-355428079713,5.5,,no new pair on StockX 2026-10-05 (browser read),https://stockx.com/gucci-ace-embroidered,false,0,2026-10-05T08:11:00Z
-355428079713,6,905.87,"StockX UK 5.5 (ask $855 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,6.5,1001.23,"StockX UK 6 (ask $945 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,7,1181.34,"StockX UK 6.5 (ask $1115 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,7.5,487.37,"StockX UK 7 (ask $460 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,8,665.37,"StockX UK 7.5 (ask $628 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,8.5,539.29,"StockX UK 8 (ask $509 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,9,1178.16,"StockX UK 8.5 (ask $1112 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,9.5,920.71,"StockX UK 9 (ask $869 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,10,1108.24,"StockX UK 9.5 (ask $1046 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,11,507.50,"StockX UK 10.5 (ask $479 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,11.5,661.13,"StockX UK 11 (ask $624 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,12,635.70,"StockX UK 11.5 (ask $600 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-355428079713,13,423.80,"StockX UK 12.5 (ask $400 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
-820205221528,5.5,415.32,"StockX (ask $392 + fee, checkout-verified formula, browser read 2026-10-05) UK 5",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
-820205221528,6,428.04,"StockX (ask $404 + fee, checkout-verified formula, browser read 2026-10-05) UK 5.5",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
-820205221528,6.5,423.80,"StockX (ask $400 + fee, checkout-verified formula, browser read 2026-10-05) UK 6",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
-820205221528,7,423.80,"StockX (ask $400 + fee, checkout-verified formula, browser read 2026-10-05) UK 6.5",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
-820205221528,11,426.98,"StockX (ask $403 + fee, checkout-verified formula, browser read 2026-10-05) UK 10.5",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
-820205221563,9.5,503.26,"StockX (ask $475 + fee, checkout-verified formula, browser read 2026-10-05) UK 9",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-05T08:22:04Z
-820205221563,10,506.44,"StockX (ask $478 + fee, checkout-verified formula, browser read 2026-10-05) UK 9.5",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-05T08:22:04Z
-820205221563,13,343.28,"StockX (ask $324 + fee, checkout-verified formula, browser read 2026-10-05) UK 12.5",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-05T08:22:04Z
-820205221628,12,511.74,"StockX (ask $483 + fee, checkout-verified formula, browser read 2026-10-05) UK 11.5",https://stockx.com/gucci-interlocking-g-loafers-black-green-red-web,false,1,2026-10-05T08:22:06Z
-820205221669,7.5,592.26,"StockX (ask $559 + fee, browser read 2026-10-05) UK 7",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T08:22:08Z
-820205221669,12,408.97,"StockX (ask $386 + fee, browser read 2026-10-05) UK 11.5",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T08:22:08Z
-820205221669,12.5,528.69,"StockX (ask $499 + fee, browser read 2026-10-05) UK 12",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T08:22:08Z
-820205221669,13.5,505.38,"StockX (ask $477 + fee, browser read 2026-10-05) UK 13",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T08:22:08Z
-820205221755,12.5,452.41,"StockX (ask $427 + fee, checkout-verified formula, browser read 2026-10-05) UK 12",https://stockx.com/gucci-noel-driver-loafer-black,false,1,2026-10-05T08:22:10Z
-820205221855,9,529.75,"StockX (ask $500 + fee, browser read 2026-10-05) UK 8.5",https://stockx.com/gucci-re-web-sneaker-black-gg-canvas,false,1,2026-10-05T08:22:12Z
-820205329339,11.5,360.23,"StockX (ask $340 + fee, browser read 2026-10-05) UK 11",https://stockx.com/gucci-ace-supreme-bees,false,1,2026-10-05T09:02:24Z
-820205329339,14,386.72,"StockX (ask $365 + fee, browser read 2026-10-05) UK 13.5",https://stockx.com/gucci-ace-supreme-bees,false,1,2026-10-05T09:02:24Z
-820205329339,14.5,378.24,"StockX (ask $357 + fee, browser read 2026-10-05) UK 14",https://stockx.com/gucci-ace-supreme-bees,false,1,2026-10-05T09:02:24Z
-820205329431,6.5,422.74,"StockX (ask $399 + fee, browser read 2026-10-05) UK 6",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T09:02:27Z
-820205329431,7,421.68,"StockX (ask $398 + fee, browser read 2026-10-05) UK 6.5",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T09:02:27Z
-820205329431,7.5,412.15,"StockX (ask $389 + fee, browser read 2026-10-05) UK 7",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T09:02:27Z
-820205329431,8,420.62,"StockX (ask $397 + fee, browser read 2026-10-05) UK 7.5",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T09:02:27Z
-820205329431,9,406.85,"StockX (ask $384 + fee, browser read 2026-10-05) UK 8.5",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T09:02:27Z
-820205329431,10.5,456.64,"StockX (ask $431 + fee, browser read 2026-10-05) UK 10",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T09:02:27Z
-820205329595,13.5,578.49,"StockX (ask $546 + fee, browser read 2026-10-05) UK 13",https://stockx.com/gucci-mac80-off-white,false,1,2026-10-05T09:02:29Z
-820205329783,7,519.16,"StockX (ask $490 + fee, browser read 2026-10-05) UK 6.5",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T09:02:31Z
-820205329783,8.5,524.45,"StockX (ask $495 + fee, browser read 2026-10-05) UK 8",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T09:02:31Z
-820205329783,11.5,454.53,"StockX (ask $429 + fee, browser read 2026-10-05) UK 11",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T09:02:31Z
-820205329783,12,447.11,"StockX (ask $422 + fee, browser read 2026-10-05) UK 11.5",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T09:02:31Z
-820205329783,12.5,471.48,"StockX (ask $445 + fee, browser read 2026-10-05) UK 12",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T09:02:31Z
-820205329783,13,450.29,"StockX (ask $425 + fee, browser read 2026-10-05) UK 12.5",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T09:02:31Z
-820205329783,13.5,394.13,"StockX (ask $372 + fee, browser read 2026-10-05) UK 13",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T09:02:31Z
-820205389034,6,1271.40,"StockX (ask $1200 + fee, browser read 2026-10-05) LV 5",https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white,false,1,2026-10-05T09:22:50Z
-820205389034,11,1218.43,"StockX (ask $1150 + fee, browser read 2026-10-05) LV 10",https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white,false,1,2026-10-05T09:22:50Z
+355429309757,5.5,2443.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-05T10:57:00Z
+355429309757,6.5,527.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-05T10:57:00Z
+355429309757,7.5,937.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-05T10:57:00Z
+355429309757,8,421.88,"StockX US M 8 (ask $398 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $645.00",https://stockx.com/gucci-ace-gg-crystal-canvas-blue,false,2,2026-10-05T10:57:00Z
+355429309757,8.5,2443.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-05T10:57:00Z
+355429309757,9,609.50,"StockX US M 9 (ask $575 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $633.00",https://stockx.com/gucci-ace-gg-crystal-canvas-blue,false,2,2026-10-05T10:57:00Z
+355429309757,9.5,647.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-05T10:57:00Z
+355429309757,10,2443.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-05T10:57:00Z
+355429309757,11,821.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-05T10:57:00Z
+355429340181,5.5,862.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-05); also 1 other store(s), next $1239.14",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,2,2026-10-05T10:57:00Z
+355429340181,6,829.00,"GOAT new UK 5.5 = US 6 (browser read 2026-10-05); also 1 other store(s), next $1002.76",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,2,2026-10-05T10:57:00Z
+355429340181,6.5,702.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-05); also 1 other store(s), next $1234.90",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,2,2026-10-05T10:57:00Z
+355429340181,7,1234.90,"StockX US M 7 (ask $1165 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,1,2026-10-05T10:57:00Z
+355429340181,7.5,705.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-05T10:57:00Z
+355429340181,8,1239.14,"StockX US M 8 (ask $1169 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,1,2026-10-05T10:57:00Z
+355429340181,8.5,634.94,"StockX US M 8.5 (ask $599 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $813.00",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,2,2026-10-05T10:57:00Z
+355429340181,9,514.10,"StockX US M 9 (ask $485 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,1,2026-10-05T10:57:00Z
+355429340181,9.5,,no new pair in stock at GOAT/StockX 2026-10-05 (browser/Shopify read),,false,0,2026-10-05T10:57:00Z
+355429340181,10,581.94,"StockX US M 10 (ask $549 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $1165.00",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,2,2026-10-05T10:57:00Z
+355429340181,10.5,,no new pair in stock at GOAT/StockX 2026-10-05 (browser/Shopify read),,false,0,2026-10-05T10:57:00Z
+355429340181,11.5,2443.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-05T10:57:00Z
+355429340181,13.5,795.00,"StockX US M 13.5 (ask $750 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,1,2026-10-05T10:57:00Z
+355429355271,5.5,2443.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-05T10:57:00Z
+355429355271,6,943.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-05T10:57:00Z
+355429355271,6.5,1313.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-05); also 1 other store(s), next $1351.50",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,2,2026-10-05T10:57:00Z
+355429355271,7,2443.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-05T10:57:00Z
+355429355271,7.5,595.72,"StockX US M 7.5 (ask $562 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $943.00",https://stockx.com/gucci-ace-gg-crystal-canvas-black,false,2,2026-10-05T10:57:00Z
+355429355271,8,895.00,"GOAT new UK 7.5 = US 8 (browser read 2026-10-05); also 1 other store(s), next $1038.80",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,2,2026-10-05T10:57:00Z
+355429355271,8.5,985.80,"StockX US M 8.5 (ask $930 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $1405.00",https://stockx.com/gucci-ace-gg-crystal-canvas-black,false,2,2026-10-05T10:57:00Z
+355429355271,9,785.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-05); also 1 other store(s), next $1238.08",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,2,2026-10-05T10:57:00Z
+355429355271,9.5,1043.04,"StockX US M 9.5 (ask $984 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-crystal-canvas-black,false,1,2026-10-05T10:57:00Z
+355429355271,10,703.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-05T10:57:00Z
+355429355271,10.5,811.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-05T10:57:00Z
+355429355271,11.5,1086.50,"StockX US M 11.5 (ask $1025 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-crystal-canvas-black,false,1,2026-10-05T10:57:00Z
+355429385763,4.5,1440.00,GOAT new UK 4 = US 4.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-05T10:57:00Z
+355429385763,5,965.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-05T10:57:00Z
+355429385763,5.5,961.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-05); also 1 other store(s), next $1015.48",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-05T10:57:00Z
+355429385763,6,1057.88,"StockX US M 6 (ask $998 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $1072.00",https://stockx.com/gucci-ace-web-beige-ebony,false,2,2026-10-05T10:57:00Z
+355429385763,6.5,633.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-05); also 2 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-05T10:57:00Z
+355429385763,7,625.00,"Nugnes1920 UK 6.5 = US 7 (Shopify stock read 2026-10-05; ships from Italy); also 2 other store(s), next $837.40",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,3,2026-10-05T10:57:00Z
+355429385763,7.5,670.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-05); also 2 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-05T10:57:00Z
+355429385763,8,625.00,"Nugnes1920 UK 7.5 = US 8 (Shopify stock read 2026-10-05; ships from Italy); also 2 other store(s), next $740.00",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,3,2026-10-05T10:57:00Z
+355429385763,8.5,670.00,"GOAT new UK 8 = US 8.5 (browser read 2026-10-05); also 1 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-05T10:57:00Z
+355429385763,9,670.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-05); also 2 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-05T10:57:00Z
+355429385763,9.5,450.50,"StockX US M 9.5 (ask $425 + 6% fee, browser read 2026-10-05); also 2 other store(s), next $451.00",https://stockx.com/gucci-ace-web-beige-ebony,false,3,2026-10-05T10:57:00Z
+355429385763,10,636.00,"StockX US M 10 (ask $600 + 6% fee, browser read 2026-10-05); also 2 other store(s), next $691.00",https://stockx.com/gucci-ace-web-beige-ebony,false,3,2026-10-05T10:57:00Z
+355429385763,10.5,670.00,"GOAT new UK 10 = US 10.5 (browser read 2026-10-05); also 1 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-05T10:57:00Z
+355429385763,11,646.00,"GOAT new UK 10.5 = US 11 (browser read 2026-10-05); also 2 other store(s), next $625.00",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-05T10:57:00Z
+355429385763,11.5,660.38,"StockX US M 11.5 (ask $623 + 6% fee, browser read 2026-10-05); also 2 other store(s), next $668.00",https://stockx.com/gucci-ace-web-beige-ebony,false,3,2026-10-05T10:57:00Z
+355429385763,12,1015.48,"StockX US M 12 (ask $958 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $1072.00",https://stockx.com/gucci-ace-web-beige-ebony,false,2,2026-10-05T10:57:00Z
+355429385763,12.5,669.00,"GOAT new UK 12 = US 12.5 (browser read 2026-10-05); also 1 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-05T10:57:00Z
+355429385763,13,460.04,"StockX US M 13 (ask $434 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $1073.00",https://stockx.com/gucci-ace-web-beige-ebony,false,2,2026-10-05T10:57:00Z
+355429385763,13.5,835.28,"StockX US M 13.5 (ask $788 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $1084.00",https://stockx.com/gucci-ace-web-beige-ebony,false,2,2026-10-05T10:57:00Z
+355429385763,14,1015.48,"StockX US M 14 (ask $958 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $1073.00",https://stockx.com/gucci-ace-web-beige-ebony,false,2,2026-10-05T10:57:00Z
+355429385763,14.5,1015.48,"StockX US M 14.5 (ask $958 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $1072.00",https://stockx.com/gucci-ace-web-beige-ebony,false,2,2026-10-05T10:57:00Z
+355429385763,15,1015.48,"StockX US M 15 (ask $958 + 6% fee, browser read 2026-10-05); also 1 other store(s), next $1072.00",https://stockx.com/gucci-ace-web-beige-ebony,false,2,2026-10-05T10:57:00Z
+355429385763,15.5,1089.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-05T10:57:00Z
+355429385763,16.5,1196.00,GOAT new UK 16 = US 16.5 (browser read 2026-10-05),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-05T10:57:00Z
+356084785661,,246.48,"Cettire (page read 2026-10-05, Add to bag shown, duties included; code 775189CLNKGANST676145 Palladio)",https://www.cettire.com/products/salvatore-ferragamo-logo-engraved-cuff-links-922605775,false,1,2026-10-05T10:57:00Z
+820204075354,6.5,503.50,"StockX US M 6.5 (ask $475 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-web-black-navy-red,false,1,2026-10-05T10:57:00Z
+820204075354,7.5,379.48,"StockX US M 7.5 (ask $358 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-web-black-navy-red,false,1,2026-10-05T10:57:00Z
+820204075354,13,371.00,"StockX US M 13 (ask $350 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-web-black-navy-red,false,1,2026-10-05T10:57:00Z
+820204075398,7,402.80,"StockX US M 7 (ask $380 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-web-white-green-red,false,1,2026-10-05T10:57:00Z
+820204075398,12.5,493.96,"StockX US M 12.5 (ask $466 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-web-white-green-red,false,1,2026-10-05T10:57:00Z
+820204075433,6.5,446.26,"StockX US M 6.5 (ask $421 + 6% fee, browser read 2026-10-05)",https://stockx.com/adidas-x-gucci-gazelle-black-gg-monogram,false,1,2026-10-05T10:57:00Z
+820204075474,7.5,570.28,"StockX US M 7.5 (ask $538 + 6% fee, browser read 2026-10-05)",https://stockx.com/adidas-x-gucci-gazelle-blue,false,1,2026-10-05T10:57:00Z
+820204075517,6,289.38,"StockX US M 6 (ask $273 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075517,7,302.10,"StockX US M 7 (ask $285 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075517,8,507.74,"StockX US M 8 (ask $479 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075517,11.5,499.26,"StockX US M 11.5 (ask $471 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075517,12,507.74,"StockX US M 12 (ask $479 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075517,12.5,451.56,"StockX US M 12.5 (ask $426 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075592,6.5,509.86,"StockX US M 6.5 (ask $481 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075592,7,539.54,"StockX US M 7 (ask $509 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075592,7.5,508.80,"StockX US M 7.5 (ask $480 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075592,9,530.00,"StockX US M 9 (ask $500 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+820204075633,9,530.00,"StockX US M 9 (ask $500 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-re-web-sneaker-gg-canvas-white-beige,false,1,2026-10-05T10:57:00Z
+820204075737,12.5,422.94,"StockX US M 12.5 (ask $399 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-rhyton-distressed,false,1,2026-10-05T10:57:00Z
+820204075737,13.5,323.30,"StockX US M 13.5 (ask $305 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-rhyton-distressed,false,1,2026-10-05T10:57:00Z
+820204075830,7,422.94,"StockX US M 7 (ask $399 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T10:57:00Z
+820204075830,7.5,551.20,"StockX US M 7.5 (ask $520 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T10:57:00Z
+820204075830,8.5,576.64,"StockX US M 8.5 (ask $544 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T10:57:00Z
+820204075830,9,636.00,"StockX US M 9 (ask $600 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T10:57:00Z
+820204075433,6,520.46,"StockX US M 6 (ask $491 + 6% fee, browser read 2026-10-05)",https://stockx.com/adidas-x-gucci-gazelle-black-gg-monogram,false,1,2026-10-05T10:57:00Z
+820204075517,8.5,550.14,"StockX US M 8.5 (ask $519 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T10:57:00Z
+355426469262,5.5,422.94,"StockX US M 5.5 (ask $399 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,6,581.94,"StockX US M 6 (ask $549 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,6.5,604.20,"StockX US M 6.5 (ask $570 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,7,359.34,"StockX US M 7 (ask $339 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,7.5,660.38,"StockX US M 7.5 (ask $623 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,8,530.00,"StockX US M 8 (ask $500 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,8.5,602.08,"StockX US M 8.5 (ask $568 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,9,761.08,"StockX US M 9 (ask $718 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,9.5,424.00,"StockX US M 9.5 (ask $400 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,10,528.94,"StockX US M 10 (ask $499 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,10.5,731.40,"StockX US M 10.5 (ask $690 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,11.5,1116.18,"StockX US M 11.5 (ask $1053 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,12,507.74,"StockX US M 12 (ask $479 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355426469262,13,642.36,"StockX US M 13 (ask $606 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-05T10:57:00Z
+355428047951,5,841.64,"StockX US M 5 (ask $794 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,5.5,841.64,"StockX US M 5.5 (ask $794 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,6,787.58,"StockX US M 6 (ask $743 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,6.5,504.56,"StockX US M 6.5 (ask $476 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,7,825.74,"StockX US M 7 (ask $779 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,7.5,820.44,"StockX US M 7.5 (ask $774 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,8,530.00,"StockX US M 8 (ask $500 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,8.5,693.24,"StockX US M 8.5 (ask $654 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,9,839.52,"StockX US M 9 (ask $792 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,9.5,397.50,"StockX US M 9.5 (ask $375 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,10,610.56,"StockX US M 10 (ask $576 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,10.5,1091.80,"StockX US M 10.5 (ask $1030 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,11,1096.04,"StockX US M 11 (ask $1034 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,11.5,1091.80,"StockX US M 11.5 (ask $1030 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,12,841.64,"StockX US M 12 (ask $794 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,12.5,530.00,"StockX US M 12.5 (ask $500 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,13,588.30,"StockX US M 13 (ask $555 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428047951,15,841.64,"StockX US M 15 (ask $794 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-bee,false,1,2026-10-05T10:57:00Z
+355428079713,5.5,,no new pair in stock at StockX 2026-10-05 (browser/Shopify read),,false,0,2026-10-05T10:57:00Z
+355428079713,6,906.30,"StockX US M 6 (ask $855 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,6.5,1001.70,"StockX US M 6.5 (ask $945 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,7,1181.90,"StockX US M 7 (ask $1115 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,7.5,487.60,"StockX US M 7.5 (ask $460 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,8,665.68,"StockX US M 8 (ask $628 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,8.5,539.54,"StockX US M 8.5 (ask $509 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,9,1178.72,"StockX US M 9 (ask $1112 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,9.5,921.14,"StockX US M 9.5 (ask $869 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,10,1108.76,"StockX US M 10 (ask $1046 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,11,507.74,"StockX US M 11 (ask $479 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,11.5,661.44,"StockX US M 11.5 (ask $624 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,12,636.00,"StockX US M 12 (ask $600 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+355428079713,13,424.00,"StockX US M 13 (ask $400 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T10:57:00Z
+820205221528,5.5,415.52,"StockX US M 5.5 (ask $392 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T10:57:00Z
+820205221528,6,428.24,"StockX US M 6 (ask $404 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T10:57:00Z
+820205221528,6.5,424.00,"StockX US M 6.5 (ask $400 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T10:57:00Z
+820205221528,7,424.00,"StockX US M 7 (ask $400 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T10:57:00Z
+820205221528,11,425.06,"StockX US M 11 (ask $401 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T10:57:00Z
+820205221563,9.5,503.50,"StockX US M 9.5 (ask $475 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-05T10:57:00Z
+820205221563,10,503.50,"StockX US M 10 (ask $475 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-05T10:57:00Z
+820205221563,13,343.44,"StockX US M 13 (ask $324 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-05T10:57:00Z
+820205221628,12,511.98,"StockX US M 12 (ask $483 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-interlocking-g-loafers-black-green-red-web,false,1,2026-10-05T10:57:00Z
+820205221669,7.5,592.54,"StockX US M 7.5 (ask $559 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T10:57:00Z
+820205221669,12,409.16,"StockX US M 12 (ask $386 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T10:57:00Z
+820205221669,12.5,528.94,"StockX US M 12.5 (ask $499 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T10:57:00Z
+820205221669,13.5,505.62,"StockX US M 13.5 (ask $477 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T10:57:00Z
+820205221755,12.5,452.62,"StockX US M 12.5 (ask $427 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-noel-driver-loafer-black,false,1,2026-10-05T10:57:00Z
+820205221855,9,530.00,"StockX US M 9 (ask $500 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-re-web-sneaker-black-gg-canvas,false,1,2026-10-05T10:57:00Z
+820205329339,11.5,360.40,"StockX US M 11.5 (ask $340 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-supreme-bees,false,1,2026-10-05T10:57:00Z
+820205329339,14,386.90,"StockX US M 14 (ask $365 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-supreme-bees,false,1,2026-10-05T10:57:00Z
+820205329339,14.5,378.42,"StockX US M 14.5 (ask $357 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-supreme-bees,false,1,2026-10-05T10:57:00Z
+820205329431,6.5,422.94,"StockX US M 6.5 (ask $399 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T10:57:00Z
+820205329431,7,421.88,"StockX US M 7 (ask $398 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T10:57:00Z
+820205329431,7.5,412.34,"StockX US M 7.5 (ask $389 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T10:57:00Z
+820205329431,8,420.82,"StockX US M 8 (ask $397 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T10:57:00Z
+820205329431,9,407.04,"StockX US M 9 (ask $384 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T10:57:00Z
+820205329431,10.5,456.86,"StockX US M 10.5 (ask $431 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-05T10:57:00Z
+820205329595,13.5,578.76,"StockX US M 13.5 (ask $546 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-mac80-off-white,false,1,2026-10-05T10:57:00Z
+820205329783,7,519.40,"StockX US M 7 (ask $490 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T10:57:00Z
+820205329783,8.5,524.70,"StockX US M 8.5 (ask $495 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T10:57:00Z
+820205329783,11.5,454.74,"StockX US M 11.5 (ask $429 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T10:57:00Z
+820205329783,12,447.32,"StockX US M 12 (ask $422 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T10:57:00Z
+820205329783,12.5,471.70,"StockX US M 12.5 (ask $445 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T10:57:00Z
+820205329783,13,450.50,"StockX US M 13 (ask $425 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T10:57:00Z
+820205329783,13.5,394.32,"StockX US M 13.5 (ask $372 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T10:57:00Z
+820205389034,6,1272.00,"StockX US M 6 (ask $1200 + 6% fee, browser read 2026-10-05)",https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white,false,1,2026-10-05T10:57:00Z
+820205389034,11,1219.00,"StockX US M 11 (ask $1150 + 6% fee, browser read 2026-10-05)",https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white,false,1,2026-10-05T10:57:00Z
