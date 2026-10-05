@@ -26,7 +26,7 @@ SCOPES = [
 MARKETING = "https://api.ebay.com/oauth/api_scope/sell.marketing"   # Promoted Listings (needs re-consent, Oct 2026)
 ANALYTICS = "https://api.ebay.com/oauth/api_scope/sell.analytics.readonly"  # listing views (needs re-consent, Oct 5)
 NEGOTIATION = "https://api.ebay.com/oauth/api_scope/sell.negotiation"  # send offers to watchers (Oct 5)
-CONSENT_SCOPES = SCOPES + [MARKETING, ANALYTICS, NEGOTIATION]
+CONSENT_SCOPES = SCOPES + [MARKETING, ANALYTICS]   # NEGOTIATION gave invalid_scope on Oct 5: not enabled for this app
 
 _cache: dict = {}
 
