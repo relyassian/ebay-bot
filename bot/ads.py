@@ -45,6 +45,13 @@ def shoe_item_ids() -> list[str]:
     return ids
 
 
+def bot_created_ids() -> list[str]:
+    st = ROOT / "data" / "drafts_state.json"
+    if not st.exists():
+        return []
+    return [str(v["item_id"]) for v in json.loads(st.read_text()).values() if v.get("status") == "live"]
+
+
 def covered_price(price: float, rate: float, cfg: dict) -> float:
     p = cfg["profit"]
     keep = 1 - p["ebay_fee_rate"] - p["inad_buffer_rate"]
@@ -97,8 +104,13 @@ def setup(live: bool) -> list[str]:
                 already += 1
     else:
         out.append(f"⚠️ eBay didn't accept the ads ({r.status_code}): {r.text[:200]}")
-    # raise prices once per listing so the ad fee doesn't eat the profit
+    # raise prices once per listing so the ad fee doesn't eat the profit. Listings the bot created were
+    # priced with the ad fee already included (promoted_rate in config), so they are never raised.
     token, raised = access_token(), []
+    for item_id in bot_created_ids():
+        if item_id not in d["raised"]:
+            d["raised"].append(item_id)
+    _save(d)
     for item_id in ids:
         if item_id in d["raised"]:
             continue

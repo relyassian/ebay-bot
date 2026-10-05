@@ -208,6 +208,12 @@ def publish(live: bool) -> list[str]:
             state[cid] = {"status": "invalid", "errors": msgs[:5]}
             out.append(f"⚠️ {cid}: eBay refused to list it:\n" + "\n".join(msgs[:5]))
     save_state(state)
+    if live and any(v.get("status") == "live" for k, v in state.items() if k in ready):
+        try:                                        # promote new shoe listings at the same ad rate (no price bump:
+            from bot.ads import setup               # their prices already include the ad fee)
+            setup(live)
+        except Exception as e:
+            out.append(f"⚠️ Listed, but couldn't add the ads: {str(e)[:150]}")
     return out
 
 
