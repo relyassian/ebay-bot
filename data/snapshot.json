@@ -1881,62 +1881,72 @@
    {
     "US Shoe Size": "5.5",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "6",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "6.5",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "7",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 993.99,
-    "available": 0
+    "price": 1001.99,
+    "available": 1
    },
    {
     "US Shoe Size": "8",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "8.5",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 993.99,
-    "available": 0
+    "price": 1131.99,
+    "available": 1
    },
    {
     "US Shoe Size": "9.5",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "10",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "10.5",
-    "price": 993.99,
-    "available": 0
+    "price": 1093.99,
+    "available": 1
    },
    {
     "US Shoe Size": "11.5",
     "price": 993.99,
     "available": 0
+   },
+   {
+    "US Shoe Size": "12",
+    "price": 993.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "13",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -2036,7 +2046,7 @@
    {
     "US Shoe Size": "6.5",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "7",
@@ -2051,12 +2061,12 @@
    {
     "US Shoe Size": "8",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 993.99,
-    "available": 0
+    "price": 1043.99,
+    "available": 1
    },
    {
     "US Shoe Size": "9",
@@ -2066,12 +2076,12 @@
    {
     "US Shoe Size": "9.5",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "10",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "10.5",
@@ -2091,12 +2101,17 @@
    {
     "US Shoe Size": "12.5",
     "price": 993.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "15",
     "price": 993.99,
     "available": 0
+   },
+   {
+    "US Shoe Size": "13",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -2209,8 +2224,33 @@
    },
    {
     "US Shoe Size": "8",
+    "price": 1008.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "7.5",
     "price": 993.99,
-    "available": 0
+    "available": 1
+   },
+   {
+    "US Shoe Size": "8.5",
+    "price": 993.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "11",
+    "price": 993.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "12",
+    "price": 993.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "13",
+    "price": 993.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -2826,17 +2866,17 @@
    {
     "US Shoe Size": "6.5",
     "price": 949.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "7.5",
     "price": 949.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "13",
     "price": 949.99,
-    "available": 0
+    "available": 1
    }
   ],
   "photos": [
@@ -2893,12 +2933,12 @@
    {
     "US Shoe Size": "7",
     "price": 949.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "12.5",
     "price": 949.99,
-    "available": 0
+    "available": 1
    }
   ],
   "photos": [
@@ -2955,7 +2995,12 @@
    {
     "US Shoe Size": "6.5",
     "price": 899.99,
-    "available": 0
+    "available": 1
+   },
+   {
+    "US Shoe Size": "6",
+    "price": 899.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -3012,7 +3057,7 @@
    {
     "US Shoe Size": "7.5",
     "price": 899.99,
-    "available": 0
+    "available": 1
    }
   ],
   "photos": [
@@ -3069,32 +3114,37 @@
    {
     "US Shoe Size": "6",
     "price": 899.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "7",
     "price": 899.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "8",
     "price": 899.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "11.5",
     "price": 899.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "12",
     "price": 899.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "12.5",
     "price": 899.99,
-    "available": 0
+    "available": 1
+   },
+   {
+    "US Shoe Size": "8.5",
+    "price": 899.99,
+    "available": 1
    }
   ],
   "photos": [
@@ -3151,22 +3201,22 @@
    {
     "US Shoe Size": "6.5",
     "price": 1049.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "7",
     "price": 1049.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "7.5",
     "price": 1049.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "9",
     "price": 1049.99,
-    "available": 0
+    "available": 1
    }
   ],
   "photos": [
@@ -3223,7 +3273,7 @@
    {
     "US Shoe Size": "9",
     "price": 1149.99,
-    "available": 0
+    "available": 1
    }
   ],
   "photos": [
@@ -3280,12 +3330,12 @@
    {
     "US Shoe Size": "12.5",
     "price": 849.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "13.5",
     "price": 849.99,
-    "available": 0
+    "available": 1
    }
   ],
   "photos": [
@@ -3342,28 +3392,788 @@
    {
     "US Shoe Size": "7",
     "price": 1099.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "7.5",
     "price": 1099.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "8.5",
     "price": 1099.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "9",
     "price": 1099.99,
-    "available": 0
+    "available": 1
    }
   ],
   "photos": [
    "https://i.ebayimg.com/images/g/SkkAAOSwP9BnupCf/s-l1600.jpg"
   ],
   "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Screener GG Canvas Sneaker</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Black/Green/Red</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Screener GG Canvas Sneaker</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Black/Green/Red</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 7</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 6.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 7.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 7</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 8.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 8</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 9</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 8.5</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205221528",
+  "title": "Gucci Interlocking G Driver Moccasin Brown Men's New",
+  "category": "53120",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "759.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "Interlocking G Driver Moccasin"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Loafer"
+   ],
+   "Color": [
+    "Brown"
+   ],
+   "Upper Material": [
+    "Leather"
+   ],
+   "Style": [
+    "Loafer"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "5.5",
+    "price": 759.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "6",
+    "price": 759.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "6.5",
+    "price": 759.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "7",
+    "price": 759.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "11",
+    "price": 759.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/QtEAAeSwGDhoxgdd/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Interlocking G Driver Moccasin</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Brown</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Interlocking G Driver Moccasin</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Brown</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Leather</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 5.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 6</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 5.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 6.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 6</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 7</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 6.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 11</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 10.5</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205221563",
+  "title": "Gucci Interlocking G Driver Moccasin Washed Indigo Men's New",
+  "category": "53120",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "824.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "Interlocking G Driver Moccasin"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Loafer"
+   ],
+   "Color": [
+    "Blue"
+   ],
+   "Upper Material": [
+    "Leather"
+   ],
+   "Style": [
+    "Loafer"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "9.5",
+    "price": 824.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "10",
+    "price": 824.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "13",
+    "price": 824.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/nrsAAeSwmiFqenvp/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Interlocking G Driver Moccasin</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Washed Indigo</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Interlocking G Driver Moccasin</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Washed Indigo</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Leather</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 9.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 9</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 10</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 9.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 13</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 12.5</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205221628",
+  "title": "Gucci Interlocking G Loafer with Web Black/Green/Red Men's New",
+  "category": "53120",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "934.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "Interlocking G Loafer with Web"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Loafer"
+   ],
+   "Color": [
+    "Black"
+   ],
+   "Upper Material": [
+    "Leather"
+   ],
+   "Style": [
+    "Loafer"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "12",
+    "price": 934.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/cQIAAeSwT7xojX8L/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Interlocking G Loafer with Web</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Black/Green/Red</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Interlocking G Loafer with Web</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Black/Green/Red</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Leather</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 12</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 11.5</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205221669",
+  "title": "Gucci MAC80 Sneaker Black/Off-White Men's New",
+  "category": "15709",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "1044.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "MAC80 Sneaker"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Sneaker"
+   ],
+   "Color": [
+    "Black"
+   ],
+   "Upper Material": [
+    "Leather"
+   ],
+   "Product Line": [
+    "MAC80"
+   ],
+   "Style": [
+    "Sneaker"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "7.5",
+    "price": 1044.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "12",
+    "price": 1044.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "12.5",
+    "price": 1044.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "13.5",
+    "price": 1044.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/xWMAAeSwq2xpTqHH/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>MAC80 Sneaker</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Black/Off-White</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>MAC80 Sneaker</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Black/Off-White</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Leather</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 7.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 7</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 12</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 11.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 12.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 12</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 13.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 13</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205221755",
+  "title": "Gucci Noel Driver Loafer Black Men's New",
+  "category": "53120",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "934.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "Noel Driver Loafer"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Loafer"
+   ],
+   "Color": [
+    "Black"
+   ],
+   "Upper Material": [
+    "Leather"
+   ],
+   "Style": [
+    "Loafer"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "12.5",
+    "price": 934.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/pNgAAeSwmbxqtwZ2/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Noel Driver Loafer</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Black</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Noel Driver Loafer</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Black</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Leather</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 12.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 12</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205221855",
+  "title": "Gucci Re-Web GG Canvas Sneaker Black Men's New",
+  "category": "15709",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "1309.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "Re-Web GG Canvas Sneaker"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Sneaker"
+   ],
+   "Color": [
+    "Black"
+   ],
+   "Upper Material": [
+    "Canvas"
+   ],
+   "Product Line": [
+    "Re-Web"
+   ],
+   "Style": [
+    "Sneaker"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "9",
+    "price": 1309.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/u8EAAeSwHrtqtwZk/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Re-Web GG Canvas Sneaker</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Black</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Re-Web GG Canvas Sneaker</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Black</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Canvas</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 9</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 8.5</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205329339",
+  "title": "Gucci Ace GG Supreme Bees Sneaker Beige/Ebony Men's New",
+  "category": "15709",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "714.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "Ace GG Supreme Bees Sneaker"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Sneaker"
+   ],
+   "Color": [
+    "Beige"
+   ],
+   "Upper Material": [
+    "Canvas"
+   ],
+   "Product Line": [
+    "Ace"
+   ],
+   "Style": [
+    "Sneaker"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "11.5",
+    "price": 714.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "14",
+    "price": 714.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "14.5",
+    "price": 714.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/~xQAAeSwZ35psPi1/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Ace GG Supreme Bees Sneaker</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Beige/Ebony</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Ace GG Supreme Bees Sneaker</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Beige/Ebony</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Canvas</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 11.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 11</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 14</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 13.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 14.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 14</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205329431",
+  "title": "Gucci Ace Sneaker with Perforated Interlocking G White Men's New",
+  "category": "15709",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "749.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "Ace Sneaker with Perforated Interlocking G"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Sneaker"
+   ],
+   "Color": [
+    "White"
+   ],
+   "Upper Material": [
+    "Leather"
+   ],
+   "Product Line": [
+    "Ace"
+   ],
+   "Style": [
+    "Sneaker"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "6.5",
+    "price": 749.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "7",
+    "price": 749.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "7.5",
+    "price": 749.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "8",
+    "price": 749.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "9",
+    "price": 749.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "10.5",
+    "price": 749.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/aRUAAeSwDJFpTqGv/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Ace Sneaker with Perforated Interlocking G</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>White</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Ace Sneaker with Perforated Interlocking G</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>White</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Leather</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 6.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 6</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 7</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 6.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 7.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 7</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 8</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 7.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 9</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 8.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 10.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 10</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205329595",
+  "title": "Gucci MAC80 Sneaker Off-White Men's New",
+  "category": "15709",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "1044.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "MAC80 Sneaker"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Sneaker"
+   ],
+   "Color": [
+    "White"
+   ],
+   "Upper Material": [
+    "Leather"
+   ],
+   "Product Line": [
+    "MAC80"
+   ],
+   "Style": [
+    "Sneaker"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "13.5",
+    "price": 1044.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/WL4AAeSwKe9pTqGQ/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>MAC80 Sneaker</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Off-White</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>MAC80 Sneaker</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Off-White</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Leather</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 13.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 13</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205329783",
+  "title": "Gucci Tennis 1977 High-Top Sneaker Beige/Ebony GG Men's New",
+  "category": "15709",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "869.99",
+  "specifics": {
+   "Brand": [
+    "Gucci"
+   ],
+   "Model": [
+    "Tennis 1977 High-Top Sneaker"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Sneaker"
+   ],
+   "Color": [
+    "Beige"
+   ],
+   "Upper Material": [
+    "Canvas"
+   ],
+   "Product Line": [
+    "Tennis 1977"
+   ],
+   "Style": [
+    "Sneaker"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "7",
+    "price": 869.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "8.5",
+    "price": 869.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "11.5",
+    "price": 869.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "12",
+    "price": 869.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "12.5",
+    "price": 869.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "13",
+    "price": 869.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "13.5",
+    "price": 869.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/pI4AAOSwnqlnupCO/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Gucci</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Tennis 1977 High-Top Sneaker</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Beige/Ebony GG</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Gucci</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Tennis 1977 High-Top Sneaker</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Beige/Ebony GG</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Canvas</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Gucci's own UK size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 7</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 6.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 8.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 8</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 11.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 11</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 12</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 11.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 12.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 12</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 13</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 12.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 13.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>UK UK 13</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "820205389034",
+  "title": "Louis Vuitton LV Skate Sneaker Beige/White Men's New",
+  "category": "15709",
+  "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
+  "condition": "New with box",
+  "sku": null,
+  "price": "1722.99",
+  "specifics": {
+   "Brand": [
+    "Louis Vuitton"
+   ],
+   "Model": [
+    "LV Skate Sneaker"
+   ],
+   "Department": [
+    "Men"
+   ],
+   "Type": [
+    "Sneaker"
+   ],
+   "Color": [
+    "Beige"
+   ],
+   "Product Line": [
+    "LV Skate"
+   ],
+   "Style": [
+    "Sneaker"
+   ]
+  },
+  "sizes": [
+   {
+    "US Shoe Size": "6",
+    "price": 1791.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "11",
+    "price": 1722.99,
+    "available": 1
+   }
+  ],
+  "photos": [
+   "https://i.ebayimg.com/images/g/aK4AAOSwAeVnupCD/s-l1600.jpg"
+  ],
+  "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Louis Vuitton</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>LV Skate Sneaker</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Beige/White</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Louis Vuitton</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>LV Skate Sneaker</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Beige/White</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Louis Vuitton's own LV (UK) size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 6</td><td style='padding:8px;border:1px solid #e2e2e2;'>LV (UK) LV 5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 11</td><td style='padding:8px;border:1px solid #e2e2e2;'>LV (UK) LV 10</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
   "dispatch_days": "3",
   "shipping_type": "Calculated",
   "ship_costs": [],
