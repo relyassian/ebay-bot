@@ -1,4 +1,12 @@
 {
+  "gucci-ace-gg-supreme-bees": {
+    "approved_by": "auto (Rafael's standing rule, Oct 5)",
+    "status": "approved"
+  },
+  "gucci-ace-perforated-g-white": {
+    "approved_by": "auto (Rafael's standing rule, Oct 5)",
+    "status": "approved"
+  },
   "gucci-ace-web-black": {
     "item_id": "820204075354",
     "status": "live"
@@ -39,6 +47,10 @@
     "item_id": "820205221669",
     "status": "live"
   },
+  "gucci-mac80-off-white": {
+    "approved_by": "auto (Rafael's standing rule, Oct 5)",
+    "status": "approved"
+  },
   "gucci-noel-driver-black": {
     "item_id": "820205221755",
     "status": "live"
@@ -58,5 +70,9 @@
   "gucci-screener-black-gg": {
     "item_id": "820204075830",
     "status": "live"
+  },
+  "gucci-tennis-1977-high-beige": {
+    "approved_by": "auto (Rafael's standing rule, Oct 5)",
+    "status": "approved"
   }
 }
