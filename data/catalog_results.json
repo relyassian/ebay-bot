@@ -1,8 +1,8 @@
 {
  "576223 FAD94 1058": [
   {
-   "epid": "5074423520",
-   "title": "Size 8 - Gucci GG Screener GG Canvas - Black Green Red",
+   "epid": "3074415469",
+   "title": "Size 5.5 - Gucci GG Screener GG Canvas - Black Green Red",
    "mpn": [
     "576223FAD941058"
    ],
@@ -33,7 +33,7 @@
      "2024"
     ],
     "US Shoe Size": [
-     "8"
+     "5.5"
     ],
     "Style Code": [
      "576223-FAD94-1058"
@@ -81,6 +81,53 @@
     ],
     "US Shoe Size": [
      "6.5"
+    ],
+    "Style Code": [
+     "576223-FAD94-1058"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "14074406292",
+   "title": "Size 8.5 - Gucci GG Screener GG Canvas - Black Green Red",
+   "mpn": [
+    "576223FAD941058"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/SkkAAOSwP9BnupCf/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Screener"
+    ],
+    "Model": [
+     "Gucci Screener"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "8.5"
     ],
     "Style Code": [
      "576223-FAD94-1058"
@@ -230,51 +277,6 @@
    "match": false
   },
   {
-   "epid": "28073608761",
-   "title": "Size 8 - Gucci Driver Loafer Horsebit - Green",
-   "mpn": [
-    "752621D3V003120"
-   ],
-   "gtin": [],
-   "images": [],
-   "aspects": {
-    "Upper Material": [
-     "Leather"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Product Line": [
-     "Gucci Driver"
-    ],
-    "Model": [
-     "Gucci Driver"
-    ],
-    "Color": [
-     "Green"
-    ],
-    "Release Year": [
-     "2023"
-    ],
-    "US Shoe Size": [
-     "8"
-    ],
-    "Style Code": [
-     "752621-D3V00-3120"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Gucci"
-    ]
-   },
-   "match": false
-  },
-  {
    "epid": "22029755093",
    "title": "Square D MAL361000 1000A Circuit Breaker",
    "mpn": [
@@ -323,6 +325,51 @@
     ],
     "Number of Phases": [
      "3"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "28073608761",
+   "title": "Size 8 - Gucci Driver Loafer Horsebit - Green",
+   "mpn": [
+    "752621D3V003120"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Driver"
+    ],
+    "Model": [
+     "Gucci Driver"
+    ],
+    "Color": [
+     "Green"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "8"
+    ],
+    "Style Code": [
+     "752621-D3V00-3120"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
     ]
    },
    "match": false
@@ -713,6 +760,52 @@
    "match": false
   },
   {
+   "epid": "21061300284",
+   "title": "2022 Leaf Pro Set Metal - Action Ink Xavier Hutchinson #AI-XH1 Red White & Blue Prismatic /10 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Print Run": [
+     "10"
+    ],
+    "Insert Set": [
+     "Action Ink"
+    ],
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "Red White & Blue Prismatic"
+    ],
+    "Card Number": [
+     "AI-XH1"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Collegiate Athletic Association (NCAA)"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Xavier Hutchinson"
+    ],
+    "Set": [
+     "2022 Leaf Pro Set Metal"
+    ],
+    "Season": [
+     "2022"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "11092365534",
    "title": "2025 Panini Prizm Black - Calvin Johnson #56 Gold Vinyl Prizm Autographs /5 (AU)",
    "mpn": [],
@@ -755,52 +848,6 @@
     ],
     "Season": [
      "2025"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "21061300284",
-   "title": "2022 Leaf Pro Set Metal - Action Ink Xavier Hutchinson #AI-XH1 Red White & Blue Prismatic /10 (AU, RC)",
-   "mpn": [],
-   "gtin": [],
-   "images": [],
-   "aspects": {
-    "Print Run": [
-     "10"
-    ],
-    "Insert Set": [
-     "Action Ink"
-    ],
-    "Sport": [
-     "Football"
-    ],
-    "Parallel/Variety": [
-     "Red White & Blue Prismatic"
-    ],
-    "Card Number": [
-     "AI-XH1"
-    ],
-    "Features": [
-     "Rookie",
-     "Insert",
-     "Serial Numbered",
-     "Parallel/Variety"
-    ],
-    "League": [
-     "National Collegiate Athletic Association (NCAA)"
-    ],
-    "Manufacturer": [
-     "Leaf"
-    ],
-    "Player/Athlete": [
-     "Xavier Hutchinson"
-    ],
-    "Set": [
-     "2022 Leaf Pro Set Metal"
-    ],
-    "Season": [
-     "2022"
     ]
    },
    "match": false
@@ -944,48 +991,98 @@
    "match": false
   },
   {
-   "epid": "6055591468",
-   "title": "2021 Panini Prizm - Leonard Floyd #70 Gold Shimmer Prizm /10",
+   "epid": "28064169229",
+   "title": "2023 Bowman Chrome Sapphire Edition - Prospects Yosy Galan #BCP-221 Padparadscha /1 (RC)",
    "mpn": [],
    "gtin": [],
    "images": [
-    "https://i.ebayimg.com/images/g/3oAAAOSwtQRnpiv1/s-l1600.jpg"
+    "https://i.ebayimg.com/images/g/OkcAAeSwQIlqtP2W/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Print Run": [
+     "1"
+    ],
+    "Insert Set": [
+     "Prospects"
+    ],
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Padparadscha"
+    ],
+    "Card Number": [
+     "BCP-221"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "One of One",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Yosy Galan"
+    ],
+    "Set": [
+     "2023 Bowman Chrome Sapphire Edition"
+    ],
+    "Team": [
+     "Texas Rangers"
+    ],
+    "Season": [
+     "2023"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21077840053",
+   "title": "2023 Leaf Pro Set Metal - Campus Vip Autographs Xavier Hutchinson #VIP-XH1 Pink Prismatic /10 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/HjwAAOSwXPpoALX7/s-l1600.jpg"
    ],
    "aspects": {
     "Sport": [
      "Football"
     ],
+    "Parallel/Variety": [
+     "Pink Prismatic"
+    ],
     "Print Run": [
      "10"
     ],
-    "Parallel/Variety": [
-     "Gold Shimmer Prizm"
+    "Insert Set": [
+     "Campus Vip Autographs"
     ],
     "Card Number": [
-     "70"
+     "VIP-XH1"
     ],
     "Features": [
+     "Rookie",
+     "Insert",
      "Serial Numbered",
-     "Base Set",
      "Parallel/Variety"
     ],
-    "League": [
-     "National Football League (NFL)"
-    ],
     "Manufacturer": [
-     "Panini"
+     "Leaf"
     ],
     "Player/Athlete": [
-     "Leonard Floyd"
+     "Xavier Hutchinson"
     ],
     "Set": [
-     "2021 Panini Prizm"
-    ],
-    "Team": [
-     "Los Angeles Rams"
+     "2023 Leaf Pro Set Metal"
     ],
     "Season": [
-     "2021"
+     "2023"
     ]
    },
    "match": false
@@ -1043,46 +1140,48 @@
    "match": false
   },
   {
-   "epid": "21077840053",
-   "title": "2023 Leaf Pro Set Metal - Campus Vip Autographs Xavier Hutchinson #VIP-XH1 Pink Prismatic /10 (AU, RC)",
+   "epid": "6055591468",
+   "title": "2021 Panini Prizm - Leonard Floyd #70 Gold Shimmer Prizm /10",
    "mpn": [],
    "gtin": [],
    "images": [
-    "https://i.ebayimg.com/images/g/HjwAAOSwXPpoALX7/s-l1600.jpg"
+    "https://i.ebayimg.com/images/g/3oAAAOSwtQRnpiv1/s-l1600.jpg"
    ],
    "aspects": {
     "Sport": [
      "Football"
     ],
-    "Parallel/Variety": [
-     "Pink Prismatic"
-    ],
     "Print Run": [
      "10"
     ],
-    "Insert Set": [
-     "Campus Vip Autographs"
+    "Parallel/Variety": [
+     "Gold Shimmer Prizm"
     ],
     "Card Number": [
-     "VIP-XH1"
+     "70"
     ],
     "Features": [
-     "Rookie",
-     "Insert",
      "Serial Numbered",
+     "Base Set",
      "Parallel/Variety"
     ],
+    "League": [
+     "National Football League (NFL)"
+    ],
     "Manufacturer": [
-     "Leaf"
+     "Panini"
     ],
     "Player/Athlete": [
-     "Xavier Hutchinson"
+     "Leonard Floyd"
     ],
     "Set": [
-     "2023 Leaf Pro Set Metal"
+     "2021 Panini Prizm"
+    ],
+    "Team": [
+     "Los Angeles Rams"
     ],
     "Season": [
-     "2023"
+     "2021"
     ]
    },
    "match": false
@@ -1176,57 +1275,6 @@
     ],
     "Season": [
      "2022"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "28075283533",
-   "title": "2024-25 Panini Prizm - Rookie Signatures Donovan Clingan #RSI-DCB 1st Off the Line Fotl Blue Shimmer Prizm /25 (AU, RC)",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/q~IAAOSwBn5oTIy5/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Print Run": [
-     "25"
-    ],
-    "Insert Set": [
-     "Rookie Signatures"
-    ],
-    "Sport": [
-     "Basketball"
-    ],
-    "Parallel/Variety": [
-     "1st Off the Line Fotl Blue Shimmer Prizm"
-    ],
-    "Card Number": [
-     "RSI-DCB"
-    ],
-    "Features": [
-     "Rookie",
-     "Insert",
-     "Serial Numbered",
-     "Parallel/Variety"
-    ],
-    "League": [
-     "National Basketball Association (NBA)"
-    ],
-    "Manufacturer": [
-     "Panini"
-    ],
-    "Player/Athlete": [
-     "Donovan Clingan"
-    ],
-    "Set": [
-     "2024-25 Panini Prizm"
-    ],
-    "Team": [
-     "Portland Trail Blazers"
-    ],
-    "Season": [
-     "2024-25"
     ]
    },
    "match": false
@@ -1789,55 +1837,8 @@
    "match": true
   },
   {
-   "epid": "26074421933",
-   "title": "Size 6.5 - Gucci Re-Web Sneaker GG Canvas - Beige Ivory Blue",
-   "mpn": [
-    "787476AADHW9552"
-   ],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/0lQAAOSwtyZnupCU/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Upper Material": [
-     "Canvas"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Product Line": [
-     "Gucci Re-Web"
-    ],
-    "Model": [
-     "Gucci Re-Web"
-    ],
-    "Release Year": [
-     "2024"
-    ],
-    "Color": [
-     "Ivory"
-    ],
-    "US Shoe Size": [
-     "6.5"
-    ],
-    "Style Code": [
-     "787476-AADHW-9552"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Gucci"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "27066852938",
-   "title": "Size 5.5 - Gucci Re-Web Sneaker GG Canvas - White Beige W",
+   "epid": "13066847266",
+   "title": "Size 5 - Gucci Re-Web Sneaker GG Canvas - White Beige W",
    "mpn": [
     "785452AADHW9573"
    ],
@@ -1861,14 +1862,14 @@
     "Model": [
      "Gucci Re-Web"
     ],
-    "Color": [
-     "Brown"
-    ],
     "Release Year": [
      "2024"
     ],
+    "Color": [
+     "Brown"
+    ],
     "US Shoe Size": [
-     "5.5"
+     "5"
     ],
     "Style Code": [
      "785452-AADHW-9573"
@@ -1930,6 +1931,53 @@
    "match": false
   },
   {
+   "epid": "26074421933",
+   "title": "Size 6.5 - Gucci Re-Web Sneaker GG Canvas - Beige Ivory Blue",
+   "mpn": [
+    "787476AADHW9552"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/0lQAAOSwtyZnupCU/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Re-Web"
+    ],
+    "Model": [
+     "Gucci Re-Web"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Ivory"
+    ],
+    "US Shoe Size": [
+     "6.5"
+    ],
+    "Style Code": [
+     "787476-AADHW-9552"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "10074755653",
    "title": "Size 6.5 - Gucci Re-Web Sneaker GG Canvas - Black",
    "mpn": [
@@ -1969,6 +2017,53 @@
     ],
     "Department": [
      "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27066852938",
+   "title": "Size 5.5 - Gucci Re-Web Sneaker GG Canvas - White Beige W",
+   "mpn": [
+    "785452AADHW9573"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/2xAAAeSwEGZo4Gh8/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Re-Web"
+    ],
+    "Model": [
+     "Gucci Re-Web"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "5.5"
+    ],
+    "Style Code": [
+     "785452-AADHW-9573"
+    ],
+    "Department": [
+     "Women"
     ],
     "Brand": [
      "Gucci"
@@ -2112,14 +2207,14 @@
    "match": false
   },
   {
-   "epid": "13066847266",
-   "title": "Size 5 - Gucci Re-Web Sneaker GG Canvas - White Beige W",
+   "epid": "25074402620",
+   "title": "Size 7.5 - Gucci Re-Web Sneaker GG Canvas - Beige Ivory Blue",
    "mpn": [
-    "785452AADHW9573"
+    "787476AADHW9552"
    ],
    "gtin": [],
    "images": [
-    "https://i.ebayimg.com/images/g/2xAAAeSwEGZo4Gh8/s-l1600.jpg"
+    "https://i.ebayimg.com/images/g/0lQAAOSwtyZnupCU/s-l1600.jpg"
    ],
    "aspects": {
     "Upper Material": [
@@ -2141,16 +2236,16 @@
      "2024"
     ],
     "Color": [
-     "Brown"
+     "Ivory"
     ],
     "US Shoe Size": [
-     "5"
+     "7.5"
     ],
     "Style Code": [
-     "785452-AADHW-9573"
+     "787476-AADHW-9552"
     ],
     "Department": [
-     "Women"
+     "Men"
     ],
     "Brand": [
      "Gucci"
@@ -2195,53 +2290,6 @@
     ],
     "Style Code": [
      "787476-AADHW-9568"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Gucci"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "25074402620",
-   "title": "Size 7.5 - Gucci Re-Web Sneaker GG Canvas - Beige Ivory Blue",
-   "mpn": [
-    "787476AADHW9552"
-   ],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/0lQAAOSwtyZnupCU/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Upper Material": [
-     "Canvas"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Product Line": [
-     "Gucci Re-Web"
-    ],
-    "Model": [
-     "Gucci Re-Web"
-    ],
-    "Release Year": [
-     "2024"
-    ],
-    "Color": [
-     "Ivory"
-    ],
-    "US Shoe Size": [
-     "7.5"
-    ],
-    "Style Code": [
-     "787476-AADHW-9552"
     ],
     "Department": [
      "Men"
@@ -2582,6 +2630,51 @@
    "match": true
   },
   {
+   "epid": "17084924535",
+   "title": "Size 10.5 - Gucci Ace White Blue Red",
+   "mpn": [
+    "757892AACAG9074"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Style Code": [
+     "757892-AACAG-9074"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "17064725313",
    "title": "Size 8 - Gucci Ace Black Blue Red",
    "mpn": [
@@ -2629,51 +2722,6 @@
    "match": false
   },
   {
-   "epid": "17084924535",
-   "title": "Size 10.5 - Gucci Ace White Blue Red",
-   "mpn": [
-    "757892AACAG9074"
-   ],
-   "gtin": [],
-   "images": [],
-   "aspects": {
-    "Upper Material": [
-     "Leather"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Product Line": [
-     "Gucci Ace"
-    ],
-    "Model": [
-     "Gucci Ace"
-    ],
-    "Color": [
-     "White"
-    ],
-    "Release Year": [
-     "2024"
-    ],
-    "US Shoe Size": [
-     "10.5"
-    ],
-    "Style Code": [
-     "757892-AACAG-9074"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Gucci"
-    ]
-   },
-   "match": false
-  },
-  {
    "epid": "25064712190",
    "title": "Size 9.5 - Gucci Ace Black Blue Red",
    "mpn": [
@@ -2707,6 +2755,53 @@
     ],
     "US Shoe Size": [
      "9.5"
+    ],
+    "Style Code": [
+     "757892-AACAG-1096"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "3064727053",
+   "title": "Size 6.5 - Gucci Ace Black Blue Red",
+   "mpn": [
+    "757892AACAG1096"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/YWQAAeSwoAVpTqG5/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "6.5"
     ],
     "Style Code": [
      "757892-AACAG-1096"
@@ -3234,51 +3329,6 @@
    "match": true
   },
   {
-   "epid": "17044267408",
-   "title": "Size 11.5 - Gucci Rhyton Mouth - 552089-A9L00-9522",
-   "mpn": [
-    "552089A9L009522"
-   ],
-   "gtin": [],
-   "images": [],
-   "aspects": {
-    "Upper Material": [
-     "Leather"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Product Line": [
-     "Gucci Rhyton"
-    ],
-    "Model": [
-     "Gucci Rhyton"
-    ],
-    "Release Year": [
-     "2019"
-    ],
-    "Color": [
-     "Ivory"
-    ],
-    "US Shoe Size": [
-     "11.5"
-    ],
-    "Style Code": [
-     "552089-A9L00-9522"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Gucci"
-    ]
-   },
-   "match": false
-  },
-  {
    "epid": "25089755451",
    "title": "1999-00 Upper Deck - Michael Jordana Higher Power Michael Jordan #MJ1",
    "mpn": [],
@@ -3358,6 +3408,51 @@
     ],
     "Department": [
      "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17044267408",
+   "title": "Size 11.5 - Gucci Rhyton Mouth - 552089-A9L00-9522",
+   "mpn": [
+    "552089A9L009522"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Rhyton"
+    ],
+    "Model": [
+     "Gucci Rhyton"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "Ivory"
+    ],
+    "US Shoe Size": [
+     "11.5"
+    ],
+    "Style Code": [
+     "552089-A9L00-9522"
+    ],
+    "Department": [
+     "Men"
     ],
     "Brand": [
      "Gucci"
@@ -3453,6 +3548,49 @@
    "match": false
   },
   {
+   "epid": "12056524804",
+   "title": "1999-00 Topps Chrome - '99 Draft Pick Elton Brand #115 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/FHEAAOSw99tnpisq/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "115"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "National Basketball Association (NBA)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Elton Brand"
+    ],
+    "Set": [
+     "1999-00 Topps Chrome"
+    ],
+    "Team": [
+     "Chicago Bulls"
+    ],
+    "Season": [
+     "1999-00"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "28056523189",
    "title": "1999-00 Topps Stadium Club - Chauncey Billups #9 One of a Kind /150",
    "mpn": [],
@@ -3492,49 +3630,6 @@
     ],
     "Team": [
      "Denver Nuggets"
-    ],
-    "Season": [
-     "1999-00"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "12056524804",
-   "title": "1999-00 Topps Chrome - '99 Draft Pick Elton Brand #115 (RC)",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/FHEAAOSw99tnpisq/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Sport": [
-     "Basketball"
-    ],
-    "Parallel/Variety": [
-     "[Base]"
-    ],
-    "Card Number": [
-     "115"
-    ],
-    "Features": [
-     "Rookie",
-     "Base Set"
-    ],
-    "League": [
-     "National Basketball Association (NBA)"
-    ],
-    "Manufacturer": [
-     "Topps"
-    ],
-    "Player/Athlete": [
-     "Elton Brand"
-    ],
-    "Set": [
-     "1999-00 Topps Chrome"
-    ],
-    "Team": [
-     "Chicago Bulls"
     ],
     "Season": [
      "1999-00"
@@ -3764,8 +3859,8 @@
    "match": false
   },
   {
-   "epid": "10044270832",
-   "title": "Size 4 - Gucci Rhyton Mouth Print W",
+   "epid": "23044276816",
+   "title": "Size 5 - Gucci Rhyton Mouth Print W",
    "mpn": [
     "552093A9L009522"
    ],
@@ -3787,7 +3882,7 @@
      "2020"
     ],
     "US Shoe Size": [
-     "4"
+     "5"
     ],
     "Type": [
      "Athletic"
@@ -4257,6 +4352,53 @@
  ],
  "757892 AACAG 1096": [
   {
+   "epid": "3064727053",
+   "title": "Size 6.5 - Gucci Ace Black Blue Red",
+   "mpn": [
+    "757892AACAG1096"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/YWQAAeSwoAVpTqG5/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "6.5"
+    ],
+    "Style Code": [
+     "757892-AACAG-1096"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
    "epid": "17064725313",
    "title": "Size 8 - Gucci Ace Black Blue Red",
    "mpn": [
@@ -4290,53 +4432,6 @@
     ],
     "US Shoe Size": [
      "8"
-    ],
-    "Style Code": [
-     "757892-AACAG-1096"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Gucci"
-    ]
-   },
-   "match": true
-  },
-  {
-   "epid": "25064712190",
-   "title": "Size 9.5 - Gucci Ace Black Blue Red",
-   "mpn": [
-    "757892AACAG1096"
-   ],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/YWQAAeSwoAVpTqG5/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Upper Material": [
-     "Leather"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Product Line": [
-     "Gucci Ace"
-    ],
-    "Model": [
-     "Gucci Ace"
-    ],
-    "Release Year": [
-     "2023"
-    ],
-    "Color": [
-     "Black"
-    ],
-    "US Shoe Size": [
-     "9.5"
     ],
     "Style Code": [
      "757892-AACAG-1096"
@@ -4398,51 +4493,6 @@
    "match": true
   },
   {
-   "epid": "17084924535",
-   "title": "Size 10.5 - Gucci Ace White Blue Red",
-   "mpn": [
-    "757892AACAG9074"
-   ],
-   "gtin": [],
-   "images": [],
-   "aspects": {
-    "Upper Material": [
-     "Leather"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Product Line": [
-     "Gucci Ace"
-    ],
-    "Model": [
-     "Gucci Ace"
-    ],
-    "Color": [
-     "White"
-    ],
-    "Release Year": [
-     "2024"
-    ],
-    "US Shoe Size": [
-     "10.5"
-    ],
-    "Style Code": [
-     "757892-AACAG-9074"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Gucci"
-    ]
-   },
-   "match": false
-  },
-  {
    "epid": "18064724472",
    "title": "Size 6 - Gucci Ace Black Blue Red",
    "mpn": [
@@ -4490,15 +4540,13 @@
    "match": true
   },
   {
-   "epid": "12066654768",
-   "title": "Size 6 - Gucci Ace White Green Red",
+   "epid": "17084924535",
+   "title": "Size 10.5 - Gucci Ace White Blue Red",
    "mpn": [
-    "757892AACAG9055"
+    "757892AACAG9074"
    ],
    "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/bMYAAOSwnQVn4A8o/s-l1600.jpg"
-   ],
+   "images": [],
    "aspects": {
     "Upper Material": [
      "Leather"
@@ -4519,13 +4567,13 @@
      "White"
     ],
     "Release Year": [
-     "2023"
+     "2024"
     ],
     "US Shoe Size": [
-     "6"
+     "10.5"
     ],
     "Style Code": [
-     "757892-AACAG-9055"
+     "757892-AACAG-9074"
     ],
     "Department": [
      "Men"
@@ -4623,6 +4671,53 @@
     ],
     "Department": [
      "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "12066654768",
+   "title": "Size 6 - Gucci Ace White Green Red",
+   "mpn": [
+    "757892AACAG9055"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/bMYAAOSwnQVn4A8o/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "6"
+    ],
+    "Style Code": [
+     "757892-AACAG-9055"
+    ],
+    "Department": [
+     "Men"
     ],
     "Brand": [
      "Gucci"
@@ -11409,6 +11504,58 @@
    "match": false
   },
   {
+   "epid": "7021993791",
+   "title": "Oppo Find X - 256GB - Glacier Blue (Unlocked)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/81kAAOSw7RteQrOx/s-l640.jpg"
+   ],
+   "aspects": {
+    "Storage Capacity": [
+     "256 GB"
+    ],
+    "Contract": [
+     "Without Contract"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "Model": [
+     "Oppo Find X"
+    ],
+    "Processor": [
+     "Octa Core"
+    ],
+    "Camera Resolution": [
+     "20.0 MP"
+    ],
+    "Style": [
+     "Bar"
+    ],
+    "Features": [
+     "3D Face Recognition",
+     "Dual Rear Cameras"
+    ],
+    "Network": [
+     "Unlocked"
+    ],
+    "Screen Size": [
+     "6.4 in"
+    ],
+    "Operating System": [
+     "Color OS"
+    ],
+    "Brand": [
+     "OPPO"
+    ],
+    "Manufacturer Color": [
+     "Glacier Blue"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "24048563440",
    "title": "Size 10 - Nike Men's Space Jam x LeBron 18 Low Bugs x Nike Marvin",
    "mpn": [
@@ -11976,58 +12123,6 @@
     ],
     "Season": [
      "1970-71"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "7021993791",
-   "title": "Oppo Find X - 256GB - Glacier Blue (Unlocked)",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/81kAAOSw7RteQrOx/s-l640.jpg"
-   ],
-   "aspects": {
-    "Storage Capacity": [
-     "256 GB"
-    ],
-    "Contract": [
-     "Without Contract"
-    ],
-    "Color": [
-     "Blue"
-    ],
-    "Model": [
-     "Oppo Find X"
-    ],
-    "Processor": [
-     "Octa Core"
-    ],
-    "Camera Resolution": [
-     "20.0 MP"
-    ],
-    "Style": [
-     "Bar"
-    ],
-    "Features": [
-     "3D Face Recognition",
-     "Dual Rear Cameras"
-    ],
-    "Network": [
-     "Unlocked"
-    ],
-    "Screen Size": [
-     "6.4 in"
-    ],
-    "Operating System": [
-     "Color OS"
-    ],
-    "Brand": [
-     "OPPO"
-    ],
-    "Manufacturer Color": [
-     "Glacier Blue"
     ]
    },
    "match": false
@@ -15860,8 +15955,8 @@
    "match": true
   },
   {
-   "epid": "2341096243",
-   "title": "Size 4 - Gucci MAC80 Sneaker Black White W",
+   "epid": "17070053071",
+   "title": "Size 5.5 - Gucci MAC80 Sneaker Black White W",
    "mpn": [
     "756815AAB791051"
    ],
@@ -15885,14 +15980,14 @@
     "Model": [
      "Gucci MAC80"
     ],
-    "Release Year": [
-     "2023"
-    ],
     "Color": [
      "Black"
     ],
+    "Release Year": [
+     "2023"
+    ],
     "US Shoe Size": [
-     "4"
+     "5.5"
     ],
     "Style Code": [
      "756815-AAB79-1051"
@@ -17645,6 +17740,3346 @@
     ],
     "Season": [
      "1995-96"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "760775 FACRF 1163": [
+  {
+   "epid": "17063399153",
+   "title": "Size 6.5 - Gucci Ace GG Crystal Canvas - Black",
+   "mpn": [
+    "760775FACRF1163"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/5sYAAeSwRtJpTqG6/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "6.5"
+    ],
+    "Style Code": [
+     "760775-FACRF-1163"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "16081207411",
+   "title": "Size 7 - Gucci Web Lace Up Black Green Red",
+   "mpn": [
+    "472749AZM301060"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/3TQAAeSw551psPlQ/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Lace Up"
+    ],
+    "Model": [
+     "Gucci Lace-Up"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Style Code": [
+     "472749-AZM30-1060"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22063398981",
+   "title": "Size 8.5 - Gucci Ace GG Crystal Canvas - Green",
+   "mpn": [
+    "760775FACRF3751"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/1o4AAeSwNhtpPcEo/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "Color": [
+     "Green"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "760775-FACRF-3751"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18063400011",
+   "title": "Size 9 - Gucci Ace GG Crystal Canvas - Blue",
+   "mpn": [
+    "760775FACRF4349"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Style Code": [
+     "760775-FACRF-4349"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7079448857",
+   "title": "Size 6 - Gucci Ace GG Crystal Canvas - Black W",
+   "mpn": [
+    "760774FACRF1163"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/3EYAAeSwlnto4Ghx/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "6"
+    ],
+    "Style Code": [
+     "760774-FACRF-1163"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17063399912",
+   "title": "Size 8.5 - Gucci Ace GG Crystal Canvas - Black",
+   "mpn": [
+    "760775FACRF1163"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/5sYAAeSwRtJpTqG6/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "760775-FACRF-1163"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  }
+ ],
+ "760775 FACRF 4349": [
+  {
+   "epid": "22063398981",
+   "title": "Size 8.5 - Gucci Ace GG Crystal Canvas - Green",
+   "mpn": [
+    "760775FACRF3751"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/1o4AAeSwNhtpPcEo/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "Color": [
+     "Green"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "760775-FACRF-3751"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17063399153",
+   "title": "Size 6.5 - Gucci Ace GG Crystal Canvas - Black",
+   "mpn": [
+    "760775FACRF1163"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/5sYAAeSwRtJpTqG6/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "6.5"
+    ],
+    "Style Code": [
+     "760775-FACRF-1163"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18063400011",
+   "title": "Size 9 - Gucci Ace GG Crystal Canvas - Blue",
+   "mpn": [
+    "760775FACRF4349"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Style Code": [
+     "760775-FACRF-4349"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "16081207411",
+   "title": "Size 7 - Gucci Web Lace Up Black Green Red",
+   "mpn": [
+    "472749AZM301060"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/3TQAAeSw551psPlQ/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Lace Up"
+    ],
+    "Model": [
+     "Gucci Lace-Up"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Style Code": [
+     "472749-AZM30-1060"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17063399912",
+   "title": "Size 8.5 - Gucci Ace GG Crystal Canvas - Black",
+   "mpn": [
+    "760775FACRF1163"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/5sYAAeSwRtJpTqG6/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "760775-FACRF-1163"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "760775 FACMZ 9746": [
+  {
+   "epid": "24064557929",
+   "title": "Size 10.5 - Gucci Ace GG Crystal Canvas - Beige",
+   "mpn": [
+    "760775FACMZ9746"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DrcAAOSwqrxn4A6r/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Style Code": [
+     "760775-FACMZ-9746"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "10064574069",
+   "title": "Size 6 - Gucci Ace GG Crystal Canvas - Beige",
+   "mpn": [
+    "760775FACMZ9746"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DrcAAOSwqrxn4A6r/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "6"
+    ],
+    "Style Code": [
+     "760775-FACMZ-9746"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "9064560054",
+   "title": "Size 11 - Gucci Ace GG Crystal Canvas - Beige",
+   "mpn": [
+    "760775FACMZ9746"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DrcAAOSwqrxn4A6r/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "760775-FACMZ-9746"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "22064565764",
+   "title": "Size 5.5 - Gucci Ace GG Crystal Canvas - Beige",
+   "mpn": [
+    "760775FACMZ9746"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DrcAAOSwqrxn4A6r/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "5.5"
+    ],
+    "Style Code": [
+     "760775-FACMZ-9746"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "13077934711",
+   "title": "Size 7.5 - Gucci Ace GG Supreme Canvas - Beige Blue",
+   "mpn": [
+    "760775FACMZ4049"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Gray"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "7.5"
+    ],
+    "Style Code": [
+     "760775-FACMZ-4049"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "9077929813",
+   "title": "Size 6.5 - Gucci Ace GG Supreme Canvas - Beige Blue",
+   "mpn": [
+    "760775FACMZ4049"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Gray"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "6.5"
+    ],
+    "Style Code": [
+     "760775-FACMZ-4049"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27067837816",
+   "title": "Size 8.5 - Gucci Ace GG Supreme Canvas - Black",
+   "mpn": [
+    "760775FACMZ1065"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/XVoAAeSwVqpqtwZx/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "760775-FACMZ-1065"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18067838551",
+   "title": "Size 16 - Gucci Ace GG Supreme Canvas - Black",
+   "mpn": [
+    "760775FACMZ1065"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/XVoAAeSwVqpqtwZx/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "16"
+    ],
+    "Style Code": [
+     "760775-FACMZ-1065"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "19077935766",
+   "title": "Size 9.5 - Gucci Ace GG Supreme Canvas - Beige Blue",
+   "mpn": [
+    "760775FACMZ4049"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Gray"
+    ],
+    "US Shoe Size": [
+     "9.5"
+    ],
+    "Style Code": [
+     "760775-FACMZ-4049"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27067837850",
+   "title": "Size 11 - Gucci Ace GG Supreme Canvas - Black",
+   "mpn": [
+    "760775FACMZ1065"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/XVoAAeSwVqpqtwZx/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "760775-FACMZ-1065"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24067827944",
+   "title": "Size 9.5 - Gucci Ace GG Supreme Canvas - Black",
+   "mpn": [
+    "760775FACMZ1065"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/XVoAAeSwVqpqtwZx/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "9.5"
+    ],
+    "Style Code": [
+     "760775-FACMZ-1065"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "429446 02JP0 9064": [
+  {
+   "epid": "21044411906",
+   "title": "Size 5 - Gucci Ace Embroidered Bee",
+   "mpn": [
+    "42944602JP09064"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/X~oAAeSw06BpeVDl/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "US Shoe Size": [
+     "5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "429446-02JP0-9064"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "6044278594",
+   "title": "Size 7 - Gucci Ace Embroidered Bee W",
+   "mpn": [
+    "43194202JP09064"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/00/s/NDM1WDEwNzI=/z/RfIAAOSwtlNnZ~9G/$_57.JPG"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2018"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "431942-02JP0-9064"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "11044259124",
+   "title": "Size 6.5 - Gucci Ace Embroidered Bee W",
+   "mpn": [
+    "43194202JP09064"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/00/s/NDM1WDEwNzI=/z/RfIAAOSwtlNnZ~9G/$_57.JPG"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2018"
+    ],
+    "US Shoe Size": [
+     "6.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "431942-02JP0-9064"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "8062856100",
+   "title": "2001-02 Upper Deck Sweet Shot - Sweet Shot Jerseys Wally Szczerbiak #WS (MEM)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/OjIAAOSwYetnpiR2/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Sweet Shot Jerseys"
+    ],
+    "Card Number": [
+     "WS"
+    ],
+    "Features": [
+     "Insert",
+     "Memorabilia"
+    ],
+    "League": [
+     "National Basketball Association (NBA)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "Wally Szczerbiak"
+    ],
+    "Set": [
+     "2001-02 Upper Deck Sweet Shot"
+    ],
+    "Team": [
+     "Minnesota Timberwolves"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21044269871",
+   "title": "Size 8.5 - Gucci Ace Embroidered Bee W",
+   "mpn": [
+    "43194202JP09064"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/00/s/NDM1WDEwNzI=/z/RfIAAOSwtlNnZ~9G/$_57.JPG"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2018"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "431942-02JP0-9064"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22059450799",
+   "title": "2001-02 Pacific Prism Gold McDonald's - Brett Hull #9",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/XYYAAOSw5RJnpiHZ/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "9"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Pacific"
+    ],
+    "Player/Athlete": [
+     "Brett Hull"
+    ],
+    "Set": [
+     "2001-02 Pacific Prism Gold McDonald's"
+    ],
+    "Team": [
+     "Dallas Stars"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21058922385",
+   "title": "2001-02 Upper Deck Mask Collection - Jersey J.P. Dumont #J-JD /150 (MEM)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/URgAAOSwhmtnpimv/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Print Run": [
+     "150"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Jersey"
+    ],
+    "Card Number": [
+     "J-JD"
+    ],
+    "Features": [
+     "Insert",
+     "Memorabilia",
+     "Serial Numbered"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 Upper Deck Mask Collection"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "10056561278",
+   "title": "2001-02 Pacific - J.P. Dumont #47 Extreme Ltd /49",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ZNMAAOSwsDpnpihO/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Print Run": [
+     "49"
+    ],
+    "Parallel/Variety": [
+     "Extreme Ltd"
+    ],
+    "Card Number": [
+     "47"
+    ],
+    "Features": [
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Pacific"
+    ],
+    "Player/Athlete": [
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 Pacific"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23056496619",
+   "title": "2001-02 Pacific - J.P. Vigier #26",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/AHYAAOSw38hnpiI7/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "26"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Pacific"
+    ],
+    "Player/Athlete": [
+     "J.P. Vigier"
+    ],
+    "Set": [
+     "2001-02 Pacific"
+    ],
+    "Team": [
+     "Atlanta Thrashers"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "15056538356",
+   "title": "2001-02 Pacific Heads Up - J.P. Dumont #11",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/nWUAAOSw3n1npikf/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "11"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Pacific"
+    ],
+    "Player/Athlete": [
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 Pacific Heads Up"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "28062933025",
+   "title": "2001-02 Fleer Platinum - 15th Anniversary Reprints Hakeem Olajuwon #3 1986-87 Fleer",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/X78AAOSwzk1npi1S/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Insert Set": [
+     "15th Anniversary Reprints"
+    ],
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "3"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "National Basketball Association (NBA)"
+    ],
+    "Manufacturer": [
+     "Fleer/SkyBox International"
+    ],
+    "Player/Athlete": [
+     "Hakeem Olajuwon"
+    ],
+    "Set": [
+     "2001-02 Fleer Platinum"
+    ],
+    "Team": [
+     "Houston Rockets"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "20056530114",
+   "title": "2001-02 Fleer Exclusive - Rookie Player-Worn Patch Zach Randolph #123 (MEM, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/b4gAAOSwrUhnpi9V/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "123"
+    ],
+    "Features": [
+     "Rookie",
+     "Memorabilia",
+     "Base Set"
+    ],
+    "League": [
+     "National Basketball Association (NBA)"
+    ],
+    "Manufacturer": [
+     "Fleer/SkyBox International"
+    ],
+    "Player/Athlete": [
+     "Zach Randolph"
+    ],
+    "Set": [
+     "2001-02 Fleer Exclusive"
+    ],
+    "Team": [
+     "Portland Trail Blazers"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26056495091",
+   "title": "2001-02 O-Pee-Chee - J.P. Dumont #21 Premier",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/Dn4AAOSw129npiZ8/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "Premier"
+    ],
+    "Card Number": [
+     "21"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 O-Pee-Chee"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "2327527450",
+   "title": "2001-02 Pacific - J.P. Dumont #47",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/9pMAAOSwyLhnpiZA/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "47"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Pacific"
+    ],
+    "Player/Athlete": [
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 Pacific"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "15056548659",
+   "title": "2001-02 Topps - J.P. Dumont #21",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/IqUAAOSwENZnpimi/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "21"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 Topps"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7056551618",
+   "title": "2001-02 Pacific - J.P. Vigier #26 Ltd /99",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/FccAAOSwUPVnpiJP/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Print Run": [
+     "99"
+    ],
+    "Parallel/Variety": [
+     "Ltd"
+    ],
+    "Card Number": [
+     "26"
+    ],
+    "Features": [
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Pacific"
+    ],
+    "Player/Athlete": [
+     "J.P. Vigier"
+    ],
+    "Set": [
+     "2001-02 Pacific"
+    ],
+    "Team": [
+     "Atlanta Thrashers"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "9056490214",
+   "title": "2001-02 Pacific Crown Royale - J.P. Dumont #17 Blue /89",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/6q8AAOSw-JBnpiE1/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Print Run": [
+     "89"
+    ],
+    "Parallel/Variety": [
+     "Blue"
+    ],
+    "Card Number": [
+     "17"
+    ],
+    "Features": [
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Pacific"
+    ],
+    "Player/Athlete": [
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 Pacific Crown Royale"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "6056585929",
+   "title": "2001-02 In the Game Be A Player Signature Series - J.P. Dumont #004",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/n5UAAOSwZJpnpjLu/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "004"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "In the Game"
+    ],
+    "Player/Athlete": [
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 In the Game Be A Player Signature Series"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "6056502893",
+   "title": "2001-02 Bowman YoungStars - J.P. Dumont #52 Ice Cubed",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/teYAAOSwaEJnpiyu/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "Ice Cubed"
+    ],
+    "Card Number": [
+     "52"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 Bowman YoungStars"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24056552548",
+   "title": "2001-02 Pacific Private Stock Titanium - Authentic Double-Sided Game-Worn Jersey J.P. Dumont, Alexei Zhitnik #4 (MEM)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/EJwAAOSw6NpnpiFN/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Authentic Double-Sided Game-Worn Jersey"
+    ],
+    "Card Number": [
+     "4"
+    ],
+    "Features": [
+     "Insert",
+     "Memorabilia"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Pacific"
+    ],
+    "Player/Athlete": [
+     "Alexei Zhitnik",
+     "J.P. Dumont"
+    ],
+    "Set": [
+     "2001-02 Pacific Private Stock Titanium"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2001-02"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "429446 A38G0 1284": [
+  {
+   "epid": "16044263895",
+   "title": "Size 11 - Gucci Ace Embroidered Black Bee",
+   "mpn": [
+    "42944602JP01284"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/UKEAAeSwInxpTqGD/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "429446-02JP0-1284"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "25055561235",
+   "title": "2000 Fleer Ultra - Moe Williams #38G Gold Medallion",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/00sAAOSw8tVnpjDT/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "Gold Medallion"
+    ],
+    "Card Number": [
+     "38G"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Fleer/SkyBox International"
+    ],
+    "Player/Athlete": [
+     "Moe Williams"
+    ],
+    "Set": [
+     "2000 Fleer Ultra"
+    ],
+    "Team": [
+     "Minnesota Vikings"
+    ],
+    "Season": [
+     "2000"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "16044263348",
+   "title": "Size 7 - Gucci Ace Embroidered Bee",
+   "mpn": [
+    "429446A38G09064"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/~F4AAOSwAcFnuo6-/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "429446-A38G0-9064"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "5057813785",
+   "title": "2022 Topps Allen & Ginter - Johnny Bench #38 Mini A&G Back",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/RMkAAOSwpP1npie0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Mini A&G Back"
+    ],
+    "Card Number": [
+     "38"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Johnny Bench"
+    ],
+    "Set": [
+     "2022 Topps Allen & Ginter"
+    ],
+    "Team": [
+     "Cincinnati Reds"
+    ],
+    "Season": [
+     "2022"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7062291815",
+   "title": "1930 Cloetta Ross - Armas Toivanen #38",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/pNEAAOSwo25npi6g/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Track & Field"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "38"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "Ioc"
+    ],
+    "Manufacturer": [
+     "Cloetta"
+    ],
+    "Player/Athlete": [
+     "Armas Toivanen"
+    ],
+    "Set": [
+     "1930 Cloetta Ross"
+    ],
+    "Team": [
+     "Team Finland"
+    ],
+    "Season": [
+     "1930"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7056499815",
+   "title": "1998-99 In the Game Be A Player - Eric Lacroix #38",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ZqIAAOSwjcJnpiYh/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "38"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "In the Game"
+    ],
+    "Player/Athlete": [
+     "Eric Lacroix"
+    ],
+    "Set": [
+     "1998-99 In the Game Be A Player"
+    ],
+    "Team": [
+     "Colorado Avalanche"
+    ],
+    "Season": [
+     "1998-99"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24055960065",
+   "title": "1998 Fleer Ultra - Otis Nixon #38G Gold Medallion Edition",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/3dIAAOSw~Ntnpib0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Gold Medallion Edition"
+    ],
+    "Card Number": [
+     "38G"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Fleer"
+    ],
+    "Player/Athlete": [
+     "Otis Nixon"
+    ],
+    "Set": [
+     "1998 Fleer Ultra"
+    ],
+    "Team": [
+     "Los Angeles Dodgers"
+    ],
+    "Season": [
+     "1998"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "12057215303",
+   "title": "1908 Ogden's Famous Footballers - Alex Raisbeck #38",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/5AwAAOSwRqJn2gxz/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Soccer"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "38"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "Manufacturer": [
+     "Imperial Tobacco Co."
+    ],
+    "Player/Athlete": [
+     "Alex Raisbeck"
+    ],
+    "Set": [
+     "1908 Ogden's Famous Footballers"
+    ],
+    "Season": [
+     "1908"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "3056517941",
+   "title": "2000 Fleer Ultra WNBA - Quacy Barnes #38G Gold Medallion Edition",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/6nMAAeSwtZdpr~7J/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "Gold Medallion Edition"
+    ],
+    "Card Number": [
+     "38G"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Women's National Basketball Association (WNBA)"
+    ],
+    "Manufacturer": [
+     "Fleer/SkyBox International"
+    ],
+    "Player/Athlete": [
+     "Quacy Barnes"
+    ],
+    "Set": [
+     "2000 Fleer Ultra WNBA"
+    ],
+    "Team": [
+     "Seattle Storm"
+    ],
+    "Season": [
+     "2000"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21055977896",
+   "title": "2021 Topps Allen & Ginter - Cal Ripken #38 Mini A&G Back",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/iV8AAOSwygZnpivm/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Mini A&G Back"
+    ],
+    "Card Number": [
+     "38"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Cal Ripken"
+    ],
+    "Set": [
+     "2021 Topps Allen & Ginter"
+    ],
+    "Team": [
+     "Baltimore Orioles"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "20055905838",
+   "title": "2017 Topps Allen & Ginter - What a Day Chris Davis #WAD-38",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/a84AAOSw9TdnpjDq/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "What a Day"
+    ],
+    "Card Number": [
+     "WAD-38"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Chris Davis"
+    ],
+    "Set": [
+     "2017 Topps Allen & Ginter"
+    ],
+    "Team": [
+     "Baltimore Orioles"
+    ],
+    "Season": [
+     "2017"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24055553865",
+   "title": "1999 Fleer Ultra - Kevin Greene #38G Gold Medallion Edition",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/g5gAAOSwtctnpiMi/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "Gold Medallion Edition"
+    ],
+    "Card Number": [
+     "38G"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Fleer"
+    ],
+    "Player/Athlete": [
+     "Kevin Greene"
+    ],
+    "Set": [
+     "1999 Fleer Ultra"
+    ],
+    "Team": [
+     "Carolina Panthers"
+    ],
+    "Season": [
+     "1999"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "15062926112",
+   "title": "2023 Topps Allen & Ginter - Ted Williams #38 Mini A&G Back",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/FB8AAOSwYPJnpiwd/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Mini A&G Back"
+    ],
+    "Card Number": [
+     "38"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Ted Williams"
+    ],
+    "Set": [
+     "2023 Topps Allen & Ginter"
+    ],
+    "Team": [
+     "Boston Red Sox"
+    ],
+    "Season": [
+     "2023"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "19055549282",
+   "title": "1997 Upper Deck UD3 - Eye of a Champion Eddie George #38",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/vzgAAOSwBiRnpikj/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "38"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "Eddie George"
+    ],
+    "Set": [
+     "1997 Upper Deck UD3"
+    ],
+    "Team": [
+     "Houston Oilers"
+    ],
+    "Season": [
+     "1997"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26056549371",
+   "title": "1998-99 Fleer Ultra - Bo Outlaw #38G Gold Medallion Edition",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/G74AAOSwoApnpjGd/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "Gold Medallion Edition"
+    ],
+    "Card Number": [
+     "38G"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Basketball Association (NBA)"
+    ],
+    "Manufacturer": [
+     "Fleer"
+    ],
+    "Player/Athlete": [
+     "Bo Outlaw"
+    ],
+    "Set": [
+     "1998-99 Fleer Ultra"
+    ],
+    "Team": [
+     "Orlando Magic"
+    ],
+    "Season": [
+     "1998-99"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26055546612",
+   "title": "2007 SAGE Hit - Autographs Jason Snelling #A38 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/VQIAAOSwl3VnpjTY/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Autographs"
+    ],
+    "Card Number": [
+     "A38"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "National Collegiate Athletic Association (NCAA)"
+    ],
+    "Manufacturer": [
+     "SAGE"
+    ],
+    "Player/Athlete": [
+     "Jason Snelling"
+    ],
+    "Set": [
+     "2007 SAGE Hit"
+    ],
+    "Team": [
+     "Virginia Cavaliers"
+    ],
+    "Season": [
+     "2007"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23056510495",
+   "title": "1999-00 Fleer Ultra - Christian Laettner #38G Gold Medallion Edition",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/9XgAAOSwJqNnpirX/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "Gold Medallion Edition"
+    ],
+    "Card Number": [
+     "38G"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Basketball Association (NBA)"
+    ],
+    "Manufacturer": [
+     "Fleer/SkyBox International"
+    ],
+    "Player/Athlete": [
+     "Christian Laettner"
+    ],
+    "Set": [
+     "1999-00 Fleer Ultra"
+    ],
+    "Team": [
+     "Detroit Pistons"
+    ],
+    "Season": [
+     "1999-00"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24055594270",
+   "title": "2013 SAGE Hit - Autographs Tyler Bray #A38 Gold /250 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/57sAAOSw5GBnpi3X/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Parallel/Variety": [
+     "Gold"
+    ],
+    "Sport": [
+     "Football"
+    ],
+    "Print Run": [
+     "250"
+    ],
+    "Insert Set": [
+     "Autographs"
+    ],
+    "Card Number": [
+     "A38"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "SAGE"
+    ],
+    "Player/Athlete": [
+     "Tyler Bray"
+    ],
+    "Set": [
+     "2013 SAGE Hit"
+    ],
+    "Team": [
+     "Kansas City Chiefs"
+    ],
+    "Season": [
+     "2013"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17055925954",
+   "title": "2020 Topps Allen & Ginter - Miguel Cabrera #38 Mini A&G Back",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/P7cAAOSw~5lnpiWQ/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Mini A&G Back"
+    ],
+    "Card Number": [
+     "38"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Miguel Cabrera"
+    ],
+    "Set": [
+     "2020 Topps Allen & Ginter"
+    ],
+    "Team": [
+     "Detroit Tigers"
+    ],
+    "Season": [
+     "2020"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "5073125171",
+   "title": "2024 Topps Allen & Ginter - Pete Alonso #38 Mini A&G Back",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/om4AAOSw649npiM6/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Mini A&G Back"
+    ],
+    "Card Number": [
+     "38"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Pete Alonso"
+    ],
+    "Set": [
+     "2024 Topps Allen & Ginter"
+    ],
+    "Team": [
+     "New York Mets"
+    ],
+    "Season": [
+     "2024"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "606111 HVK20 9766": [
+  {
+   "epid": "14044265343",
+   "title": "Size 7 - Gucci Tennis 1977 Ebony",
+   "mpn": [
+    "606111HVK209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/rxYAAOSwQXRn4A9E/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Tennis"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Release Year": [
+     "2020"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Style Code": [
+     "606111-HVK20-9766"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "15072249372",
+   "title": "Size 7 - Gucci Tennis 1977 Beige Ebony W",
+   "mpn": [
+    "606110HVK209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/dVYAAeSw7AlqtwbV/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Tennis"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Style Code": [
+     "606110-HVK20-9766"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27044261455",
+   "title": "Size 11 - Gucci Tennis 1977 Ebony",
+   "mpn": [
+    "606111HVK209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/rxYAAOSwQXRn4A9E/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Tennis"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2020"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "606111-HVK20-9766"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "4045627083",
+   "title": "Size 6 - Gucci Tennis 1977 Beige Ebony W",
+   "mpn": [
+    "606110209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/uacAAOSwMBxnuo9z/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Tennis 1977"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "6"
+    ],
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "606110-20-9766"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26045640395",
+   "title": "Size 6.5 - Gucci Tennis 1977 Beige Ebony W",
+   "mpn": [
+    "606110209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/uacAAOSwMBxnuo9z/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Tennis 1977"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "6.5"
+    ],
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "606110-20-9766"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "16072236452",
+   "title": "Size 10 - Gucci Tennis 1977 Beige Ebony W",
+   "mpn": [
+    "606110HVK209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/dVYAAeSw7AlqtwbV/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Tennis"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Style Code": [
+     "606110-HVK20-9766"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17045631975",
+   "title": "Size 8.5 - Gucci Tennis 1977 Beige Ebony W",
+   "mpn": [
+    "606110209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/uacAAOSwMBxnuo9z/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Tennis 1977"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "606110-20-9766"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "25044258003",
+   "title": "Size 10.5 - Gucci Tennis 1977 Ebony",
+   "mpn": [
+    "606111HVK209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/rxYAAOSwQXRn4A9E/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Tennis"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Release Year": [
+     "2020"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Style Code": [
+     "606111-HVK20-9766"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "2315312907",
+   "title": "Size 6 - Gucci Tennis 1977 Ebony",
+   "mpn": [
+    "606111HVK209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/rxYAAOSwQXRn4A9E/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Tennis"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2020"
+    ],
+    "US Shoe Size": [
+     "6"
+    ],
+    "Style Code": [
+     "606111-HVK20-9766"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "24044404629",
+   "title": "Size 5 - Gucci Tennis 1977 Ebony",
+   "mpn": [
+    "606111HVK209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/rxYAAOSwQXRn4A9E/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Tennis"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2020"
+    ],
+    "US Shoe Size": [
+     "5"
+    ],
+    "Style Code": [
+     "606111-HVK20-9766"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "15072251104",
+   "title": "Size 8 - Gucci Tennis 1977 Beige Ebony W",
+   "mpn": [
+    "606110HVK209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/dVYAAeSw7AlqtwbV/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Tennis"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "8"
+    ],
+    "Style Code": [
+     "606110-HVK20-9766"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26072256547",
+   "title": "Size 9.5 - Gucci Tennis 1977 Beige Ebony W",
+   "mpn": [
+    "606110HVK209766"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/dVYAAeSw7AlqtwbV/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Tennis"
+    ],
+    "Model": [
+     "Gucci Tennis 1977"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "9.5"
+    ],
+    "Style Code": [
+     "606110-HVK20-9766"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
     ]
    },
    "match": false
