@@ -9577,6 +9577,48 @@
    "match": true
   },
   {
+   "epid": "6062978730",
+   "title": "Size 12 - Balenciaga Triple S Logotype - Black",
+   "mpn": [
+    "536737W2FAB1090"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Product Line": [
+     "Balenciaga Triple S"
+    ],
+    "Model": [
+     "Balenciaga Triple S"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "12"
+    ],
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "536737-W2FAB-1090"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Balenciaga"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "25062955502",
    "title": "Size 13 - Balenciaga Triple S Logotype - Black",
    "mpn": [
@@ -9711,48 +9753,6 @@
    "match": false
   },
   {
-   "epid": "6062978730",
-   "title": "Size 12 - Balenciaga Triple S Logotype - Black",
-   "mpn": [
-    "536737W2FAB1090"
-   ],
-   "gtin": [],
-   "images": [],
-   "aspects": {
-    "Product Line": [
-     "Balenciaga Triple S"
-    ],
-    "Model": [
-     "Balenciaga Triple S"
-    ],
-    "Color": [
-     "Black"
-    ],
-    "US Shoe Size": [
-     "12"
-    ],
-    "Upper Material": [
-     "Leather"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style Code": [
-     "536737-W2FAB-1090"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Balenciaga"
-    ]
-   },
-   "match": false
-  },
-  {
    "epid": "24044134052",
    "title": "Size 13 - Balenciaga Triple S Sneaker Allover Logo - Black",
    "mpn": [
@@ -9795,6 +9795,48 @@
    "match": true
   },
   {
+   "epid": "7062974312",
+   "title": "Size 10 - Balenciaga Triple S Logotype - Black",
+   "mpn": [
+    "536737W2FAB1090"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Product Line": [
+     "Balenciaga Triple S"
+    ],
+    "Model": [
+     "Balenciaga Triple S"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "536737-W2FAB-1090"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Balenciaga"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "18044139713",
    "title": "Size 9 - Balenciaga Track Triple Black",
    "mpn": [
@@ -9831,48 +9873,6 @@
     ],
     "Style Code": [
      "542023-W1GB1-1000"
-    ],
-    "Brand": [
-     "Balenciaga"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "7062974312",
-   "title": "Size 10 - Balenciaga Triple S Logotype - Black",
-   "mpn": [
-    "536737W2FAB1090"
-   ],
-   "gtin": [],
-   "images": [],
-   "aspects": {
-    "Product Line": [
-     "Balenciaga Triple S"
-    ],
-    "Model": [
-     "Balenciaga Triple S"
-    ],
-    "Color": [
-     "Black"
-    ],
-    "US Shoe Size": [
-     "10"
-    ],
-    "Upper Material": [
-     "Leather"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style Code": [
-     "536737-W2FAB-1090"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Department": [
-     "Men"
     ],
     "Brand": [
      "Balenciaga"
@@ -10057,6 +10057,96 @@
    "match": false
   },
   {
+   "epid": "16045628937",
+   "title": "Size 13 - Balenciaga Triple S Sneaker Beige",
+   "mpn": [
+    "536737W2FW19700"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Polyester"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Balenciaga Triple S"
+    ],
+    "Model": [
+     "Balenciaga Triple S"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "13"
+    ],
+    "Style Code": [
+     "536737-W2FW1-9700"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Balenciaga"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "8044143688",
+   "title": "Size 7 - Balenciaga Triple S Sneaker Allover Logo - Black Fluo Yellow",
+   "mpn": [
+    "536737W2FA11070"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Balenciaga Triple S"
+    ],
+    "Model": [
+     "Balenciaga Triple S"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Style Code": [
+     "536737-W2FA1-1070"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Balenciaga"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "5044146719",
    "title": "Size 10 - Balenciaga Triple S Sneaker Allover Logo - Red",
    "mpn": [
@@ -10149,96 +10239,6 @@
    "match": false
   },
   {
-   "epid": "16045628937",
-   "title": "Size 13 - Balenciaga Triple S Sneaker Beige",
-   "mpn": [
-    "536737W2FW19700"
-   ],
-   "gtin": [],
-   "images": [],
-   "aspects": {
-    "Upper Material": [
-     "Polyester"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Product Line": [
-     "Balenciaga Triple S"
-    ],
-    "Model": [
-     "Balenciaga Triple S"
-    ],
-    "Color": [
-     "Brown"
-    ],
-    "Release Year": [
-     "2021"
-    ],
-    "US Shoe Size": [
-     "13"
-    ],
-    "Style Code": [
-     "536737-W2FW1-9700"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Balenciaga"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "8044143688",
-   "title": "Size 7 - Balenciaga Triple S Sneaker Allover Logo - Black Fluo Yellow",
-   "mpn": [
-    "536737W2FA11070"
-   ],
-   "gtin": [],
-   "images": [],
-   "aspects": {
-    "Upper Material": [
-     "Leather"
-    ],
-    "Type": [
-     "Athletic"
-    ],
-    "Style": [
-     "Sneaker"
-    ],
-    "Product Line": [
-     "Balenciaga Triple S"
-    ],
-    "Model": [
-     "Balenciaga Triple S"
-    ],
-    "Color": [
-     "Black"
-    ],
-    "Release Year": [
-     "2021"
-    ],
-    "US Shoe Size": [
-     "7"
-    ],
-    "Style Code": [
-     "536737-W2FA1-1070"
-    ],
-    "Department": [
-     "Men"
-    ],
-    "Brand": [
-     "Balenciaga"
-    ]
-   },
-   "match": false
-  },
-  {
    "epid": "6085041198",
    "title": "2025 Topps Finest - Finest Autographs Jose Reyes #FA-JRE Gold Refractor /50 (AU)",
    "mpn": [],
@@ -10287,52 +10287,6 @@
    "match": false
   },
   {
-   "epid": "5056324032",
-   "title": "2022 Topps Fire - Fire Autographs Patrick Mazeika #FA-PM (AU, RC)",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/DVMAAOSwi05npijd/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Insert Set": [
-     "Fire Autographs"
-    ],
-    "Sport": [
-     "Baseball"
-    ],
-    "Parallel/Variety": [
-     "[Base]"
-    ],
-    "Card Number": [
-     "FA-PM"
-    ],
-    "Features": [
-     "Rookie",
-     "Insert"
-    ],
-    "League": [
-     "Major League Baseball (MLB)"
-    ],
-    "Manufacturer": [
-     "Topps"
-    ],
-    "Player/Athlete": [
-     "Patrick Mazeika"
-    ],
-    "Set": [
-     "2022 Topps Fire"
-    ],
-    "Team": [
-     "New York Mets"
-    ],
-    "Season": [
-     "2022"
-    ]
-   },
-   "match": false
-  },
-  {
    "epid": "13056315046",
    "title": "2022 Topps Fire - Fire Autographs Kyle Muller #FA-KM (AU, RC)",
    "mpn": [],
@@ -10374,6 +10328,52 @@
     ],
     "Season": [
      "2022"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18055887899",
+   "title": "2019 Topps Fire - Fire Autographs Garrett Hampson #FA-GH (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/l3gAAeSwu6hptFZQ/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Insert Set": [
+     "Fire Autographs"
+    ],
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "FA-GH"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Garrett Hampson"
+    ],
+    "Set": [
+     "2019 Topps Fire"
+    ],
+    "Team": [
+     "Colorado Rockies"
+    ],
+    "Season": [
+     "2019"
     ]
    },
    "match": false
@@ -14981,48 +14981,47 @@
    "match": false
   },
   {
-   "epid": "11092365534",
-   "title": "2025 Panini Prizm Black - Calvin Johnson #56 Gold Vinyl Prizm Autographs /5 (AU)",
+   "epid": "16089723979",
+   "title": "1997 Upper Deck UD3 - Marquee Attraction Eddie Kennison #MA10",
    "mpn": [],
    "gtin": [],
    "images": [
-    "https://i.ebayimg.com/images/g/DU8AAeSw~otqtOVf/s-l1600.jpg"
+    "https://i.ebayimg.com/images/g/wKkAAeSwyndpr~3a/s-l1600.jpg"
    ],
    "aspects": {
-    "Print Run": [
-     "5"
-    ],
     "Sport": [
      "Football"
     ],
     "Parallel/Variety": [
-     "Gold Vinyl Prizm Autographs"
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Marquee Attraction"
     ],
     "Card Number": [
-     "56"
+     "MA10"
     ],
     "Features": [
-     "Serial Numbered",
-     "Base Set",
-     "Parallel/Variety"
+     "Insert"
     ],
     "League": [
      "National Football League (NFL)"
     ],
     "Manufacturer": [
-     "Panini"
+     "Upper Deck"
     ],
     "Player/Athlete": [
-     "Calvin Johnson"
+     "Eddie Kennison"
     ],
     "Set": [
-     "2025 Panini Prizm Black"
+     "1997 Upper Deck UD3"
     ],
     "Team": [
-     "Detroit Lions"
+     "Los Angeles Rams",
+     "St. Louis Rams"
     ],
     "Season": [
-     "2025"
+     "1997"
     ]
    },
    "match": false
@@ -15116,52 +15115,6 @@
    "match": false
   },
   {
-   "epid": "16089723979",
-   "title": "1997 Upper Deck UD3 - Marquee Attraction Eddie Kennison #MA10",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/wKkAAeSwyndpr~3a/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Sport": [
-     "Football"
-    ],
-    "Parallel/Variety": [
-     "[Base]"
-    ],
-    "Insert Set": [
-     "Marquee Attraction"
-    ],
-    "Card Number": [
-     "MA10"
-    ],
-    "Features": [
-     "Insert"
-    ],
-    "League": [
-     "National Football League (NFL)"
-    ],
-    "Manufacturer": [
-     "Upper Deck"
-    ],
-    "Player/Athlete": [
-     "Eddie Kennison"
-    ],
-    "Set": [
-     "1997 Upper Deck UD3"
-    ],
-    "Team": [
-     "Los Angeles Rams",
-     "St. Louis Rams"
-    ],
-    "Season": [
-     "1997"
-    ]
-   },
-   "match": false
-  },
-  {
    "epid": "21061300284",
    "title": "2022 Leaf Pro Set Metal - Action Ink Xavier Hutchinson #AI-XH1 Red White & Blue Prismatic /10 (AU, RC)",
    "mpn": [],
@@ -15203,6 +15156,53 @@
     ],
     "Season": [
      "2022"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "11092365534",
+   "title": "2025 Panini Prizm Black - Calvin Johnson #56 Gold Vinyl Prizm Autographs /5 (AU)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DU8AAeSw~otqtOVf/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Print Run": [
+     "5"
+    ],
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "Gold Vinyl Prizm Autographs"
+    ],
+    "Card Number": [
+     "56"
+    ],
+    "Features": [
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "Calvin Johnson"
+    ],
+    "Set": [
+     "2025 Panini Prizm Black"
+    ],
+    "Team": [
+     "Detroit Lions"
+    ],
+    "Season": [
+     "2025"
     ]
    },
    "match": false
@@ -15252,53 +15252,6 @@
     ],
     "Season": [
      "2025-26"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "6055591468",
-   "title": "2021 Panini Prizm - Leonard Floyd #70 Gold Shimmer Prizm /10",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/3oAAAOSwtQRnpiv1/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Sport": [
-     "Football"
-    ],
-    "Print Run": [
-     "10"
-    ],
-    "Parallel/Variety": [
-     "Gold Shimmer Prizm"
-    ],
-    "Card Number": [
-     "70"
-    ],
-    "Features": [
-     "Serial Numbered",
-     "Base Set",
-     "Parallel/Variety"
-    ],
-    "League": [
-     "National Football League (NFL)"
-    ],
-    "Manufacturer": [
-     "Panini"
-    ],
-    "Player/Athlete": [
-     "Leonard Floyd"
-    ],
-    "Set": [
-     "2021 Panini Prizm"
-    ],
-    "Team": [
-     "Los Angeles Rams"
-    ],
-    "Season": [
-     "2021"
     ]
    },
    "match": false
@@ -15454,6 +15407,53 @@
     ],
     "Season": [
      "2022"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "6055591468",
+   "title": "2021 Panini Prizm - Leonard Floyd #70 Gold Shimmer Prizm /10",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/3oAAAOSwtQRnpiv1/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Print Run": [
+     "10"
+    ],
+    "Parallel/Variety": [
+     "Gold Shimmer Prizm"
+    ],
+    "Card Number": [
+     "70"
+    ],
+    "Features": [
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "Leonard Floyd"
+    ],
+    "Set": [
+     "2021 Panini Prizm"
+    ],
+    "Team": [
+     "Los Angeles Rams"
+    ],
+    "Season": [
+     "2021"
     ]
    },
    "match": false
@@ -28615,6 +28615,1617 @@
     ]
    },
    "match": false
+  }
+ ],
+ "763525 FACMI 8443": [
+  {
+   "epid": "4067674942",
+   "title": "Size 8.5 - Gucci Screener GG Supreme - Dark Blue Red",
+   "mpn": [
+    "763525FACMI8443"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Screener"
+    ],
+    "Model": [
+     "Gucci Screener"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "763525-FACMI-8443"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "12067665389",
+   "title": "Size 6.5 - Gucci Screener GG Supreme - Dark Blue Red",
+   "mpn": [
+    "763525FACMI8443"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Screener"
+    ],
+    "Model": [
+     "Gucci Screener"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "US Shoe Size": [
+     "6.5"
+    ],
+    "Style Code": [
+     "763525-FACMI-8443"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "6066406221",
+   "title": "Size 7.5 - Gucci Screener GG Supreme - Black Grey",
+   "mpn": [
+    "763525FACMI8444"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/-IYAAOSwwPxn4A7L/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Screener"
+    ],
+    "Model": [
+     "Gucci Screener"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "7.5"
+    ],
+    "Style Code": [
+     "763525-FACMI-8444"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "6066406180",
+   "title": "Size 10 - Gucci Screener GG Supreme - Black Grey",
+   "mpn": [
+    "763525FACMI8444"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/-IYAAOSwwPxn4A7L/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Screener"
+    ],
+    "Model": [
+     "Gucci Screener"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Style Code": [
+     "763525-FACMI-8444"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "11066381828",
+   "title": "Size 6.5 - Gucci Screener GG Supreme - Black Grey",
+   "mpn": [
+    "763525FACMI8444"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/-IYAAOSwwPxn4A7L/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Screener"
+    ],
+    "Model": [
+     "Gucci Screener"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "6.5"
+    ],
+    "Style Code": [
+     "763525-FACMI-8444"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "625787 1XK10 1000": [
+  {
+   "epid": "23045643656",
+   "title": "Size 13 - Gucci Ace GG Embossed - Black",
+   "mpn": [
+    "6257871XK101000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/00/s/NDA0WDEwODE=/z/EYAAAOSwRnNnZ~~P/$_57.JPG"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "13"
+    ],
+    "Style Code": [
+     "625787-1XK10-1000"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "5045638792",
+   "title": "Size 5 - Gucci Ace GG Embossed - Black",
+   "mpn": [
+    "6257871XK101000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/00/s/NDA0WDEwODE=/z/EYAAAOSwRnNnZ~~P/$_57.JPG"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "5"
+    ],
+    "Style Code": [
+     "625787-1XK10-1000"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "17045632074",
+   "title": "Size 10 - Gucci Ace GG Embossed - Black",
+   "mpn": [
+    "6257871XK101000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/00/s/NDA0WDEwODE=/z/EYAAAOSwRnNnZ~~P/$_57.JPG"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Style Code": [
+     "625787-1XK10-1000"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "10045634817",
+   "title": "Size 15.5 - Gucci Ace GG Embossed - Black",
+   "mpn": [
+    "6257871XK101000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/00/s/NDA0WDEwODE=/z/EYAAAOSwRnNnZ~~P/$_57.JPG"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "15.5"
+    ],
+    "Style Code": [
+     "625787-1XK10-1000"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "24045627437",
+   "title": "Size 13.5 - Gucci Ace GG Embossed - Black",
+   "mpn": [
+    "6257871XK101000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/00/s/NDA0WDEwODE=/z/EYAAAOSwRnNnZ~~P/$_57.JPG"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "13.5"
+    ],
+    "Style Code": [
+     "625787-1XK10-1000"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "21045634973",
+   "title": "Size 14.5 - Gucci Ace GG Embossed - White",
+   "mpn": [
+    "6257871XK109022"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/YCMAAeSwBv9o12J8/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "14.5"
+    ],
+    "Style Code": [
+     "625787-1XK10-9022"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27045624209",
+   "title": "Size 14 - Gucci Ace GG Embossed - Black",
+   "mpn": [
+    "6257871XK101000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/00/s/NDA0WDEwODE=/z/EYAAAOSwRnNnZ~~P/$_57.JPG"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "14"
+    ],
+    "Style Code": [
+     "625787-1XK10-1000"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "5036823208",
+   "title": "PRV Audio 10W1000NDY4 10in. Woofer(s) - Black",
+   "mpn": [
+    "10W1000NDY4"
+   ],
+   "gtin": [
+    "0602938022538"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/B5AAAOSw-Rlf6dGT/s-l640.jpg"
+   ],
+   "aspects": {
+    "Type": [
+     "Woofer(s)"
+    ],
+    "Brand": [
+     "PRV Audio"
+    ],
+    "MPN": [
+     "10W1000NDY4"
+    ],
+    "Speaker Size": [
+     "10in."
+    ],
+    "RMS Power": [
+     "500W"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "8047273543",
+   "title": "PRV Audio 10\" MID Bass Speaker - Black, Pack of 2 (10MB1000FT)",
+   "mpn": [
+    "10MB1000FT"
+   ],
+   "gtin": [
+    "0619620088390"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/bMYAAOSwH3lgwha~/s-l640.jpg"
+   ],
+   "aspects": {
+    "Type": [
+     "Mid-Bass Speaker(s)"
+    ],
+    "Brand": [
+     "PRV Audio"
+    ],
+    "Model": [
+     "8 Ohms"
+    ],
+    "MPN": [
+     "10MB1000FT"
+    ],
+    "Speaker Size": [
+     "10in."
+    ],
+    "RMS Power": [
+     "500W"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "14101465904",
+   "title": "2026 Topps - 1000 yd. Club Saquon Barkley #1YC-10",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "1000 yd. Club"
+    ],
+    "Card Number": [
+     "1YC-10"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Saquon Barkley"
+    ],
+    "Set": [
+     "2026 Topps"
+    ],
+    "Team": [
+     "Philadelphia Eagles"
+    ],
+    "Season": [
+     "2026"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "8068900921",
+   "title": "Size 10 - Trophy Room x Air Jordan 1 Retro OG SP Low Rookie Card - Home",
+   "mpn": [
+    "HV6157100"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/zEIAAeSwLENpKgrg/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Air Jordan"
+    ],
+    "Model": [
+     "Air Jordan 1"
+    ],
+    "Color": [
+     "Red"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Style Code": [
+     "HV6157-100"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Jordan"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "11045623913",
+   "title": "Size 17 - Gucci Ace GG Embossed - White",
+   "mpn": [
+    "6257871XK109022"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/YCMAAeSwBv9o12J8/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "US Shoe Size": [
+     "17"
+    ],
+    "Style Code": [
+     "625787-1XK10-9022"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "1801564363",
+   "title": "Cardboard Gold 10122 Rigid Top-Loader for Gaming Card",
+   "mpn": [
+    "10122"
+   ],
+   "gtin": [
+    "0098781101221"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/n~kAAOSwtkNf6c5o/s-l640.jpg"
+   ],
+   "aspects": {
+    "Type": [
+     "Rigid"
+    ],
+    "Brand": [
+     "Cardboard Gold"
+    ],
+    "MPN": [
+     "10122"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "1900186664",
+   "title": "BCW 1RTSB Resealable Team Set Bags",
+   "mpn": [
+    "1RTSB"
+   ],
+   "gtin": [
+    "0722626225505",
+    "0722626902901"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/OvcAAOSwaMZfE~3v/s-l640.jpg"
+   ],
+   "aspects": {
+    "Type": [
+     "Bag"
+    ],
+    "Brand": [
+     "BCW"
+    ],
+    "MPN": [
+     "1RTSB"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "15054927926",
+   "title": "TrustFire MC1 Tactical USB Rechargeable EDC Flashlight",
+   "mpn": [
+    "MC1"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/BekAAOSwOSxjKcTF/s-l640.jpg"
+   ],
+   "aspects": {
+    "Brand": [
+     "TrustFire"
+    ],
+    "Type": [
+     "Flashlight"
+    ],
+    "Item Height": [
+     "20 mm"
+    ],
+    "MPN": [
+     "MC1"
+    ],
+    "Material": [
+     "Aluminum"
+    ],
+    "Operating Range": [
+     "129 m"
+    ],
+    "Power Source": [
+     "Battery"
+    ],
+    "Features": [
+     "Waterproof",
+     "Batteries Included",
+     "Clip On",
+     "Handheld",
+     "Rechargeable",
+     "With Wrist Strap"
+    ],
+    "Model": [
+     "TrustFire MC1"
+    ],
+    "Battery Technology": [
+     "Li-Ion"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "IP Rating": [
+     "IP68"
+    ],
+    "Lighting Technology": [
+     "LED"
+    ],
+    "Lumens": [
+     "1000"
+    ],
+    "Number of Batteries": [
+     "1"
+    ],
+    "Number of Lights": [
+     "1-3"
+    ],
+    "Operating Time": [
+     "35 h"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "16087497291",
+   "title": "2025 Bowman University Chrome - Chrome Prospect Autographs Ahmad Hardy #BCA-AHA Blue Mini-Diamond Refractor /150 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/y~YAAeSwX6dqtPQd/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Print Run": [
+     "150"
+    ],
+    "Insert Set": [
+     "Chrome Prospect Autographs"
+    ],
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "Blue Mini-Diamond Refractor"
+    ],
+    "Card Number": [
+     "BCA-AHA"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Collegiate Athletic Association (NCAA)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Ahmad Hardy"
+    ],
+    "Set": [
+     "2025 Bowman University Chrome"
+    ],
+    "Team": [
+     "Missouri Tigers"
+    ],
+    "Season": [
+     "2025"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "3055593177",
+   "title": "1995 Topps - Barry Sanders #1",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/A~cAAOSwGulnpjV3/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "1"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Barry Sanders"
+    ],
+    "Set": [
+     "1995 Topps"
+    ],
+    "Team": [
+     "Detroit Lions"
+    ],
+    "Season": [
+     "1995"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27062400995",
+   "title": "2020 Topps Now F1 - Ferrari's 1000th Grand Prix #002 /1047",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/eOkAAOSwZ0xn2hAB/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Auto Racing"
+    ],
+    "Print Run": [
+     "1047"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "002"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "Formula 1"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Set": [
+     "2020 Topps Now F1"
+    ],
+    "Season": [
+     "2020"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "2164368367",
+   "title": "Casio Illuminator Black Men's Watch - AE1000WD-1",
+   "mpn": [
+    "AE1000WD1"
+   ],
+   "gtin": [
+    "0079767239312",
+    "0079767443382"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/XMEAAOSwAUlkh1gE/s-l640.jpg"
+   ],
+   "aspects": {
+    "Bezel Color": [
+     "Silver"
+    ],
+    "Brand": [
+     "Casio"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Type": [
+     "Wristwatch"
+    ],
+    "Model": [
+     "Illuminator"
+    ],
+    "Features": [
+     "Water-Resistant",
+     "Timer",
+     "Day/Night Indicator",
+     "Date Indicator",
+     "Backlight",
+     "Alarm",
+     "12-Hour Dial",
+     "Day/Date",
+     "World Time",
+     "Multifunction",
+     "Day Indicator",
+     "Chronograph"
+    ],
+    "Movement": [
+     "Quartz"
+    ],
+    "Band Color": [
+     "Silver"
+    ],
+    "Band Material": [
+     "Stainless Steel"
+    ],
+    "Case Color": [
+     "Silver",
+     "Black"
+    ],
+    "Case Material": [
+     "Stainless Steel"
+    ],
+    "Display": [
+     "Digital"
+    ],
+    "Water Resistance": [
+     "100 m (10 ATM)"
+    ],
+    "Reference Number": [
+     "AE1000WD-1"
+    ],
+    "Dial Color": [
+     "Black"
+    ],
+    "Year Manufactured": [
+     "2010-Now"
+    ],
+    "Style": [
+     "Sport",
+     "Dress/Formal",
+     "Casual",
+     "Classic"
+    ],
+    "Case Size": [
+     "44 mm"
+    ],
+    "Watch Shape": [
+     "Round"
+    ],
+    "Caseback": [
+     "Solid"
+    ],
+    "Case Finish": [
+     "Polished"
+    ],
+    "Lug Width": [
+     "20 mm"
+    ],
+    "Band Width": [
+     "44 mm"
+    ],
+    "Case Thickness": [
+     "14 mm"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23101482327",
+   "title": "2026 Topps - 1000 yd. Club Saquon Barkley #1YC-10 Green Foil /99",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Print Run": [
+     "99"
+    ],
+    "Parallel/Variety": [
+     "Green Foil"
+    ],
+    "Insert Set": [
+     "1000 yd. Club"
+    ],
+    "Card Number": [
+     "1YC-10"
+    ],
+    "Features": [
+     "Serial Numbered",
+     "Parallel/Variety",
+     "Insert"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Saquon Barkley"
+    ],
+    "Set": [
+     "2026 Topps"
+    ],
+    "Team": [
+     "Philadelphia Eagles"
+    ],
+    "Season": [
+     "2026"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "386750 A3830 9071": [
+  {
+   "epid": "14044265419",
+   "title": "Size 9.5 - Gucci Ace Leather White",
+   "mpn": [
+    "386750A38309071"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8z0AAOSwtWpnuo9X/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "9.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "386750-A3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "24044262473",
+   "title": "Size 9 - Gucci Ace Leather White",
+   "mpn": [
+    "386750A38309071"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8z0AAOSwtWpnuo9X/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "386750-A3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "9044263936",
+   "title": "Size 10.5 - Gucci Ace Leather White",
+   "mpn": [
+    "386750A38309071"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8z0AAOSwtWpnuo9X/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "386750-A3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "7044272281",
+   "title": "Size 7.5 - Gucci Ace Leather White",
+   "mpn": [
+    "386750A38309071"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8z0AAOSwtWpnuo9X/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "7.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "386750-A3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "22044409497",
+   "title": "Size 5 - Gucci Ace Leather White",
+   "mpn": [
+    "386750A38309071"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8z0AAOSwtWpnuo9X/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "386750-A3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "2343306104",
+   "title": "Size 6 - Gucci Ace Green Crocodile W",
+   "mpn": [
+    "387993A38309071"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Green"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "US Shoe Size": [
+     "6"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "387993-A3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "25044257490",
+   "title": "Size 11 - Gucci Ace Leather White",
+   "mpn": [
+    "386750A38309071"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8z0AAOSwtWpnuo9X/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "386750-A3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "5044274469",
+   "title": "Size 8 - Gucci Ace Leather White",
+   "mpn": [
+    "386750A38309071"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8z0AAOSwtWpnuo9X/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "8"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "386750-A3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "2315313102",
+   "title": "Size 9.5 - Gucci Ace Green Crocodile W",
+   "mpn": [
+    "38799338309071"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/iQoAAOSwoHxnupA2/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "Green"
+    ],
+    "US Shoe Size": [
+     "9.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "387993-3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17044409910",
+   "title": "Size 5.5 - Gucci Ace Leather White",
+   "mpn": [
+    "386750A38309071"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8z0AAOSwtWpnuo9X/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Ace"
+    ],
+    "Model": [
+     "Gucci Ace"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "US Shoe Size": [
+     "5.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "386750-A3830-9071"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
   }
  ]
 }
