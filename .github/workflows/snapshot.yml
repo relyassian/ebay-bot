@@ -23,4 +23,4 @@ jobs:
       - run: |
           git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"
           git add data/snapshot.json data/selling_limits.json
-          git diff --cached --quiet || (git commit -m "bot: listings snapshot" && git pull --rebase && git push)
+          git diff --cached --quiet || (git commit -m "bot: listings snapshot" && bash scripts/push_state.sh)

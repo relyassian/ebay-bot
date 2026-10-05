@@ -15,8 +15,8 @@ def _save(note: str) -> None:
     subprocess.run(cmds[0], check=False)
     if subprocess.run(cmds[1]).returncode == 0:
         return
-    for c in (["git", "commit", "-qm", f"bot: {note}"], ["git", "pull", "-q", "--rebase"], ["git", "push", "-q"]):
-        subprocess.run(c, check=False)
+    subprocess.run(["git", "commit", "-qm", f"bot: {note}"], check=False)
+    subprocess.run(["bash", "scripts/push_state.sh"], check=False)   # retries if another job pushed at the same time
 
 
 def _pull() -> None:
