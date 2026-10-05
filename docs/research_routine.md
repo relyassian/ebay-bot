@@ -51,6 +51,8 @@ only. Read CLAUDE.md for the business rules before starting.
    Rotate through brands so each day covers different ones: Gucci (Ace, Screener, Rhyton, Re-Web, Horsebit and
    Jordaan loafers, drivers, adidas x Gucci Gazelle), Prada, Balenciaga, Bottega Veneta, Alexander McQueen,
    Loewe, Ferragamo, D&G.
+   Popular first (Rafael, Oct 5: list what sells most): start each day from stockx.com/brands/gucci?sort=most-active&gender=men
+   (and the same for other allowed brands), then the eBay sold search if it loads; best sellers get priority.
    Ferragamo (Rafael, Oct 5: wants more): check Gancini loafers/drivers/moccasins at Italist, Nugnes1920, Cettire,
    Mytheresa, Nordstrom and StockX/GOAT every day; Ferragamo widths matter (D = medium, EE = 'wide', EEE = 'extra wide').
    Louis Vuitton: skip (Oct 5 check: StockX asks ≥ retail, LV is never discounted, so it can't clear $100).
