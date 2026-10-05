@@ -1,14 +1,4 @@
 📋 Daily eBay check · Sun Oct 4
 
-What I did: took 9 listings (or some sizes) off sale because stores ran out.
+I checked all 29 listings. Nothing needed changing.
 Nothing for you to do.
-{'photo': 'https://i.ebayimg.com/images/g/YWQAAeSwoAVpTqG5/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci Ace Sneaker with Web Black/Navy/Red New\nSizes: all 3 sizes\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075354"}
-{'photo': 'https://i.ebayimg.com/images/g/bMYAAOSwnQVn4A8o/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci Ace Sneaker with Web White/Green/Red New\nSizes: all 2 sizes\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075398"}
-{'photo': 'https://i.ebayimg.com/images/g/RaAAAeSwMrlpRenA/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci x adidas Gazelle GG Monogram Sneaker…\nSizes: US 6.5\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075433"}
-{'photo': 'https://i.ebayimg.com/images/g/3IUAAOSwF2hnupBb/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci x adidas Gazelle Suede Sneaker Light Blue…\nSizes: US 7.5\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075474"}
-{'photo': 'https://i.ebayimg.com/images/g/WXcAAeSwMTNqtwaN/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci Horsebit Driver Loafer with Web…\nSizes: all 6 sizes\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075517"}
-{'photo': 'https://i.ebayimg.com/images/g/Fy0AAOSwgPdn4A-H/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci Horsebit Driver Loafer Black New\nSizes: all 4 sizes\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075592"}
-{'photo': 'https://i.ebayimg.com/images/g/pW8AAeSw93hqtwZg/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci Re-Web GG Canvas Sneaker White/Beige New\nSizes: US 9\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075633"}
-{'photo': 'https://i.ebayimg.com/images/g/zDkAAeSw9zdo4Ggy/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci Rhyton Leather Sneaker Ivory New\nSizes: all 2 sizes\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075737"}
-Also changed:
-• Taken Off Sale: Gucci Screener GG Canvas Sneaker… (all 4 sizes) https://www.ebay.com/itm/820204075830
