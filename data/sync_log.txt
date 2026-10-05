@@ -1,6 +1,4 @@
 📋 Daily eBay check · Sun Oct 4
 
 I checked all 20 listings. Nothing needed changing.
-👉 You have 2 things to answer (below).
-{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/8UkAAOSwo9VluJTu/$_57.PNG?set_id=8800005007', 'text': '👉 NEEDS YOUR OK (R19)\nGucci Tennis 1977 Sneaker Beige/Ebony GG Canvas… · US 8\n\nRaise the price from $1039.99 to $1041.99?\nWhy: the cheapest store (StockX US M 8 = Gucci UK 7.5 (ask $607 + 6% StockX fee; browser read 2026-10-04), $643) went up, so at today\'s price you\'d make under $100. It\'s off sale until you answer.\n\nReply "yes R19" or "no R19" (or just tell me in your own words).\nhttps://www.ebay.com/itm/355423513413'}
-{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/8UkAAOSwo9VluJTu/$_57.PNG?set_id=8800005007', 'text': '👉 NEEDS YOUR OK (R20)\nGucci Tennis 1977 Sneaker Beige/Ebony GG Canvas… · US 8.5\n\nRaise the price from $1026.99 to $1279.99?\nWhy: the cheapest store (StockX US M 8.5 = Gucci UK 8 (ask $770 + 6% StockX fee; browser read 2026-10-04), $816) went up, so at today\'s price you\'d make under $100. It\'s off sale until you answer.\n\nReply "yes R20" or "no R20" (or just tell me in your own words).\nhttps://www.ebay.com/itm/355423513413'}
+Nothing for you to do.
