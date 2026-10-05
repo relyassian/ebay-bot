@@ -1,0 +1,41 @@
+id: gucci-ace-gg-supreme-bees
+brand: Gucci
+model: Ace GG Supreme Bees Sneaker
+colorway: Beige/Ebony
+style_code: 548950 9N050 8465
+category: sneaker
+color: Beige
+product_line: Ace
+upper_material: Canvas
+retail_price: 650
+price: 714.99
+department: Men
+size_system: UK
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/~xQAAeSwZ35psPi1/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '11.5'
+  native: UK 11
+  cost: 360.23
+  source: StockX (ask $340 + fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ace-supreme-bees
+  overseas: false
+  in_stock_sources: 1
+- us: '14'
+  native: UK 13.5
+  cost: 386.72
+  source: StockX (ask $365 + fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ace-supreme-bees
+  overseas: false
+  in_stock_sources: 1
+- us: '14.5'
+  native: UK 14
+  cost: 378.24
+  source: StockX (ask $357 + fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-ace-supreme-bees
+  overseas: false
+  in_stock_sources: 1

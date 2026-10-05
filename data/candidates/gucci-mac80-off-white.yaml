@@ -1,0 +1,27 @@
+id: gucci-mac80-off-white
+brand: Gucci
+model: MAC80 Sneaker
+colorway: Off-White
+style_code: 747953 AAB8C 9110
+category: sneaker
+color: White
+product_line: MAC80
+upper_material: Leather
+retail_price: 950
+price: 1044.99
+department: Men
+size_system: UK
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/WL4AAeSwKe9pTqGQ/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '13.5'
+  native: UK 13
+  cost: 578.49
+  source: StockX (ask $546 + fee, browser read 2026-10-05)
+  url: https://stockx.com/gucci-mac80-off-white
+  overseas: false
+  in_stock_sources: 1
