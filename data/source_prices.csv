@@ -203,3 +203,18 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355428079713,11.5,661.13,"StockX UK 11 (ask $624 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
 355428079713,12,635.70,"StockX UK 11.5 (ask $600 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
 355428079713,13,423.80,"StockX UK 12.5 (ask $400 + fee, browser read 2026-10-05)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-05T08:11:00Z
+820205221528,5.5,415.32,"StockX (ask $392 + fee, checkout-verified formula, browser read 2026-10-05) UK 5",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
+820205221528,6,428.04,"StockX (ask $404 + fee, checkout-verified formula, browser read 2026-10-05) UK 5.5",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
+820205221528,6.5,423.80,"StockX (ask $400 + fee, checkout-verified formula, browser read 2026-10-05) UK 6",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
+820205221528,7,423.80,"StockX (ask $400 + fee, checkout-verified formula, browser read 2026-10-05) UK 6.5",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
+820205221528,11,426.98,"StockX (ask $403 + fee, checkout-verified formula, browser read 2026-10-05) UK 10.5",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-05T08:22:02Z
+820205221563,9.5,503.26,"StockX (ask $475 + fee, checkout-verified formula, browser read 2026-10-05) UK 9",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-05T08:22:04Z
+820205221563,10,506.44,"StockX (ask $478 + fee, checkout-verified formula, browser read 2026-10-05) UK 9.5",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-05T08:22:04Z
+820205221563,13,343.28,"StockX (ask $324 + fee, checkout-verified formula, browser read 2026-10-05) UK 12.5",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-05T08:22:04Z
+820205221628,12,511.74,"StockX (ask $483 + fee, checkout-verified formula, browser read 2026-10-05) UK 11.5",https://stockx.com/gucci-interlocking-g-loafers-black-green-red-web,false,1,2026-10-05T08:22:06Z
+820205221669,7.5,592.26,"StockX (ask $559 + fee, browser read 2026-10-05) UK 7",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T08:22:08Z
+820205221669,12,408.97,"StockX (ask $386 + fee, browser read 2026-10-05) UK 11.5",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T08:22:08Z
+820205221669,12.5,528.69,"StockX (ask $499 + fee, browser read 2026-10-05) UK 12",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T08:22:08Z
+820205221669,13.5,505.38,"StockX (ask $477 + fee, browser read 2026-10-05) UK 13",https://stockx.com/gucci-mac80-black-off-white,false,1,2026-10-05T08:22:08Z
+820205221755,12.5,452.41,"StockX (ask $427 + fee, checkout-verified formula, browser read 2026-10-05) UK 12",https://stockx.com/gucci-noel-driver-loafer-black,false,1,2026-10-05T08:22:10Z
+820205221855,9,529.75,"StockX (ask $500 + fee, browser read 2026-10-05) UK 8.5",https://stockx.com/gucci-re-web-sneaker-black-gg-canvas,false,1,2026-10-05T08:22:12Z
