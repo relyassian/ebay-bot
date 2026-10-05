@@ -54,6 +54,36 @@ def _stats(token: str) -> dict:
     return out
 
 
+def _views(ids: list[str]) -> tuple[dict, dict] | None:
+    """Listing page views per listing from eBay's Analytics API: (yesterday, last 7 days).
+    None when the token lacks the analytics scope (Rafael must re-approve once via connect-ebay)."""
+    import requests
+    from datetime import timedelta
+    from bot.ebay.auth import access_token
+    try:
+        tok = access_token(analytics=True)
+    except Exception as e:
+        print("views unavailable:", e)
+        return None
+    end = datetime.now(NY).date() - timedelta(days=1)
+    out = []
+    for start in (end, end - timedelta(days=6)):
+        got = {}
+        for i in range(0, len(ids), 200):
+            f = (f"marketplace_ids:{{EBAY_US}},date_range:[{start:%Y%m%d}..{end:%Y%m%d}],"
+                 f"listing_ids:{{{'|'.join(ids[i:i + 200])}}}")
+            r = requests.get("https://api.ebay.com/sell/analytics/v1/traffic_report",
+                             params={"dimension": "LISTING", "metric": "LISTING_VIEWS_TOTAL", "filter": f},
+                             headers={"Authorization": f"Bearer {tok}"}, timeout=60)
+            if r.status_code != 200:
+                print("views error:", r.status_code, r.text[:300])
+                return None
+            for rec in r.json().get("records", []):
+                got[rec["dimensionValues"][0]["value"]] = int(float(rec["metricValues"][0].get("value") or 0))
+        out.append(got)
+    return out[0], out[1]
+
+
 def build(token: str) -> str:
     from bot.notices import pop_all
     now = datetime.now(NY)
@@ -66,12 +96,10 @@ def build(token: str) -> str:
     STATS.write_text(json.dumps({k: hist[k] for k in sorted(hist)[-14:]}))
 
     on_sale = [i for i, v in cur.items() if v["live"]]
-    views = sum(v["views"] for v in cur.values())
     watchers = sum(v["watchers"] for v in cur.values())
-    dv = views - sum(v.get("views", 0) for v in prev.values()) if prev else None
     dw = watchers - sum(v.get("watchers", 0) for v in prev.values()) if prev else None
-    sign = lambda x: "" if x is None else f" ({'+' if x >= 0 else ''}{x} since yesterday)"
-
+    sign = lambda x: "" if x is None else f" ({'+' if x >= 0 else ''}{x})"
+    views = _views(list(cur))
     lines = [f"<b>☀️ Morning update · {now:%a %b %-d}</b>"]
     # sales since the last update
     sold = []
@@ -83,11 +111,18 @@ def build(token: str) -> str:
         f"\n• {escape(r['title'][:40])} US {r['size']} · ${float(r['sold_price']):,.0f}" for r in sold)
         if sold else "Sales: none yet")
     lines.append(f"On sale: {len(on_sale)} listings · {sum(cur[i]['live'] for i in on_sale)} sizes")
-    lines.append(f"Views: {views:,}{sign(dv)} · Watchers: {watchers}{sign(dw)}")
-    top = sorted(cur.items(), key=lambda kv: (kv[1]["watchers"], kv[1]["views"]), reverse=True)[:3]
-    if top and top[0][1]["watchers"] + top[0][1]["views"] > 0:
+    if views:
+        y, wk = views
+        lines.append(f"Views: {sum(y.values()):,} yesterday · {sum(wk.values()):,} this week")
+    else:
+        lines.append("Views: not connected yet (needs one eBay re-approval)")
+    lines.append(f"Watchers: {watchers}{sign(dw)}")
+    wk = views[1] if views else {}
+    top = sorted(cur.items(), key=lambda kv: (kv[1]["watchers"], wk.get(kv[0], 0)), reverse=True)[:3]
+    if top and top[0][1]["watchers"] + wk.get(top[0][0], 0) > 0:
         lines.append("Most interest: " + "; ".join(
-            f"{escape(v['name'])} ({v['watchers']} watching, {v['views']} views)" for _, v in top))
+            f"{escape(v['name'])} ({v['watchers']} watching" + (f", {wk.get(i, 0)} views/wk" if views else "") + ")"
+            for i, v in top))
     day = json.loads(DAYLOG.read_text()) if DAYLOG.exists() else {}
     label = {"new": "new listings", "relisted": "sizes back on sale", "hidden": "sizes off sale",
              "lowered": "price drops", "raised": "small raises"}

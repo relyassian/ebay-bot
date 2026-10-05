@@ -24,7 +24,8 @@ SCOPES = [
     "https://api.ebay.com/oauth/api_scope/sell.fulfillment",
 ]
 MARKETING = "https://api.ebay.com/oauth/api_scope/sell.marketing"   # Promoted Listings (needs re-consent, Oct 2026)
-CONSENT_SCOPES = SCOPES + [MARKETING]
+ANALYTICS = "https://api.ebay.com/oauth/api_scope/sell.analytics.readonly"  # listing views (needs re-consent, Oct 5)
+CONSENT_SCOPES = SCOPES + [MARKETING, ANALYTICS]
 
 _cache: dict = {}
 
@@ -57,14 +58,14 @@ def exchange_code(code: str) -> dict:
     return r.json()  # contains refresh_token + refresh_token_expires_in
 
 
-def access_token(marketing: bool = False) -> str:
+def access_token(marketing: bool = False, analytics: bool = False) -> str:
     """Base token for Trading/sell APIs. marketing=True asks for the Promoted Listings scope too
     (only works after Rafael re-approved with CONSENT_SCOPES)."""
-    key = "mkt" if marketing else "base"
+    key = "mkt" if marketing else "ana" if analytics else "base"
     c = _cache.get(key, {})
     if c.get("exp", 0) > time.time() + 60:
         return c["token"]
-    scopes = SCOPES + ([MARKETING] if marketing else [])
+    scopes = SCOPES + ([MARKETING] if marketing else []) + ([ANALYTICS] if analytics else [])
     r = requests.post(
         TOKEN_URL,
         headers={"Authorization": _basic(), "Content-Type": "application/x-www-form-urlencoded"},
