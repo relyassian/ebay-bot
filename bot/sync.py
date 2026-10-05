@@ -259,6 +259,13 @@ def run(live: bool) -> list:
         save_log(price_log)
     raises = save_proposals(props)
     msgs = sync_report(live, applied, groups, raises, checked)
+    if live:
+        from bot.digest import log_changes
+        log_changes({k: sum(len(r[1]) for r in v) for k, v in groups.items()})
+        if errors:
+            from bot.notices import add
+            for e in errors:
+                add("problem", e[:200])
     ERRORS.write_text("\n".join(errors) + ("\n" if errors else ""))
     if errors:
         print("SYNC ERRORS:\n" + "\n".join(errors))

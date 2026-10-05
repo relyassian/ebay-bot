@@ -109,7 +109,27 @@ def drafts() -> list[str]:
         state[cid] = {"status": "sent"}
         out.append(draft_message(d))
     save_state(state)
-    return out
+    return _route(out)
+
+
+def _route(msgs: list) -> list:
+    """Rafael (Oct 5): don't message him about new listings; problems, missing photos and anything that
+    needs his OK wait for the morning update. Everything is still printed to the run log."""
+    import re
+    from bot.notices import add
+    for m in msgs:
+        text = m["text"] if isinstance(m, dict) else str(m)
+        print(text)
+        lines = text.splitlines() or [""]
+        if text.startswith("📷"):
+            add("photos", lines[0].replace("📷 NEEDS PHOTOS: ", "") + (" · " + lines[1].split(" (")[0] if len(lines) > 1 else ""))
+        elif text.startswith("⚠️"):
+            add("problem", " ".join(lines[:2]).lstrip("⚠️ ")[:200])
+        elif text.startswith("👉"):
+            cid = re.search(r'yes (\S+)"', text)
+            add("approve", lines[0].replace("👉 NEW LISTING for your OK: ", "")
+                + (f' (reply "yes {cid.group(1)}" to list it)' if cid else ""))
+    return []
 
 
 def apply_decision(code: str, approve: bool, live: bool) -> list[str]:
@@ -291,6 +311,8 @@ def publish(live: bool) -> list[str]:
             state[cid] = {"status": "live", "item_id": item_id}
             record_sources(item_id, cands[cid], d)   # so the daily check knows where each size comes from
             record_min_net(item_id, cands[cid])
+            from bot.digest import log_changes
+            log_changes({"new": 1})
             out.append(f"✅ Listed {d.title}\nhttps://www.ebay.com/itm/{item_id}\n{len(d.sizes)} sizes, "
                        f"best net ${d.best_net:.0f}")
         else:
@@ -307,5 +329,6 @@ def publish(live: bool) -> list[str]:
 
 
 def run_all(live: bool) -> None:
-    for text in inbox(live) + publish(live):
+    for text in inbox(live):
         send(text)
+    _route(publish(live))

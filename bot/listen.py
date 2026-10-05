@@ -34,8 +34,10 @@ def run(minutes: int, live: bool) -> None:
             try:
                 for a in sales.run():
                     send(a); changed = True
-                for t in publish(live):
-                    send(t); changed = True
+                from bot.newlistings import _route
+                done = publish(live)
+                if done:                      # listed quietly (Rafael, Oct 5); problems go to the morning update
+                    _route(done); changed = True
             except Exception as e:
                 print("sales/publish error:", e)
             next_sales = time.time() + 600

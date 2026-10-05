@@ -197,21 +197,13 @@ def main(argv=None) -> int:
     if args.cmd == "sync":
         from bot.alerts import send
         from bot.sync import run
-        msgs = run(args.live)
-        for m in msgs:
-            print(m)
-        # Rafael (Oct 5): one daily report, not one per run. Extra runs during the day (after research or
-        # setting changes) only message him when something actually changed or needs him.
-        from zoneinfo import ZoneInfo
-        today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
-        mark = ROOT / "data" / "last_report_date.txt"
-        first_today = not mark.exists() or mark.read_text().strip() != today
-        quiet = (not first_today and len(msgs) == 1 and "Nothing needed changing" in str(msgs[0])
-                 and "⚠️" not in str(msgs[0]))
-        if not quiet:
-            for m in msgs:
-                send(m)
-            mark.write_text(today + "\n")
+        for m in run(args.live):
+            print(m)                      # full detail stays in the log (data/sync_log.txt)
+        # Rafael (Oct 5): one short morning update instead of a report per run
+        from bot import digest
+        if args.live and digest.due():
+            from bot.ebay.auth import access_token
+            send({"text": digest.build(access_token()), "html": True})
         return 0
     if args.cmd == "sales":
         from bot.alerts import send

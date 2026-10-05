@@ -39,15 +39,12 @@ def run() -> list[str]:
         ship = "2. Ship it to this address (copy exactly):\n" + "\n".join(s.ship_to)
         warn = ("\n\n⚠️ Put the line starting with evtn on address line 2. Ship direct from every store, "
                 "GOAT included, even if its form shortens that line." if evtn else "")
-        try:
-            photo = get_item(s.item_id, token).photo
-        except Exception:
-            photo = None
-        text = (f"💰 SOLD for ${s.price:.2f}: {name}, US {s.size or '-'}\nOrder {s.order_id}\n\n{buy}\n\n{ship}{warn}"
+        from html import escape as e
+        # Rafael (Oct 5): sales come through right away, in bold, as ONE message
+        text = (f"<b>💰 SOLD! {e(name)} · US {e(str(s.size or '-'))} · ${s.price:,.2f}</b>\n"
+                f"<b>Order {e(s.order_id)}</b>\n\n<b>{e(buy)}</b>\n\n{e(ship)}{e(warn)}"
                 f"\n\nListing: https://www.ebay.com/itm/{s.item_id}")
-        if photo:
-            alerts.append({"photo": photo, "text": f"💰 Sold: {name}, US {s.size or '-'} (details next)"})
-        alerts.append(text)
+        alerts.append({"text": text, "html": True})
         new_keys.append(key)
         try:
             from bot.pricing import log_sale
