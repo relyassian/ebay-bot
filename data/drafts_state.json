@@ -1,29 +1,38 @@
 {
   "gucci-ace-web-black": {
-    "status": "approved"
+    "item_id": "820204075354",
+    "status": "live"
   },
   "gucci-ace-web-white": {
-    "status": "approved"
+    "item_id": "820204075398",
+    "status": "live"
   },
   "gucci-adidas-gazelle-black-gg": {
-    "status": "approved"
+    "item_id": "820204075433",
+    "status": "live"
   },
   "gucci-adidas-gazelle-light-blue": {
-    "status": "approved"
+    "item_id": "820204075474",
+    "status": "live"
   },
   "gucci-driver-web-black": {
-    "status": "approved"
+    "item_id": "820204075517",
+    "status": "live"
   },
   "gucci-horsebit-driver-black": {
-    "status": "approved"
+    "item_id": "820204075592",
+    "status": "live"
   },
   "gucci-re-web-white-beige": {
-    "status": "approved"
+    "item_id": "820204075633",
+    "status": "live"
   },
   "gucci-rhyton-ivory": {
-    "status": "approved"
+    "item_id": "820204075737",
+    "status": "live"
   },
   "gucci-screener-black-gg": {
-    "status": "approved"
+    "item_id": "820204075830",
+    "status": "live"
   }
 }
