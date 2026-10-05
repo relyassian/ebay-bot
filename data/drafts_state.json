@@ -1,11 +1,11 @@
 {
   "balenciaga-runner-sneaker-black-matte": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186160",
+    "status": "live"
   },
   "balenciaga-runner-sneaker-white": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186196",
+    "status": "live"
   },
   "ferragamo-lunar-paneled-slip-on-sneaker-medium-b": {
     "reason": "needs photos (no eBay catalog photo found)",
@@ -24,8 +24,8 @@
     "status": "live"
   },
   "gucci-ace-gg-embossed-white": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186222",
+    "status": "live"
   },
   "gucci-ace-gg-supreme-bees": {
     "item_id": "820205329339",
@@ -52,40 +52,40 @@
     "status": "live"
   },
   "gucci-basket-black-red": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186253",
+    "status": "live"
   },
   "gucci-basket-green-demetra": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186287",
+    "status": "live"
   },
   "gucci-basket-grey-yellow-blue": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186315",
+    "status": "live"
   },
   "gucci-basket-high-black-demetra": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186346",
+    "status": "live"
   },
   "gucci-basket-high-green-demetra": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186379",
+    "status": "live"
   },
   "gucci-basket-high-white-demetra-red": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186442",
+    "status": "live"
   },
   "gucci-basket-low-white-demetra-green": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186465",
+    "status": "live"
   },
   "gucci-basket-low-white-demetra-red": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186489",
+    "status": "live"
   },
   "gucci-basket-red-black-demetra": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186525",
+    "status": "live"
   },
   "gucci-driver-horsebit-black": {
     "reason": "needs photos (no eBay catalog photo found)",
@@ -96,8 +96,8 @@
     "status": "blocked"
   },
   "gucci-driver-interlocking-g-green": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186550",
+    "status": "live"
   },
   "gucci-driver-web-black": {
     "item_id": "820204075517",
@@ -108,8 +108,8 @@
     "status": "blocked"
   },
   "gucci-gg-screener-grey-navy": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186594",
+    "status": "live"
   },
   "gucci-horsebit-driver-black": {
     "item_id": "820204075592",
@@ -140,8 +140,8 @@
     "status": "live"
   },
   "gucci-mac80-sneaker-white-blue": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186615",
+    "status": "live"
   },
   "gucci-noel-driver-black": {
     "item_id": "820205221755",
@@ -156,64 +156,64 @@
     "status": "live"
   },
   "gucci-rhyton-interlocking-g-star": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186641",
+    "status": "live"
   },
   "gucci-rhyton-ivory": {
     "item_id": "820204075737",
     "status": "live"
   },
   "gucci-rhyton-maxi-gg-supreme-black-khaki-beige": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186667",
+    "status": "live"
   },
   "gucci-rhyton-white-red-green-reflective": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186704",
+    "status": "live"
   },
   "gucci-run-sneaker-beige-ebony-monogram": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186744",
+    "status": "live"
   },
   "gucci-run-sneaker-black": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186774",
+    "status": "live"
   },
   "gucci-run-sneaker-white-black": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186802",
+    "status": "live"
   },
   "gucci-run-sneaker-white-suede": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186833",
+    "status": "live"
   },
   "gucci-screener-black-gg": {
     "item_id": "820204075830",
     "status": "live"
   },
   "gucci-screener-gg-supreme-black-grey": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186853",
+    "status": "live"
   },
   "gucci-screener-gg-supreme-blue-red": {
     "reason": "needs photos (no eBay catalog photo found)",
     "status": "blocked"
   },
   "gucci-tennis-1977-black-ivory": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186878",
+    "status": "live"
   },
   "gucci-tennis-1977-blue-ivory": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186919",
+    "status": "live"
   },
   "gucci-tennis-1977-high-beige": {
     "item_id": "820205329783",
     "status": "live"
   },
   "gucci-tennis-1977-low-gg-monogram-ebony-beige": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820207186962",
+    "status": "live"
   },
   "gucci-tennis-1977-white-green-red": {
     "reason": "needs photos (no eBay catalog photo found)",
