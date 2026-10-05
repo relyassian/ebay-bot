@@ -201,6 +201,21 @@ def build_description(c: dict, sizes: list[SizeLine]) -> str:
     return "".join(out)
 
 
+def excluded_reason(c: dict, cfg: dict) -> str | None:
+    """Rafael's rule (Oct 4): never list anything connected to idol worship (excluded brands, or logos/motifs
+    like Medusa or crosses). Brand checked exactly; words checked as whole words in model/colorway/title."""
+    import re
+    ex = cfg.get("exclude", {})
+    brand = (c.get("brand") or "").lower()
+    if any(brand == b.lower() or brand.startswith(b.lower() + " ") for b in ex.get("brands", [])):
+        return f"excluded brand ({c.get('brand')})"
+    text = " ".join(str(c.get(k, "")) for k in ("model", "colorway", "title")).lower()
+    for w in ex.get("words", []):
+        if re.search(rf"\b{re.escape(w.lower())}\b", text):
+            return f"excluded word in the product name ({w})"
+    return None
+
+
 def make_draft(c: dict, cfg: dict | None = None) -> Draft:
     cfg = cfg or load_config()
     min_src = cfg["risk"]["min_sources_per_size"]
@@ -224,7 +239,9 @@ def make_draft(c: dict, cfg: dict | None = None) -> Draft:
         specifics=build_specifics(c), description=build_description(c, lines),
         photos=list(c.get("photos") or []), sizes=lines, skipped=skipped,
     )
-    if c["category"] not in CATEGORY_IDS:
+    if (bad := excluded_reason(c, cfg)):
+        d.blocked_reason = bad
+    elif c["category"] not in CATEGORY_IDS:
         d.blocked_reason = f"category '{c['category']}' not supported yet"
     elif not d.photos:
         d.blocked_reason = "needs photos (no eBay catalog photo found)"

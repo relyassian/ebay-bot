@@ -25,6 +25,10 @@ listing:
 ads:
   rate: 0.08                  # Promoted Listings ad rate on every shoe listing (Rafael, Oct 2); prices raised once to cover it
 
+exclude:                      # Rafael, Oct 4: nothing connected to idol worship (brand names or logos)
+  brands: [Dior, Christian Dior, Hermes, Hermès, Christian Louboutin, Louboutin, Versace, Nike]
+  words: [Medusa, Buddha, cross, crucifix, saint, angel, idol, deity, god, goddess]   # checked in model/colorway/title
+
 pricing:
   decay: true                 # unsold 7 days at the same price → −3% (pre-approved), never below the $100 floor
   decay_after_days: 7
