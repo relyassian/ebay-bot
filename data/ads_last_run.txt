@@ -1,2 +1,1 @@
-📣 Ads are ON: 19 shoe listings promoted at 8% (eBay only charges when an ad leads to a sale).
-TELEGRAM SEND FAILED: cannot access local variable 'send' where it is not associated with a value
+📣 Ads are ON: 28 shoe listings promoted at 8% (eBay only charges when an ad leads to a sale).
