@@ -68,14 +68,15 @@ def item_min_net(cfg: dict, item_id: str | None = None, brand: str | None = None
 
 
 def floor_price(landed: float, cfg: dict, *, reship: bool = False, net_target: float | None = None,
-                base: float | None = None) -> float:
+                base: float | None = None, mult: float = 1.0) -> float:
     """Lowest eBay price (ending in .99) that clears the required profit at that price (tiered above $1,500).
-    net_target = a fixed profit target instead (e.g. Tier A)."""
+    net_target = a fixed profit target instead (e.g. Tier A). mult = require mult × the required profit
+    (price drops stop at 1.5×, Rafael Oct 5)."""
     if net_target is None:
-        target = cfg["profit"]["floor"] if base is None else base
+        target = (cfg["profit"]["floor"] if base is None else base) * mult
         for _ in range(12):
             price = floor_price(landed, cfg, reship=reship, net_target=target)
-            need = required_net(price, cfg, base)
+            need = required_net(price, cfg, base) * mult
             if need <= target:
                 return price
             target = need

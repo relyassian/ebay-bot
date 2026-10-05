@@ -29,7 +29,7 @@
 ## Pricing
 1. eBay sold comps for the exact style code + size (active listings as a fallback).
 2. Start near the **top** of the recent sold range. With few comps, price at or just above retail. Verified discontinued → up to +15% over last retail, capped at the highest comp.
-3. Unsold after 7 days → drop 3% per step, never below the floor price.
+3. Unsold after 7 days → drop 3% per step, never below 1.5× the required profit (Rafael, Oct 5: $150 normally, $300 on LV; `pricing.decay_floor_mult`). Listing minimum stays $100. Slow on purpose so drops aren't obvious.
 4. Log start vs. final sale price per model so starting prices improve.
 
 ## Fulfillment

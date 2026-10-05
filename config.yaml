@@ -44,6 +44,7 @@ pricing:
   decay: true                 # unsold 7 days at the same price → −3% (pre-approved), never below the $100 floor
   decay_after_days: 7
   decay_step: 0.03
+  decay_floor_mult: 1.5       # Rafael, Oct 5: drops never go below 1.5× the required profit ($150; LV $300); listing minimum stays $100
 
 risk:
   min_sources_per_size: 2     # anti-cancellation rule

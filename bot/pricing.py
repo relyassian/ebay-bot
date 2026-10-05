@@ -46,7 +46,10 @@ def decay_price(price: float, cost: float, overseas: bool, cfg: dict, taxable: b
                 shipping: float | None = None, base: float | None = None) -> float | None:
     """Next lower price (−step, ending .99), or None if that would go below the floor price."""
     step = cfg.get("pricing", {}).get("decay_step", 0.03)
-    floor = floor_price(landed_cost(cost, cfg, overseas=overseas, taxable=taxable, shipping=shipping), cfg, base=base)
+    # Rafael (Oct 5): drops stop at 1.5× the required profit ($150 normally, $300 on LV), not at the listing minimum
+    mult = cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
+    floor = floor_price(landed_cost(cost, cfg, overseas=overseas, taxable=taxable, shipping=shipping), cfg, base=base,
+                        mult=mult)
     new = math.floor(price * (1 - step)) - 0.01
     new = max(new, floor)
     return new if new < price - 0.5 else None
