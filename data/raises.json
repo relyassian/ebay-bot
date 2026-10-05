@@ -119,30 +119,5 @@
     }
   },
   "next": 21,
-  "pending": {
-    "R19": {
-      "code": "R19",
-      "cost": 643.42,
-      "item_id": "355423513413",
-      "name": "Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas\u2026",
-      "new": 1041.99,
-      "old": 1039.99,
-      "photo": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/8UkAAOSwo9VluJTu/$_57.PNG?set_id=8800005007",
-      "size": "8",
-      "store": "StockX US M 8 = Gucci UK 7.5 (ask $607 + 6% StockX fee; browser read 2026-10-04)",
-      "url": "https://www.ebay.com/itm/355423513413"
-    },
-    "R20": {
-      "code": "R20",
-      "cost": 816.2,
-      "item_id": "355423513413",
-      "name": "Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas\u2026",
-      "new": 1279.99,
-      "old": 1026.99,
-      "photo": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/8UkAAOSwo9VluJTu/$_57.PNG?set_id=8800005007",
-      "size": "8.5",
-      "store": "StockX US M 8.5 = Gucci UK 8 (ask $770 + 6% StockX fee; browser read 2026-10-04)",
-      "url": "https://www.ebay.com/itm/355423513413"
-    }
-  }
+  "pending": {}
 }
