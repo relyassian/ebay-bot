@@ -1,0 +1,36 @@
+id: gucci-rhyton-white-red-green-reflective
+brand: Gucci
+model: Rhyton
+colorway: White Red Green Reflective
+style_code: 643491 2H060 9088
+category: sneaker
+department: Men
+color: White Red Green Reflective
+size_system: UK
+retail_price: 790
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/8XcAAeSwM2No4Ghg/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7.5'
+  native: UK 7
+  cost: 505.0
+  price: 800.99
+  source: 'GOAT (US 7.5 / UK 7: $505 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-rhyton-white-red-green-reflective-643491-2h060-9088
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '8.5'
+  native: UK 8
+  cost: 509.0
+  price: 806.99
+  source: 'GOAT (US 8.5 / UK 8: $509 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-rhyton-white-red-green-reflective-643491-2h060-9088
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Mesh

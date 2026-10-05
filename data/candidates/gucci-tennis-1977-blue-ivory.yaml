@@ -1,0 +1,27 @@
+id: gucci-tennis-1977-blue-ivory
+brand: Gucci
+model: Tennis 1977
+colorway: Blue Ivory
+style_code: 606111 2KQ10 4463
+category: sneaker
+department: Men
+color: Blue Ivory
+size_system: UK
+retail_price: 690
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/I3IAAOSwNB1nuo-3/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '13'
+  native: UK 12.5
+  cost: 408.0
+  price: 675.99
+  source: 'GOAT (US 13 / UK 12.5: $408 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-tennis-1977-denim-606111-2kq10-4463
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Canvas

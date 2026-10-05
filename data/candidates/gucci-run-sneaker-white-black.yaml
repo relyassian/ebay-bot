@@ -1,0 +1,72 @@
+id: gucci-run-sneaker-white-black
+brand: Gucci
+model: Run Sneaker
+colorway: White Black
+style_code: 714658 USM10 8475
+category: sneaker
+department: Men
+color: White Black
+size_system: UK
+retail_price: 920
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/aiEAAOSwf-tn6BJ5/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '10.5'
+  native: UK 10
+  cost: 459.0
+  price: 838.99
+  source: 'GOAT (US 10.5 / UK 10: $459 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '11'
+  native: UK 10.5
+  cost: 450.0
+  price: 826.99
+  source: 'GOAT (US 11 / UK 10.5: $450 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '11.5'
+  native: UK 11
+  cost: 450.0
+  price: 826.99
+  source: 'GOAT (US 11.5 / UK 11: $450 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12'
+  native: UK 11.5
+  cost: 310.0
+  price: 645.99
+  source: 'GOAT (US 12 / UK 11.5: $310 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12.5'
+  native: UK 12
+  cost: 347.0
+  price: 693.99
+  source: 'GOAT (US 12.5 / UK 12: $347 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '13'
+  native: UK 12.5
+  cost: 349.0
+  price: 696.99
+  source: 'GOAT (US 13 / UK 12.5: $349 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Knit

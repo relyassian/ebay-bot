@@ -1,0 +1,27 @@
+id: gucci-gg-screener-grey-navy
+brand: Gucci
+model: GG Screener
+colorway: Grey Navy
+style_code: 576223 FAA3T 4551
+category: sneaker
+department: Men
+color: Grey Navy
+size_system: UK
+retail_price: 950
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/2EMAAOSw0DRn4A-A/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '12.5'
+  native: UK 12
+  cost: 644.0
+  price: 980.99
+  source: 'GOAT (US 12.5 / UK 12: $644 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-gg-screener-grey-navy-576223-faa3t-4551
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Suede

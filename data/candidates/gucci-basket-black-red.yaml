@@ -1,0 +1,54 @@
+id: gucci-basket-black-red
+brand: Gucci
+model: Basket
+colorway: Black Red
+style_code: 724004 FAA1U 1158
+category: sneaker
+department: Men
+color: Black Red
+size_system: UK
+retail_price: 950
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/u7wAAeSwkbto4Ghx/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7'
+  native: UK 6.5
+  cost: 516.0
+  price: 912.99
+  source: 'GOAT (US 7 / UK 6.5: $516 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '7.5'
+  native: UK 7
+  cost: 546.0
+  price: 921.99
+  source: 'GOAT (US 7.5 / UK 7: $546 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '10'
+  native: UK 9.5
+  cost: 528.0
+  price: 921.99
+  source: 'GOAT (US 10 / UK 9.5: $528 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12.5'
+  native: UK 12
+  cost: 503.0
+  price: 895.99
+  source: 'GOAT (US 12.5 / UK 12: $503 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Demetra

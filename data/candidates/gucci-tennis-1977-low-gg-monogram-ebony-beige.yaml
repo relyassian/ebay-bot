@@ -1,0 +1,45 @@
+id: gucci-tennis-1977-low-gg-monogram-ebony-beige
+brand: Gucci
+model: Tennis 1977 Low
+colorway: GG Monogram - Ebony Beige
+style_code: 771461 FACTD 8644
+category: sneaker
+department: Men
+color: Ebony Beige
+size_system: UK
+retail_price: 860
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/wCsAAOSwMIln6BJk/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '9.5'
+  native: UK 9
+  cost: 477.0
+  price: 834.99
+  source: 'GOAT (US 9.5 / UK 9: $477 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-tennis-1977-low-gg-monogram-ebony-beige-771461-factd-8644
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '10'
+  native: UK 9.5
+  cost: 550.0
+  price: 859.99
+  source: 'GOAT (US 10 / UK 9.5: $550 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-tennis-1977-low-gg-monogram-ebony-beige-771461-factd-8644
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '11.5'
+  native: UK 11
+  cost: 419.0
+  price: 786.99
+  source: 'GOAT (US 11.5 / UK 11: $419 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-tennis-1977-low-gg-monogram-ebony-beige-771461-factd-8644
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Ripstop

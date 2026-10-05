@@ -1,0 +1,62 @@
+id: gucci-tennis-1977-white-green-red
+brand: Gucci
+model: Tennis 1977
+colorway: White Green Red
+style_code: 643485 17L10 9060
+category: sneaker
+department: Men
+color: White Green Red
+size_system: UK
+retail_price: 790
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '11'
+  native: UK 10.5
+  cost: 472.0
+  price: 766.99
+  source: 'GOAT (US 11 / UK 10.5: $472 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-tennis-1977-white-green-red-643485-17l10-9060
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '11.5'
+  native: UK 11
+  cost: 432.0
+  price: 766.99
+  source: 'GOAT (US 11.5 / UK 11: $432 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-tennis-1977-white-green-red-643485-17l10-9060
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12'
+  native: UK 11.5
+  cost: 472.0
+  price: 766.99
+  source: 'GOAT (US 12 / UK 11.5: $472 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-tennis-1977-white-green-red-643485-17l10-9060
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12.5'
+  native: UK 12
+  cost: 498.0
+  price: 791.99
+  source: 'GOAT (US 12.5 / UK 12: $498 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-tennis-1977-white-green-red-643485-17l10-9060
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '13'
+  native: UK 12.5
+  cost: 367.0
+  price: 719.99
+  source: 'GOAT (US 13 / UK 12.5: $367 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-tennis-1977-white-green-red-643485-17l10-9060
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Leather

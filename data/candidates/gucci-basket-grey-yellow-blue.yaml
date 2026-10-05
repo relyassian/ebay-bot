@@ -1,0 +1,45 @@
+id: gucci-basket-grey-yellow-blue
+brand: Gucci
+model: Basket
+colorway: Grey Yellow Blue
+style_code: 703645 2SH90 1280
+category: sneaker
+department: Men
+color: Grey Yellow Blue
+size_system: UK
+retail_price: 950
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/8nwAAOSwp6Nnuo9i/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '8.5'
+  native: UK 8
+  cost: 476.0
+  price: 860.99
+  source: 'GOAT (US 8.5 / UK 8: $476 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '10'
+  native: UK 9.5
+  cost: 646.0
+  price: 983.99
+  source: 'GOAT (US 10 / UK 9.5: $646 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12.5'
+  native: UK 12
+  cost: 430.0
+  price: 800.99
+  source: 'GOAT (US 12.5 / UK 12: $430 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Demetra

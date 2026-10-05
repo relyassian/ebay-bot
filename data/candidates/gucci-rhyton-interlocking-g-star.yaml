@@ -1,0 +1,27 @@
+id: gucci-rhyton-interlocking-g-star
+brand: Gucci
+model: Rhyton
+colorway: Interlocking G Star
+style_code: 692935 DRW00 9522
+category: sneaker
+department: Men
+color: Interlocking G Star
+size_system: UK
+retail_price: 990
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/dwYAAeSw6OVqtwZX/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7'
+  native: UK 6.5
+  cost: 453.0
+  price: 830.99
+  source: 'GOAT (US 7 / UK 6.5: $453 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-rhyton-interlocking-g-star-692935-drw00-9522
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Leather

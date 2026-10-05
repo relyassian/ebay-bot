@@ -1,0 +1,36 @@
+id: balenciaga-runner-sneaker-white
+brand: Balenciaga
+model: Runner Sneaker
+colorway: White
+style_code: 677403 W3RB1 9000
+category: sneaker
+department: Men
+color: White
+size_system: EU
+retail_price: 1150
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/CWcAAeSwZ2BqtwbF/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6'
+  native: EU 39
+  cost: 728.0
+  price: 1115.99
+  source: 'GOAT (US 6 / EU 39: $728 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/balenciaga-runner-sneaker-white-677403-w3rb1-9000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12'
+  native: EU 45
+  cost: 769.0
+  price: 1142.99
+  source: 'GOAT (US 12 / EU 45: $769 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/balenciaga-runner-sneaker-white-677403-w3rb1-9000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Mesh

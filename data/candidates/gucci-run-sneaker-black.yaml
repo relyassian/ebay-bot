@@ -1,0 +1,45 @@
+id: gucci-run-sneaker-black
+brand: Gucci
+model: Run Sneaker
+colorway: Black
+style_code: 714658 USM10 8442
+category: sneaker
+department: Men
+color: Black
+size_system: UK
+retail_price: 890
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/gy4AAOSwRRxnuo~Y/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '12'
+  native: UK 11.5
+  cost: 522.0
+  price: 863.99
+  source: 'GOAT (US 12 / UK 11.5: $522 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-black-714658-usm10-8442
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12.5'
+  native: UK 12
+  cost: 414.0
+  price: 780.99
+  source: 'GOAT (US 12.5 / UK 12: $414 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-black-714658-usm10-8442
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '13'
+  native: UK 12.5
+  cost: 568.0
+  price: 882.99
+  source: 'GOAT (US 13 / UK 12.5: $568 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-black-714658-usm10-8442
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Knit

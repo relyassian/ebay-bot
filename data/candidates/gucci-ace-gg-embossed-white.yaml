@@ -1,0 +1,36 @@
+id: gucci-ace-gg-embossed-white
+brand: Gucci
+model: Ace
+colorway: GG Embossed - White
+style_code: 625787 1XK10 9022
+category: sneaker
+department: Men
+color: White
+size_system: UK
+retail_price: 680
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/YCMAAeSwBv9o12J8/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '12'
+  native: UK 11.5
+  cost: 412.0
+  price: 680.99
+  source: 'GOAT (US 12 / UK 11.5: $412 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-ace-gg-embossed-white-625787-1xk10-9022
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '13'
+  native: UK 12.5
+  cost: 401.0
+  price: 666.99
+  source: 'GOAT (US 13 / UK 12.5: $401 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-ace-gg-embossed-white-625787-1xk10-9022
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Leather

@@ -1,0 +1,54 @@
+id: gucci-screener-gg-supreme-black-grey
+brand: Gucci
+model: Screener
+colorway: GG Supreme - Black Grey
+style_code: 763525 FACMI 8444
+category: sneaker
+department: Men
+color: Black Grey
+size_system: UK
+retail_price: 990
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/-IYAAOSwwPxn4A7L/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7.5'
+  native: UK 7
+  cost: 676.0
+  price: 1021.99
+  source: 'GOAT (US 7.5 / UK 7: $676 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '8'
+  native: UK 7.5
+  cost: 675.0
+  price: 1020.99
+  source: 'GOAT (US 8 / UK 7.5: $675 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '9'
+  native: UK 8.5
+  cost: 632.0
+  price: 965.99
+  source: 'GOAT (US 9 / UK 8.5: $632 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '9.5'
+  native: UK 9
+  cost: 641.0
+  price: 976.99
+  source: 'GOAT (US 9.5 / UK 9: $641 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Leather

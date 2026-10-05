@@ -1,0 +1,99 @@
+id: gucci-run-sneaker-white-suede
+brand: Gucci
+model: Run Sneaker
+colorway: White Suede
+style_code: 749785 AAB62 9144
+category: sneaker
+department: Men
+color: White Suede
+size_system: UK
+retail_price: 1100
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/KjIAAeSwEcxpMvwg/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6.5'
+  native: UK 6
+  cost: 719.0
+  price: 1077.99
+  source: 'GOAT (US 6.5 / UK 6: $719 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '7'
+  native: UK 6.5
+  cost: 728.0
+  price: 1089.99
+  source: 'GOAT (US 7 / UK 6.5: $728 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '10'
+  native: UK 9.5
+  cost: 764.0
+  price: 1135.99
+  source: 'GOAT (US 10 / UK 9.5: $764 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '10.5'
+  native: UK 10
+  cost: 669.0
+  price: 1067.99
+  source: 'GOAT (US 10.5 / UK 10: $669 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '11'
+  native: UK 10.5
+  cost: 668.0
+  price: 1067.99
+  source: 'GOAT (US 11 / UK 10.5: $668 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '11.5'
+  native: UK 11
+  cost: 503.0
+  price: 895.99
+  source: 'GOAT (US 11.5 / UK 11: $503 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12'
+  native: UK 11.5
+  cost: 684.0
+  price: 1067.99
+  source: 'GOAT (US 12 / UK 11.5: $684 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12.5'
+  native: UK 12
+  cost: 776.0
+  price: 1151.99
+  source: 'GOAT (US 12.5 / UK 12: $776 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '13'
+  native: UK 12.5
+  cost: 776.0
+  price: 1151.99
+  source: 'GOAT (US 13 / UK 12.5: $776 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Suede

@@ -1,0 +1,27 @@
+id: balenciaga-runner-sneaker-black-matte
+brand: Balenciaga
+model: Runner Sneaker
+colorway: Black Matte
+style_code: 772774 W3RBT 1000
+category: sneaker
+department: Men
+color: Black Matte
+size_system: EU
+retail_price: 1150
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/-gQAAeSwuEdocbQ5/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '8'
+  native: EU 41
+  cost: 737.0
+  price: 1115.99
+  source: 'GOAT (US 8 / EU 41: $737 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/balenciaga-runner-sneaker-black-matte-772774-w3rbt-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Mesh

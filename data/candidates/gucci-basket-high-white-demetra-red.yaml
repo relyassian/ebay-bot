@@ -1,0 +1,36 @@
+id: gucci-basket-high-white-demetra-red
+brand: Gucci
+model: Basket High
+colorway: White Demetra Red
+style_code: 673077 2SHG0 9076
+category: sneaker
+department: Men
+color: White Demetra Red
+size_system: UK
+retail_price: 950
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/o44AAOSwTYFnuo-V/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6'
+  native: UK 5.5
+  cost: 641.0
+  price: 976.99
+  source: 'GOAT (US 6 / UK 5.5: $641 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12'
+  native: UK 11.5
+  cost: 642.0
+  price: 977.99
+  source: 'GOAT (US 12 / UK 11.5: $642 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Demetra

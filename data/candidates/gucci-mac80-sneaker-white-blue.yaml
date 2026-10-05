@@ -1,0 +1,45 @@
+id: gucci-mac80-sneaker-white-blue
+brand: Gucci
+model: MAC80 Sneaker
+colorway: White Blue
+style_code: 749896 AAB79 9149
+category: sneaker
+department: Men
+color: White Blue
+size_system: UK
+retail_price: 980
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/otoAAOSw~WFnuo5p/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '8'
+  native: UK 7.5
+  cost: 657.0
+  price: 997.99
+  source: 'GOAT (US 8 / UK 7.5: $657 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-white-blue-749896-aab79-9149
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '10'
+  native: UK 9.5
+  cost: 425.0
+  price: 794.99
+  source: 'GOAT (US 10 / UK 9.5: $425 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-white-blue-749896-aab79-9149
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '11.5'
+  native: UK 11
+  cost: 528.0
+  price: 927.99
+  source: 'GOAT (US 11.5 / UK 11: $528 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-white-blue-749896-aab79-9149
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Leather

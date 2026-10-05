@@ -1,0 +1,81 @@
+id: gucci-basket-high-black-demetra
+brand: Gucci
+model: Basket High
+colorway: Black Demetra
+style_code: 661303 2SH90 1072
+category: sneaker
+department: Men
+color: Black Demetra
+size_system: UK
+retail_price: 990
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/6KQAAOSwvmlnuo8Y/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6.5'
+  native: UK 6
+  cost: 501.0
+  price: 892.99
+  source: 'GOAT (US 6.5 / UK 6: $501 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '7'
+  native: UK 6.5
+  cost: 522.0
+  price: 919.99
+  source: 'GOAT (US 7 / UK 6.5: $522 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '7.5'
+  native: UK 7
+  cost: 486.0
+  price: 873.99
+  source: 'GOAT (US 7.5 / UK 7: $486 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '9'
+  native: UK 8.5
+  cost: 666.0
+  price: 1008.99
+  source: 'GOAT (US 9 / UK 8.5: $666 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '9.5'
+  native: UK 9
+  cost: 641.0
+  price: 976.99
+  source: 'GOAT (US 9.5 / UK 9: $641 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '10'
+  native: UK 9.5
+  cost: 685.0
+  price: 1033.99
+  source: 'GOAT (US 10 / UK 9.5: $685 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '13'
+  native: UK 12.5
+  cost: 554.0
+  price: 960.99
+  source: 'GOAT (US 13 / UK 12.5: $554 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Demetra

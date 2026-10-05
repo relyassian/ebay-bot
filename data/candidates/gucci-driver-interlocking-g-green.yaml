@@ -1,0 +1,54 @@
+id: gucci-driver-interlocking-g-green
+brand: Gucci
+model: Driver
+colorway: Interlocking G - Green
+style_code: 730148 1XH60 3154
+category: loafer
+department: Men
+color: Green
+size_system: UK
+retail_price: 690
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/I0QAAOSwBsNnupA5/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7'
+  native: UK 6.5
+  cost: 426.0
+  price: 698.99
+  source: 'GOAT (US 7 / UK 6.5: $426 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '8'
+  native: UK 7.5
+  cost: 434.0
+  price: 709.99
+  source: 'GOAT (US 8 / UK 7.5: $434 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '8.5'
+  native: UK 8
+  cost: 411.0
+  price: 679.99
+  source: 'GOAT (US 8.5 / UK 8: $411 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '9'
+  native: UK 8.5
+  cost: 424.0
+  price: 696.99
+  source: 'GOAT (US 9 / UK 8.5: $424 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Leather

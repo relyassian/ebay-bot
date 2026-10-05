@@ -1,0 +1,71 @@
+id: gucci-driver-horsebit-black
+brand: Gucci
+model: Driver
+colorway: Horsebit - Black
+style_code: 765859 1XH00 1000
+category: loafer
+department: Men
+color: Black
+size_system: UK
+retail_price: 860
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6'
+  native: UK 5.5
+  cost: 404.0
+  price: 767.99
+  source: 'GOAT (US 6 / UK 5.5: $404 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-horsebit-black-765859-1xh00-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '6.5'
+  native: UK 6
+  cost: 502.0
+  price: 834.99
+  source: 'GOAT (US 6.5 / UK 6: $502 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-horsebit-black-765859-1xh00-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '7.5'
+  native: UK 7
+  cost: 519.0
+  price: 834.99
+  source: 'GOAT (US 7.5 / UK 7: $519 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-horsebit-black-765859-1xh00-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '9'
+  native: UK 8.5
+  cost: 492.0
+  price: 834.99
+  source: 'GOAT (US 9 / UK 8.5: $492 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-horsebit-black-765859-1xh00-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '10'
+  native: UK 9.5
+  cost: 392.0
+  price: 751.99
+  source: 'GOAT (US 10 / UK 9.5: $392 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-horsebit-black-765859-1xh00-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12'
+  native: UK 11.5
+  cost: 490.0
+  price: 834.99
+  source: 'GOAT (US 12 / UK 11.5: $490 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-driver-horsebit-black-765859-1xh00-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Leather

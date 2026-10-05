@@ -1,0 +1,53 @@
+id: gucci-horsebit-loafer-black
+brand: Gucci
+model: Horsebit Loafer
+colorway: Black
+style_code: 658822 DKSD0 1000
+category: loafer
+department: Men
+color: Black
+size_system: UK
+retail_price: 1100
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '10.5'
+  native: UK 10
+  cost: 757.0
+  price: 1126.99
+  source: 'GOAT (US 10.5 / UK 10: $757 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-horsebit-loafer-black-658822-dksd0-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '11'
+  native: UK 10.5
+  cost: 695.0
+  price: 1067.99
+  source: 'GOAT (US 11 / UK 10.5: $695 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-horsebit-loafer-black-658822-dksd0-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12'
+  native: UK 11.5
+  cost: 546.0
+  price: 950.99
+  source: 'GOAT (US 12 / UK 11.5: $546 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-horsebit-loafer-black-658822-dksd0-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+- us: '12.5'
+  native: UK 12
+  cost: 353.0
+  price: 701.99
+  source: 'GOAT (US 12.5 / UK 12: $353 new, browser read 2026-10-05)'
+  url: https://www.goat.com/sneakers/gucci-horsebit-loafer-black-658822-dksd0-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-05T19:30:01Z'
+upper_material: Leather
