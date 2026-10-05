@@ -42,6 +42,16 @@ def search(query: str, token: str, limit: int = 20) -> list[dict]:
     return out
 
 
+def full_images(epid: str, token: str) -> list[str]:
+    """All catalog images for one ePID (getProduct returns more angles than the search summary)."""
+    r = requests.get(f"https://api.ebay.com/commerce/catalog/v1_beta/product/{epid}",
+                     headers={"Authorization": f"Bearer {token}", "X-EBAY-C-MARKETPLACE-ID": "EBAY_US"}, timeout=30)
+    if not r.ok:
+        return []
+    j = r.json()
+    return [i.get("imageUrl") for i in [j.get("image") or {}] + (j.get("additionalImages") or []) if i.get("imageUrl")]
+
+
 def run() -> int:
     from bot.ebay.auth import access_token
     token = access_token()
@@ -52,6 +62,12 @@ def run() -> int:
             results[q] = search(q, token)
         except Exception as e:
             results[q] = [{"error": str(e)[:300]}]
+        for p in [p for p in results[q] if p.get("match")][:5]:     # more angles for exact matches
+            try:
+                more = full_images(p["epid"], token)
+                p["images"] = list(dict.fromkeys(p.get("images", []) + more))
+            except Exception as e:
+                p["image_error"] = str(e)[:200]
         n = sum(1 for p in results[q] if p.get("match"))
         print(f"{q}: {len(results[q])} products, {n} exact style-code matches")
     OUT.write_text(json.dumps(results, indent=1))
