@@ -48,5 +48,17 @@ def run() -> int:
         })
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps(out, indent=1))
+    try:   # eBay monthly selling limits (CLAUDE.md: read each run)
+        root = _call("GetMyeBaySelling", "<SellingSummary><Include>true</Include></SellingSummary>"
+                     "<ActiveList><Include>true</Include><Pagination><EntriesPerPage>1</EntriesPerPage></Pagination></ActiveList>",
+                     token)
+        summ = root.find("e:Summary", NS)
+        g = lambda tag: summ.findtext(f"e:{tag}", namespaces=NS) if summ is not None else None
+        limits = {k: g(k) for k in ("QuantityLimitRemaining", "AmountLimitRemaining", "ActiveAuctionCount",
+                                     "TotalAuctionSellingValue", "TotalSoldCount", "TotalSoldValue")}
+        (OUT.parent / "selling_limits.json").write_text(json.dumps(limits, indent=1))
+        print("limits:", limits)
+    except Exception as e:
+        print("limits error:", e)
     print(f"snapshot: {len(out)} listings")
     return 0
