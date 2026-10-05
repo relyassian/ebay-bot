@@ -176,6 +176,27 @@ def inbox(live: bool = False, wait: int = 0) -> list[str]:
     return replies
 
 
+def record_sources(item_id: str, cand: dict, d) -> None:
+    """Write the new listing's sizes into data/source_prices.csv (replacing any rows for that item).
+    Without rows the daily check treats the sizes as unsourced and takes them off sale."""
+    import csv
+    from datetime import datetime, timezone
+    from bot.sync import DATA
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    by_us = {str(s["us"]): s for s in cand.get("sizes", [])}
+    fields = ["item_id", "size", "cost", "source", "url", "overseas", "in_stock_sources", "checked_at"]
+    rows = [r for r in csv.DictReader(DATA.open())] if DATA.exists() else []
+    rows = [r for r in rows if r.get("item_id") != str(item_id)]
+    for line in d.sizes:
+        src = by_us.get(line.us, {})
+        rows.append({"item_id": str(item_id), "size": line.us, "cost": f"{line.cost:.2f}",
+                     "source": f"{line.source} {line.native}".strip(), "url": line.url,
+                     "overseas": str(bool(src.get("overseas"))).lower(),
+                     "in_stock_sources": src.get("in_stock_sources", 1), "checked_at": src.get("checked_at", now)})
+    with DATA.open("w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields); w.writeheader(); w.writerows(rows)
+
+
 def publish(live: bool) -> list[str]:
     from bot.ebay.auth import access_token
     from bot.ebay.trading import add_item
@@ -202,6 +223,7 @@ def publish(live: bool) -> list[str]:
                                                SIZE_NAME.get(cands[cid]["category"], "US Shoe Size")), token)
         if item_id:
             state[cid] = {"status": "live", "item_id": item_id}
+            record_sources(item_id, cands[cid], d)   # so the daily check knows where each size comes from
             out.append(f"✅ Listed {d.title}\nhttps://www.ebay.com/itm/{item_id}\n{len(d.sizes)} sizes, "
                        f"best net ${d.best_net:.0f}")
         else:
