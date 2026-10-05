@@ -17,7 +17,7 @@
 10. **Never auto-buy.** The bot sends buy links; Rafael buys.
 11. **Dry-run by default.** Nothing writes to eBay unless `dry_run: false` and `--live` is passed. Log every decision.
 12. **Launch mode**: first 2 weeks / 20 listings, every new listing and every price raise needs Rafael's one-tap approval. Price drops (still ≥ floor) and quantity changes are pre-approved.
-13. **No idol worship (Rafael, Oct 4)**: never list brands or products connected to idol worship: brand names after gods or saints and mythological/religious logos (Dior, Hermès, Louboutin, Versace/Medusa, Nike, crosses…). The list lives in `config.yaml` → `exclude`; `bot/listing.py` blocks matching drafts.
+13. **No idol worship (Rafael, Oct 4)**: never list brands or products connected to idol worship: confirmed so far: Dior, Hermès. Rafael approves every addition before it goes in. The list lives in `config.yaml` → `exclude`; `bot/listing.py` blocks matching drafts.
 14. **Cash cap**: stop listing new items when money spent on bought-but-unpaid orders exceeds $5,000.
 
 ## Sizing

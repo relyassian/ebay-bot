@@ -89,7 +89,5 @@ def test_excluded_brands_and_motifs_never_list():
     cfg = load_config()
     assert excluded_reason({"brand": "Christian Dior", "model": "B23"}, cfg)
     assert excluded_reason({"brand": "Hermès", "model": "Oran"}, cfg)
-    assert excluded_reason({"brand": "Versace", "model": "Greca"}, cfg)
-    assert excluded_reason({"brand": "Gucci", "model": "Ace", "colorway": "Medusa Print"}, cfg)
     assert not excluded_reason({"brand": "Gucci", "model": "Ace Sneaker with Web", "colorway": "White"}, cfg)
     assert not excluded_reason({"brand": "Gucci", "model": "Horsebit Driver Loafer", "colorway": "Black"}, cfg)

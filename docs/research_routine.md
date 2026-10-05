@@ -49,10 +49,11 @@ only. Read CLAUDE.md for the business rules before starting.
 ## PART B — up to 8 NEW products to list (Rafael, Oct 4: we need more listings)
 5. New luxury men's sneakers/loafers NOT already listed (check data/candidates and data/drafts_state.json).
    Rotate through brands so each day covers different ones: Gucci (Ace, Screener, Rhyton, Re-Web, Horsebit and
-   Jordaan loafers, drivers, adidas x Gucci Gazelle), Prada, Saint Laurent, Balenciaga, Bottega Veneta,
-   Valentino, Alexander McQueen, Loewe, Ferragamo, D&G.
+   Jordaan loafers, drivers, adidas x Gucci Gazelle), Prada, Balenciaga, Bottega Veneta, Alexander McQueen,
+   Loewe, Ferragamo, D&G.
    NEVER (Rafael, Oct 4: nothing connected to idol worship): the brands and motifs in config.yaml `exclude`
-   (Dior, Hermès, Louboutin, Versace/Medusa, Nike, crosses, etc.). The bot blocks them anyway; don't research them. Find cheap ones from
+   (Dior, Hermès so far). Until Rafael answers about Louboutin, Versace, Nike, Saint Laurent and Valentino, don't
+   research those either. Find cheap ones from
    stockx.com/search?s=<brand + model> ("Lowest Ask" vs. retail), then read every size (StockX + GOAT).
    net = price × (0.854 − ad rate) − (cost + 20) − (0.10 × cost if overseas with duties extra); no sales tax on shoes, belts or
    ties (they ship to NJ, which exempts clothing and footwear; Rafael's GOAT order confirmed no tax); cufflinks/jewelry add 6.625%;
