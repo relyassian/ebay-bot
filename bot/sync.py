@@ -92,14 +92,16 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
                               and listing.item_id in set(map(str, cfg.get("sync", {}).get("single_source_items", [])))))
 
         if net_now < cfg["profit"]["floor"]:
-            if available > 0:
+            # Rafael (Oct 5): price changes don't need his OK. A raise of up to `auto_raise_pct` is applied
+            # automatically (and the size stays/goes on sale); a bigger one wouldn't sell, so the size just
+            # stays off sale until the store gets cheaper again.
+            if need <= price * (1 + cfg.get("sync", {}).get("auto_raise_pct", 0.15)):
+                auto.append(Change(listing.item_id, size, new_price=need,
+                                   new_available=1 if enough_sources else 0))
+                notes.append(("raised", size, need))
+            elif available > 0:
                 auto.append(Change(listing.item_id, size, new_available=0))
                 notes.append(("hidden", size, f"loses money at ${price:.0f} (cheapest: {src.source} ${src.cost:.0f})"))
-            if need > price * (1 + cfg.get("sync", {}).get("max_raise_pct", 0.25)):
-                continue  # the price that would work is unrealistic → just keep it off sale, don't ask
-            proposals.append((listing.item_id, size, price, need,
-                              f"cost ${src.cost:.0f} at {src.source}; at ${price:.2f} net is ${net_now:.0f}",
-                              src.source, src.cost))
         elif available == 0 and enough_sources:
             auto.append(Change(listing.item_id, size, new_available=1))
             notes.append(("relisted", size, net_now))
@@ -235,12 +237,12 @@ def run(live: bool) -> list:
                 row = track(price_log, item_id, c.size, c.new_price, datetime.now(timezone.utc))
                 row["drops"] = row.get("drops", 0) + 1
         name, total = short_name(listing.title), max(len(listing.variations), 1)
-        for kind in ("relisted", "hidden", "waiting", "lowered"):
+        for kind in ("relisted", "hidden", "waiting", "lowered", "raised"):
             rows = [n for n in notes if n[0] == kind]
             if not rows:
                 continue
             extra = ""
-            if kind == "lowered":
+            if kind in ("lowered", "raised"):
                 extra = "now from $" + f"{min(r[2] for r in rows):,.2f}"
             if kind == "relisted":
                 nets = [r[2] for r in rows]

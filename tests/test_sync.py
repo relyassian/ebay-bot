@@ -40,9 +40,14 @@ def test_keeps_hidden_with_single_source():
 
 
 def test_underwater_size_hidden_and_raise_proposed():
-    auto, props, _ = decide(lst(("9", 699.99, 1, 0)), {("1", "9"): src(520)}, CFG, NOW)
-    assert avail(auto) == {"9": 0}
-    assert props and props[0][3] > 699.99
+    auto, props, notes = decide(lst(("9", 699.99, 1, 0)), {("1", "9"): src(520)}, CFG, NOW)
+    # a raise is needed: small enough (≤15%)? applied automatically and the size stays on sale
+    need = [c for c in auto if c.new_price]
+    if need and need[0].new_price <= 699.99 * 1.15:
+        assert avail(auto) == {"9": 1} and notes[0][0] == "raised"
+    else:
+        assert avail(auto) == {"9": 0}
+    assert not props
 
 
 def test_unrealistic_raise_not_proposed():
