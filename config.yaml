@@ -22,7 +22,7 @@ listing:
   handling_days_min: 3
   returns: none
   best_offer_min_net: 400     # Best Offer only on single items netting >= this at list price (never on multi-size)
-  auto_publish: false         # launch mode: new listings need Rafael's approval
+  auto_publish: true          # Rafael, Oct 5: list new products without asking if they clear the rules, have a catalog photo + verified style code, and aren't already listed
   template_item_id: 355429340181   # copy business policies + location from this listing
 
 ads:

@@ -16,7 +16,7 @@
 9. **"Discontinued"** in a title only when verified (brand no longer sells it and no retail stock). Save the evidence.
 10. **Never auto-buy.** The bot sends buy links; Rafael buys.
 11. **Dry-run by default.** Nothing writes to eBay unless `dry_run: false` and `--live` is passed. Log every decision.
-12. **Launch mode**: first 2 weeks / 20 listings, every new listing and every price raise needs Rafael's one-tap approval. Price drops (still ≥ floor) and quantity changes are pre-approved.
+12. **Approvals**: Rafael (Oct 5): new listings no longer need his OK when every size clears the floor, the product has an eBay catalog photo and a verified style code, and that style code isn't already listed (`listing.auto_publish`, `bot/newlistings.auto_ok`); he gets a Telegram note for each. Price raises still need his one-tap approval. Price drops (still ≥ floor) and quantity changes are pre-approved.
 13. **No idol worship (Rafael, Oct 4)**: never list brands or products connected to idol worship: confirmed Oct 4: Dior, Hermès, Christian Louboutin, Versace, Nike, Saint Laurent, Valentino, and religious/mythological imagery (Medusa, Buddha, crosses, angels, saints). Ask Rafael before adding any other brand. The list lives in `config.yaml` → `exclude`; `bot/listing.py` blocks matching drafts.
 14. **Cash cap**: stop listing new items when money spent on bought-but-unpaid orders exceeds $5,000.
 

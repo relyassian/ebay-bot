@@ -26,11 +26,48 @@ def _template(token: str):
     return get_listing_template(str(cfg["listing"]["template_item_id"]), token)
 
 
+def live_style_codes() -> set[str]:
+    """Style codes already on eBay (legacy listings + live/approved bot listings), normalized."""
+    import json
+    import yaml
+    norm = lambda x: "".join(ch for ch in str(x).upper() if ch.isalnum())
+    codes = {norm(v.get("style_code")) for v in
+             yaml.safe_load((ROOT / "data" / "legacy_content.yaml").read_text())["items"].values() if v.get("style_code")}
+    cands = load_candidates()
+    for k, v in load_state().items():
+        if v.get("status") in ("live", "approved") and k in cands:
+            codes.add(norm(cands[k].get("style_code")))
+    codes.discard("")
+    return codes
+
+
+def auto_ok(cid: str, c: dict, d) -> str | None:
+    """Rafael (Oct 5): list without asking when it makes good money, is accurate and isn't a repeat.
+    Returns None if OK to auto-list, else the reason it still needs him."""
+    cfg = load_config()
+    if not cfg["listing"].get("auto_publish"):
+        return "auto-publish is off"
+    if not d.photos or not c.get("style_code"):
+        return "needs a catalog photo and a verified style code"
+    norm = lambda x: "".join(ch for ch in str(x).upper() if ch.isalnum())
+    others = live_style_codes()
+    if norm(c["style_code"]) in others:
+        return "this style code is already listed"
+    if min(s.net for s in d.sizes) < cfg["profit"]["floor"]:
+        return "a size is under the floor"
+    if PAUSE_FLAG.exists():
+        return "bot is paused"
+    return None
+
+
 def drafts() -> list[str]:
     from bot.ebay.auth import access_token
     from bot.ebay.trading import verify_add
     state, out = load_state(), []
-    todo = {k: c for k, c in load_candidates().items() if k not in state or k.startswith("test-")}
+    auto = load_config()["listing"].get("auto_publish")
+    # with auto-publish on, drafts still waiting for Rafael are re-checked under his standing rule too
+    todo = {k: c for k, c in load_candidates().items()
+            if k not in state or k.startswith("test-") or (auto and state[k].get("status") == "sent")}
     if not todo:
         return out
     token = access_token()
@@ -53,6 +90,13 @@ def drafts() -> list[str]:
             state[cid] = {"status": "tested", "ok": True, "notes": msgs[:3]}
             out.append(f"🧪 Test draft {cid}: eBay accepted it (nothing was listed). {len(d.sizes)} sizes. "
                        + ("Notes: " + "; ".join(msgs[:3]) if msgs else ""))
+            continue
+        why_not = auto_ok(cid, c, d)
+        if why_not is None:
+            state[cid] = {"status": "approved", "approved_by": "auto (Rafael's standing rule, Oct 5)"}
+            out.append(f"🤖 Listing automatically (you said I don't need to ask): {d.title}\n"
+                       f"{len(d.sizes)} size(s), profit ${min(s.net for s in d.sizes):.0f}–${d.best_net:.0f} each. "
+                       "Goes live within ~10 minutes. Send PAUSE to stop new listings.")
             continue
         state[cid] = {"status": "sent"}
         out.append(draft_message(d))

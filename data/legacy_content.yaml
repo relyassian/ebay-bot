@@ -31,7 +31,7 @@ items:
      highlights: [Calfskin upper, Logo tag with two metal plating finishes, Calfskin heel cup, Flat laces,
                   Calfskin footbed with branded label, Branded rubber sole]}
   "355426469262":
-    {brand: Gucci, model: Ace GG Supreme Sneaker, colorway: Black/Grey, category: sneaker, product_line: Ace,
+    {style_code: 429445 96G50 1130, brand: Gucci, model: Ace GG Supreme Sneaker, colorway: Black/Grey, category: sneaker, product_line: Ace,
      upper_material: GG Supreme canvas, size_system: UK,
      highlights: [Black/grey GG Supreme canvas, Blue and red Web, Blue leather detail on one heel and red on the other,
                   Rubber sole, Extra pair of laces included]}
@@ -58,12 +58,12 @@ items:
      highlights: [Beige/ebony original GG canvas, White contrast details, Green and red Web, Green grosgrain trim,
                   Gucci Tennis 1977 label, GG motif on the sole]}
   "355428047951":
-    {brand: Gucci, model: Ace Embroidered Bee Sneaker, colorway: White, category: sneaker, product_line: Ace,
+    {style_code: 429446 02JP0 9064, brand: Gucci, model: Ace Embroidered Bee Sneaker, colorway: White, category: sneaker, product_line: Ace,
      upper_material: Leather, size_system: UK,
      highlights: [White leather, Gold thread-embroidered bee, Green and red Web,
                   Red leather detail on one heel and green on the other, Rubber sole]}
   "355428079713":
-    {brand: Gucci, model: Ace Embroidered Bee Sneaker, colorway: Black, category: sneaker, product_line: Ace,
+    {style_code: 429446 A38G0 1284, brand: Gucci, model: Ace Embroidered Bee Sneaker, colorway: Black, category: sneaker, product_line: Ace,
      upper_material: Leather, size_system: UK,
      highlights: [Black leather, Gold thread-embroidered bee, Rubber sole]}
   "355420967506":
