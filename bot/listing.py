@@ -38,7 +38,7 @@ from xml.sax.saxutils import escape
 import yaml
 
 from bot.config import ROOT, load_config
-from bot.profit import floor_price, landed_cost, net_profit, tier
+from bot.profit import floor_price, is_taxable, landed_cost, net_profit, tier
 
 CANDIDATES = ROOT / "data" / "candidates"
 STATE = ROOT / "data" / "drafts_state.json"      # {id: {"status": "sent|approved|skipped|live|blocked", "item_id": ...}}
@@ -211,7 +211,8 @@ def make_draft(c: dict, cfg: dict | None = None) -> Draft:
             skipped.append(f"US {s['us']}: no source"); continue
         if s.get("in_stock_sources", 0) < min_src and not single_ok:
             skipped.append(f"US {s['us']}: only {s.get('in_stock_sources', 0)} store(s)"); continue
-        landed = landed_cost(float(s["cost"]), cfg, overseas=bool(s.get("overseas")))
+        landed = landed_cost(float(s["cost"]), cfg, overseas=bool(s.get("overseas")),
+                             taxable=is_taxable(cfg, category=c.get("category")))
         price = max(float(s.get("price") or c.get("price") or 0), floor_price(landed, cfg))
         net = net_profit(price, landed, cfg)
         if tier(net, cfg) == "skip":

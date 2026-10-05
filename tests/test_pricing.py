@@ -32,8 +32,8 @@ def test_no_drop_before_7_days():
 
 
 def test_never_below_floor():
-    # cost 700: floor price ≈ $1,129 → a size at $1,135 can only go to the floor, one at the floor stays
-    out = decays(lst(1135.99), src(700), CFG, log_since(8, 1135.99), [], NOW)
+    # cost 700: floor price ≈ $1,059 → a size at $1,065 can only go to the floor, one at the floor stays
+    out = decays(lst(1065.99), src(700), CFG, log_since(8, 1065.99), [], NOW)
     from bot.profit import floor_price, landed_cost
     floor = floor_price(landed_cost(700, CFG), CFG)
     assert out and out[0].new_price == floor

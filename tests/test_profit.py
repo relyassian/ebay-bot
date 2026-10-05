@@ -5,7 +5,10 @@ CFG = load_config()
 
 
 def test_landed_cost_us_and_overseas():
-    assert round(landed_cost(500, CFG), 2) == round(500 * 1.06625 + 20, 2)
+    # shoes ship to NJ, which doesn't tax footwear: no sales tax
+    assert round(landed_cost(500, CFG), 2) == 520.00
+    # taxable items (e.g. cufflinks) pay NJ 6.625%
+    assert round(landed_cost(500, CFG, taxable=True), 2) == round(500 * 1.06625 + 20, 2)
     assert landed_cost(500, CFG, overseas=True) > landed_cost(500, CFG)
 
 

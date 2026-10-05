@@ -7,7 +7,9 @@ profit:
   ebay_fee_rate: 0.136        # measured from a real $974 order
   promoted_rate: 0.0          # set when Promoted Listings are on
   inad_buffer_rate: 0.01      # "not as described" safety buffer
-  sales_tax_rate: 0.06625     # NJ — items ship to eBay's NJ authenticator
+  sales_tax_rate: 0.06625     # NJ — items ship to eBay's NJ authenticator; only charged on taxable items:
+  taxable_items: [356084785661]        # NJ exempts clothing & footwear (shoes, belts, ties); jewelry (cufflinks) is taxed
+  taxable_categories: [accessory, jewelry]
   default_shipping: 20        # source shipping + fees if unknown
   overseas_duty_rate: 0.10
   reship_cost: 20             # when a source can't keep the eVTN on line 2

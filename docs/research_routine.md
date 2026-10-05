@@ -49,7 +49,8 @@ only. Read CLAUDE.md for the business rules before starting.
 ## PART B — up to 5 NEW products to list (skip if time runs short)
 5. New luxury men's sneakers/loafers (brands in CLAUDE.md; D&G and Gucci Ace have been best) NOT already
    listed, where the cheapest new source leaves ≥ $100 net at a realistic eBay price:
-   net = price × (0.854 − ad rate) − (cost × 1.06625 + 20) − (0.10 × cost if overseas with duties extra);
+   net = price × (0.854 − ad rate) − (cost + 20) − (0.10 × cost if overseas with duties extra); no sales tax on shoes, belts or
+   ties (they ship to NJ, which exempts clothing and footwear; Rafael's GOAT order confirmed no tax); cufflinks/jewelry add 6.625%;
    ad rate = config.yaml ads.rate if data/ads_state.json has a campaign_id, else 0. Prefer ≥ $250 net.
    Price (Rafael, Oct 2): the price that clears $100 net is fine even if it's somewhat above what other eBay
    sellers ask, but never above the brand's current US retail price. Note the eBay comps you saw.

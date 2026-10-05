@@ -27,7 +27,7 @@ from pathlib import Path
 
 from bot.config import ROOT, load_config
 from bot.ebay.trading import Change, Listing
-from bot.profit import floor_price, landed_cost, net_profit
+from bot.profit import floor_price, is_taxable, landed_cost, net_profit
 
 DATA = ROOT / "data" / "source_prices.csv"
 ERRORS = ROOT / "data" / "sync_errors.txt"
@@ -83,7 +83,7 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
                 auto.append(Change(listing.item_id, size, new_available=0))
                 notes.append(("hidden", size, "" if (fresh and src is not None) else "no current price data"))
             continue
-        landed = landed_cost(src.cost, cfg, overseas=src.overseas)
+        landed = landed_cost(src.cost, cfg, overseas=src.overseas, taxable=is_taxable(cfg, listing.item_id))
         need = floor_price(landed, cfg)
         net_now = net_profit(price, landed, cfg)
         enough_sources = (src.in_stock_sources >= min_sources or cfg.get("sync", {}).get("allow_single_source", False)
@@ -125,7 +125,7 @@ def decays(listing: Listing, sources: dict, cfg: dict, log: dict, auto: list, no
         if not (src and src.cost is not None and src.checked_at
                 and (now - src.checked_at).total_seconds() <= max_age * 3600):
             continue
-        new = decay_price(price, src.cost, src.overseas, cfg)
+        new = decay_price(price, src.cost, src.overseas, cfg, taxable=is_taxable(cfg, listing.item_id))
         if new is not None:
             out.append(Change(listing.item_id, size, new_price=new))
     return out

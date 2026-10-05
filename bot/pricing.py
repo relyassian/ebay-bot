@@ -42,10 +42,10 @@ def track(log: dict, item_id: str, size: str | None, price: float, now: datetime
     return row
 
 
-def decay_price(price: float, cost: float, overseas: bool, cfg: dict) -> float | None:
+def decay_price(price: float, cost: float, overseas: bool, cfg: dict, taxable: bool = False) -> float | None:
     """Next lower price (−step, ending .99), or None if that would go below the floor price."""
     step = cfg.get("pricing", {}).get("decay_step", 0.03)
-    floor = floor_price(landed_cost(cost, cfg, overseas=overseas), cfg)
+    floor = floor_price(landed_cost(cost, cfg, overseas=overseas, taxable=taxable), cfg)
     new = math.floor(price * (1 - step)) - 0.01
     new = max(new, floor)
     return new if new < price - 0.5 else None

@@ -5,12 +5,21 @@ import math
 
 
 def landed_cost(source_price: float, cfg: dict, *, shipping: float | None = None,
-                overseas: bool = False, promo_off: float = 0.0) -> float:
+                overseas: bool = False, promo_off: float = 0.0, taxable: bool = False) -> float:
+    """Everything ships to eBay's authenticator in New Jersey, and NJ doesn't tax clothing or footwear
+    (shoes, belts, ties are exempt; jewelry like cufflinks is taxed). So sales tax applies only when taxable."""
     p = cfg["profit"]
     base = max(source_price - promo_off, 0)
     ship = p["default_shipping"] if shipping is None else shipping
     duty = base * p["overseas_duty_rate"] if overseas else 0
-    return base * (1 + p["sales_tax_rate"]) + ship + duty
+    tax = p["sales_tax_rate"] if taxable else 0
+    return base * (1 + tax) + ship + duty
+
+
+def is_taxable(cfg: dict, item_id: str | None = None, category: str | None = None) -> bool:
+    if item_id and str(item_id) in set(map(str, cfg["profit"].get("taxable_items", []))):
+        return True
+    return bool(category) and category in cfg["profit"].get("taxable_categories", [])
 
 
 def net_profit(ebay_price: float, landed: float, cfg: dict, *, reship: bool = False) -> float:
