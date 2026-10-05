@@ -23826,5 +23826,4795 @@
    },
    "match": false
   }
+ ],
+ "1AA6X4": [
+  {
+   "epid": "19052107081",
+   "title": "Ancestral Katana Kamigawa: Neon Dynasty Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Artifact"
+    ],
+    "Set": [
+     "Kamigawa: Neon Dynasty"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "White"
+    ],
+    "Rarity": [
+     "Common"
+    ],
+    "Creature/Monster Type": [
+     "Equipment"
+    ],
+    "Manufacturer": [
+     "Wizards of the Coast"
+    ],
+    "Card Name": [
+     "Ancestral Katana"
+    ],
+    "Card Number": [
+     "1"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Illustrator": [
+     "Daniel Ljunggren"
+    ],
+    "Cost": [
+     "1 W"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7043379205",
+   "title": "Togepi 04/18 Southern Islands Reverse Holo",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Pok\u00e9mon TCG"
+    ],
+    "Card Type": [
+     "Pok\u00e9mon"
+    ],
+    "Set": [
+     "Southern Islands"
+    ],
+    "Features": [
+     "Promo"
+    ],
+    "Finish": [
+     "Reverse Holo"
+    ],
+    "Rarity": [
+     "Promo"
+    ],
+    "Manufacturer": [
+     "The Pok\u00e9mon Company"
+    ],
+    "Card Name": [
+     "Togepi"
+    ],
+    "Card Number": [
+     "04/18"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Stage": [
+     "Basic"
+    ],
+    "Illustrator": [
+     "Keiko Fukuyama"
+    ],
+    "HP": [
+     "40"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "19071624057",
+   "title": "Banishing Light Bloomburrow Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Enchantment"
+    ],
+    "Set": [
+     "Bloomburrow"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "White"
+    ],
+    "Rarity": [
+     "Common"
+    ],
+    "Manufacturer": [
+     "Wizards of the Coast"
+    ],
+    "Card Name": [
+     "Banishing Light"
+    ],
+    "Card Number": [
+     "1"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Illustrator": [
+     "Zoltan Boros"
+    ],
+    "Cost": [
+     "2 W"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17065359316",
+   "title": "Call a Surprise Witness Murders at Karlov Manor Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Sorcery"
+    ],
+    "Set": [
+     "Murders at Karlov Manor"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "White"
+    ],
+    "Rarity": [
+     "Uncommon"
+    ],
+    "Manufacturer": [
+     "Wizards of the Coast"
+    ],
+    "Card Name": [
+     "Call a Surprise Witness"
+    ],
+    "Card Number": [
+     "6"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Illustrator": [
+     "Julia Metzger"
+    ],
+    "Cost": [
+     "1 W"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "12043772458",
+   "title": "Cosmic Blazar Dragon LED6-EN029 Legendary Duelists: Magical Hero 1st Edition",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Yu-Gi-Oh! TCG"
+    ],
+    "Card Type": [
+     "Effect",
+     "Synchro"
+    ],
+    "Set": [
+     "Legendary Duelists: Magical Hero"
+    ],
+    "Features": [
+     "1st Edition"
+    ],
+    "Attribute/MTG:Color": [
+     "Wind"
+    ],
+    "Rarity": [
+     "Common / Short Print"
+    ],
+    "Creature/Monster Type": [
+     "Dragon"
+    ],
+    "Manufacturer": [
+     "Konami"
+    ],
+    "Card Name": [
+     "Cosmic Blazar Dragon"
+    ],
+    "Card Number": [
+     "LED6-EN029"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Attack/Power": [
+     "4000"
+    ],
+    "Defense/Toughness": [
+     "4000"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "25058991953",
+   "title": "2023 Topps Series 1 - All Aces Justin Verlander #AA-6",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/HjoAAOSwCe1npi~h/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "All Aces"
+    ],
+    "Card Number": [
+     "AA-6"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Justin Verlander"
+    ],
+    "Set": [
+     "2023 Topps Series 1"
+    ],
+    "Team": [
+     "Houston Astros"
+    ],
+    "Season": [
+     "2023"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18065358134",
+   "title": "Case of the Shattered Pact Murders at Karlov Manor Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Enchantment"
+    ],
+    "Set": [
+     "Murders at Karlov Manor"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "Colorless"
+    ],
+    "Rarity": [
+     "Uncommon"
+    ],
+    "Creature/Monster Type": [
+     "Case"
+    ],
+    "Manufacturer": [
+     "Wizards of the Coast"
+    ],
+    "Card Name": [
+     "Case of the Shattered Pact"
+    ],
+    "Card Number": [
+     "1"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Illustrator": [
+     "Peter Polach"
+    ],
+    "Cost": [
+     "2"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "12050871985",
+   "title": "SIG SAUER TANGO-MSR LPVO 1-6x24mm Riflescoupe - Black (SOT61000)",
+   "mpn": [
+    "SOT61000"
+   ],
+   "gtin": [
+    "0798681642502"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/9nAAAOSwkOVk19t8/s-l1200.jpg"
+   ],
+   "aspects": {
+    "Brand": [
+     "SIG SAUER"
+    ],
+    "Type": [
+     "Hunting Scope"
+    ],
+    "Model": [
+     "SIG SAUER TANGO-MSR LPVO"
+    ],
+    "Maximum Magnification": [
+     "6x"
+    ],
+    "For Gun Type": [
+     "Rifle"
+    ],
+    "MPN": [
+     "SOT61000"
+    ],
+    "Objective Lens Diameter": [
+     "24 mm"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Compatible Battery Sizes": [
+     "CR2032"
+    ],
+    "Features": [
+     "Waterproof",
+     "Brightness Settings"
+    ],
+    "Focal Plane": [
+     "Second"
+    ],
+    "Item Weight": [
+     "18.5 lbs"
+    ],
+    "Power Source": [
+     "Battery"
+    ],
+    "Range": [
+     "+/- 2.5"
+    ],
+    "Reticle Type": [
+     "Illuminated"
+    ],
+    "Sport/Activity": [
+     "Hunting"
+    ],
+    "Tube Diameter": [
+     "30 mm"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "2336905433",
+   "title": "Digimon CCG Sistermon Ciel BT6-084 Foil",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/t48AAOSwBc9nY1Mc/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Game": [
+     "Digimon CCG"
+    ],
+    "Card Type": [
+     "Digimon"
+    ],
+    "Finish": [
+     "Foil"
+    ],
+    "Attribute/MTG:Color": [
+     "White"
+    ],
+    "Creature/Monster Type": [
+     "Puppet"
+    ],
+    "Card Name": [
+     "Sistermon Ciel"
+    ],
+    "Card Number": [
+     "BT6-084"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Stage": [
+     "Champion"
+    ],
+    "Cost": [
+     "4"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "25006586337",
+   "title": "Sunlite XL Clincher Tire - 20\" x 4 1/4\", Black",
+   "mpn": [],
+   "gtin": [
+    "0072774604180"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/UgMAAOSwJF5fHqyR/s-l640.jpg"
+   ],
+   "aspects": {
+    "Wheel Size": [
+     "20 in"
+    ],
+    "Brand": [
+     "Sunlite"
+    ],
+    "Compatible Bike Type": [
+     "Cruiser"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Features": [
+     "Slick Tread",
+     "Semi-Slick Tread",
+     "Inverted Tread",
+     "Foldable"
+    ],
+    "Part Type": [
+     "Tire"
+    ],
+    "Tire Type": [
+     "Clincher"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "9053644468",
+   "title": "Ogre Warrior Token Streets of New Capenna Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Creature"
+    ],
+    "Set": [
+     "Streets of New Capenna"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "Black"
+    ],
+    "Rarity": [
+     "Token"
+    ],
+    "Creature/Monster Type": [
+     "Warrior",
+     "Ogre"
+    ],
+    "Manufacturer": [
+     "Wizards of the Coast"
+    ],
+    "Card Name": [
+     "Ogre Warrior Token"
+    ],
+    "Card Number": [
+     "6"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Illustrator": [
+     "Dallas Williams"
+    ],
+    "Attack/Power": [
+     "4"
+    ],
+    "Defense/Toughness": [
+     "3"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "6041761493",
+   "title": "MTG Animate Dead Alternate 4th Edition Regular Uncommon",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Enchantment"
+    ],
+    "Set": [
+     "MTG Core Set 4th Edition"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "Black"
+    ],
+    "Rarity": [
+     "Uncommon"
+    ],
+    "Card Name": [
+     "Animate Dead"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Cost": [
+     "1b"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "16053520959",
+   "title": "Angelic Observer Streets of New Capenna Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Creature"
+    ],
+    "Set": [
+     "Streets of New Capenna"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "White"
+    ],
+    "Rarity": [
+     "Uncommon"
+    ],
+    "Creature/Monster Type": [
+     "Angel",
+     "Advisor"
+    ],
+    "Manufacturer": [
+     "Wizards of the Coast"
+    ],
+    "Card Name": [
+     "Angelic Observer"
+    ],
+    "Card Number": [
+     "1"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Illustrator": [
+     "Zack Stella"
+    ],
+    "Attack/Power": [
+     "3"
+    ],
+    "Defense/Toughness": [
+     "3"
+    ],
+    "Cost": [
+     "5 W"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27056892264",
+   "title": "X-Men #4 (Marvel Comics January 1992)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Artist/Writer": [
+     "Scott Williams",
+     "Jim Lee",
+     "John Byrne",
+     "Joe Rosas"
+    ],
+    "Character": [
+     "Banshee",
+     "Matsuo Tsurahaba (Villain)",
+     "Gambit",
+     "Jubilee",
+     "Rogue",
+     "Beast",
+     "X-Men Wolverine",
+     "Omega Red",
+     "Andreas Strucker (Villains)",
+     "Cyclops",
+     "The Hand (Villain)",
+     "X-Men Professor X",
+     "Moira MacTaggert",
+     "Magneto (Cameo Flashback)",
+     "Wolverine (Logan)",
+     "Omega Red (Villain, Introduction)",
+     "Fenris Andrea Strucker"
+    ],
+    "Cover Artist": [
+     "Scott Williams",
+     "Jim Lee"
+    ],
+    "Era": [
+     "Modern Age (1992-Now)"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Publication Year": [
+     "1992"
+    ],
+    "Publisher": [
+     "Marvel Comics"
+    ],
+    "Features": [
+     "Direct"
+    ],
+    "Genre": [
+     "Superheroes"
+    ],
+    "Issue Number": [
+     "4"
+    ],
+    "Series Title": [
+     "X-Men"
+    ],
+    "Superhero Team": [
+     "X-Men"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "25056837135",
+   "title": "The X-Men #4 (Marvel Comics March 1964)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Artist/Writer": [
+     "Stan Lee",
+     "Paul Reinman",
+     "Jack Kirby"
+    ],
+    "Character": [
+     "Magneto",
+     "Mastermind",
+     "Scarlet Witch",
+     "Mortimer Toynbee",
+     "Warren Worthington III",
+     "Bobby Drake",
+     "Wanda Maximoff",
+     "Mastermind (First Appearance)",
+     "Toad",
+     "Toad (First Appearance)",
+     "Quicksilver",
+     "Jean Grey",
+     "Scarlet Witch (First Appearance, Also in Flashback)",
+     "Scott Summers",
+     "Angel",
+     "Jason Wyngarde",
+     "Erik Lehnsherr",
+     "Professor X",
+     "Pietro Maximoff",
+     "Beast",
+     "Cyclops",
+     "Magneto (Also in Flashback)",
+     "Charles Xavier",
+     "Hank McCoy",
+     "Quicksilver (First Appearance)",
+     "Marvel Girl",
+     "Iceman"
+    ],
+    "Cover Artist": [
+     "Stan Goldberg",
+     "Jack Kirby",
+     "George Roussos"
+    ],
+    "Era": [
+     "Silver Age (1956-69)"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Publication Year": [
+     "1964"
+    ],
+    "Publisher": [
+     "Marvel Comics"
+    ],
+    "Genre": [
+     "Superheroes"
+    ],
+    "Issue Number": [
+     "4"
+    ],
+    "Series Title": [
+     "The X-Men"
+    ],
+    "Superhero Team": [
+     "X-Men"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7041754016",
+   "title": "Skeletal Scrying Odyssey Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Instant"
+    ],
+    "Set": [
+     "Odyssey"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "Black"
+    ],
+    "Rarity": [
+     "Uncommon"
+    ],
+    "Manufacturer": [
+     "Wizards of the Coast"
+    ],
+    "Card Name": [
+     "Skeletal Scrying"
+    ],
+    "Card Number": [
+     "161"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Illustrator": [
+     "Bob Petillo"
+    ],
+    "Cost": [
+     "xB"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "3040856806",
+   "title": "Traxxas 6730X Chassis Brace Kit",
+   "mpn": [
+    "6730X"
+   ],
+   "gtin": [
+    "0020334673091"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/GoMAAOSwyjpgdWzb/s-l640.jpg"
+   ],
+   "aspects": {
+    "Brand": [
+     "Traxxas"
+    ],
+    "MPN": [
+     "6730X"
+    ],
+    "Compatible Brand": [
+     "For Traxxas"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "11048091057",
+   "title": "+2 Mace Adventures in the Forgotten Realms Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Artifact"
+    ],
+    "Set": [
+     "Adventures in the Forgotten Realms"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "White"
+    ],
+    "Rarity": [
+     "Common"
+    ],
+    "Creature/Monster Type": [
+     "Equipment"
+    ],
+    "Manufacturer": [
+     "Wizards of the Coast"
+    ],
+    "Card Name": [
+     "+2 Mace"
+    ],
+    "Card Number": [
+     "1"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Illustrator": [
+     "Jarel Threat"
+    ],
+    "Cost": [
+     "1 W"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21079368851",
+   "title": "Ambrosia Whiteheart Final Fantasy Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Magic: The Gathering"
+    ],
+    "Card Type": [
+     "Creature"
+    ],
+    "Set": [
+     "Final Fantasy"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Attribute/MTG:Color": [
+     "White"
+    ],
+    "Rarity": [
+     "Uncommon"
+    ],
+    "Creature/Monster Type": [
+     "Bird"
+    ],
+    "Manufacturer": [
+     "Wizards of the Coast"
+    ],
+    "Card Name": [
+     "Ambrosia Whiteheart"
+    ],
+    "Card Number": [
+     "6"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Illustrator": [
+     "Fajareka Setiawan"
+    ],
+    "Attack/Power": [
+     "2"
+    ],
+    "Defense/Toughness": [
+     "2"
+    ],
+    "Cost": [
+     "1 W"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24056898622",
+   "title": "X-Factor #6 (Marvel Comics July 1986)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Artist/Writer": [
+     "Petra Goldberg",
+     "Louise Simonson",
+     "Butch Guice",
+     "Bob McLeod"
+    ],
+    "Character": [
+     "Suzy Nowlan (Guest, Death)",
+     "Apocalypse",
+     "Tower (Villain)",
+     "En Sabah Nur",
+     "Apocalypse (Villain, First Full Appearance)",
+     "Edward Pasternak",
+     "Bobby Drake",
+     "Warren Worthington III",
+     "Stinger (Villain)",
+     "Frenzy (Villain)",
+     "Joanna Cargill",
+     "Wendy Sherman",
+     "Jean Grey",
+     "Scott Summers",
+     "Sergeant Gorelli (Guest)",
+     "Angel",
+     "Beast",
+     "Cyclops",
+     "Timeshadow (Villain)",
+     "Michael Nowlan (Villain, Death)",
+     "Hank McCoy",
+     "Ruby (Guest)",
+     "Marvel Girl",
+     "Iceman",
+     "Joe Simsky (Guest)"
+    ],
+    "Cover Artist": [
+     "Ron Frenz",
+     "Joe Rubinstein"
+    ],
+    "Era": [
+     "Copper Age (1984-1991)"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Publication Year": [
+     "1986"
+    ],
+    "Publisher": [
+     "Marvel Comics"
+    ],
+    "Features": [
+     "Direct"
+    ],
+    "Genre": [
+     "Superheroes"
+    ],
+    "Issue Number": [
+     "6"
+    ],
+    "Series Title": [
+     "X-Factor"
+    ],
+    "Superhero Team": [
+     "X-Factor"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "1A9JGB": [
+  {
+   "epid": "2326944937",
+   "title": "2018 Topps Heritage Minor League Edition - Kyle Tucker #11 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/KpwAAOSw7Ndnpi5Q/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "11"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Kyle Tucker"
+    ],
+    "Set": [
+     "2018 Topps Heritage Minor League Edition"
+    ],
+    "Team": [
+     "Fresno Grizzlies"
+    ],
+    "Season": [
+     "2018"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23043383347",
+   "title": "Machamp 9/101 EX Hidden Legends Reverse Holo",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Pok\u00e9mon TCG"
+    ],
+    "Card Type": [
+     "Pok\u00e9mon"
+    ],
+    "Set": [
+     "EX Hidden Legends"
+    ],
+    "Finish": [
+     "Reverse Holo"
+    ],
+    "Rarity": [
+     "Holo Rare"
+    ],
+    "Manufacturer": [
+     "The Pok\u00e9mon Company"
+    ],
+    "Card Name": [
+     "Machamp"
+    ],
+    "Card Number": [
+     "9/101"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Stage": [
+     "Stage 2"
+    ],
+    "HP": [
+     "120"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "14056190421",
+   "title": "1998 Pinnacle Plus - All-Star Epix Barry Bonds #E22 Purple Moment",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/PtMAAOSwN-ZnpiEj/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Purple Moment"
+    ],
+    "Insert Set": [
+     "All-Star Epix"
+    ],
+    "Card Number": [
+     "E22"
+    ],
+    "Features": [
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Pinnacle"
+    ],
+    "Player/Athlete": [
+     "Barry Bonds"
+    ],
+    "Set": [
+     "1998 Pinnacle Plus"
+    ],
+    "Team": [
+     "Pittsburgh Pirates",
+     "San Francisco Giants"
+    ],
+    "Season": [
+     "1998"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22071594710",
+   "title": "2023-24 Panini Haunted Hoops - Jayson Tatum #265 Orange",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/PCoAAOSw1DVnpij9/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "Orange"
+    ],
+    "Card Number": [
+     "265"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Basketball Association (NBA)"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "Jayson Tatum"
+    ],
+    "Set": [
+     "2023-24 Panini Haunted Hoops"
+    ],
+    "Team": [
+     "Boston Celtics"
+    ],
+    "Season": [
+     "2023-24"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "1403201734",
+   "title": "Duracell Coppertop 9V Battery - Pack of 2",
+   "mpn": [],
+   "gtin": [
+    "0041333216010"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/vtkAAOSwZehf~Jfk/s-l640.jpg"
+   ],
+   "aspects": {
+    "Brand": [
+     "Duracell"
+    ],
+    "Type": [
+     "9 V Block"
+    ],
+    "Chemical Composition": [
+     "Alkaline"
+    ],
+    "Battery Size": [
+     "9V"
+    ],
+    "Voltage": [
+     "9 V"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26056003271",
+   "title": "2021 Bowman Draft - Chrome Ethan Wilson #BDC-140 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8t4AAOSwVWBnpiX5/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-140"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Ethan Wilson"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "Philadelphia Phillies"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7055893661",
+   "title": "2021 Bowman Draft - Chrome Owen Kellington #BDC-120 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/YqcAAOSwtyxnpio9/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-120"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Owen Kellington"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "Pittsburgh Pirates"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22055886873",
+   "title": "2021 Bowman Draft - Chrome Ryan Holgate #BDC-148 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ApQAAOSwHJlnpi9V/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-148"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Ryan Holgate"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "St. Louis Cardinals"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "9072730691",
+   "title": "Lilo - Making a Wish 9/204 The First Chapter Cold Foil",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Disney Lorcana TCG"
+    ],
+    "Card Type": [
+     "Character"
+    ],
+    "Set": [
+     "The First Chapter"
+    ],
+    "Finish": [
+     "Cold Foil"
+    ],
+    "Attribute/MTG:Color": [
+     "Amber"
+    ],
+    "Rarity": [
+     "Rare"
+    ],
+    "Manufacturer": [
+     "Ravensburger"
+    ],
+    "Card Name": [
+     "Lilo - Making A Wish"
+    ],
+    "Card Number": [
+     "9/204"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Attack/Power": [
+     "1"
+    ],
+    "Defense/Toughness": [
+     "1"
+    ],
+    "Cost": [
+     "1"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18056000360",
+   "title": "2021 Bowman Draft - Chrome Austin Love #BDC-164 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/LEcAAOSwjFFnpiw-/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-164"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Austin Love"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "St. Louis Cardinals"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26055984579",
+   "title": "2016 Topps Update Series - Trevor Story #US226 White Jersey (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ze0AAOSw2OFnpiED/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "US226"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Trevor Story"
+    ],
+    "Set": [
+     "2016 Topps Update Series"
+    ],
+    "Team": [
+     "Colorado Rockies"
+    ],
+    "Season": [
+     "2016"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "19091160005",
+   "title": "2026 Topps Series 1 - 1991 Topps Baseball Autographs Colson Montgomery #91A-COM (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/hAIAAeSwmeRpxoUS/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Insert Set": [
+     "1991 Topps Baseball Autographs"
+    ],
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "91A-COM"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Colson Montgomery"
+    ],
+    "Set": [
+     "2026 Topps Series 1"
+    ],
+    "Team": [
+     "Chicago White Sox"
+    ],
+    "Season": [
+     "2026"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23043384242",
+   "title": "Charmander 018A/147 Alternate Art Holo",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Pok\u00e9mon TCG"
+    ],
+    "Card Type": [
+     "Pok\u00e9mon"
+    ],
+    "Set": [
+     "Alternate Art"
+    ],
+    "Features": [
+     "Promo"
+    ],
+    "Finish": [
+     "Holo"
+    ],
+    "Rarity": [
+     "Promo"
+    ],
+    "Manufacturer": [
+     "The Pok\u00e9mon Company"
+    ],
+    "Card Name": [
+     "Charmander"
+    ],
+    "Card Number": [
+     "018A/147"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Stage": [
+     "Basic"
+    ],
+    "Illustrator": [
+     "Masakazu Fukuda"
+    ],
+    "HP": [
+     "70"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "9074355234",
+   "title": "Magikarp 080/073 Sv1a: Triplet Beat Holo (Japanese)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Pok\u00e9mon TCG"
+    ],
+    "Card Type": [
+     "Pok\u00e9mon"
+    ],
+    "Set": [
+     "Sv1a: Triplet Beat"
+    ],
+    "Finish": [
+     "Holo"
+    ],
+    "Rarity": [
+     "Art Rare"
+    ],
+    "Manufacturer": [
+     "The Pok\u00e9mon Company"
+    ],
+    "Card Name": [
+     "Magikarp"
+    ],
+    "Card Number": [
+     "080/073"
+    ],
+    "Language": [
+     "Japanese"
+    ],
+    "Stage": [
+     "Basic"
+    ],
+    "Illustrator": [
+     "Shinji Kanda"
+    ],
+    "HP": [
+     "30"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "11074136136",
+   "title": "Gengar 032/092 Intense Fight in the Destroyed Sky Regular (Japanese)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Pok\u00e9mon TCG"
+    ],
+    "Card Type": [
+     "Pok\u00e9mon"
+    ],
+    "Set": [
+     "Intense Fight in the Destroyed Sky"
+    ],
+    "Features": [
+     "1st Edition"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Rarity": [
+     "Rare"
+    ],
+    "Manufacturer": [
+     "The Pok\u00e9mon Company"
+    ],
+    "Card Name": [
+     "Gengar"
+    ],
+    "Card Number": [
+     "032/092"
+    ],
+    "Language": [
+     "Japanese"
+    ],
+    "Stage": [
+     "Stage 2"
+    ],
+    "Illustrator": [
+     "Hajime Kusajima"
+    ],
+    "HP": [
+     "110"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7098346342",
+   "title": "2026 Topps Finest - Arrivals Kyle Teel #A-9 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/k4UAAeSw9bdqtOoz/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Arrivals"
+    ],
+    "Card Number": [
+     "A-9"
+    ],
+    "Features": [
+     "Parallel/Variety",
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Kyle Teel"
+    ],
+    "Set": [
+     "2026 Topps Finest"
+    ],
+    "Team": [
+     "Chicago White Sox"
+    ],
+    "Season": [
+     "2026"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "28101553295",
+   "title": "2026 Panini Score-A-Treat - Miikka Muurinen #9 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "9"
+    ],
+    "Features": [
+     "Base Set",
+     "Rookie"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "Miikka Muurinen"
+    ],
+    "Set": [
+     "2026 Panini Score-A-Treat"
+    ],
+    "Season": [
+     "2026"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "19091935466",
+   "title": "2026 Topps Series 1 - Carson Whisenhunt #184 Spring Training Black /10 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Print Run": [
+     "10"
+    ],
+    "Parallel/Variety": [
+     "Spring Training Black"
+    ],
+    "Card Number": [
+     "184"
+    ],
+    "Features": [
+     "Rookie",
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Carson Whisenhunt"
+    ],
+    "Set": [
+     "2026 Topps Series 1"
+    ],
+    "Team": [
+     "San Francisco Giants"
+    ],
+    "Season": [
+     "2026"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "12055957832",
+   "title": "2021 Bowman Draft - Chrome Eric Silva #BDC-162 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ncEAAOSwMiZnpivS/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-162"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Eric Silva"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "San Francisco Giants"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21080300785",
+   "title": "Absolute Batman #9 Nick Dragotta Cover (DC Comics August 2025)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Variant Type": [
+     "Nick Dragotta Cover"
+    ],
+    "Artist/Writer": [
+     "Frank Martin",
+     "Nick Dragotta",
+     "Scott Snyder"
+    ],
+    "Character": [
+     "Bane (Absolute Universe)",
+     "Harvey Dent (Absolute Universe)",
+     "Joker (Absolute Universe)",
+     "Eddie Nygma (Edward Nygma) (Absolute Universe)",
+     "Croc (Waylon Jones) (Absolute Universe)",
+     "Martha Wayne (Absolute Universe)",
+     "James Gordon (Absolute Universe)",
+     "Alfred Pennyworth (Absolute Universe)",
+     "Selina Kyle (Absolute Universe)",
+     "Batman (Bruce Wayne) (Absolute Universe)",
+     "Ozzie Cobblepot (Oswald Cobblepot) (Absolute Universe)",
+     "Barbara Gordon (Absolute Universe)"
+    ],
+    "Cover Artist": [
+     "Frank Martin",
+     "Nick Dragotta"
+    ],
+    "Era": [
+     "Modern Age (1992-Now)"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Publication Year": [
+     "2025"
+    ],
+    "Publisher": [
+     "DC Comics"
+    ],
+    "Genre": [
+     "Superheroes"
+    ],
+    "Issue Number": [
+     "9"
+    ],
+    "Series Title": [
+     "Absolute Batman"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "1AARQH": [
+  {
+   "epid": "5060826016",
+   "title": "Size 11 - Louis Vuitton LV Skate Low Beige",
+   "mpn": [
+    "1AARQH"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/aK4AAOSwAeVnupCD/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton LV"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Beige"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1AARQH"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "10060824113",
+   "title": "Size 7.5 - Louis Vuitton LV Skate Low Beige",
+   "mpn": [
+    "1AARQH"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/aK4AAOSwAeVnupCD/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton LV"
+    ],
+    "Color": [
+     "Beige"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "US Shoe Size": [
+     "7.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1AARQH"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "10060824247",
+   "title": "Size 10.5 - Louis Vuitton LV Skate Low Beige",
+   "mpn": [
+    "1AARQH"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/aK4AAOSwAeVnupCD/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton LV"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Beige"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1AARQH"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  }
+ ],
+ "1A9JGZ": [
+  {
+   "epid": "17099246916",
+   "title": "\"A Case for K9\" (Secret Rare) 26LP-EN011 Limited Pack World Championship 2026 1st Edition",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Yu-Gi-Oh! TCG"
+    ],
+    "Card Type": [
+     "Spell-Continuous"
+    ],
+    "Set": [
+     "Limited Pack World Championship 2026"
+    ],
+    "Features": [
+     "1st Edition"
+    ],
+    "Attribute/MTG:Color": [
+     "Spell"
+    ],
+    "Rarity": [
+     "Secret Rare"
+    ],
+    "Manufacturer": [
+     "Konami"
+    ],
+    "Card Name": [
+     "\"A Case for K9\""
+    ],
+    "Card Number": [
+     "26LP-EN011"
+    ],
+    "Language": [
+     "English"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "4099183745",
+   "title": "\"A Case for K9\" 26LP-EN011 Limited Pack World Championship 2026 1st Edition",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Yu-Gi-Oh! TCG"
+    ],
+    "Card Type": [
+     "Spell-Continuous"
+    ],
+    "Set": [
+     "Limited Pack World Championship 2026"
+    ],
+    "Features": [
+     "1st Edition"
+    ],
+    "Attribute/MTG:Color": [
+     "Spell"
+    ],
+    "Rarity": [
+     "Ultra Rare"
+    ],
+    "Manufacturer": [
+     "Konami"
+    ],
+    "Card Name": [
+     "\"A Case for K9\""
+    ],
+    "Card Number": [
+     "26LP-EN011"
+    ],
+    "Language": [
+     "English"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23043383347",
+   "title": "Machamp 9/101 EX Hidden Legends Reverse Holo",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Pok\u00e9mon TCG"
+    ],
+    "Card Type": [
+     "Pok\u00e9mon"
+    ],
+    "Set": [
+     "EX Hidden Legends"
+    ],
+    "Finish": [
+     "Reverse Holo"
+    ],
+    "Rarity": [
+     "Holo Rare"
+    ],
+    "Manufacturer": [
+     "The Pok\u00e9mon Company"
+    ],
+    "Card Name": [
+     "Machamp"
+    ],
+    "Card Number": [
+     "9/101"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Stage": [
+     "Stage 2"
+    ],
+    "HP": [
+     "120"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "2326944937",
+   "title": "2018 Topps Heritage Minor League Edition - Kyle Tucker #11 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/KpwAAOSw7Ndnpi5Q/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "11"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Kyle Tucker"
+    ],
+    "Set": [
+     "2018 Topps Heritage Minor League Edition"
+    ],
+    "Team": [
+     "Fresno Grizzlies"
+    ],
+    "Season": [
+     "2018"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "1403201734",
+   "title": "Duracell Coppertop 9V Battery - Pack of 2",
+   "mpn": [],
+   "gtin": [
+    "0041333216010"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/vtkAAOSwZehf~Jfk/s-l640.jpg"
+   ],
+   "aspects": {
+    "Brand": [
+     "Duracell"
+    ],
+    "Type": [
+     "9 V Block"
+    ],
+    "Chemical Composition": [
+     "Alkaline"
+    ],
+    "Battery Size": [
+     "9V"
+    ],
+    "Voltage": [
+     "9 V"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "14056190421",
+   "title": "1998 Pinnacle Plus - All-Star Epix Barry Bonds #E22 Purple Moment",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/PtMAAOSwN-ZnpiEj/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Purple Moment"
+    ],
+    "Insert Set": [
+     "All-Star Epix"
+    ],
+    "Card Number": [
+     "E22"
+    ],
+    "Features": [
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Pinnacle"
+    ],
+    "Player/Athlete": [
+     "Barry Bonds"
+    ],
+    "Set": [
+     "1998 Pinnacle Plus"
+    ],
+    "Team": [
+     "Pittsburgh Pirates",
+     "San Francisco Giants"
+    ],
+    "Season": [
+     "1998"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "9072730691",
+   "title": "Lilo - Making a Wish 9/204 The First Chapter Cold Foil",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Disney Lorcana TCG"
+    ],
+    "Card Type": [
+     "Character"
+    ],
+    "Set": [
+     "The First Chapter"
+    ],
+    "Finish": [
+     "Cold Foil"
+    ],
+    "Attribute/MTG:Color": [
+     "Amber"
+    ],
+    "Rarity": [
+     "Rare"
+    ],
+    "Manufacturer": [
+     "Ravensburger"
+    ],
+    "Card Name": [
+     "Lilo - Making A Wish"
+    ],
+    "Card Number": [
+     "9/204"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Attack/Power": [
+     "1"
+    ],
+    "Defense/Toughness": [
+     "1"
+    ],
+    "Cost": [
+     "1"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21034582848",
+   "title": "Casio G-Shock GA20001A9 Wrist Watch for Men",
+   "mpn": [
+    "GA20001A9"
+   ],
+   "gtin": [
+    "0889232219462"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/T5wAAOSwfMRkh1fx/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Band/Strap": [
+     "Two-Piece Strap"
+    ],
+    "Brand": [
+     "Casio"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Type": [
+     "Wristwatch"
+    ],
+    "Model": [
+     "GA20001A9"
+    ],
+    "Features": [
+     "Water-Resistant",
+     "Shock-Resistant",
+     "Limited Edition",
+     "Backlight",
+     "Day/Date"
+    ],
+    "Movement": [
+     "Quartz"
+    ],
+    "Band Color": [
+     "Yellow",
+     "Black"
+    ],
+    "Band Material": [
+     "Resin"
+    ],
+    "Case Color": [
+     "Black"
+    ],
+    "Case Material": [
+     "Resin"
+    ],
+    "Display": [
+     "Analog",
+     "Analog & Digital",
+     "Digital"
+    ],
+    "Water Resistance": [
+     "200 m (20 ATM)"
+    ],
+    "Reference Number": [
+     "GA20001A9"
+    ],
+    "Indices": [
+     "12 h Dial"
+    ],
+    "Dial Color": [
+     "Black"
+    ],
+    "Style": [
+     "Diver",
+     "Sport"
+    ],
+    "Case Size": [
+     "51.2 mm"
+    ],
+    "Watch Shape": [
+     "Round"
+    ],
+    "Caseback": [
+     "Solid"
+    ],
+    "Lug Width": [
+     "14 mm"
+    ],
+    "Band Width": [
+     "22 mm"
+    ],
+    "Case Thickness": [
+     "14.1 mm"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22071594710",
+   "title": "2023-24 Panini Haunted Hoops - Jayson Tatum #265 Orange",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/PCoAAOSw1DVnpij9/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "Orange"
+    ],
+    "Card Number": [
+     "265"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Basketball Association (NBA)"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "Jayson Tatum"
+    ],
+    "Set": [
+     "2023-24 Panini Haunted Hoops"
+    ],
+    "Team": [
+     "Boston Celtics"
+    ],
+    "Season": [
+     "2023-24"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26056003271",
+   "title": "2021 Bowman Draft - Chrome Ethan Wilson #BDC-140 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/8t4AAOSwVWBnpiX5/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-140"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Ethan Wilson"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "Philadelphia Phillies"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22099257254",
+   "title": "\"A Case for K9\" (Emblazoned) 26LP-EN011 Limited Pack World Championship 2026 1st Edition",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Yu-Gi-Oh! TCG"
+    ],
+    "Card Type": [
+     "Spell-Continuous"
+    ],
+    "Set": [
+     "Limited Pack World Championship 2026"
+    ],
+    "Features": [
+     "1st Edition"
+    ],
+    "Attribute/MTG:Color": [
+     "Spell"
+    ],
+    "Rarity": [
+     "Ultra Rare"
+    ],
+    "Manufacturer": [
+     "Konami"
+    ],
+    "Card Name": [
+     "\"A Case for K9\""
+    ],
+    "Card Number": [
+     "26LP-EN011"
+    ],
+    "Language": [
+     "English"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7055893661",
+   "title": "2021 Bowman Draft - Chrome Owen Kellington #BDC-120 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/YqcAAOSwtyxnpio9/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-120"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Owen Kellington"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "Pittsburgh Pirates"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26055984579",
+   "title": "2016 Topps Update Series - Trevor Story #US226 White Jersey (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ze0AAOSw2OFnpiED/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "US226"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Trevor Story"
+    ],
+    "Set": [
+     "2016 Topps Update Series"
+    ],
+    "Team": [
+     "Colorado Rockies"
+    ],
+    "Season": [
+     "2016"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "6055939803",
+   "title": "2021 Bowman Draft - Chrome Steven Hajjar #BDC-161 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/QZQAAOSwbQlnpjY0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-161"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Steven Hajjar"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "Minnesota Twins"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23043384242",
+   "title": "Charmander 018A/147 Alternate Art Holo",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Pok\u00e9mon TCG"
+    ],
+    "Card Type": [
+     "Pok\u00e9mon"
+    ],
+    "Set": [
+     "Alternate Art"
+    ],
+    "Features": [
+     "Promo"
+    ],
+    "Finish": [
+     "Holo"
+    ],
+    "Rarity": [
+     "Promo"
+    ],
+    "Manufacturer": [
+     "The Pok\u00e9mon Company"
+    ],
+    "Card Name": [
+     "Charmander"
+    ],
+    "Card Number": [
+     "018A/147"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Stage": [
+     "Basic"
+    ],
+    "Illustrator": [
+     "Masakazu Fukuda"
+    ],
+    "HP": [
+     "70"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "19091160005",
+   "title": "2026 Topps Series 1 - 1991 Topps Baseball Autographs Colson Montgomery #91A-COM (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/hAIAAeSwmeRpxoUS/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Insert Set": [
+     "1991 Topps Baseball Autographs"
+    ],
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "91A-COM"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Colson Montgomery"
+    ],
+    "Set": [
+     "2026 Topps Series 1"
+    ],
+    "Team": [
+     "Chicago White Sox"
+    ],
+    "Season": [
+     "2026"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22055886873",
+   "title": "2021 Bowman Draft - Chrome Ryan Holgate #BDC-148 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ApQAAOSwHJlnpi9V/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-148"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Ryan Holgate"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "St. Louis Cardinals"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "9074355234",
+   "title": "Magikarp 080/073 Sv1a: Triplet Beat Holo (Japanese)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Pok\u00e9mon TCG"
+    ],
+    "Card Type": [
+     "Pok\u00e9mon"
+    ],
+    "Set": [
+     "Sv1a: Triplet Beat"
+    ],
+    "Finish": [
+     "Holo"
+    ],
+    "Rarity": [
+     "Art Rare"
+    ],
+    "Manufacturer": [
+     "The Pok\u00e9mon Company"
+    ],
+    "Card Name": [
+     "Magikarp"
+    ],
+    "Card Number": [
+     "080/073"
+    ],
+    "Language": [
+     "Japanese"
+    ],
+    "Stage": [
+     "Basic"
+    ],
+    "Illustrator": [
+     "Shinji Kanda"
+    ],
+    "HP": [
+     "30"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18056000360",
+   "title": "2021 Bowman Draft - Chrome Austin Love #BDC-164 Refractor (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/LEcAAOSwjFFnpiw-/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Refractor"
+    ],
+    "Insert Set": [
+     "Chrome"
+    ],
+    "Card Number": [
+     "BDC-164"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Austin Love"
+    ],
+    "Set": [
+     "2021 Bowman Draft"
+    ],
+    "Team": [
+     "St. Louis Cardinals"
+    ],
+    "Season": [
+     "2021"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18044748030",
+   "title": "Popplio SM03 First Partner Pack Regular",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Game": [
+     "Pok\u00e9mon TCG"
+    ],
+    "Card Type": [
+     "Pok\u00e9mon"
+    ],
+    "Set": [
+     "First Partner Pack"
+    ],
+    "Features": [
+     "Promo"
+    ],
+    "Finish": [
+     "Regular"
+    ],
+    "Rarity": [
+     "Promo"
+    ],
+    "Manufacturer": [
+     "The Pok\u00e9mon Company"
+    ],
+    "Card Name": [
+     "Popplio"
+    ],
+    "Card Number": [
+     "SM03"
+    ],
+    "Language": [
+     "English"
+    ],
+    "Stage": [
+     "Basic"
+    ],
+    "Illustrator": [
+     "Match"
+    ],
+    "HP": [
+     "60"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "Louis Vuitton Trainer": [
+  {
+   "epid": "25053218412",
+   "title": "Size 12 - Louis Vuitton LV Trainer Monogram Green/White",
+   "mpn": [
+    "1A9JHS"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/E0YAAeSwkR5ol6cE/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton LV Trainer"
+    ],
+    "Color": [
+     "Multicolor"
+    ],
+    "US Shoe Size": [
+     "12"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1A9JHS"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "3044224787",
+   "title": "Size 9 - Louis Vuitton Match-Up Monogram",
+   "mpn": [
+    "GO1115"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Product Line": [
+     "Louis Vuitton Match-Up"
+    ],
+    "Model": [
+     "Louis Vuitton Match-Up"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "GO1115"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "12084800674",
+   "title": "Size 11 - Louis Vuitton Discovery Lace Up Blue Navy",
+   "mpn": [
+    "1ACEBU"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Suede"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Discovery Lace Up"
+    ],
+    "Model": [
+     "Louis Vuitton Discovery Lace Up"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "1ACEBU"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "13084813738",
+   "title": "Size 10 - Louis Vuitton Discovery Lace Up Blue Navy",
+   "mpn": [
+    "1ACEBU"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Suede"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Discovery Lace Up"
+    ],
+    "Model": [
+     "Louis Vuitton Discovery Lace Up"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "Release Year": [
+     "2024"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Style Code": [
+     "1ACEBU"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "5084597744",
+   "title": "Size 11 - Louis Vuitton Rivoli High Eclipse Monogram",
+   "mpn": [
+    "1A8EAU"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "High Top"
+    ],
+    "Product Line": [
+     "Louis Vuitton Rivoli"
+    ],
+    "Model": [
+     "Louis Vuitton Rivoli"
+    ],
+    "Color": [
+     "Gray"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "1A8EAU"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18062022568",
+   "title": "Size 9 - Louis Vuitton LV Trainer Low White",
+   "mpn": [
+    "1AB8J1"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/P-QAAeSwE51psPls/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Louis Vuitton LV"
+    ],
+    "Model": [
+     "Louis Vuitton LV Trainer"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1AB8J1"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7044222522",
+   "title": "Size 9 - Louis Vuitton Run Away Sneaker Tri-Color",
+   "mpn": [
+    "1A3N7W"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/2zkAAOSwclFnuo-0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Louis Vuitton Run"
+    ],
+    "Model": [
+     "Louis Vuitton Run Away"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "Gray"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1A3N7W"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17058613590",
+   "title": "Size 7 - Louis Vuitton LV Trainer White",
+   "mpn": [
+    "1A8WB3"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/E-wAAeSwq4Fpwza2/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Louis Vuitton LV"
+    ],
+    "Model": [
+     "Louis Vuitton LV Trainer"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1A8WB3"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23053033505",
+   "title": "Size 7 - Louis Vuitton Run Away Blue",
+   "mpn": [
+    "GO0195"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/FGQAAOSwordnuo5t/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton Run Away"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "GO0195"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "15044220107",
+   "title": "Size 11 - Kanye West x Louis Vuitton Don Patchwork",
+   "mpn": [
+    "YP6U1PMI"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/3EQAAOSwugtnuo7M/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Don"
+    ],
+    "Model": [
+     "Louis Vuitton Don"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "Release Year": [
+     "2009"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "YP6U1PMI"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "2343296646",
+   "title": "Size 3.5 - Louis Vuitton Trainer White",
+   "mpn": [
+    "1A8WB9"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Trainer"
+    ],
+    "Model": [
+     "Louis Vuitton Trainer"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "US Shoe Size": [
+     "3.5"
+    ],
+    "Style Code": [
+     "1A8WB9"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "8064564226",
+   "title": "Size 8.5 - Louis Vuitton Skate Sneaker Grey Green",
+   "mpn": [
+    "1ABZ4R"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Gray"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "1ABZ4R"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "2315263405",
+   "title": "Size 13 - Louis Vuitton Frontrow Monogram",
+   "mpn": [
+    "1A1GMX"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Product Line": [
+     "Louis Vuitton Frontrow"
+    ],
+    "Model": [
+     "Louis Vuitton Frontrow"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "13"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1A1GMX"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18045981119",
+   "title": "Size 10.5 - Louis Vuitton Trainer Low Black Monogram",
+   "mpn": [
+    "1A8PUA"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/bkUAAeSwKuFpeVFJ/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Canvas"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Product Line": [
+     "Louis Vuitton Trainer"
+    ],
+    "Model": [
+     "Louis Vuitton Trainer"
+    ],
+    "Release Year": [
+     "2021"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Style Code": [
+     "1A8PUA"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "16061567095",
+   "title": "Size 9 - Louis Vuitton Trail 2054 Sneaker Black Iridescent",
+   "mpn": [
+    "1A7QQZ"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Product Line": [
+     "Louis Vuitton Trail Sneaker"
+    ],
+    "Model": [
+     "Louis Vuitton Trail Sneaker"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Upper Material": [
+     "Nylon"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1A7QQZ"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "14072237574",
+   "title": "Size 10 - Lucien Clarke x Louis Vuitton A View Sneaker White Orange",
+   "mpn": [
+    "1A8J24"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Product Line": [
+     "Louis Vuitton a View"
+    ],
+    "Model": [
+     "Louis Vuitton A View"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1A8J24"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "16055178546",
+   "title": "Size 13 - Louis Vuitton Trainer Low Monogram Denim",
+   "mpn": [
+    "1A9JGZ"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/4QAAAOSwRNtnuo9S/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Denim"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Product Line": [
+     "Louis Vuitton Trainer"
+    ],
+    "Model": [
+     "Louis Vuitton Trainer"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "US Shoe Size": [
+     "13"
+    ],
+    "Style Code": [
+     "1A9JGZ"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "26053239064",
+   "title": "Size 12 - Louis Vuitton LV Trainer Monogram White",
+   "mpn": [
+    "1A9JGF"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton LV Trainer"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "12"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1A9JGF"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21072257808",
+   "title": "Size 11 - Louis Vuitton Trainer Colored-In Motif - White Black",
+   "mpn": [
+    "1ABLWE"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Trainer"
+    ],
+    "Model": [
+     "Louis Vuitton Trainer"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "1ABLWE"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "21045635115",
+   "title": "Size 9 - Louis Vuitton Trainer Low Black Grey",
+   "mpn": [
+    "1A54H5"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/cJAAAeSwc51peVFS/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Type": [
+     "Athletic"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Trainer"
+    ],
+    "Model": [
+     "Louis Vuitton Trainer"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Style Code": [
+     "1A54H5"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  }
+ ],
+ "Louis Vuitton LV Skate": [
+  {
+   "epid": "8064564226",
+   "title": "Size 8.5 - Louis Vuitton Skate Sneaker Grey Green",
+   "mpn": [
+    "1ABZ4R"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Gray"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "1ABZ4R"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "20072247845",
+   "title": "Size 10.5 - Louis Vuitton Skate Sneaker Red",
+   "mpn": [
+    "1AARS5"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/lsAAAOSwycVoA84O/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Red"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Style Code": [
+     "1AARS5"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "14072237574",
+   "title": "Size 10 - Lucien Clarke x Louis Vuitton A View Sneaker White Orange",
+   "mpn": [
+    "1A8J24"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Product Line": [
+     "Louis Vuitton a View"
+    ],
+    "Model": [
+     "Louis Vuitton A View"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1A8J24"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "3062700809",
+   "title": "Size 9 - Louis Vuitton Skate Sneaker Marine",
+   "mpn": [
+    "1AARRL"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DjwAAOSwBHln4A8n/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Style Code": [
+     "1AARRL"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "5060826016",
+   "title": "Size 11 - Louis Vuitton LV Skate Low Beige",
+   "mpn": [
+    "1AARQH"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/aK4AAOSwAeVnupCD/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton LV"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Beige"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1AARQH"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "5065146120",
+   "title": "Size 12 - Louis Vuitton Skate Sneaker Green",
+   "mpn": [
+    "1AC520"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/iqYAAeSwSn9psPi0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Green"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "12"
+    ],
+    "Style Code": [
+     "1AC520"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "25070285827",
+   "title": "Size 11 - Louis Vuitton Skate Sneaker Blue",
+   "mpn": [
+    "1ABZ71"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "1ABZ71"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "25062685173",
+   "title": "Size 10 - Louis Vuitton Skate Sneaker Marine",
+   "mpn": [
+    "1AARRL"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DjwAAOSwBHln4A8n/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Style Code": [
+     "1AARRL"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27066011532",
+   "title": "Size 8 - Louis Vuitton Skate Sneaker Grey Black",
+   "mpn": [
+    "1AC52K"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "Color": [
+     "Gray"
+    ],
+    "US Shoe Size": [
+     "8"
+    ],
+    "Style Code": [
+     "1AC52K"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "10060824247",
+   "title": "Size 10.5 - Louis Vuitton LV Skate Low Beige",
+   "mpn": [
+    "1AARQH"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/aK4AAOSwAeVnupCD/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton LV"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Beige"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1AARQH"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "16062012650",
+   "title": "Size 9.5 - Louis Vuitton Skate Sneaker Black Swarovski Monogram",
+   "mpn": [
+    "1ABMHV"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Denim"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "9.5"
+    ],
+    "Style Code": [
+     "1ABMHV"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "28062027907",
+   "title": "Size 12 - Louis Vuitton Skate Sneaker Black Swarovski Monogram",
+   "mpn": [
+    "1ABMHV"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Denim"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "12"
+    ],
+    "Style Code": [
+     "1ABMHV"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "10060824113",
+   "title": "Size 7.5 - Louis Vuitton LV Skate Low Beige",
+   "mpn": [
+    "1AARQH"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/aK4AAOSwAeVnupCD/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton LV"
+    ],
+    "Color": [
+     "Beige"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "US Shoe Size": [
+     "7.5"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1AARQH"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "20062698238",
+   "title": "Size 8.5 - Louis Vuitton Skate Sneaker Marine",
+   "mpn": [
+    "1AARRL"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DjwAAOSwBHln4A8n/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "1AARRL"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26062028365",
+   "title": "Size 10.5 - Louis Vuitton Skate Sneaker Black Swarovski Monogram",
+   "mpn": [
+    "1ABMHV"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Denim"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Style Code": [
+     "1ABMHV"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17078783098",
+   "title": "Size 11 - Louis Vuitton Skate Sneaker Grey",
+   "mpn": [
+    "1ABZ5X"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/QXIAAeSwKd5ohXE0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Gray"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "1ABZ5X"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23062705990",
+   "title": "Size 7.5 - Louis Vuitton Skate Sneaker Marine",
+   "mpn": [
+    "1AARRL"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DjwAAOSwBHln4A8n/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "US Shoe Size": [
+     "7.5"
+    ],
+    "Style Code": [
+     "1AARRL"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "20060155421",
+   "title": "Size 10 - Louis Vuitton LV Skate Low Beige",
+   "mpn": [
+    "1AARQG"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/wqYAAOSwpTtnuo7W/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Louis Vuitton LV Skate"
+    ],
+    "Color": [
+     "Beige"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1AARQG"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Low Top"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "10061583059",
+   "title": "Size 8 - Louis Vuitton Skate Sneaker Beige",
+   "mpn": [
+    "1AARQS"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Brown"
+    ],
+    "US Shoe Size": [
+     "8"
+    ],
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "1AARQS"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "5065145943",
+   "title": "Size 8 - Louis Vuitton Skate Sneaker Green",
+   "mpn": [
+    "1AC520"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/iqYAAeSwSn9psPi0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Louis Vuitton Skate"
+    ],
+    "Model": [
+     "Louis Vuitton Skate"
+    ],
+    "Color": [
+     "Green"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "8"
+    ],
+    "Style Code": [
+     "1AC520"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Louis Vuitton"
+    ]
+   },
+   "match": false
+  }
  ]
 }
