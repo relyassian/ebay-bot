@@ -1,14 +1,5 @@
-📋 Daily eBay check · Sun Oct 4
+📋 Daily eBay check · Mon Oct 5
 
-What I did: put 9 listings back on sale.
-Nothing for you to do.
-{'photo': 'https://i.ebayimg.com/images/g/YWQAAeSwoAVpTqG5/s-l1600.jpg', 'text': "✅ BACK ON SALE\nGucci Ace Sneaker with Web Black/Navy/Red New\nSizes: all 3 sizes · you'd make $209–$344\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820204075354"}
-{'photo': 'https://i.ebayimg.com/images/g/bMYAAOSwnQVn4A8o/s-l1600.jpg', 'text': "✅ BACK ON SALE\nGucci Ace Sneaker with Web White/Green/Red New\nSizes: all 2 sizes · you'd make $218–$312\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820204075398"}
-{'photo': 'https://i.ebayimg.com/images/g/RaAAAeSwMrlpRenA/s-l1600.jpg', 'text': "✅ BACK ON SALE\nGucci x adidas Gazelle GG Monogram Sneaker…\nSizes: US 6.5 · you'd make $230\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820204075433"}
-{'photo': 'https://i.ebayimg.com/images/g/3IUAAOSwF2hnupBb/s-l1600.jpg', 'text': "✅ BACK ON SALE\nGucci x adidas Gazelle Suede Sneaker Light Blue…\nSizes: US 7.5 · you'd make $166\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820204075474"}
-{'photo': 'https://i.ebayimg.com/images/g/WXcAAeSwMTNqtwaN/s-l1600.jpg', 'text': "✅ BACK ON SALE\nGucci Horsebit Driver Loafer with Web…\nSizes: all 6 sizes · you'd make $166–$387\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820204075517"}
-{'photo': 'https://i.ebayimg.com/images/g/Fy0AAOSwgPdn4A-H/s-l1600.jpg', 'text': "✅ BACK ON SALE\nGucci Horsebit Driver Loafer Black New\nSizes: all 4 sizes · you'd make $253–$284\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820204075592"}
-{'photo': 'https://i.ebayimg.com/images/g/pW8AAeSw93hqtwZg/s-l1600.jpg', 'text': "✅ BACK ON SALE\nGucci Re-Web GG Canvas Sneaker White/Beige New\nSizes: US 9 · you'd make $340\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820204075633"}
-{'photo': 'https://i.ebayimg.com/images/g/zDkAAeSw9zdo4Ggy/s-l1600.jpg', 'text': "✅ BACK ON SALE\nGucci Rhyton Leather Sneaker Ivory New\nSizes: all 2 sizes · you'd make $215–$333\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820204075737"}
-Also changed:
-• Back On Sale: Gucci Screener GG Canvas Sneaker… (all 4 sizes) https://www.ebay.com/itm/820204075830
+I checked all 29 listings. Nothing needed changing.
+👉 You have 1 thing to answer (below).
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/6ZsAAOSwoFlluznC/$_57.PNG?set_id=8800005007', 'text': '👉 NEEDS YOUR OK (R21)\nGucci Ace GG Crystal Canvas Sneaker Black New · US 8\n\nRaise the price from $1048.99 to $1304.99?\nWhy: the cheapest store (GOAT new UK 7.5 = US 8 (browser read 2026-10-04); also 1 other store(s), next $1038.80, $895) went up, so at today\'s price you\'d make under $100. It\'s off sale until you answer.\n\nReply "yes R21" or "no R21" (or just tell me in your own words).\nhttps://www.ebay.com/itm/355429355271'}
