@@ -52,8 +52,8 @@ only. Read CLAUDE.md for the business rules before starting.
    Jordaan loafers, drivers, adidas x Gucci Gazelle), Prada, Balenciaga, Bottega Veneta, Alexander McQueen,
    Loewe, Ferragamo, D&G.
    NEVER (Rafael, Oct 4: nothing connected to idol worship): the brands and motifs in config.yaml `exclude`
-   (Dior, Hermès so far). Until Rafael answers about Louboutin, Versace, Nike, Saint Laurent and Valentino, don't
-   research those either. Find cheap ones from
+   (Dior, Hermès, Louboutin, Versace, Nike, Saint Laurent, Valentino; religious/mythological imagery). Don't
+   exclude any other brand yourself: if you think one should be, ask Rafael in the summary instead. Find cheap ones from
    stockx.com/search?s=<brand + model> ("Lowest Ask" vs. retail), then read every size (StockX + GOAT).
    net = price × (0.854 − ad rate) − (cost + 20) − (0.10 × cost if overseas with duties extra); no sales tax on shoes, belts or
    ties (they ship to NJ, which exempts clothing and footwear; Rafael's GOAT order confirmed no tax); cufflinks/jewelry add 6.625%;
