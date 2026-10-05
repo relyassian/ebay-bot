@@ -74,5 +74,9 @@
   "gucci-tennis-1977-high-beige": {
     "item_id": "820205329783",
     "status": "live"
+  },
+  "lv-skate-beige": {
+    "approved_by": "auto (Rafael's standing rule, Oct 5)",
+    "status": "approved"
   }
 }
