@@ -1,0 +1,14 @@
+[
+ {
+  "item_id": "820204075433",
+  "old_title": "Gucci x adidas Gazelle GG Monogram Sneaker Black Men's New",
+  "new_title": "Gucci x adidas Gazelle GG Monogram Sneaker Black Men's New (add US 6)",
+  "item_xml": "<Item><ItemID>820204075433</ItemID><Variations><VariationSpecificsSet><NameValueList><Name>US Shoe Size</Name><Value>6</Value><Value>6.5</Value></NameValueList></VariationSpecificsSet><Variation><SKU>820204075433-6</SKU><StartPrice>899.99</StartPrice><Quantity>1</Quantity><VariationSpecifics><NameValueList><Name>US Shoe Size</Name><Value>6</Value></NameValueList></VariationSpecifics></Variation></Variations></Item>"
+ },
+ {
+  "item_id": "820204075517",
+  "old_title": "Gucci Horsebit Driver Loafer with Web Black/Green/Red Men's New",
+  "new_title": "Gucci Horsebit Driver Loafer with Web Black/Green/Red Men's New (add US 8.5)",
+  "item_xml": "<Item><ItemID>820204075517</ItemID><Variations><VariationSpecificsSet><NameValueList><Name>US Shoe Size</Name><Value>6</Value><Value>7</Value><Value>8</Value><Value>8.5</Value><Value>11.5</Value><Value>12</Value><Value>12.5</Value></NameValueList></VariationSpecificsSet><Variation><SKU>820204075517-8.5</SKU><StartPrice>899.99</StartPrice><Quantity>1</Quantity><VariationSpecifics><NameValueList><Name>US Shoe Size</Name><Value>8.5</Value></NameValueList></VariationSpecifics></Variation></Variations></Item>"
+ }
+]

@@ -131,3 +131,29 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355429385763,15.5,1089.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-04T10:43:51Z
 355429385763,16.5,1196.00,GOAT new UK 16 = US 16.5 (browser read 2026-10-04),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-04T10:43:51Z
 356084785661,,246.48,"Cettire (page read 2026-10-04, Add to bag shown, duties included; code 775189CLNKGANST676145 Palladio)",https://www.cettire.com/products/salvatore-ferragamo-logo-engraved-cuff-links-922605775,false,1,2026-10-04T10:43:51Z
+820204075354,6.5,506.68,"StockX (ask $478 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-black-navy-red,false,1,2026-10-04T10:49:00Z
+820204075354,7.5,397.50,"StockX (ask $375 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-black-navy-red,false,1,2026-10-04T10:49:00Z
+820204075354,13,371.00,"StockX (ask $350 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-black-navy-red,false,1,2026-10-04T10:49:00Z
+820204075398,7,402.80,"StockX (ask $380 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-white-green-red,false,1,2026-10-04T10:49:00Z
+820204075398,12.5,497.14,"StockX (ask $469 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-ace-web-white-green-red,false,1,2026-10-04T10:49:00Z
+820204075433,6.5,446.26,"StockX US 6.5 (ask $421 + 6% fee, browser read 2026-10-05)",https://stockx.com/adidas-x-gucci-gazelle-black-gg-monogram,false,1,2026-10-05T01:08:36Z
+820204075474,7.5,510.92,"StockX (ask $482 + 6% fee, browser read 2026-10-04)",https://stockx.com/adidas-x-gucci-gazelle-blue,false,1,2026-10-04T10:49:00Z
+820204075517,6,289.38,"StockX UK 5.5 (ask $273 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075517,7,302.10,"StockX UK 6.5 (ask $285 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075517,8,507.74,"StockX UK 7.5 (ask $479 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075517,11.5,499.26,"StockX UK 11 (ask $471 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075517,12,510.92,"StockX UK 11.5 (ask $482 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075517,12.5,451.56,"StockX UK 12 (ask $426 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075592,6.5,509.86,"StockX UK 6 (ask $481 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075592,7,539.54,"StockX UK 6.5 (ask $509 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075592,7.5,508.80,"StockX UK 7 (ask $480 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075592,9,530.00,"StockX UK 8.5 (ask $500 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-horsebit-driver-loafers-black,false,1,2026-10-05T01:08:36Z
+820204075633,9,530.00,"StockX (ask $500 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-re-web-sneaker-gg-canvas-white-beige,false,1,2026-10-04T10:49:00Z
+820204075737,12.5,422.94,"StockX (ask $399 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-rhyton-distressed,false,1,2026-10-04T10:49:00Z
+820204075737,13.5,305.28,"StockX (ask $288 + 6% fee, browser read 2026-10-04)",https://stockx.com/gucci-rhyton-distressed,false,1,2026-10-04T10:49:00Z
+820204075830,7,422.94,"StockX UK 6.5 (ask $399 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T01:08:36Z
+820204075830,7.5,551.20,"StockX UK 7 (ask $520 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T01:08:36Z
+820204075830,8.5,576.64,"StockX UK 8 (ask $544 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T01:08:36Z
+820204075830,9,636.00,"StockX UK 8.5 (ask $600 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-screener-black-canvas,false,1,2026-10-05T01:08:36Z
+820204075433,6,550.14,"StockX US 6 (ask $519 + 6% fee, browser read 2026-10-05)",https://stockx.com/adidas-x-gucci-gazelle-black-gg-monogram,false,1,2026-10-05T01:08:50Z
+820204075517,8.5,550.14,"StockX UK 8 (ask $519 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,1,2026-10-05T01:08:50Z
