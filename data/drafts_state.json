@@ -1,4 +1,8 @@
 {
+  "gucci-ace-gg-embossed-black": {
+    "approved_by": "auto (Rafael's standing rule, Oct 5)",
+    "status": "approved"
+  },
   "gucci-ace-gg-supreme-bees": {
     "item_id": "820205329339",
     "status": "live"
@@ -26,6 +30,10 @@
   "gucci-driver-web-black": {
     "item_id": "820204075517",
     "status": "live"
+  },
+  "gucci-driver-web-brown": {
+    "reason": "needs photos (no eBay catalog photo found)",
+    "status": "blocked"
   },
   "gucci-horsebit-driver-black": {
     "item_id": "820204075592",
@@ -70,6 +78,10 @@
   "gucci-screener-black-gg": {
     "item_id": "820204075830",
     "status": "live"
+  },
+  "gucci-screener-gg-supreme-blue-red": {
+    "reason": "needs photos (no eBay catalog photo found)",
+    "status": "blocked"
   },
   "gucci-tennis-1977-high-beige": {
     "item_id": "820205329783",
