@@ -237,3 +237,8 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 820205329783,13.5,394.32,"StockX US M 13.5 (ask $372 + 6% fee, browser read 2026-10-05)",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,1,2026-10-05T10:57:00Z
 820205389034,6,1272.00,"StockX US M 6 (ask $1200 + 6% fee, browser read 2026-10-05)",https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white,false,1,2026-10-05T10:57:00Z
 820205389034,11,1219.00,"StockX US M 11 (ask $1150 + 6% fee, browser read 2026-10-05)",https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white,false,1,2026-10-05T10:57:00Z
+820205698211,11.5,554.38,"StockX (ask $523 + 6% fee, browser read 2026-10-05) UK 11",https://stockx.com/gucci-ace-black-gg,false,1,2026-10-05T11:19:24Z
+820205698211,13,424.00,"StockX (ask $400 + 6% fee, browser read 2026-10-05) UK 12.5",https://stockx.com/gucci-ace-black-gg,false,1,2026-10-05T11:19:24Z
+820205698211,13.5,444.14,"StockX (ask $419 + 6% fee, browser read 2026-10-05) UK 13",https://stockx.com/gucci-ace-black-gg,false,1,2026-10-05T11:19:24Z
+820205698211,14,499.26,"StockX (ask $471 + 6% fee, browser read 2026-10-05) UK 13.5",https://stockx.com/gucci-ace-black-gg,false,1,2026-10-05T11:19:24Z
+820205698211,15.5,583.00,"StockX (ask $550 + 6% fee, browser read 2026-10-05) UK 15",https://stockx.com/gucci-ace-black-gg,false,1,2026-10-05T11:19:24Z
