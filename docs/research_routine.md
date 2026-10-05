@@ -46,20 +46,27 @@ only. Read CLAUDE.md for the business rules before starting.
    Also add rows for sizes NOT on the listing yet when a store has them at a price that clears $100 at the
    listing's price: list them in the summary as "sizes to add" (Rafael approves; plans/pending/ holds the plan).
 
-## PART B — up to 5 NEW products to list (skip if time runs short)
-5. New luxury men's sneakers/loafers (brands in CLAUDE.md; D&G and Gucci Ace have been best) NOT already
-   listed, where the cheapest new source leaves ≥ $100 net at a realistic eBay price:
+## PART B — up to 8 NEW products to list (Rafael, Oct 4: we need more listings)
+5. New luxury men's sneakers/loafers NOT already listed (check data/candidates and data/drafts_state.json).
+   Rotate through brands so each day covers different ones: Gucci (Ace, Screener, Rhyton, Re-Web, Horsebit and
+   Jordaan loafers, drivers, adidas x Gucci Gazelle), Prada, Dior (B23/B27/B30), Louboutin, Saint Laurent,
+   Balenciaga, Bottega Veneta, Valentino, Alexander McQueen, Loewe, Ferragamo, D&G. Find cheap ones from
+   stockx.com/search?s=<brand + model> ("Lowest Ask" vs. retail), then read every size (StockX + GOAT).
    net = price × (0.854 − ad rate) − (cost + 20) − (0.10 × cost if overseas with duties extra); no sales tax on shoes, belts or
    ties (they ship to NJ, which exempts clothing and footwear; Rafael's GOAT order confirmed no tax); cufflinks/jewelry add 6.625%;
-   ad rate = config.yaml ads.rate if data/ads_state.json has a campaign_id, else 0. Prefer ≥ $250 net.
-   Price (Rafael, Oct 2): the price that clears $100 net is fine even if it's somewhat above what other eBay
-   sellers ask, but never above the brand's current US retail price. Note the eBay comps you saw.
-   Rule of thumb: with 8% ads, a shoe works only if the store price is about 40% or more below US retail.
-6. Photos: ONLY eBay catalog stock photos (ebay.com/p/<epid>, i.ebayimg.com URLs) or photos from Rafael's own
-   listings of the same style code. Never other sellers', retailers' or brands' photos. If none: photos: [].
+   ad rate = config.yaml ads.rate if data/ads_state.json has a campaign_id, else 0. Keep sizes with ≥ $100 net.
+   Price (Rafael, Oct 2 + Oct 4: "charge more"): start at about brand US retail + 10% (the bot drops unsold sizes
+   3% a week, never below $100 net, so a high start costs nothing). Note any eBay comps you could see.
+   Rule of thumb: with 8% ads and no tax, a shoe works when the store price is ~25–30% or more below US retail.
+   Sizes: use the brand's native size from StockX's size chart (UK for Gucci/Prada: Gucci US = UK + 0.5, Prada
+   US = UK + 1; EU for Dior/Louboutin/YSL/Balenciaga: US = EU − 33). Skip a size you can't map confidently.
+6. Photos FIRST (saves time): put the style codes in requests/catalog.txt, commit + push, wait ~2 minutes, pull,
+   and read data/catalog_results.json; only products with "match": true and images can be listed. Never other
+   sellers', retailers' or brands' photos. Products without catalog photos: list them in the commit message
+   under "needs photos" (Oct 4: Louboutin Loubishark 3210983H358, Louis Junior 3240420CM53, Prada 2DE127 had none).
 7. Write each as data/candidates/<short-id>.yaml in exactly the format at the top of bot/listing.py. Never
    reuse an id from data/candidates or data/drafts_state.json. Style codes are for matching only; the bot never
-   shows them on eBay.
+   shows them on eBay. category: sneaker or loafer (eBay needs Upper Material: take it from the catalog aspects).
 
 ## PART C — promo codes (always, ~5 minutes)
 8. Search Rafael's Gmail (last 21 days) for promo/discount emails from the stores he buys from (Cettire,
