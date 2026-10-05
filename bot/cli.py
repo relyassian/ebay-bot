@@ -197,8 +197,21 @@ def main(argv=None) -> int:
     if args.cmd == "sync":
         from bot.alerts import send
         from bot.sync import run
-        for m in run(args.live):
-            print(m); send(m)
+        msgs = run(args.live)
+        for m in msgs:
+            print(m)
+        # Rafael (Oct 5): one daily report, not one per run. Extra runs during the day (after research or
+        # setting changes) only message him when something actually changed or needs him.
+        from zoneinfo import ZoneInfo
+        today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
+        mark = ROOT / "data" / "last_report_date.txt"
+        first_today = not mark.exists() or mark.read_text().strip() != today
+        quiet = (not first_today and len(msgs) == 1 and "Nothing needed changing" in str(msgs[0])
+                 and "⚠️" not in str(msgs[0]))
+        if not quiet:
+            for m in msgs:
+                send(m)
+            mark.write_text(today + "\n")
         return 0
     if args.cmd == "sales":
         from bot.alerts import send

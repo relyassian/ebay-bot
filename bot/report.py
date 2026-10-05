@@ -53,7 +53,7 @@ WHY = {
     "lowered": ("📉 PRICE LOWERED 3%", "No sale in 7 days at the old price. It still makes you $100+, and it drops "
                                      "again next week if it doesn't sell (never below $100 profit)."),
 }
-MAX_CARDS = 8
+MAX_CARDS = 5
 
 
 def sync_report(live: bool, applied: list[str], groups: dict, raises: list[dict], checked: int) -> list:
