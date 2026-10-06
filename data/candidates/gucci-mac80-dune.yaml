@@ -1,0 +1,89 @@
+id: gucci-mac80-dune
+brand: Gucci
+model: MAC80 Sneaker
+colorway: Dune
+style_code: 778301 AAB79 9555
+category: sneaker
+color: Brown
+upper_material: Leather
+size_system: UK
+retail_price: 950
+price: 1044.99
+department: Men
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/29sAAeSwH8tpTqGX/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6.5'
+  native: UK 6
+  cost: 457.0
+  source: GOAT new UK 6 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-dune-778301-aab79-9555
+  overseas: false
+  in_stock_sources: 2
+- us: '7.5'
+  native: UK 7
+  cost: 594.0
+  source: GOAT new UK 7 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-dune-778301-aab79-9555
+  overseas: false
+  in_stock_sources: 2
+- us: '8'
+  native: UK 7.5
+  cost: 404.0
+  source: GOAT new UK 7.5 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-dune-778301-aab79-9555
+  overseas: false
+  in_stock_sources: 2
+- us: '8.5'
+  native: UK 8
+  cost: 446.0
+  source: GOAT new UK 8 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-dune-778301-aab79-9555
+  overseas: false
+  in_stock_sources: 2
+- us: '9'
+  native: UK 8.5
+  cost: 581.94
+  source: StockX US M 9 (ask $549 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-dune
+  overseas: false
+  in_stock_sources: 1
+- us: '10.5'
+  native: UK 10
+  cost: 670.0
+  source: GOAT new UK 10 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-dune-778301-aab79-9555
+  overseas: false
+  in_stock_sources: 2
+- us: '11'
+  native: UK 10.5
+  cost: 632.0
+  source: GOAT new UK 10.5 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-dune-778301-aab79-9555
+  overseas: false
+  in_stock_sources: 2
+- us: '11.5'
+  native: UK 11
+  cost: 581.0
+  source: GOAT new UK 11 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-dune-778301-aab79-9555
+  overseas: false
+  in_stock_sources: 2
+- us: '12'
+  native: UK 11.5
+  cost: 527.0
+  source: GOAT new UK 11.5 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-dune-778301-aab79-9555
+  overseas: false
+  in_stock_sources: 1
+- us: '12.5'
+  native: UK 12
+  cost: 528.94
+  source: StockX US M 12.5 (ask $499 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-dune
+  overseas: false
+  in_stock_sources: 1

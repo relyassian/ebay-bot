@@ -1,0 +1,81 @@
+id: gucci-mac80-off-white-green
+brand: Gucci
+model: MAC80 Sneaker
+colorway: Off-White/Green
+style_code: 749896 AAB79 9148
+category: sneaker
+color: White
+upper_material: Leather
+size_system: UK
+retail_price: 950
+price: 1044.99
+department: Men
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '6'
+  native: UK 5.5
+  cost: 583.0
+  source: StockX US M 6 (ask $550 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-green
+  overseas: false
+  in_stock_sources: 2
+- us: '7'
+  native: UK 6.5
+  cost: 623.28
+  source: StockX US M 7 (ask $588 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-green
+  overseas: false
+  in_stock_sources: 2
+- us: '8'
+  native: UK 7.5
+  cost: 425.0
+  source: GOAT new UK 7.5 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-off-white-green-749896-aab79-9148
+  overseas: false
+  in_stock_sources: 2
+- us: '8.5'
+  native: UK 8
+  cost: 496.0
+  source: GOAT new UK 8 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-off-white-green-749896-aab79-9148
+  overseas: false
+  in_stock_sources: 2
+- us: '10'
+  native: UK 9.5
+  cost: 481.24
+  source: StockX US M 10 (ask $454 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-green
+  overseas: false
+  in_stock_sources: 2
+- us: '10.5'
+  native: UK 10
+  cost: 481.24
+  source: StockX US M 10.5 (ask $454 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-green
+  overseas: false
+  in_stock_sources: 2
+- us: '11'
+  native: UK 10.5
+  cost: 412.34
+  source: StockX US M 11 (ask $389 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-green
+  overseas: false
+  in_stock_sources: 2
+- us: '12.5'
+  native: UK 12
+  cost: 406.0
+  source: GOAT new UK 12 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-off-white-green-749896-aab79-9148
+  overseas: false
+  in_stock_sources: 2
+- us: '13'
+  native: UK 12.5
+  cost: 654.02
+  source: StockX US M 13 (ask $617 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-green
+  overseas: false
+  in_stock_sources: 2

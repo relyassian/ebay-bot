@@ -1,0 +1,75 @@
+id: gucci-mac80-off-white-black
+brand: Gucci
+model: MAC80 Sneaker
+colorway: Off-White/Black
+style_code: 741656 AAB79 9151
+category: sneaker
+color: White
+upper_material: Leather
+size_system: UK
+retail_price: 950
+price: 1044.99
+department: Men
+discontinued_verified: false
+photos:
+- https://i.ebayimg.com/images/g/fgwAAeSw8nNpeVDu/s-l1600.jpg
+included:
+- Shoes
+- Original box
+sizes:
+- us: '8.5'
+  native: UK 8
+  cost: 530.0
+  source: StockX US M 8.5 (ask $500 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-black
+  overseas: false
+  in_stock_sources: 1
+- us: '10'
+  native: UK 9.5
+  cost: 659.0
+  source: GOAT new UK 9.5 (browser read 2026-10-06)
+  url: https://www.goat.com/sneakers/gucci-mac80-sneaker-off-white-black-741656-aab79-9151
+  overseas: false
+  in_stock_sources: 2
+- us: '11'
+  native: UK 10.5
+  cost: 591.48
+  source: StockX US M 11 (ask $558 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-black
+  overseas: false
+  in_stock_sources: 2
+- us: '11.5'
+  native: UK 11
+  cost: 351.92
+  source: StockX US M 11.5 (ask $332 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-black
+  overseas: false
+  in_stock_sources: 2
+- us: '12'
+  native: UK 11.5
+  cost: 358.28
+  source: StockX US M 12 (ask $338 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-black
+  overseas: false
+  in_stock_sources: 2
+- us: '12.5'
+  native: UK 12
+  cost: 364.64
+  source: StockX US M 12.5 (ask $344 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-black
+  overseas: false
+  in_stock_sources: 2
+- us: '13'
+  native: UK 12.5
+  cost: 464.28
+  source: StockX US M 13 (ask $438 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-black
+  overseas: false
+  in_stock_sources: 2
+- us: '13.5'
+  native: UK 13
+  cost: 501.38
+  source: StockX US M 13.5 (ask $473 + 6% fee, browser read 2026-10-06)
+  url: https://stockx.com/gucci-mac80-off-white-black
+  overseas: false
+  in_stock_sources: 2
