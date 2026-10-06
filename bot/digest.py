@@ -93,13 +93,16 @@ def build(token: str) -> str:
     prev = hist[max(older)] if older else {}
     cur = _stats(token)
     hist[today] = cur
-    STATS.write_text(json.dumps({k: hist[k] for k in sorted(hist)[-14:]}))
 
     on_sale = [i for i, v in cur.items() if v["live"]]
     watchers = sum(v["watchers"] for v in cur.values())
     dw = watchers - sum(v.get("watchers", 0) for v in prev.values()) if prev else None
     sign = lambda x: "" if x is None else f" ({'+' if x >= 0 else ''}{x})"
     views = _views(list(cur))
+    if views:                                   # keep per-listing views (yesterday / last 7 days) for later decisions
+        for i, v in cur.items():
+            v["views"], v["views_7d"] = views[0].get(i, 0), views[1].get(i, 0)
+    STATS.write_text(json.dumps({k: hist[k] for k in sorted(hist)[-14:]}))
     lines = [f"<b>☀️ Morning update · {now:%a %b %-d}</b>"]
     # sales since the last update
     sold = []
