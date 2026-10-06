@@ -1,53 +1,8 @@
-title 355066574768: "Salvatore Ferragamo Moccasin with Gancini Ornament Brown Men's Loafers New" -> "Salvatore Ferragamo Moccasin with Gancini Ornament Brown Men's Loafers Men's New"
-title 355420967506: "Gucci Horsebit Loafer with Web Black Leather Men's Loafers Authentic New" -> "Gucci Horsebit Loafer with Web Black Leather Men's Loafers Authentic Men's New"
-title 355422702908: "Dolce & Gabbana New Roma Sneakers Black Calfskin Nappa Men's Leather New" -> "Dolce & Gabbana New Roma Sneakers Black Calfskin Nappa Men's Leather Men's New"
-title 355423513413: "Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Men's Low Top Sneakers New" -> "Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Men's Low Top Sneakers Men's New"
-title 355426430327: "Dolce & Gabbana New Roma Sneakers White Calfskin Nappa Men's Leather New" -> "Dolce & Gabbana New Roma Sneakers White Calfskin Nappa Men's Leather Men's New"
-title 355426469262: "Gucci Ace GG Supreme Sneaker Black/Grey Men's Leather Low Top Sneakers New" -> "Gucci Ace GG Supreme Sneaker Black/Grey Men's Leather Low Top Sneakers Men's New"
-title 355428047951: "Gucci Ace Embroidered Bee Sneaker White Men's Leather Low Top Sneakers New" -> "Gucci Ace Embroidered Bee Sneaker White Men's Leather Low Top Sneakers Men's New"
-title 355428079713: "Gucci Ace Embroidered Bee Sneaker Black Men's Leather Low Top Sneakers New" -> "Gucci Ace Embroidered Bee Sneaker Black Men's Leather Low Top Sneakers Men's New"
-title 820204075474: "Gucci x adidas Gazelle Suede Sneaker Light Blue Men's Low Top Sneakers New" -> "Gucci x adidas Gazelle Suede Sneaker Light Blue Men's Low Top Sneakers Men's New"
-title 820204075737: "Gucci Rhyton Leather Sneaker Ivory Men's Low Top Sneakers Authentic New" -> "Gucci Rhyton Leather Sneaker Ivory Men's Low Top Sneakers Authentic Men's New"
-title 820205221528: "Gucci Interlocking G Driver Moccasin Brown Men's Leather Driving Shoes New" -> "Gucci Interlocking G Driver Moccasin Brown Men's Leather Driving Shoes Men's New"
-title 820205221563: "Gucci Interlocking G Driver Moccasin Washed Indigo Men's Driving Shoes New" -> "Gucci Interlocking G Driver Moccasin Washed Indigo Men's Driving Shoes Men's New"
-title 820205221755: "Gucci Noel Driver Loafer Black Men's Leather Driving Shoes Authentic New" -> "Gucci Noel Driver Loafer Black Men's Leather Driving Shoes Authentic Men's New"
-title 820205221855: "Gucci Re-Web GG Canvas Sneaker Black Men's Low Top Sneakers Authentic New" -> "Gucci Re-Web GG Canvas Sneaker Black Men's Low Top Sneakers Authentic Men's New"
-title 820205329595: "Gucci MAC80 Sneaker Off-White Men's Leather Low Top Sneakers Authentic New" -> "Gucci MAC80 Sneaker Off-White Men's Leather Low Top Sneakers Authentic Men's New"
-title 820207186196: "Balenciaga Runner Sneaker White Men's Mesh Low Top Sneakers Authentic New" -> "Balenciaga Runner Sneaker White Men's Mesh Low Top Sneakers Authentic Men's New"
-title 820207186222: "Gucci Ace GG Embossed - White Men's Leather Low Top Sneakers Authentic New" -> "Gucci Ace GG Embossed - White Men's Leather Low Top Sneakers Authentic Men's New"
-title 820207186253: "Gucci Basket Black Red Men's Demetra Low Top Sneakers Authentic New" -> "Gucci Basket Black Red Men's Demetra Low Top Sneakers Authentic Men's New"
-title 820207186287: "Gucci Basket Green Demetra Men's Low Top Sneakers Authentic New" -> "Gucci Basket Green Demetra Men's Low Top Sneakers Authentic Men's Authentic New"
-title 820207186315: "Gucci Basket Grey Yellow Blue Men's Demetra Low Top Sneakers Authentic New" -> "Gucci Basket Grey Yellow Blue Men's Demetra Low Top Sneakers Authentic Men's New"
-title 820207186346: "Gucci Basket High Black Demetra Men's High Top Sneakers Authentic New" -> "Gucci Basket High Black Demetra Men's High Top Sneakers Authentic Men's New"
-title 820207186379: "Gucci Basket High Green Demetra Men's High Top Sneakers Authentic New" -> "Gucci Basket High Green Demetra Men's High Top Sneakers Authentic Men's New"
-title 820207186442: "Gucci Basket High White Demetra Red Men's High Top Sneakers Authentic New" -> "Gucci Basket High White Demetra Red Men's High Top Sneakers Authentic Men's New"
-title 820207186465: "Gucci Basket Low White Demetra Green Men's Low Top Sneakers Authentic New" -> "Gucci Basket Low White Demetra Green Men's Low Top Sneakers Authentic Men's New"
-title 820207186489: "Gucci Basket Low White Demetra Red Men's Low Top Sneakers Authentic New" -> "Gucci Basket Low White Demetra Red Men's Low Top Sneakers Authentic Men's New"
-title 820207186525: "Gucci Basket Red Black Demetra Men's Low Top Sneakers Authentic New" -> "Gucci Basket Red Black Demetra Men's Low Top Sneakers Authentic Men's New"
-title 820207186594: "Gucci GG Screener Grey Navy Men's Suede Low Top Sneakers Authentic New" -> "Gucci GG Screener Grey Navy Men's Suede Low Top Sneakers Authentic Men's New"
-title 820207186704: "Gucci Rhyton White Red Green Reflective Men's Mesh Low Top Sneakers New" -> "Gucci Rhyton White Red Green Reflective Men's Mesh Low Top Sneakers Men's New"
-title 820207186744: "Gucci Run Sneaker Beige Ebony Monogram Men's Leather Low Top Sneakers New" -> "Gucci Run Sneaker Beige Ebony Monogram Men's Leather Low Top Sneakers Men's New"
-title 820207186774: "Gucci Run Sneaker Black Men's Knit Low Top Sneakers Authentic New" -> "Gucci Run Sneaker Black Men's Knit Low Top Sneakers Authentic Men's New"
-title 820207186802: "Gucci Run Sneaker White Black Men's Knit Low Top Sneakers Authentic New" -> "Gucci Run Sneaker White Black Men's Knit Low Top Sneakers Authentic Men's New"
-title 820207186833: "Gucci Run Sneaker White Suede Men's Low Top Sneakers Authentic New" -> "Gucci Run Sneaker White Suede Men's Low Top Sneakers Authentic Men's New"
-title 820207186853: "Gucci Screener GG Supreme - Black Grey Men's Leather Low Top Sneakers New" -> "Gucci Screener GG Supreme - Black Grey Men's Leather Low Top Sneakers Men's New"
-title 820207186878: "Gucci Tennis 1977 Black Ivory Men's Canvas Low Top Sneakers Authentic New" -> "Gucci Tennis 1977 Black Ivory Men's Canvas Low Top Sneakers Authentic Men's New"
-title 820207186919: "Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top Sneakers Authentic New" -> "Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top Sneakers Authentic Men's New"
-title 820207186962: "Gucci Tennis 1977 Low GG Monogram - Ebony Beige Men's Low Top Sneakers New" -> "Gucci Tennis 1977 Low GG Monogram - Ebony Beige Men's Low Top Sneakers Men's New"
 📋 Daily eBay check · Tue Oct 6
 
-What I did: took 2 listings (or some sizes) off sale because stores ran out; put 3 listings back on sale; raised the price a little on 7 listings because the store got pricier.
+What I did: raised the price a little on 4 listings because the store got pricier.
 Nothing for you to do.
-{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/8UkAAOSwo9VluJTu/$_57.PNG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Tennis 1977 Sneaker Beige/Ebony GG Canvas…\nSizes: US 12.5 · you'd make $160\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/355423513413"}
-{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/adEAAOSwcAllueDs/$_57.PNG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Ace GG Supreme Sneaker Black/Grey Leather…\nSizes: US 11.5 · you'd make $218\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/355426469262"}
-{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/~ZkAAOSwAVJlupTV/$_57.PNG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Ace Embroidered Bee Sneaker White Leather…\nSizes: US 5.5, 11.5, 15 · you'd make $121\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/355428047951"}
-{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/8UkAAOSwo9VluJTu/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Tennis 1977 Sneaker Beige/Ebony GG Canvas…\nSizes: US 5.5, 7, 11 · now from $1,047.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355423513413"}
-{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/adEAAOSwcAllueDs/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace GG Supreme Sneaker Black/Grey Leather…\nSizes: US 9 · now from $1,134.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355426469262"}
-Also changed:
-• Price Raised: Gucci Ace Embroidered Bee Sneaker White Leather… (US 7, 7.5, 8, 8.5, 9, 10.5, 11) https://www.ebay.com/itm/355428047951
-• Price Raised: Gucci Ace Sneaker with Web Black/Navy/Red Low… (US 7.5) https://www.ebay.com/itm/820204075354
-• Price Raised: Gucci Ace Sneaker with Web White/Green/Red Low… (US 12.5) https://www.ebay.com/itm/820204075398
-• Price Raised: Gucci Re-Web GG Canvas Sneaker White/Beige Low… (US 9) https://www.ebay.com/itm/820204075633
-• Price Raised: Gucci Rhyton Leather Sneaker Ivory Low Top… (US 12.5) https://www.ebay.com/itm/820204075737
-• Taken Off Sale: Gucci Basket Black Red Demetra Low Top Sneakers… (US 10) https://www.ebay.com/itm/820207186253
-• Taken Off Sale: Gucci Rhyton Maxi GG Supreme - Black Khaki… (US 8.5) https://www.ebay.com/itm/820207186667
+{'photo': 'https://i.ebayimg.com/images/g/YWQAAeSwoAVpTqG5/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web Black/Navy/Red Low…\nSizes: US 7.5 · now from $875.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075354"}
+{'photo': 'https://i.ebayimg.com/images/g/bMYAAOSwnQVn4A8o/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web White/Green/Red Low…\nSizes: US 12.5 · now from $788.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075398"}
+{'photo': 'https://i.ebayimg.com/images/g/pW8AAeSw93hqtwZg/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Re-Web GG Canvas Sneaker White/Beige Low…\nSizes: US 9 · now from $831.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075633"}
+{'photo': 'https://i.ebayimg.com/images/g/zDkAAeSw9zdo4Ggy/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Rhyton Leather Sneaker Ivory Low Top…\nSizes: US 12.5 · now from $694.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075737"}
