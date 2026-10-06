@@ -31,7 +31,8 @@ only. Read CLAUDE.md for the business rules before starting.
      the "BUY NEW" button, wait 3s, read "<size> | $<price>" pairs; Gucci sizes there are UK (US = UK + 0.5).
    - Cettire: find product URLs with a web search "site:cettire.com <brand> <model>" or browse
      cettire.com/collections/mens-shoes/<brand>, then open each product page and read price and sizes.
-   - Farfetch returned "Access Denied" even in the browser (Oct 2): note it and move on.
+   - Farfetch works in the built-in browser since Rafael signed in (Oct 5); Cettire and GOAT are signed in too.
+     Read prices/stock only. NEVER add to cart, check out, or change anything in those accounts.
 3. For every item and size, find the cheapest reputable NEW-with-box source with that exact size in stock
    (StockX, GOAT new, Farfetch, SSENSE, Mytheresa, END, Italist, Nugnes1920, Cettire, brand sites, Nordstrom,
    Neiman). Shopify stores (Italist, Nugnes1920, other boutiques) show per-size stock at /products/<handle>.js;
