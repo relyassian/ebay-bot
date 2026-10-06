@@ -48,6 +48,9 @@ only. Read CLAUDE.md for the business rules before starting.
    listing's price: list them in the summary as "sizes to add" (Rafael approves; plans/pending/ holds the plan).
 
 ## PART B — up to 8 NEW products to list (Rafael, Oct 4: we need more listings)
+SELLING LIMIT FIRST (Oct 6): read data/selling_limits.json. If AmountLimitRemaining is under $5,000, eBay will refuse
+new listings and new sizes (error 21919188), so SKIP Part B and don't propose "sizes to add"; spend the time on
+Part A (keeping live sizes fresh and getting the off-sale, most-watched legacy listings back on sale) instead.
 5. New luxury men's sneakers/loafers NOT already listed (check data/candidates and data/drafts_state.json).
    Rotate through brands so each day covers different ones: Gucci (Ace, Screener, Rhyton, Re-Web, Horsebit and
    Jordaan loafers, drivers, adidas x Gucci Gazelle), Prada, Balenciaga, Bottega Veneta, Alexander McQueen,
@@ -64,7 +67,8 @@ only. Read CLAUDE.md for the business rules before starting.
    net = price × (0.854 − ad rate) − (cost + 20) − (0.10 × cost if overseas with duties extra); no sales tax on shoes, belts or
    ties (they ship to NJ, which exempts clothing and footwear; Rafael's GOAT order confirmed no tax); cufflinks/jewelry add 6.625%;
    ad rate = config.yaml ads.rate if data/ads_state.json has a campaign_id, else 0. Keep sizes with ≥ $100 net.
-   Price (Rafael, Oct 2 + Oct 4: "charge more"): start at about brand US retail + 10% (the bot drops unsold sizes
+   Price (Rafael, Oct 5: list what is most likely to sell): about 3% under current US retail, but never so low that a
+   size makes under $100; the bot's weekly drops stop at 1.5× the minimum. (Old rule was retail + 10%) (the bot drops unsold sizes
    3% a week, never below $100 net, so a high start costs nothing). Note any eBay comps you could see.
    Rule of thumb: with 8% ads and no tax, a shoe works when the store price is ~25–30% or more below US retail.
    Sizes: use the brand's native size from StockX's size chart (UK for Gucci/Prada: Gucci US = UK + 0.5, Prada

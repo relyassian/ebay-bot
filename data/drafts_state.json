@@ -1,273 +1,251 @@
 {
-  "balenciaga-runner-sneaker-black-matte": {
-    "item_id": "820207186160",
-    "status": "live"
-  },
-  "balenciaga-runner-sneaker-white": {
-    "item_id": "820207186196",
-    "status": "live"
-  },
-  "ferragamo-lunar-paneled-slip-on-sneaker-medium-b": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "ferragamo-lunar-paneled-slip-on-sneaker-red": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "ferragamo-nima-knit-low-top-sneaker-blue": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "gucci-ace-gg-embossed-black": {
-    "item_id": "820205698211",
-    "status": "live"
-  },
-  "gucci-ace-gg-embossed-white": {
-    "item_id": "820207186222",
-    "status": "live"
-  },
-  "gucci-ace-gg-supreme-bees": {
-    "item_id": "820205329339",
-    "status": "live"
-  },
-  "gucci-ace-perforated-g-white": {
-    "item_id": "820205329431",
-    "status": "live"
-  },
-  "gucci-ace-web-black": {
-    "item_id": "820204075354",
-    "status": "live"
-  },
-  "gucci-ace-web-white": {
-    "item_id": "820204075398",
-    "status": "live"
-  },
-  "gucci-adidas-gazelle-black-gg": {
-    "item_id": "820204075433",
-    "status": "live"
-  },
-  "gucci-adidas-gazelle-light-blue": {
-    "item_id": "820204075474",
-    "status": "live"
-  },
-  "gucci-basket-black-red": {
-    "item_id": "820207186253",
-    "status": "live"
-  },
-  "gucci-basket-green-demetra": {
-    "item_id": "820207186287",
-    "status": "live"
-  },
-  "gucci-basket-grey-yellow-blue": {
-    "item_id": "820207186315",
-    "status": "live"
-  },
-  "gucci-basket-high-black-demetra": {
-    "item_id": "820207186346",
-    "status": "live"
-  },
-  "gucci-basket-high-green-demetra": {
-    "item_id": "820207186379",
-    "status": "live"
-  },
-  "gucci-basket-high-white-demetra-red": {
-    "item_id": "820207186442",
-    "status": "live"
-  },
-  "gucci-basket-low-white-demetra-green": {
-    "item_id": "820207186465",
-    "status": "live"
-  },
-  "gucci-basket-low-white-demetra-red": {
-    "item_id": "820207186489",
-    "status": "live"
-  },
-  "gucci-basket-red-black-demetra": {
-    "item_id": "820207186525",
-    "status": "live"
-  },
-  "gucci-driver-horsebit-black": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "gucci-driver-horsebit-green": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "gucci-driver-interlocking-g-green": {
-    "item_id": "820207186550",
-    "status": "live"
-  },
-  "gucci-driver-web-black": {
-    "item_id": "820204075517",
-    "status": "live"
-  },
-  "gucci-driver-web-brown": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "gucci-gg-screener-grey-navy": {
-    "item_id": "820207186594",
-    "status": "live"
-  },
-  "gucci-horsebit-driver-black": {
-    "item_id": "820204075592",
-    "status": "live"
-  },
-  "gucci-horsebit-loafer-black": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "gucci-interlocking-g-driver-brown": {
-    "item_id": "820205221528",
-    "status": "live"
-  },
-  "gucci-interlocking-g-driver-indigo": {
-    "item_id": "820205221563",
-    "status": "live"
-  },
-  "gucci-kaveh-loafer-web-black": {
-    "item_id": "820205221628",
-    "status": "live"
-  },
-  "gucci-loafer-interlocking-g-brown": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]",
-      "Warning 21920406: Authenticity Guarantee [Authenticity Guarantee, Authenticity Guarantee]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-mac80-black-offwhite": {
-    "item_id": "820205221669",
-    "status": "live"
-  },
-  "gucci-mac80-blue": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-mac80-dune": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-mac80-off-white": {
-    "item_id": "820205329595",
-    "status": "live"
-  },
-  "gucci-mac80-off-white-black": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-mac80-off-white-green": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "gucci-mac80-sneaker-white-blue": {
-    "item_id": "820207186615",
-    "status": "live"
-  },
-  "gucci-noel-driver-black": {
-    "item_id": "820205221755",
-    "status": "live"
-  },
-  "gucci-re-web-black-gg": {
-    "item_id": "820205221855",
-    "status": "live"
-  },
-  "gucci-re-web-leather-black": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-re-web-leather-white": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-re-web-white-beige": {
-    "item_id": "820204075633",
-    "status": "live"
-  },
-  "gucci-rhyton-interlocking-g-star": {
-    "item_id": "820207186641",
-    "status": "live"
-  },
-  "gucci-rhyton-ivory": {
-    "item_id": "820204075737",
-    "status": "live"
-  },
-  "gucci-rhyton-maxi-gg-supreme-black-khaki-beige": {
-    "item_id": "820207186667",
-    "status": "live"
-  },
-  "gucci-rhyton-white-red-green-reflective": {
-    "item_id": "820207186704",
-    "status": "live"
-  },
-  "gucci-run-light-grey-brown": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 7,028.07 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-run-sneaker-beige-ebony-monogram": {
-    "item_id": "820207186744",
-    "status": "live"
-  },
-  "gucci-run-sneaker-black": {
-    "item_id": "820207186774",
-    "status": "live"
-  },
-  "gucci-run-sneaker-white-black": {
-    "item_id": "820207186802",
-    "status": "live"
-  },
-  "gucci-run-sneaker-white-suede": {
-    "item_id": "820207186833",
-    "status": "live"
-  },
-  "gucci-screener-black-gg": {
-    "item_id": "820204075830",
-    "status": "live"
-  },
-  "gucci-screener-gg-supreme-black-grey": {
-    "item_id": "820207186853",
-    "status": "live"
-  },
-  "gucci-screener-gg-supreme-blue-red": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "gucci-tennis-1977-black-ivory": {
-    "item_id": "820207186878",
-    "status": "live"
-  },
-  "gucci-tennis-1977-blue-ivory": {
-    "item_id": "820207186919",
-    "status": "live"
-  },
-  "gucci-tennis-1977-high-beige": {
-    "item_id": "820205329783",
-    "status": "live"
-  },
-  "gucci-tennis-1977-low-gg-monogram-ebony-beige": {
-    "item_id": "820207186962",
-    "status": "live"
-  },
-  "gucci-tennis-1977-white-green-red": {
-    "reason": "needs photos (no eBay catalog photo found)",
-    "status": "blocked"
-  },
-  "lv-skate-beige": {
-    "item_id": "820205389034",
-    "status": "live"
-  }
+ "balenciaga-runner-sneaker-black-matte": {
+  "item_id": "820207186160",
+  "status": "live"
+ },
+ "balenciaga-runner-sneaker-white": {
+  "item_id": "820207186196",
+  "status": "live"
+ },
+ "ferragamo-lunar-paneled-slip-on-sneaker-medium-b": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "ferragamo-lunar-paneled-slip-on-sneaker-red": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "ferragamo-nima-knit-low-top-sneaker-blue": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "gucci-ace-gg-embossed-black": {
+  "item_id": "820205698211",
+  "status": "live"
+ },
+ "gucci-ace-gg-embossed-white": {
+  "item_id": "820207186222",
+  "status": "live"
+ },
+ "gucci-ace-gg-supreme-bees": {
+  "item_id": "820205329339",
+  "status": "live"
+ },
+ "gucci-ace-perforated-g-white": {
+  "item_id": "820205329431",
+  "status": "live"
+ },
+ "gucci-ace-web-black": {
+  "item_id": "820204075354",
+  "status": "live"
+ },
+ "gucci-ace-web-white": {
+  "item_id": "820204075398",
+  "status": "live"
+ },
+ "gucci-adidas-gazelle-black-gg": {
+  "item_id": "820204075433",
+  "status": "live"
+ },
+ "gucci-adidas-gazelle-light-blue": {
+  "item_id": "820204075474",
+  "status": "live"
+ },
+ "gucci-basket-black-red": {
+  "item_id": "820207186253",
+  "status": "live"
+ },
+ "gucci-basket-green-demetra": {
+  "item_id": "820207186287",
+  "status": "live"
+ },
+ "gucci-basket-grey-yellow-blue": {
+  "item_id": "820207186315",
+  "status": "live"
+ },
+ "gucci-basket-high-black-demetra": {
+  "item_id": "820207186346",
+  "status": "live"
+ },
+ "gucci-basket-high-green-demetra": {
+  "item_id": "820207186379",
+  "status": "live"
+ },
+ "gucci-basket-high-white-demetra-red": {
+  "item_id": "820207186442",
+  "status": "live"
+ },
+ "gucci-basket-low-white-demetra-green": {
+  "item_id": "820207186465",
+  "status": "live"
+ },
+ "gucci-basket-low-white-demetra-red": {
+  "item_id": "820207186489",
+  "status": "live"
+ },
+ "gucci-basket-red-black-demetra": {
+  "item_id": "820207186525",
+  "status": "live"
+ },
+ "gucci-driver-horsebit-black": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "gucci-driver-horsebit-green": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "gucci-driver-interlocking-g-green": {
+  "item_id": "820207186550",
+  "status": "live"
+ },
+ "gucci-driver-web-black": {
+  "item_id": "820204075517",
+  "status": "live"
+ },
+ "gucci-driver-web-brown": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "gucci-gg-screener-grey-navy": {
+  "item_id": "820207186594",
+  "status": "live"
+ },
+ "gucci-horsebit-driver-black": {
+  "item_id": "820204075592",
+  "status": "live"
+ },
+ "gucci-horsebit-loafer-black": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "gucci-interlocking-g-driver-brown": {
+  "item_id": "820205221528",
+  "status": "live"
+ },
+ "gucci-interlocking-g-driver-indigo": {
+  "item_id": "820205221563",
+  "status": "live"
+ },
+ "gucci-kaveh-loafer-web-black": {
+  "item_id": "820205221628",
+  "status": "live"
+ },
+ "gucci-loafer-interlocking-g-brown": {
+  "status": "waiting_limit"
+ },
+ "gucci-mac80-black-offwhite": {
+  "item_id": "820205221669",
+  "status": "live"
+ },
+ "gucci-mac80-blue": {
+  "status": "waiting_limit"
+ },
+ "gucci-mac80-dune": {
+  "status": "waiting_limit"
+ },
+ "gucci-mac80-off-white": {
+  "item_id": "820205329595",
+  "status": "live"
+ },
+ "gucci-mac80-off-white-black": {
+  "status": "waiting_limit"
+ },
+ "gucci-mac80-off-white-green": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "gucci-mac80-sneaker-white-blue": {
+  "item_id": "820207186615",
+  "status": "live"
+ },
+ "gucci-noel-driver-black": {
+  "item_id": "820205221755",
+  "status": "live"
+ },
+ "gucci-re-web-black-gg": {
+  "item_id": "820205221855",
+  "status": "live"
+ },
+ "gucci-re-web-leather-black": {
+  "status": "waiting_limit"
+ },
+ "gucci-re-web-leather-white": {
+  "status": "waiting_limit"
+ },
+ "gucci-re-web-white-beige": {
+  "item_id": "820204075633",
+  "status": "live"
+ },
+ "gucci-rhyton-interlocking-g-star": {
+  "item_id": "820207186641",
+  "status": "live"
+ },
+ "gucci-rhyton-ivory": {
+  "item_id": "820204075737",
+  "status": "live"
+ },
+ "gucci-rhyton-maxi-gg-supreme-black-khaki-beige": {
+  "item_id": "820207186667",
+  "status": "live"
+ },
+ "gucci-rhyton-white-red-green-reflective": {
+  "item_id": "820207186704",
+  "status": "live"
+ },
+ "gucci-run-light-grey-brown": {
+  "status": "waiting_limit"
+ },
+ "gucci-run-sneaker-beige-ebony-monogram": {
+  "item_id": "820207186744",
+  "status": "live"
+ },
+ "gucci-run-sneaker-black": {
+  "item_id": "820207186774",
+  "status": "live"
+ },
+ "gucci-run-sneaker-white-black": {
+  "item_id": "820207186802",
+  "status": "live"
+ },
+ "gucci-run-sneaker-white-suede": {
+  "item_id": "820207186833",
+  "status": "live"
+ },
+ "gucci-screener-black-gg": {
+  "item_id": "820204075830",
+  "status": "live"
+ },
+ "gucci-screener-gg-supreme-black-grey": {
+  "item_id": "820207186853",
+  "status": "live"
+ },
+ "gucci-screener-gg-supreme-blue-red": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "gucci-tennis-1977-black-ivory": {
+  "item_id": "820207186878",
+  "status": "live"
+ },
+ "gucci-tennis-1977-blue-ivory": {
+  "item_id": "820207186919",
+  "status": "live"
+ },
+ "gucci-tennis-1977-high-beige": {
+  "item_id": "820205329783",
+  "status": "live"
+ },
+ "gucci-tennis-1977-low-gg-monogram-ebony-beige": {
+  "item_id": "820207186962",
+  "status": "live"
+ },
+ "gucci-tennis-1977-white-green-red": {
+  "reason": "needs photos (no eBay catalog photo found)",
+  "status": "blocked"
+ },
+ "lv-skate-beige": {
+  "item_id": "820205389034",
+  "status": "live"
+ }
 }

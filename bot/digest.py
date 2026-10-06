@@ -131,13 +131,27 @@ def build(token: str) -> str:
         lines.append("Since yesterday: " + " · ".join(ch))
     DAYLOG.write_text("{}")
     needs = pop_all()
-    if needs:
+    # Rafael (Oct 6): only things he can actually act on go under "Needs you". Missing photos (he doesn't own the
+    # shoes) and eBay's selling limit are FYI, one short line each.
+    act = [n for n in needs if n["kind"] in ("approve", "problem")]
+    photos = [n for n in needs if n["kind"] == "photos"]
+    st = ROOT / "data" / "drafts_state.json"
+    waiting = sum(1 for v in (json.loads(st.read_text()).values() if st.exists() else [])
+                  if v.get("status") == "waiting_limit")
+    fyi = []
+    if waiting:
+        fyi.append(f"{waiting} new products ready but waiting for eBay selling-limit room (lists itself when room opens)")
+    if photos:
+        fyi.append(f"{len(photos)} profitable products skipped: no eBay stock photo")
+    if fyi:
+        lines.append("FYI: " + " · ".join(fyi))
+    if act:
         lines.append("")
         lines.append("<b>⚠️ Needs you:</b>")
-        icon = {"photos": "📷", "approve": "⏳", "problem": "⚠️"}
-        lines += [f"{icon.get(n['kind'], '•')} {escape(n['text'])}" for n in needs[:8]]
-        if len(needs) > 8:
-            lines.append(f"…and {len(needs) - 8} more")
+        icon = {"approve": "⏳", "problem": "⚠️"}
+        lines += [f"{icon.get(n['kind'], '•')} {escape(n['text'])}" for n in act[:6]]
+        if len(act) > 6:
+            lines.append(f"…and {len(act) - 6} more")
     else:
         lines.append("Nothing for you to do.")
     SENT.write_text(today + "\n")

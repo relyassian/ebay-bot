@@ -67,7 +67,7 @@ def drafts() -> list[str]:
     auto = load_config()["listing"].get("auto_publish")
     # with auto-publish on, drafts still waiting for Rafael are re-checked under his standing rule too
     todo = {k: c for k, c in load_candidates().items()
-            if k not in state or k.startswith("test-") or (auto and state[k].get("status") == "sent")}
+            if k not in state or k.startswith("test-") or (auto and state[k].get("status") in ("sent", "waiting_limit"))}
     if not todo:
         return out
     token = access_token()
@@ -87,6 +87,12 @@ def drafts() -> list[str]:
                 out.append(f"⏸ {cid}: not listed — {d.blocked_reason}.")
             continue
         ok, msgs = verify_add(build_add_xml(d, profiles, postal, SIZE_NAME.get(c["category"], "US Shoe Size")), token)
+        if not ok and any("exceed the amount" in m or "21919188" in m for m in msgs):
+            # eBay's monthly selling limit is full: not an error with the draft. Keep it and retry every run
+            # (room comes back when something sells or the limit resets on the 1st). One quiet note, not one each.
+            state[cid] = {"status": "waiting_limit"}
+            print(f"{cid}: waiting for eBay selling-limit room")
+            continue
         if not ok:
             state[cid] = {"status": "invalid", "errors": msgs[:5]}
             if cid.startswith("test-"):
