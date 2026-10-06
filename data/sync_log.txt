@@ -1,134 +1,53 @@
-title 355066574768: "Salvatore Ferragamo Moccasin with Gancini Ornament Brown Men's New" -> "Salvatore Ferragamo Moccasin with Gancini Ornament Brown Men's Loafers New"
-title 355420832785: "Salvatore Ferragamo Moccasin with Reversible Gancini Bit Black Men's New" -> "Salvatore Ferragamo Moccasin with Reversible Gancini Bit Black Men's Loafers New"
-title 355420948879: "Salvatore Ferragamo Moccasin with Painted Gancini Bit Black Men's New" -> "Salvatore Ferragamo Moccasin with Painted Gancini Bit Black Men's Loafers New"
-title 355420967506: "Gucci Horsebit Loafer with Web Black Leather Men's New" -> "Gucci Horsebit Loafer with Web Black Leather Men's Loafers Authentic New"
-title 355422689102: "Dolce & Gabbana Saint Tropez Sneakers Black Calfskin Men's New" -> "Dolce & Gabbana Saint Tropez Sneakers Black Calfskin Men's Leather Authentic New"
-title 355422702908: "Dolce & Gabbana New Roma Sneakers Black Calfskin Nappa Men's New" -> "Dolce & Gabbana New Roma Sneakers Black Calfskin Nappa Men's Leather New"
-title 355422763143: "Dolce & Gabbana Saint Tropez Sneakers White Calfskin Men's New" -> "Dolce & Gabbana Saint Tropez Sneakers White Calfskin Men's Leather Authentic New"
-title 355423513413: "Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Men's New" -> "Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Men's Low Top Sneakers New"
-title 355426430327: "Dolce & Gabbana New Roma Sneakers White Calfskin Nappa Men's New" -> "Dolce & Gabbana New Roma Sneakers White Calfskin Nappa Men's Leather New"
-title 355426469262: "Gucci Ace GG Supreme Sneaker Black/Grey Men's New" -> "Gucci Ace GG Supreme Sneaker Black/Grey Men's Leather Low Top Sneakers New"
-title 355428047951: "Gucci Ace Embroidered Bee Sneaker White Men's New" -> "Gucci Ace Embroidered Bee Sneaker White Men's Leather Low Top Sneakers New"
-title 355428079713: "Gucci Ace Embroidered Bee Sneaker Black Men's New" -> "Gucci Ace Embroidered Bee Sneaker Black Men's Leather Low Top Sneakers New"
-title 355429309757: "Gucci Ace GG Crystal Canvas Sneaker Blue Men's New" -> "Gucci Ace GG Crystal Canvas Sneaker Blue Men's Leather Low Top Sneakers New"
-title 355429340181: "Gucci Ace GG Crystal Canvas Sneaker Green Men's New" -> "Gucci Ace GG Crystal Canvas Sneaker Green Men's Leather Low Top Sneakers New"
-title 355429355271: "Gucci Ace GG Crystal Canvas Sneaker Black Men's New" -> "Gucci Ace GG Crystal Canvas Sneaker Black Men's Leather Low Top Sneakers New"
-title 355429385763: "Gucci Ace Sneaker with Web Beige/Ebony GG Supreme Men's New" -> "Gucci Ace Sneaker with Web Beige/Ebony GG Supreme Men's Low Top Sneakers New"
-title 820204075354: "Gucci Ace Sneaker with Web Black/Navy/Red Men's New" -> "Gucci Ace Sneaker with Web Black/Navy/Red Men's Low Top Sneakers Authentic New"
-title 820204075398: "Gucci Ace Sneaker with Web White/Green/Red Men's New" -> "Gucci Ace Sneaker with Web White/Green/Red Men's Low Top Sneakers Authentic New"
-title 820204075433: "Gucci x adidas Gazelle GG Monogram Sneaker Black Men's New" -> "Gucci x adidas Gazelle GG Monogram Sneaker Black Men's Low Top Sneakers New"
-title 820204075474: "Gucci x adidas Gazelle Suede Sneaker Light Blue Men's New" -> "Gucci x adidas Gazelle Suede Sneaker Light Blue Men's Low Top Sneakers New"
-title 820204075517: "Gucci Horsebit Driver Loafer with Web Black/Green/Red Men's New" -> "Gucci Horsebit Driver Loafer with Web Black/Green/Red Men's Driving Shoes New"
-title 820204075592: "Gucci Horsebit Driver Loafer Black Men's New" -> "Gucci Horsebit Driver Loafer Black Men's Leather Driving Shoes Authentic New"
-title 820204075633: "Gucci Re-Web GG Canvas Sneaker White/Beige Men's New" -> "Gucci Re-Web GG Canvas Sneaker White/Beige Men's Low Top Sneakers Authentic New"
-title 820204075737: "Gucci Rhyton Leather Sneaker Ivory Men's New" -> "Gucci Rhyton Leather Sneaker Ivory Men's Low Top Sneakers Authentic New"
-title 820204075830: "Gucci Screener GG Canvas Sneaker Black/Green/Red Men's New" -> "Gucci Screener GG Canvas Sneaker Black/Green/Red Men's Low Top Sneakers New"
-title 820205221528: "Gucci Interlocking G Driver Moccasin Brown Men's New" -> "Gucci Interlocking G Driver Moccasin Brown Men's Leather Driving Shoes New"
-title 820205221563: "Gucci Interlocking G Driver Moccasin Washed Indigo Men's New" -> "Gucci Interlocking G Driver Moccasin Washed Indigo Men's Driving Shoes New"
-title 820205221628: "Gucci Interlocking G Loafer with Web Black/Green/Red Men's New" -> "Gucci Interlocking G Loafer with Web Black/Green/Red Men's Leather Loafers New"
-title 820205221669: "Gucci MAC80 Sneaker Black/Off-White Men's New" -> "Gucci MAC80 Sneaker Black/Off-White Men's Leather Low Top Sneakers Authentic New"
-title 820205221755: "Gucci Noel Driver Loafer Black Men's New" -> "Gucci Noel Driver Loafer Black Men's Leather Driving Shoes Authentic New"
-title 820205221855: "Gucci Re-Web GG Canvas Sneaker Black Men's New" -> "Gucci Re-Web GG Canvas Sneaker Black Men's Low Top Sneakers Authentic New"
-title 820205329339: "Gucci Ace GG Supreme Bees Sneaker Beige/Ebony Men's New" -> "Gucci Ace GG Supreme Bees Sneaker Beige/Ebony Men's Canvas Low Top Sneakers New"
-title 820205329595: "Gucci MAC80 Sneaker Off-White Men's New" -> "Gucci MAC80 Sneaker Off-White Men's Leather Low Top Sneakers Authentic New"
-title 820205329783: "Gucci Tennis 1977 High-Top Sneaker Beige/Ebony GG Men's New" -> "Gucci Tennis 1977 High-Top Sneaker Beige/Ebony GG Men's Canvas Sneakers New"
-title 820205389034: "Louis Vuitton LV Skate Sneaker Beige/White Men's New" -> "Louis Vuitton LV Skate Sneaker Beige/White Men's Low Top Sneakers Authentic New"
-title 820205698211: "Gucci Ace GG Embossed Sneaker Black Men's New" -> "Gucci Ace GG Embossed Sneaker Black Men's Leather Low Top Sneakers Authentic New"
-title 820207186160: "Balenciaga Runner Sneaker Black Matte Men's New" -> "Balenciaga Runner Sneaker Black Matte Men's Mesh Low Top Sneakers Authentic New"
-title 820207186196: "Balenciaga Runner Sneaker White Men's New" -> "Balenciaga Runner Sneaker White Men's Mesh Low Top Sneakers Authentic New"
-title 820207186222: "Gucci Ace GG Embossed - White Men's New" -> "Gucci Ace GG Embossed - White Men's Leather Low Top Sneakers Authentic New"
-title 820207186253: "Gucci Basket Black Red Men's New" -> "Gucci Basket Black Red Men's Demetra Low Top Sneakers Authentic New"
-title 820207186287: "Gucci Basket Green Demetra Men's New" -> "Gucci Basket Green Demetra Men's Low Top Sneakers Authentic New"
-title 820207186315: "Gucci Basket Grey Yellow Blue Men's New" -> "Gucci Basket Grey Yellow Blue Men's Demetra Low Top Sneakers Authentic New"
-title 820207186346: "Gucci Basket High Black Demetra Men's New" -> "Gucci Basket High Black Demetra Men's High Top Sneakers Authentic New"
-title 820207186379: "Gucci Basket High Green Demetra Men's New" -> "Gucci Basket High Green Demetra Men's High Top Sneakers Authentic New"
-title 820207186442: "Gucci Basket High White Demetra Red Men's New" -> "Gucci Basket High White Demetra Red Men's High Top Sneakers Authentic New"
-title 820207186465: "Gucci Basket Low White Demetra Green Men's New" -> "Gucci Basket Low White Demetra Green Men's Low Top Sneakers Authentic New"
-title 820207186489: "Gucci Basket Low White Demetra Red Men's New" -> "Gucci Basket Low White Demetra Red Men's Low Top Sneakers Authentic New"
-title 820207186525: "Gucci Basket Red Black Demetra Men's New" -> "Gucci Basket Red Black Demetra Men's Low Top Sneakers Authentic New"
-title 820207186550: "Gucci Driver Interlocking G - Green Men's New" -> "Gucci Driver Interlocking G - Green Men's Leather Driving Shoes Authentic New"
-title 820207186594: "Gucci GG Screener Grey Navy Men's New" -> "Gucci GG Screener Grey Navy Men's Suede Low Top Sneakers Authentic New"
-title 820207186615: "Gucci MAC80 Sneaker White Blue Men's New" -> "Gucci MAC80 Sneaker White Blue Men's Leather Low Top Sneakers Authentic New"
-title 820207186641: "Gucci Rhyton Interlocking G Star Men's New" -> "Gucci Rhyton Interlocking G Star Men's Leather Low Top Sneakers Authentic New"
-title 820207186667: "Gucci Rhyton Maxi GG Supreme - Black Khaki Beige Men's New" -> "Gucci Rhyton Maxi GG Supreme - Black Khaki Beige Men's Low Top Sneakers New"
-title 820207186704: "Gucci Rhyton White Red Green Reflective Men's New" -> "Gucci Rhyton White Red Green Reflective Men's Mesh Low Top Sneakers New"
-title 820207186744: "Gucci Run Sneaker Beige Ebony Monogram Men's New" -> "Gucci Run Sneaker Beige Ebony Monogram Men's Leather Low Top Sneakers New"
-title 820207186774: "Gucci Run Sneaker Black Men's New" -> "Gucci Run Sneaker Black Men's Knit Low Top Sneakers Authentic New"
-title 820207186802: "Gucci Run Sneaker White Black Men's New" -> "Gucci Run Sneaker White Black Men's Knit Low Top Sneakers Authentic New"
-title 820207186833: "Gucci Run Sneaker White Suede Men's New" -> "Gucci Run Sneaker White Suede Men's Low Top Sneakers Authentic New"
-title 820207186853: "Gucci Screener GG Supreme - Black Grey Men's New" -> "Gucci Screener GG Supreme - Black Grey Men's Leather Low Top Sneakers New"
-title 820207186878: "Gucci Tennis 1977 Black Ivory Men's New" -> "Gucci Tennis 1977 Black Ivory Men's Canvas Low Top Sneakers Authentic New"
-title 820207186919: "Gucci Tennis 1977 Blue Ivory Men's New" -> "Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top Sneakers Authentic New"
-title 820207186962: "Gucci Tennis 1977 Low GG Monogram - Ebony Beige Men's New" -> "Gucci Tennis 1977 Low GG Monogram - Ebony Beige Men's Low Top Sneakers New"
-📋 Daily eBay check · Mon Oct 5
+title 355066574768: "Salvatore Ferragamo Moccasin with Gancini Ornament Brown Men's Loafers New" -> "Salvatore Ferragamo Moccasin with Gancini Ornament Brown Men's Loafers Men's New"
+title 355420967506: "Gucci Horsebit Loafer with Web Black Leather Men's Loafers Authentic New" -> "Gucci Horsebit Loafer with Web Black Leather Men's Loafers Authentic Men's New"
+title 355422702908: "Dolce & Gabbana New Roma Sneakers Black Calfskin Nappa Men's Leather New" -> "Dolce & Gabbana New Roma Sneakers Black Calfskin Nappa Men's Leather Men's New"
+title 355423513413: "Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Men's Low Top Sneakers New" -> "Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Men's Low Top Sneakers Men's New"
+title 355426430327: "Dolce & Gabbana New Roma Sneakers White Calfskin Nappa Men's Leather New" -> "Dolce & Gabbana New Roma Sneakers White Calfskin Nappa Men's Leather Men's New"
+title 355426469262: "Gucci Ace GG Supreme Sneaker Black/Grey Men's Leather Low Top Sneakers New" -> "Gucci Ace GG Supreme Sneaker Black/Grey Men's Leather Low Top Sneakers Men's New"
+title 355428047951: "Gucci Ace Embroidered Bee Sneaker White Men's Leather Low Top Sneakers New" -> "Gucci Ace Embroidered Bee Sneaker White Men's Leather Low Top Sneakers Men's New"
+title 355428079713: "Gucci Ace Embroidered Bee Sneaker Black Men's Leather Low Top Sneakers New" -> "Gucci Ace Embroidered Bee Sneaker Black Men's Leather Low Top Sneakers Men's New"
+title 820204075474: "Gucci x adidas Gazelle Suede Sneaker Light Blue Men's Low Top Sneakers New" -> "Gucci x adidas Gazelle Suede Sneaker Light Blue Men's Low Top Sneakers Men's New"
+title 820204075737: "Gucci Rhyton Leather Sneaker Ivory Men's Low Top Sneakers Authentic New" -> "Gucci Rhyton Leather Sneaker Ivory Men's Low Top Sneakers Authentic Men's New"
+title 820205221528: "Gucci Interlocking G Driver Moccasin Brown Men's Leather Driving Shoes New" -> "Gucci Interlocking G Driver Moccasin Brown Men's Leather Driving Shoes Men's New"
+title 820205221563: "Gucci Interlocking G Driver Moccasin Washed Indigo Men's Driving Shoes New" -> "Gucci Interlocking G Driver Moccasin Washed Indigo Men's Driving Shoes Men's New"
+title 820205221755: "Gucci Noel Driver Loafer Black Men's Leather Driving Shoes Authentic New" -> "Gucci Noel Driver Loafer Black Men's Leather Driving Shoes Authentic Men's New"
+title 820205221855: "Gucci Re-Web GG Canvas Sneaker Black Men's Low Top Sneakers Authentic New" -> "Gucci Re-Web GG Canvas Sneaker Black Men's Low Top Sneakers Authentic Men's New"
+title 820205329595: "Gucci MAC80 Sneaker Off-White Men's Leather Low Top Sneakers Authentic New" -> "Gucci MAC80 Sneaker Off-White Men's Leather Low Top Sneakers Authentic Men's New"
+title 820207186196: "Balenciaga Runner Sneaker White Men's Mesh Low Top Sneakers Authentic New" -> "Balenciaga Runner Sneaker White Men's Mesh Low Top Sneakers Authentic Men's New"
+title 820207186222: "Gucci Ace GG Embossed - White Men's Leather Low Top Sneakers Authentic New" -> "Gucci Ace GG Embossed - White Men's Leather Low Top Sneakers Authentic Men's New"
+title 820207186253: "Gucci Basket Black Red Men's Demetra Low Top Sneakers Authentic New" -> "Gucci Basket Black Red Men's Demetra Low Top Sneakers Authentic Men's New"
+title 820207186287: "Gucci Basket Green Demetra Men's Low Top Sneakers Authentic New" -> "Gucci Basket Green Demetra Men's Low Top Sneakers Authentic Men's Authentic New"
+title 820207186315: "Gucci Basket Grey Yellow Blue Men's Demetra Low Top Sneakers Authentic New" -> "Gucci Basket Grey Yellow Blue Men's Demetra Low Top Sneakers Authentic Men's New"
+title 820207186346: "Gucci Basket High Black Demetra Men's High Top Sneakers Authentic New" -> "Gucci Basket High Black Demetra Men's High Top Sneakers Authentic Men's New"
+title 820207186379: "Gucci Basket High Green Demetra Men's High Top Sneakers Authentic New" -> "Gucci Basket High Green Demetra Men's High Top Sneakers Authentic Men's New"
+title 820207186442: "Gucci Basket High White Demetra Red Men's High Top Sneakers Authentic New" -> "Gucci Basket High White Demetra Red Men's High Top Sneakers Authentic Men's New"
+title 820207186465: "Gucci Basket Low White Demetra Green Men's Low Top Sneakers Authentic New" -> "Gucci Basket Low White Demetra Green Men's Low Top Sneakers Authentic Men's New"
+title 820207186489: "Gucci Basket Low White Demetra Red Men's Low Top Sneakers Authentic New" -> "Gucci Basket Low White Demetra Red Men's Low Top Sneakers Authentic Men's New"
+title 820207186525: "Gucci Basket Red Black Demetra Men's Low Top Sneakers Authentic New" -> "Gucci Basket Red Black Demetra Men's Low Top Sneakers Authentic Men's New"
+title 820207186594: "Gucci GG Screener Grey Navy Men's Suede Low Top Sneakers Authentic New" -> "Gucci GG Screener Grey Navy Men's Suede Low Top Sneakers Authentic Men's New"
+title 820207186704: "Gucci Rhyton White Red Green Reflective Men's Mesh Low Top Sneakers New" -> "Gucci Rhyton White Red Green Reflective Men's Mesh Low Top Sneakers Men's New"
+title 820207186744: "Gucci Run Sneaker Beige Ebony Monogram Men's Leather Low Top Sneakers New" -> "Gucci Run Sneaker Beige Ebony Monogram Men's Leather Low Top Sneakers Men's New"
+title 820207186774: "Gucci Run Sneaker Black Men's Knit Low Top Sneakers Authentic New" -> "Gucci Run Sneaker Black Men's Knit Low Top Sneakers Authentic Men's New"
+title 820207186802: "Gucci Run Sneaker White Black Men's Knit Low Top Sneakers Authentic New" -> "Gucci Run Sneaker White Black Men's Knit Low Top Sneakers Authentic Men's New"
+title 820207186833: "Gucci Run Sneaker White Suede Men's Low Top Sneakers Authentic New" -> "Gucci Run Sneaker White Suede Men's Low Top Sneakers Authentic Men's New"
+title 820207186853: "Gucci Screener GG Supreme - Black Grey Men's Leather Low Top Sneakers New" -> "Gucci Screener GG Supreme - Black Grey Men's Leather Low Top Sneakers Men's New"
+title 820207186878: "Gucci Tennis 1977 Black Ivory Men's Canvas Low Top Sneakers Authentic New" -> "Gucci Tennis 1977 Black Ivory Men's Canvas Low Top Sneakers Authentic Men's New"
+title 820207186919: "Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top Sneakers Authentic New" -> "Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top Sneakers Authentic Men's New"
+title 820207186962: "Gucci Tennis 1977 Low GG Monogram - Ebony Beige Men's Low Top Sneakers New" -> "Gucci Tennis 1977 Low GG Monogram - Ebony Beige Men's Low Top Sneakers Men's New"
+📋 Daily eBay check · Tue Oct 6
 
-I checked all 67 listings. Nothing needed changing.
+What I did: took 2 listings (or some sizes) off sale because stores ran out; put 3 listings back on sale; raised the price a little on 7 listings because the store got pricier.
 Nothing for you to do.
-markdown 356084785661: 5% · Salvatore Ferragamo Logo Engraved Cufflinks
-markdown 355066429434: 0% · Salvatore Ferragamo Grandioso Moccasin with Gancini Ornament Black Men's New
-markdown 355066509978: 0% · Salvatore Ferragamo Rolo Moccasin with Reversible Gancini Bit Black Men's New
-markdown 355066574768: 0% · Salvatore Ferragamo Moccasin with Gancini Ornament Brown Men's Loafers New
-markdown 355420832785: 0% · Salvatore Ferragamo Moccasin with Reversible Gancini Bit Black Men's Loafers New
-markdown 355420948879: 0% · Salvatore Ferragamo Moccasin with Painted Gancini Bit Black Men's Loafers New
-markdown 355420967506: 0% · Gucci Horsebit Loafer with Web Black Leather Men's Loafers Authentic New
-markdown 355422678861: 0% · Dolce & Gabbana Portofino Vintage Sneakers Black Coated Jacquard Men's New
-markdown 355422689102: 0% · Dolce & Gabbana Saint Tropez Sneakers Black Calfskin Men's Leather Authentic New
-markdown 355422702908: 0% · Dolce & Gabbana New Roma Sneakers Black Calfskin Nappa Men's Leather New
-markdown 355422763143: 0% · Dolce & Gabbana Saint Tropez Sneakers White Calfskin Men's Leather Authentic New
-markdown 355423513413: 0% · Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Men's Low Top Sneakers New
-markdown 355426430327: 0% · Dolce & Gabbana New Roma Sneakers White Calfskin Nappa Men's Leather New
-markdown 355426469262: 0% · Gucci Ace GG Supreme Sneaker Black/Grey Men's Leather Low Top Sneakers New
-markdown 355428047951: 0% · Gucci Ace Embroidered Bee Sneaker White Men's Leather Low Top Sneakers New
-markdown 355428079713: 0% · Gucci Ace Embroidered Bee Sneaker Black Men's Leather Low Top Sneakers New
-markdown 355429309757: 0% · Gucci Ace GG Crystal Canvas Sneaker Blue Men's Leather Low Top Sneakers New
-markdown 355429340181: 0% · Gucci Ace GG Crystal Canvas Sneaker Green Men's Leather Low Top Sneakers New
-markdown 355429355271: 0% · Gucci Ace GG Crystal Canvas Sneaker Black Men's Leather Low Top Sneakers New
-markdown 355429385763: 0% · Gucci Ace Sneaker with Web Beige/Ebony GG Supreme Men's Low Top Sneakers New
-markdown 820204075354: 5% · Gucci Ace Sneaker with Web Black/Navy/Red Men's Low Top Sneakers Authentic New
-markdown 820204075398: 10% · Gucci Ace Sneaker with Web White/Green/Red Men's Low Top Sneakers Authentic New
-markdown 820204075433: 0% · Gucci x adidas Gazelle GG Monogram Sneaker Black Men's Low Top Sneakers New
-markdown 820204075474: 0% · Gucci x adidas Gazelle Suede Sneaker Light Blue Men's Low Top Sneakers New
-markdown 820204075517: 0% · Gucci Horsebit Driver Loafer with Web Black/Green/Red Men's Driving Shoes New
-markdown 820204075592: 10% · Gucci Horsebit Driver Loafer Black Men's Leather Driving Shoes Authentic New
-markdown 820204075633: 20% · Gucci Re-Web GG Canvas Sneaker White/Beige Men's Low Top Sneakers Authentic New
-markdown 820204075737: 10% · Gucci Rhyton Leather Sneaker Ivory Men's Low Top Sneakers Authentic New
-markdown 820204075830: 5% · Gucci Screener GG Canvas Sneaker Black/Green/Red Men's Low Top Sneakers New
-markdown 820205221528: 0% · Gucci Interlocking G Driver Moccasin Brown Men's Leather Driving Shoes New
-markdown 820205221563: 0% · Gucci Interlocking G Driver Moccasin Washed Indigo Men's Driving Shoes New
-markdown 820205221628: 5% · Gucci Interlocking G Loafer with Web Black/Green/Red Men's Leather Loafers New
-markdown 820205221669: 5% · Gucci MAC80 Sneaker Black/Off-White Men's Leather Low Top Sneakers Authentic New
-markdown 820205221755: 10% · Gucci Noel Driver Loafer Black Men's Leather Driving Shoes Authentic New
-markdown 820205221855: 20% · Gucci Re-Web GG Canvas Sneaker Black Men's Low Top Sneakers Authentic New
-markdown 820205329339: 0% · Gucci Ace GG Supreme Bees Sneaker Beige/Ebony Men's Canvas Low Top Sneakers New
-markdown 820205329431: 0% · Gucci Ace Sneaker with Perforated Interlocking G White Men's New
-markdown 820205329595: 5% · Gucci MAC80 Sneaker Off-White Men's Leather Low Top Sneakers Authentic New
-markdown 820205329783: 0% · Gucci Tennis 1977 High-Top Sneaker Beige/Ebony GG Men's Canvas Sneakers New
-markdown 820205389034: 0% · Louis Vuitton LV Skate Sneaker Beige/White Men's Low Top Sneakers Authentic New
-markdown 820205698211: 0% · Gucci Ace GG Embossed Sneaker Black Men's Leather Low Top Sneakers Authentic New
-markdown 820207186160: 0% · Balenciaga Runner Sneaker Black Matte Men's Mesh Low Top Sneakers Authentic New
-markdown 820207186196: 0% · Balenciaga Runner Sneaker White Men's Mesh Low Top Sneakers Authentic New
-markdown 820207186222: 0% · Gucci Ace GG Embossed - White Men's Leather Low Top Sneakers Authentic New
-markdown 820207186253: 0% · Gucci Basket Black Red Men's Demetra Low Top Sneakers Authentic New
-markdown 820207186287: 0% · Gucci Basket Green Demetra Men's Low Top Sneakers Authentic New
-markdown 820207186315: 0% · Gucci Basket Grey Yellow Blue Men's Demetra Low Top Sneakers Authentic New
-markdown 820207186346: 0% · Gucci Basket High Black Demetra Men's High Top Sneakers Authentic New
-markdown 820207186379: 0% · Gucci Basket High Green Demetra Men's High Top Sneakers Authentic New
-markdown 820207186442: 0% · Gucci Basket High White Demetra Red Men's High Top Sneakers Authentic New
-markdown 820207186465: 0% · Gucci Basket Low White Demetra Green Men's Low Top Sneakers Authentic New
-markdown 820207186489: 0% · Gucci Basket Low White Demetra Red Men's Low Top Sneakers Authentic New
-markdown 820207186525: 0% · Gucci Basket Red Black Demetra Men's Low Top Sneakers Authentic New
-markdown 820207186550: 0% · Gucci Driver Interlocking G - Green Men's Leather Driving Shoes Authentic New
-markdown 820207186594: 0% · Gucci GG Screener Grey Navy Men's Suede Low Top Sneakers Authentic New
-markdown 820207186615: 0% · Gucci MAC80 Sneaker White Blue Men's Leather Low Top Sneakers Authentic New
-markdown 820207186641: 0% · Gucci Rhyton Interlocking G Star Men's Leather Low Top Sneakers Authentic New
-markdown 820207186667: 0% · Gucci Rhyton Maxi GG Supreme - Black Khaki Beige Men's Low Top Sneakers New
-markdown 820207186704: 0% · Gucci Rhyton White Red Green Reflective Men's Mesh Low Top Sneakers New
-markdown 820207186744: 0% · Gucci Run Sneaker Beige Ebony Monogram Men's Leather Low Top Sneakers New
-markdown 820207186774: 0% · Gucci Run Sneaker Black Men's Knit Low Top Sneakers Authentic New
-markdown 820207186802: 0% · Gucci Run Sneaker White Black Men's Knit Low Top Sneakers Authentic New
-markdown 820207186833: 0% · Gucci Run Sneaker White Suede Men's Low Top Sneakers Authentic New
-markdown 820207186853: 0% · Gucci Screener GG Supreme - Black Grey Men's Leather Low Top Sneakers New
-markdown 820207186878: 0% · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top Sneakers Authentic New
-markdown 820207186919: 0% · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top Sneakers Authentic New
-markdown 820207186962: 0% · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Men's Low Top Sneakers New
-Started a 14-day eBay sale: 2 at 20% off, 4 at 10% off, 6 at 5% off
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/8UkAAOSwo9VluJTu/$_57.PNG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Tennis 1977 Sneaker Beige/Ebony GG Canvas…\nSizes: US 12.5 · you'd make $160\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/355423513413"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/adEAAOSwcAllueDs/$_57.PNG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Ace GG Supreme Sneaker Black/Grey Leather…\nSizes: US 11.5 · you'd make $218\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/355426469262"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/~ZkAAOSwAVJlupTV/$_57.PNG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Ace Embroidered Bee Sneaker White Leather…\nSizes: US 5.5, 11.5, 15 · you'd make $121\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/355428047951"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/8UkAAOSwo9VluJTu/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Tennis 1977 Sneaker Beige/Ebony GG Canvas…\nSizes: US 5.5, 7, 11 · now from $1,047.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355423513413"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/adEAAOSwcAllueDs/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace GG Supreme Sneaker Black/Grey Leather…\nSizes: US 9 · now from $1,134.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355426469262"}
+Also changed:
+• Price Raised: Gucci Ace Embroidered Bee Sneaker White Leather… (US 7, 7.5, 8, 8.5, 9, 10.5, 11) https://www.ebay.com/itm/355428047951
+• Price Raised: Gucci Ace Sneaker with Web Black/Navy/Red Low… (US 7.5) https://www.ebay.com/itm/820204075354
+• Price Raised: Gucci Ace Sneaker with Web White/Green/Red Low… (US 12.5) https://www.ebay.com/itm/820204075398
+• Price Raised: Gucci Re-Web GG Canvas Sneaker White/Beige Low… (US 9) https://www.ebay.com/itm/820204075633
+• Price Raised: Gucci Rhyton Leather Sneaker Ivory Low Top… (US 12.5) https://www.ebay.com/itm/820204075737
+• Taken Off Sale: Gucci Basket Black Red Demetra Low Top Sneakers… (US 10) https://www.ebay.com/itm/820207186253
+• Taken Off Sale: Gucci Rhyton Maxi GG Supreme - Black Khaki… (US 8.5) https://www.ebay.com/itm/820207186667
