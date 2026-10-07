@@ -55311,87 +55311,52 @@
  ],
  "2DE129 B4L F0002": [
   {
-   "epid": "27073427058",
-   "title": "2024 Panini Mosaic - De'Von Achane #135 Reactive Yellow Mosaic Prizm",
+   "epid": "22055867773",
+   "title": "2015 Bowman's Best - Best of 2015 Autographs Chase De Jong #B15-CD Atomic Refractor /50 (AU, RC)",
    "mpn": [],
    "gtin": [],
    "images": [
-    "https://i.ebayimg.com/images/g/MHkAAOSw129npika/s-l1600.jpg"
+    "https://i.ebayimg.com/images/g/2KMAAOSwsv5npijy/s-l1600.jpg"
    ],
    "aspects": {
-    "Sport": [
-     "Football"
-    ],
     "Parallel/Variety": [
-     "Reactive Yellow Mosaic Prizm"
+     "Atomic Refractor"
+    ],
+    "Sport": [
+     "Baseball"
+    ],
+    "Print Run": [
+     "50"
+    ],
+    "Insert Set": [
+     "Best of 2015 Autographs"
     ],
     "Card Number": [
-     "135"
-    ],
-    "Features": [
-     "Base Set",
-     "Parallel/Variety"
-    ],
-    "League": [
-     "National Football League (NFL)"
-    ],
-    "Manufacturer": [
-     "Panini"
-    ],
-    "Player/Athlete": [
-     "De'Von Achane"
-    ],
-    "Set": [
-     "2024 Panini Mosaic"
-    ],
-    "Team": [
-     "Miami Dolphins"
-    ],
-    "Season": [
-     "2024"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "26074789566",
-   "title": "2024-25 Panini Prizm Draft Picks - Jaylon Tyson #92 (RC)",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/hGEAAOSw3nRnubl0/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Sport": [
-     "Basketball"
-    ],
-    "Parallel/Variety": [
-     "[Base]"
-    ],
-    "Card Number": [
-     "92"
+     "B15-CD"
     ],
     "Features": [
      "Rookie",
-     "Base Set"
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
     ],
     "League": [
-     "National Collegiate Athletic Association (NCAA) Sb"
+     "Major League Baseball (MLB)"
     ],
     "Manufacturer": [
-     "Panini"
+     "Topps"
     ],
     "Player/Athlete": [
-     "Jaylon Tyson"
+     "Chase De Jong"
     ],
     "Set": [
-     "2024-25 Panini Prizm Draft Picks"
+     "2015 Bowman's Best"
     ],
     "Team": [
-     "California Golden Bears"
+     "Los Angeles Dodgers"
     ],
     "Season": [
-     "2024-25"
+     "2015"
     ]
    },
    "match": false
@@ -55451,6 +55416,117 @@
    "match": false
   },
   {
+   "epid": "26074789566",
+   "title": "2024-25 Panini Prizm Draft Picks - Jaylon Tyson #92 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/hGEAAOSw3nRnubl0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "92"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "National Collegiate Athletic Association (NCAA) Sb"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "Jaylon Tyson"
+    ],
+    "Set": [
+     "2024-25 Panini Prizm Draft Picks"
+    ],
+    "Team": [
+     "California Golden Bears"
+    ],
+    "Season": [
+     "2024-25"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27073427058",
+   "title": "2024 Panini Mosaic - De'Von Achane #135 Reactive Yellow Mosaic Prizm",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/MHkAAOSw129npika/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "Reactive Yellow Mosaic Prizm"
+    ],
+    "Card Number": [
+     "135"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "De'Von Achane"
+    ],
+    "Set": [
+     "2024 Panini Mosaic"
+    ],
+    "Team": [
+     "Miami Dolphins"
+    ],
+    "Season": [
+     "2024"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "1237443100",
+   "title": "Parker L7452440153B Solenoid Control Valve",
+   "mpn": [
+    "L7452440153B"
+   ],
+   "gtin": [
+    "9787452440158"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/XQgAAOSwSEtlJpw3/s-l960.jpg"
+   ],
+   "aspects": {
+    "Brand": [
+     "Parker"
+    ],
+    "MPN": [
+     "L7452440153B"
+    ],
+    "Valve Operation": [
+     "Air-Operated"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "14066392972",
    "title": "2023 Panini Illusions - Mystique De'Von Achane #9 (RC)",
    "mpn": [],
@@ -55492,164 +55568,6 @@
     ],
     "Season": [
      "2023"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "22055867773",
-   "title": "2015 Bowman's Best - Best of 2015 Autographs Chase De Jong #B15-CD Atomic Refractor /50 (AU, RC)",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/2KMAAOSwsv5npijy/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Parallel/Variety": [
-     "Atomic Refractor"
-    ],
-    "Sport": [
-     "Baseball"
-    ],
-    "Print Run": [
-     "50"
-    ],
-    "Insert Set": [
-     "Best of 2015 Autographs"
-    ],
-    "Card Number": [
-     "B15-CD"
-    ],
-    "Features": [
-     "Rookie",
-     "Insert",
-     "Serial Numbered",
-     "Parallel/Variety"
-    ],
-    "League": [
-     "Major League Baseball (MLB)"
-    ],
-    "Manufacturer": [
-     "Topps"
-    ],
-    "Player/Athlete": [
-     "Chase De Jong"
-    ],
-    "Set": [
-     "2015 Bowman's Best"
-    ],
-    "Team": [
-     "Los Angeles Dodgers"
-    ],
-    "Season": [
-     "2015"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "1237443100",
-   "title": "Parker L7452440153B Solenoid Control Valve",
-   "mpn": [
-    "L7452440153B"
-   ],
-   "gtin": [
-    "9787452440158"
-   ],
-   "images": [
-    "https://i.ebayimg.com/images/g/XQgAAOSwSEtlJpw3/s-l960.jpg"
-   ],
-   "aspects": {
-    "Brand": [
-     "Parker"
-    ],
-    "MPN": [
-     "L7452440153B"
-    ],
-    "Valve Operation": [
-     "Air-Operated"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "24058523672",
-   "title": "2022 Panini Mosaic - Justin Jefferson #129 Camo Pink Mosaic Prizm",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/iU4AAOSw9tNnpipy/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Sport": [
-     "Football"
-    ],
-    "Parallel/Variety": [
-     "Camo Pink Mosaic Prizm"
-    ],
-    "Card Number": [
-     "129"
-    ],
-    "Features": [
-     "Base Set",
-     "Parallel/Variety"
-    ],
-    "League": [
-     "National Football League (NFL)"
-    ],
-    "Manufacturer": [
-     "Panini"
-    ],
-    "Player/Athlete": [
-     "Justin Jefferson"
-    ],
-    "Set": [
-     "2022 Panini Mosaic"
-    ],
-    "Team": [
-     "Minnesota Vikings"
-    ],
-    "Season": [
-     "2022"
-    ]
-   },
-   "match": false
-  },
-  {
-   "epid": "25061289865",
-   "title": "1992 Waddingtons Super Top Trumps European Club Football - Olympique de Marseille #3B",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/iTAAAOSwdyVn2hK~/s-l1600.jpg"
-   ],
-   "aspects": {
-    "Sport": [
-     "Soccer"
-    ],
-    "Parallel/Variety": [
-     "[Base]"
-    ],
-    "Card Number": [
-     "3B"
-    ],
-    "Features": [
-     "Base Set"
-    ],
-    "League": [
-     "Ligue 1"
-    ],
-    "Manufacturer": [
-     "Waddingtons"
-    ],
-    "Set": [
-     "1992 Waddingtons Super Top Trumps European Club Football"
-    ],
-    "Team": [
-     "Olympique de Marseille"
-    ],
-    "Season": [
-     "1992"
     ]
    },
    "match": false
@@ -55700,6 +55618,88 @@
    "match": false
   },
   {
+   "epid": "25061289865",
+   "title": "1992 Waddingtons Super Top Trumps European Club Football - Olympique de Marseille #3B",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/iTAAAOSwdyVn2hK~/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Soccer"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "3B"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "Ligue 1"
+    ],
+    "Manufacturer": [
+     "Waddingtons"
+    ],
+    "Set": [
+     "1992 Waddingtons Super Top Trumps European Club Football"
+    ],
+    "Team": [
+     "Olympique de Marseille"
+    ],
+    "Season": [
+     "1992"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24058523672",
+   "title": "2022 Panini Mosaic - Justin Jefferson #129 Camo Pink Mosaic Prizm",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/iU4AAOSw9tNnpipy/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "Camo Pink Mosaic Prizm"
+    ],
+    "Card Number": [
+     "129"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "Justin Jefferson"
+    ],
+    "Set": [
+     "2022 Panini Mosaic"
+    ],
+    "Team": [
+     "Minnesota Vikings"
+    ],
+    "Season": [
+     "2022"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "18072428271",
    "title": "2023-24 Panini Nba Hoops Premium Stock - Jett Howard #129 Ice Prizm (RC)",
    "mpn": [],
@@ -55736,6 +55736,49 @@
     ],
     "Team": [
      "Orlando Magic"
+    ],
+    "Season": [
+     "2023-24"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "12073105375",
+   "title": "2023-24 Panini Mosaic - De'Anthony Melton #129 Green Mosaic Prizm",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/BEoAAOSwcqVnpjIE/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Basketball"
+    ],
+    "Parallel/Variety": [
+     "Green Mosaic Prizm"
+    ],
+    "Card Number": [
+     "129"
+    ],
+    "Features": [
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Basketball Association (NBA)"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "DeAnthony Melton"
+    ],
+    "Set": [
+     "2023-24 Panini Mosaic"
+    ],
+    "Team": [
+     "Philadelphia 76ers"
     ],
     "Season": [
      "2023-24"
@@ -55786,6 +55829,51 @@
    "match": false
   },
   {
+   "epid": "15084912941",
+   "title": "2025 Topps Chrome - All-Etch Elly De La Cruz #CAE-4",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/z9wAAeSwNiZos0pt/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "All-Etch"
+    ],
+    "Card Number": [
+     "CAE-4"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Elly De La Cruz"
+    ],
+    "Set": [
+     "2025 Topps Chrome"
+    ],
+    "Team": [
+     "Cincinnati Reds"
+    ],
+    "Season": [
+     "2025"
+    ]
+   },
+   "match": false
+  },
+  {
    "epid": "7075283438",
    "title": "2024-25 Panini Prizm - De'Andre Hunter #47 Pink Ice Prizm",
    "mpn": [],
@@ -55829,89 +55917,96 @@
    "match": false
   },
   {
-   "epid": "12073105375",
-   "title": "2023-24 Panini Mosaic - De'Anthony Melton #129 Green Mosaic Prizm",
-   "mpn": [],
-   "gtin": [],
+   "epid": "1053451999",
+   "title": "Canon EF 24-105mm F/4L IS USM Standard Zoom Lens",
+   "mpn": [
+    "0344B006"
+   ],
+   "gtin": [
+    "4960999272351",
+    "5052711713057"
+   ],
    "images": [
-    "https://i.ebayimg.com/images/g/BEoAAOSwcqVnpjIE/s-l1600.jpg"
+    "https://i.ebayimg.com/images/g/hhoAAOSwzZ9jWQzr/s-l640.jpg"
    ],
    "aspects": {
-    "Sport": [
-     "Basketball"
+    "Compatible Filter Size": [
+     "77 mm"
     ],
-    "Parallel/Variety": [
-     "Green Mosaic Prizm"
+    "Brand": [
+     "Canon"
     ],
-    "Card Number": [
-     "129"
+    "Focal Length": [
+     "24-105mm"
     ],
-    "Features": [
-     "Base Set",
-     "Parallel/Variety"
+    "MPN": [
+     "0344B006"
     ],
-    "League": [
-     "National Basketball Association (NBA)"
+    "Type": [
+     "Zoom lens",
+     "Standard",
+     "High Quality",
+     "Image Stabilization"
     ],
-    "Manufacturer": [
-     "Panini"
+    "Series": [
+     "Canon EF"
     ],
-    "Player/Athlete": [
-     "DeAnthony Melton"
+    "Compatible Brand": [
+     "For Canon"
     ],
-    "Set": [
-     "2023-24 Panini Mosaic"
+    "Focus Type": [
+     "Auto"
     ],
-    "Team": [
-     "Philadelphia 76ers"
+    "Mount": [
+     "Canon EF"
     ],
-    "Season": [
-     "2023-24"
+    "Maximum Aperture": [
+     "f/4"
     ]
    },
    "match": false
   },
   {
-   "epid": "15084912941",
-   "title": "2025 Topps Chrome - All-Etch Elly De La Cruz #CAE-4",
-   "mpn": [],
-   "gtin": [],
-   "images": [
-    "https://i.ebayimg.com/images/g/z9wAAeSwNiZos0pt/s-l1600.jpg"
+   "epid": "10072259963",
+   "title": "Size 17.5 - Prada Monolith Loafer Black W",
+   "mpn": [
+    "1D649MB4LF0002"
    ],
+   "gtin": [],
+   "images": [],
    "aspects": {
-    "Sport": [
-     "Baseball"
+    "Upper Material": [
+     "Leather"
     ],
-    "Parallel/Variety": [
-     "[Base]"
+    "Type": [
+     "Athletic"
     ],
-    "Insert Set": [
-     "All-Etch"
+    "Style": [
+     "Sneaker"
     ],
-    "Card Number": [
-     "CAE-4"
+    "Product Line": [
+     "Prada Monolith"
     ],
-    "Features": [
-     "Insert"
+    "Model": [
+     "Prada Monolith"
     ],
-    "League": [
-     "Major League Baseball (MLB)"
+    "Release Year": [
+     "2022"
     ],
-    "Manufacturer": [
-     "Topps"
+    "Color": [
+     "Black"
     ],
-    "Player/Athlete": [
-     "Elly De La Cruz"
+    "US Shoe Size": [
+     "17.5"
     ],
-    "Set": [
-     "2025 Topps Chrome"
+    "Style Code": [
+     "1D649M-B4L-F0002"
     ],
-    "Team": [
-     "Cincinnati Reds"
+    "Department": [
+     "Women"
     ],
-    "Season": [
-     "2025"
+    "Brand": [
+     "PRADA"
     ]
    },
    "match": false
@@ -56052,6 +56147,64 @@
     ],
     "Season": [
      "2003"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "1200477878",
+   "title": "Canon EF 70-300mm f/4-5.6 USM Lens",
+   "mpn": [
+    "4426B002",
+    "4426B005AA"
+   ],
+   "gtin": [
+    "0013803122251",
+    "4960999665023"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/Y9AAAOSw6DRirtut/s-l640.jpg"
+   ],
+   "aspects": {
+    "Item Height": [
+     "89 mm"
+    ],
+    "Compatible Filter Size": [
+     "67 mm"
+    ],
+    "Item Weight": [
+     "2.31lbs."
+    ],
+    "Brand": [
+     "Canon"
+    ],
+    "Focal Length": [
+     "70-300mm"
+    ],
+    "MPN": [
+     "4426B005AA",
+     "4426B002"
+    ],
+    "Type": [
+     "USM Lens"
+    ],
+    "Series": [
+     "Canon EF"
+    ],
+    "Model": [
+     "4426B005AA"
+    ],
+    "Compatible Brand": [
+     "For Canon"
+    ],
+    "Focus Type": [
+     "Auto"
+    ],
+    "Mount": [
+     "Canon EF"
+    ],
+    "Maximum Aperture": [
+     "f/4-5.6"
     ]
    },
    "match": false
@@ -69823,5 +69976,1751 @@
    },
    "match": false
   }
- ]
+ ],
+ "716017 AAA2I 9544": [
+  {
+   "epid": "10072257245",
+   "title": "Size 10.5 - Gucci Horsebit Loafer Ivory Merino Wool",
+   "mpn": [
+    "716017AAA2I9544"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Wool"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Ivory"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Style Code": [
+     "716017-AAA2I-9544"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "24055954945",
+   "title": "1990 CMC AAA/ProCards A & AA - Juan Bell #312",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/YO0AAOSwcHJnpjN2/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "312"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Juan Bell"
+    ],
+    "Set": [
+     "1990 CMC AAA/ProCards A & AA"
+    ],
+    "Team": [
+     "Rochester Red Wings"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "6055958631",
+   "title": "1991 Line Drive Pre-Rookie - AAA Scott Kamieniecki #109 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/SrYAAOSws5ZnpjVh/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "AAA"
+    ],
+    "Card Number": [
+     "109"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Impel Marketing, Inc."
+    ],
+    "Player/Athlete": [
+     "Scott Kamieniecki"
+    ],
+    "Set": [
+     "1991 Line Drive Pre-Rookie"
+    ],
+    "Team": [
+     "Columbus Clippers"
+    ],
+    "Season": [
+     "1991"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23055994381",
+   "title": "1990 CMC AAA/ProCards A & AA - Jose Mota #516 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/Lc8AAOSwWoxnpiJH/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "516"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Jose Mota"
+    ],
+    "Set": [
+     "1990 CMC AAA/ProCards A & AA"
+    ],
+    "Team": [
+     "Las Vegas Stars"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "20055859253",
+   "title": "1988 CMC AAA - Jim Wright #100",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/F~4AAOSwDn5npiyO/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "100"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Collectors Marketing Corp."
+    ],
+    "Player/Athlete": [
+     "Jim Wright"
+    ],
+    "Set": [
+     "1988 CMC AAA"
+    ],
+    "Team": [
+     "Iowa Cubs"
+    ],
+    "Season": [
+     "1988"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "3055896321",
+   "title": "1990 CMC AAA/ProCards A & AA - ProCards Tim Leiper #838 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ZC8AAOSwChZnpiIr/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "838"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Tim Leiper"
+    ],
+    "Set": [
+     "1990 CMC AAA/ProCards A & AA"
+    ],
+    "Team": [
+     "London Tigers"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17055942204",
+   "title": "1991 Line Drive Pre-Rookie - AAA Joe Price #464",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/m98AAOSwmpFnpjF1/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "AAA"
+    ],
+    "Card Number": [
+     "464"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Impel Marketing, Inc."
+    ],
+    "Player/Athlete": [
+     "Joe Price"
+    ],
+    "Set": [
+     "1991 Line Drive Pre-Rookie"
+    ],
+    "Team": [
+     "Rochester Red Wings"
+    ],
+    "Season": [
+     "1991"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "17055911536",
+   "title": "1990 CMC AAA/ProCards A & AA - Paul Blair #308",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/gBAAAOSw~o5npjRH/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "308"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Paul Blair"
+    ],
+    "Set": [
+     "1990 CMC AAA/ProCards A & AA"
+    ],
+    "Team": [
+     "Rochester Red Wings"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7055991934",
+   "title": "1990 CMC AAA/ProCards A & AA - Ronn Reynolds #515",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/KCcAAOSwHqxnpio0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "515"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Ronn Reynolds"
+    ],
+    "Set": [
+     "1990 CMC AAA/ProCards A & AA"
+    ],
+    "Team": [
+     "Las Vegas Stars"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "8055963325",
+   "title": "1990 CMC AAA/ProCards A & AA - Terry McGriff #129",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/TEMAAOSwRSxnpiy0/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "129"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Terry McGriff"
+    ],
+    "Set": [
+     "1990 CMC AAA/ProCards A & AA"
+    ],
+    "Team": [
+     "Nashville Sounds"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "15055922009",
+   "title": "1990 CMC AAA/ProCards A & AA - Ron Tingley #500",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/HJkAAOSwgSxnpi8b/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "500"
+    ],
+    "Features": [
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Ron Tingley"
+    ],
+    "Set": [
+     "1990 CMC AAA/ProCards A & AA"
+    ],
+    "Team": [
+     "Edmonton Trappers"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "11055988494",
+   "title": "1990 CMC AAA/ProCards A & AA - ProCards Al Pacheco #706 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/7KcAAOSwTJtnpiVf/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "706"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Al Pacheco"
+    ],
+    "Set": [
+     "1990 CMC AAA/ProCards A & AA"
+    ],
+    "Team": [
+     "Savannah Cardinals"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "28055889448",
+   "title": "1991 Line Drive Pre-Rookie - AAA John Vander Wal #197 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/grMAAOSwsv5npiLg/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "AAA"
+    ],
+    "Card Number": [
+     "197"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Impel Marketing, Inc."
+    ],
+    "Player/Athlete": [
+     "John Vander Wal"
+    ],
+    "Set": [
+     "1991 Line Drive Pre-Rookie"
+    ],
+    "Team": [
+     "Indianapolis Indians"
+    ],
+    "Season": [
+     "1991"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "12055932313",
+   "title": "1991 Line Drive Pre-Rookie - AAA Dan Gakeler #584 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/WUEAAOSwLPBnpjTF/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "AAA"
+    ],
+    "Card Number": [
+     "584"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Impel Marketing, Inc."
+    ],
+    "Player/Athlete": [
+     "Dan Gakeler"
+    ],
+    "Set": [
+     "1991 Line Drive Pre-Rookie"
+    ],
+    "Team": [
+     "Toledo Mud Hens"
+    ],
+    "Season": [
+     "1991"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27055937245",
+   "title": "1991 Line Drive Pre-Rookie - AAA Darrin Winston #198 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/r08AAOSwp~9npiv4/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "AAA"
+    ],
+    "Card Number": [
+     "198"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Impel Marketing, Inc."
+    ],
+    "Player/Athlete": [
+     "Darrin Winston"
+    ],
+    "Set": [
+     "1991 Line Drive Pre-Rookie"
+    ],
+    "Team": [
+     "Indianapolis Indians"
+    ],
+    "Season": [
+     "1991"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "11055982146",
+   "title": "1990 CMC AAA/ProCards A & AA - ProCards Brian Hunter #848 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/gVAAAOSwnf1npi81/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "848"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Brian Hunter"
+    ],
+    "Set": [
+     "1990 CMC AAA/ProCards A & AA"
+    ],
+    "Team": [
+     "Asheville Tourists"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26055999960",
+   "title": "1991 Line Drive Pre-Rookie - AAA Greg Biagini #474 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/tZgAAOSwOKJnpi1S/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "AAA"
+    ],
+    "Card Number": [
+     "474"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Impel Marketing, Inc."
+    ],
+    "Player/Athlete": [
+     "Greg Biagini"
+    ],
+    "Set": [
+     "1991 Line Drive Pre-Rookie"
+    ],
+    "Team": [
+     "Rochester Red Wings"
+    ],
+    "Season": [
+     "1991"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "10055992167",
+   "title": "1991 Line Drive Pre-Rookie - AAA Kevin Burrell #329 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/xIcAAOSwhdlnpiiv/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "AAA"
+    ],
+    "Card Number": [
+     "329"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "Impel Marketing, Inc."
+    ],
+    "Player/Athlete": [
+     "Kevin Burrell"
+    ],
+    "Set": [
+     "1991 Line Drive Pre-Rookie"
+    ],
+    "Team": [
+     "Omaha Royals"
+    ],
+    "Season": [
+     "1991"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "5089807516",
+   "title": "1990 CMC AAA - Albuquerque Dukes Green Back Glenn Hoffman #26",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/XNsAAeSwlvBpr~zv/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Albuquerque Dukes Green Back"
+    ],
+    "Card Number": [
+     "26"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "CMC"
+    ],
+    "Player/Athlete": [
+     "Glenn Hoffman"
+    ],
+    "Set": [
+     "1990 CMC AAA"
+    ],
+    "Team": [
+     "Albuquerque Dukes"
+    ],
+    "Season": [
+     "1990"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21056004949",
+   "title": "1992 SkyBox Pre-Rookie - AAA Packs Dan Peltier #146",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/uLoAAOSwXYFnpiRj/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "AAA Packs"
+    ],
+    "Card Number": [
+     "146"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "Minor League Baseball (MiLB)"
+    ],
+    "Manufacturer": [
+     "SkyBox"
+    ],
+    "Player/Athlete": [
+     "Dan Peltier"
+    ],
+    "Set": [
+     "1992 SkyBox Pre-Rookie"
+    ],
+    "Team": [
+     "Oklahoma City 89ers"
+    ],
+    "Season": [
+     "1992"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "776820 AACN6 1090": [
+  {
+   "epid": "9065327647",
+   "title": "Size 8 - Gucci MAC80 High Black Off White",
+   "mpn": [
+    "776820AACN61090"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/2HUAAeSwEGZo4Ggq/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "High Top"
+    ],
+    "Product Line": [
+     "Gucci Mac80"
+    ],
+    "Model": [
+     "Gucci MAC80"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "8"
+    ],
+    "Style Code": [
+     "776820-AACN6-1090"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  },
+  {
+   "epid": "16065326446",
+   "title": "Size 11 - Gucci MAC80 High Black Off White",
+   "mpn": [
+    "776820AACN61090"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/2HUAAeSwEGZo4Ggq/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "High Top"
+    ],
+    "Product Line": [
+     "Gucci Mac80"
+    ],
+    "Model": [
+     "Gucci MAC80"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "776820-AACN6-1090"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": true
+  }
+ ],
+ "683571 WHZ8N 1090": [],
+ "827556 V5JG1 9642": [
+  {
+   "epid": "15093813118",
+   "title": "2025 Leaf Optichrome - A Glimpse Into the Future Autographs Josuar Gonzalez #FA-JG1 Purple Lava /5 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Print Run": [
+     "5"
+    ],
+    "Parallel/Variety": [
+     "Purple Lava"
+    ],
+    "Insert Set": [
+     "A Glimpse Into the Future Autographs"
+    ],
+    "Card Number": [
+     "FA-JG1"
+    ],
+    "Features": [
+     "Serial Numbered",
+     "Parallel/Variety",
+     "Rookie",
+     "Insert"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Josuar Gonzalez"
+    ],
+    "Set": [
+     "2025 Leaf Optichrome"
+    ],
+    "Season": [
+     "2025"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21073426326",
+   "title": "2023 Leaf Eclectic - Valiant Jacob Gonzalez #V-JG1 Green Prismatic /5 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Green Prismatic"
+    ],
+    "Print Run": [
+     "5"
+    ],
+    "Insert Set": [
+     "Valiant"
+    ],
+    "Card Number": [
+     "V-JG1"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Jacob Gonzalez"
+    ],
+    "Set": [
+     "2023 Leaf Eclectic"
+    ],
+    "Season": [
+     "2023"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "14096443196",
+   "title": "2026 Leaf Baseball Nation - Autographs Josuar Gonzalez #BA-JG1 Silver Prismatic /25 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/jeoAAeSwXrdqtOpB/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Silver Prismatic"
+    ],
+    "Print Run": [
+     "25"
+    ],
+    "Insert Set": [
+     "Autographs"
+    ],
+    "Card Number": [
+     "BA-JG1"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Josuar Gonzalez"
+    ],
+    "Set": [
+     "2026 Leaf Baseball Nation"
+    ],
+    "Season": [
+     "2026"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "18098317021",
+   "title": "2026 Leaf Vivid - Autographs Josuar Gonzalez #BA-JG1 Green Lazer /10 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/mz4AAeSwi8tqueo7/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/p1sAAeSwUupqueos/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Green Lazer"
+    ],
+    "Print Run": [
+     "10"
+    ],
+    "Insert Set": [
+     "Autographs"
+    ],
+    "Card Number": [
+     "BA-JG1"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Josuar Gonzalez"
+    ],
+    "Set": [
+     "2026 Leaf Vivid"
+    ],
+    "Season": [
+     "2026"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "13093807378",
+   "title": "2025 Leaf Optichrome - Autographs John Gil #BA-JG2 Silver Crystals /10 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/uEwAAeSw40FquecY/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Gw0AAeSwy1Fqudvt/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Silver Crystals"
+    ],
+    "Print Run": [
+     "10"
+    ],
+    "Insert Set": [
+     "Autographs"
+    ],
+    "Card Number": [
+     "BA-JG2"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "John Gil"
+    ],
+    "Set": [
+     "2025 Leaf Optichrome"
+    ],
+    "Season": [
+     "2025"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "723694 DS800 1000": [
+  {
+   "epid": "1137793986",
+   "title": "Infinity REF1000S 10 inch 200W Car Subwoofer",
+   "mpn": [
+    "REF1000S"
+   ],
+   "gtin": [
+    "0050667368968"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/uGAAAOSwmFde4wOf/s-l640.jpg"
+   ],
+   "aspects": {
+    "Type": [
+     "Subwoofer"
+    ],
+    "Brand": [
+     "Infinity"
+    ],
+    "Model": [
+     "REF1000S"
+    ],
+    "MPN": [
+     "REF1000S"
+    ],
+    "Speaker Size": [
+     "10in."
+    ],
+    "Voice Coil": [
+     "Dual"
+    ],
+    "RMS Power": [
+     "200W"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "19065334820",
+   "title": "Size 9.5 - Gucci Lug Sole Loafer Black W",
+   "mpn": [
+    "577236DS8001000"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "9.5"
+    ],
+    "Style Code": [
+     "577236-DS800-1000"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "19065334860",
+   "title": "Size 12 - Gucci Lug Sole Loafer Black W",
+   "mpn": [
+    "577236DS8001000"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "12"
+    ],
+    "Style Code": [
+     "577236-DS800-1000"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "5072262091",
+   "title": "Size 8 - Gucci Loafer Interlocking G - Black",
+   "mpn": [
+    "752093DS8001000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/4UgAAeSwhmVo4Gij/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "8"
+    ],
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "752093-DS800-1000"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22065334892",
+   "title": "Size 4.5 - Gucci Lug Sole Loafer Black W",
+   "mpn": [
+    "577236DS8001000"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "4.5"
+    ],
+    "Style Code": [
+     "577236-DS800-1000"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26065341565",
+   "title": "Size 9 - Gucci Lug Sole Loafer Black W",
+   "mpn": [
+    "577236DS8001000"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Style Code": [
+     "577236-DS800-1000"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "14065324578",
+   "title": "Size 11.5 - Gucci Lug Sole Loafer Black W",
+   "mpn": [
+    "577236DS8001000"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "11.5"
+    ],
+    "Style Code": [
+     "577236-DS800-1000"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "26065341589",
+   "title": "Size 8.5 - Gucci Lug Sole Loafer Black W",
+   "mpn": [
+    "577236DS8001000"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "US Shoe Size": [
+     "8.5"
+    ],
+    "Style Code": [
+     "577236-DS800-1000"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "16072242991",
+   "title": "Size 10.5 - Gucci Loafer Interlocking G - Black",
+   "mpn": [
+    "752093DS8001000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/4UgAAeSwhmVo4Gij/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "752093-DS800-1000"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "5072250731",
+   "title": "Size 5.5 - Gucci Horsebit Loafer Black W",
+   "mpn": [
+    "764211DS8001000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ZQYAAeSwC05qtwZN/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Release Year": [
+     "2023"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "5.5"
+    ],
+    "Style Code": [
+     "764211-DS800-1000"
+    ],
+    "Department": [
+     "Women"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "20078148106",
+   "title": "Size 9 - Nike LD 1000 Laser Orange Stadium Green",
+   "mpn": [
+    "HJ4687800"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/fDEAAeSwbmxqtwbw/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Textile"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Product Line": [
+     "Nike LD"
+    ],
+    "Model": [
+     "Nike LD 1000"
+    ],
+    "Release Year": [
+     "2025"
+    ],
+    "Color": [
+     "Orange"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Style Code": [
+     "HJ4687-800"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Nike"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22072254390",
+   "title": "Size 7 - Gucci Loafer Interlocking G - Black",
+   "mpn": [
+    "752093DS8001000"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/4UgAAeSwhmVo4Gij/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Product Line": [
+     "Gucci Loafer"
+    ],
+    "Model": [
+     "Gucci Loafer"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "7"
+    ],
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "752093-DS800-1000"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Gucci"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "757604 AAB79 9154": []
 }
