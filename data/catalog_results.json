@@ -71722,5 +71722,1884 @@
    "match": false
   }
  ],
- "757604 AAB79 9154": []
+ "757604 AAB79 9154": [],
+ "CS2392A0218": [],
+ "BH00AYH1WF": [
+  {
+   "epid": "1939229173",
+   "title": "Siemens 6ES7 132-6BH00-0BA0 Digital PLC Processor Module",
+   "mpn": [
+    "6ES71326BH000BA0"
+   ],
+   "gtin": [
+    "4025515080787"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/ul8AAOSw1BJlJpop/s-l1600.jpg"
+   ],
+   "aspects": {
+    "MPN": [
+     "6ES7 132-6BH00-0BA0"
+    ],
+    "Brand": [
+     "Siemens"
+    ],
+    "Model": [
+     "6ES7 132-6BH00-0BA0"
+    ],
+    "Controller Platform": [
+     "PLC-2"
+    ],
+    "Type": [
+     "PLC Processor Module"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7064298564",
+   "title": "Siemens 6ES7526-1BH00-0AB0 Digital Input Module",
+   "mpn": [
+    "6ES75261BH000AB0"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/MVIAAOSwgrVlgBu4/s-l1200.png"
+   ],
+   "aspects": {
+    "MPN": [
+     "6ES7526-1BH00-0AB0"
+    ],
+    "Brand": [
+     "Siemens"
+    ],
+    "Model": [
+     "6ES7526-1BH00-0AB0"
+    ],
+    "Controller Platform": [
+     "Automate"
+    ],
+    "Type": [
+     "PLC Processor Module"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "588675158",
+   "title": "SIEMENS 6ES7521-1BH00-0AB0 Digital Input Module",
+   "mpn": [
+    "6ES75211BH000AB0"
+   ],
+   "gtin": [
+    "0887621139056"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/JzEAAOSw5b5jXlSg/s-l640.jpg"
+   ],
+   "aspects": {
+    "MPN": [
+     "6ES7521-1BH00-0AB0"
+    ],
+    "Brand": [
+     "Siemens"
+    ],
+    "Model": [
+     "Siemens Simatic 6ES7521-1BH00-0AB0"
+    ],
+    "Controller Platform": [
+     "S7/1500"
+    ],
+    "Type": [
+     "PLC Input Module"
+    ],
+    "Analog/Digital": [
+     "Digital"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "2329824333",
+   "title": "2011 Upper Deck All-Time Greats - Signatures Walt Frazier #AGS-WF2 Gold /1 (AU)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Parallel/Variety": [
+     "Gold"
+    ],
+    "Sport": [
+     "Basketball"
+    ],
+    "Print Run": [
+     "1"
+    ],
+    "Insert Set": [
+     "Signatures"
+    ],
+    "Card Number": [
+     "AGS-WF2"
+    ],
+    "Features": [
+     "Insert",
+     "Serial Numbered",
+     "One of One",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Collegiate Athletic Association (NCAA)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "Walt Frazier"
+    ],
+    "Set": [
+     "2011 Upper Deck All-Time Greats"
+    ],
+    "Team": [
+     "Southern Illinois Salukis"
+    ],
+    "Season": [
+     "2011"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "166851813",
+   "title": "Siemens 6ES73211BH000AA0 Industrial Control System",
+   "mpn": [
+    "6ES73211BH000AA0"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6ES73211BH000AA0"
+    ],
+    "Brand": [
+     "Siemens"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24056059953",
+   "title": "2003 NetPro - Serena Williams #1 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/3lIAAOSwl~doALbg/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Tennis"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "1"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "Manufacturer": [
+     "The NetPro Trading Card Company"
+    ],
+    "Player/Athlete": [
+     "Serena Williams"
+    ],
+    "Set": [
+     "2003 NetPro"
+    ],
+    "Season": [
+     "2003"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "140971901",
+   "title": "Siemens 6ES7-141-6BH00-0AB0 Input Module",
+   "mpn": [
+    "6ES71416BH000AB0"
+   ],
+   "gtin": [
+    "0662643400809"
+   ],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6ES7-141-6BH00-0AB0"
+    ],
+    "Brand": [
+     "Siemens"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "166781074",
+   "title": "Siemens 6ES71433BH000XA0 Industrial Control System",
+   "mpn": [
+    "6ES71433BH000XA0"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6ES71433BH000XA0"
+    ],
+    "Brand": [
+     "Siemens"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "166852993",
+   "title": "Siemens 6SL3352-6BH00-0AA1 Power Supply Module",
+   "mpn": [
+    "6SL33526BH000AA1"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6SL3352-6BH00-0AA1"
+    ],
+    "Brand": [
+     "Siemens"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "2344164388",
+   "title": "2024 Leaf Metal - Top 100 Brady House #T-BH1 Silver Prismatic /35 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Silver Prismatic"
+    ],
+    "Print Run": [
+     "35"
+    ],
+    "Insert Set": [
+     "Top 100"
+    ],
+    "Card Number": [
+     "T-BH1"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Brady House"
+    ],
+    "Set": [
+     "2024 Leaf Metal"
+    ],
+    "Season": [
+     "2024"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "28089840853",
+   "title": "1999-00 Upper Deck MVP - Prosign Brett Hull #BH (AU)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/a6oAAeSwiPdpxoSM/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Insert Set": [
+     "Prosign"
+    ],
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "BH"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "Brett Hull"
+    ],
+    "Set": [
+     "1999-00 Upper Deck MVP"
+    ],
+    "Team": [
+     "Dallas Stars"
+    ],
+    "Season": [
+     "1999-00"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "166804532",
+   "title": "Siemens 6ES73231BH000AA0 I/O Module",
+   "mpn": [
+    "6ES73231BH000AA0"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6ES73231BH000AA0"
+    ],
+    "Brand": [
+     "Siemens"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "1167508521",
+   "title": "Siemens 6ES7131-6BH00-0BA0 Digital Input Module",
+   "mpn": [
+    "6ES71316BH000BA0"
+   ],
+   "gtin": [
+    "4025515080763"
+   ],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6ES7131-6BH00-0BA0"
+    ],
+    "Brand": [
+     "Siemens"
+    ],
+    "Model": [
+     "6ES7131-6BH00-0BA0"
+    ],
+    "Controller Platform": [
+     "S7/200"
+    ],
+    "Type": [
+     "Digital Input Module"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "166826287",
+   "title": "Siemens 6ES7 141-3BH00-0XA0 Industrial Control System",
+   "mpn": [
+    "6ES71413BH000XA0"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6ES7 141-3BH00-0XA0"
+    ],
+    "Brand": [
+     "Siemens"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "21055901989",
+   "title": "2020 Leaf Metal Draft - Ben Hernandez #BA-BH1 Orange Mojo /2 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/vjoAAOSwF3dnpjNS/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Print Run": [
+     "2"
+    ],
+    "Parallel/Variety": [
+     "Orange Mojo"
+    ],
+    "Card Number": [
+     "BA-BH1"
+    ],
+    "Features": [
+     "Rookie",
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Ben Hernandez"
+    ],
+    "Set": [
+     "2020 Leaf Metal Draft"
+    ],
+    "Season": [
+     "2020"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "4056058673",
+   "title": "2003 NetPro International Series - Serena Williams #2 (RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ZQ0AAOSwvM5npiPu/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Tennis"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "2"
+    ],
+    "Features": [
+     "Rookie",
+     "Base Set"
+    ],
+    "Manufacturer": [
+     "The NetPro Trading Card Company"
+    ],
+    "Player/Athlete": [
+     "Serena Williams"
+    ],
+    "Set": [
+     "2003 NetPro International Series"
+    ],
+    "Season": [
+     "2003"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "166806646",
+   "title": "Siemens 6ES7 132-1BH00-0XB0 Digital Output Module",
+   "mpn": [
+    "6ES71321BH000XB0"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6ES7 132-1BH00-0XB0"
+    ],
+    "Brand": [
+     "Siemens"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "166795345",
+   "title": "Siemens 6ES7 142-3BH00-0XA0 PLC",
+   "mpn": [
+    "6ES71423BH000XA0"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6ES7 142-3BH00-0XA0"
+    ],
+    "Brand": [
+     "Siemens"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "19089754916",
+   "title": "2024-25 Upper Deck Extended Series - Beehive Tage Thompson #BH-3",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/B3gAAeSwtqRpr~vP/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Beehive"
+    ],
+    "Card Number": [
+     "BH-3"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "Tage Thompson"
+    ],
+    "Set": [
+     "2024-25 Upper Deck Extended Series"
+    ],
+    "Team": [
+     "Buffalo Sabres"
+    ],
+    "Season": [
+     "2024-25"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "25055890761",
+   "title": "2020 Leaf Metal Draft - Ben Hernandez #BA-BH1 Purple Mojo /7 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/WSUAAOSwmyNnpikK/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Print Run": [
+     "7"
+    ],
+    "Parallel/Variety": [
+     "Purple Mojo"
+    ],
+    "Card Number": [
+     "BA-BH1"
+    ],
+    "Features": [
+     "Rookie",
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Ben Hernandez"
+    ],
+    "Set": [
+     "2020 Leaf Metal Draft"
+    ],
+    "Season": [
+     "2020"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "BH1047H1XA": [
+  {
+   "epid": "1487127114",
+   "title": "Wilton B.A.S.H 6.5 inch Utility Vise and 4 lb Hammer - WIL11128BH",
+   "mpn": [
+    "11128BH"
+   ],
+   "gtin": [
+    "0731325376043"
+   ],
+   "images": [
+    "https://i.ebayimg.com/images/g/7UsAAOSw~qVeqvlU/s-l640.jpg"
+   ],
+   "aspects": {
+    "MPN": [
+     "11128BH"
+    ],
+    "Brand": [
+     "Wilton"
+    ],
+    "Model": [
+     "B.A.S.H"
+    ],
+    "Type": [
+     "Utility Hammer"
+    ],
+    "Handle Size": [
+     "12 in"
+    ],
+    "Head/Face Material": [
+     "Steel"
+    ],
+    "Number of Pieces": [
+     "1"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "27089804602",
+   "title": "1999 Playoff Absolute SSD - Boss Hogs Vinny Testaverde #BH5 (AU)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/hZAAAeSwwXdpsAME/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Insert Set": [
+     "Boss Hogs"
+    ],
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "BH5"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "National Football League (NFL)"
+    ],
+    "Manufacturer": [
+     "Playoff"
+    ],
+    "Player/Athlete": [
+     "Vinny Testaverde"
+    ],
+    "Set": [
+     "1999 Playoff Absolute SSD"
+    ],
+    "Team": [
+     "New York Jets"
+    ],
+    "Season": [
+     "1999"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "23089784745",
+   "title": "2022-23 Upper Deck Credentials - Bubble Hockey Jack Eichel #BH-JE",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/gTwAAeSwq0tpr~1w/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Bubble Hockey"
+    ],
+    "Card Number": [
+     "BH-JE"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "Jack Eichel"
+    ],
+    "Set": [
+     "2022-23 Upper Deck Credentials"
+    ],
+    "Team": [
+     "Vegas Golden Knights"
+    ],
+    "Season": [
+     "2022-23"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "12079053215",
+   "title": "2025 Panini Stars and Stripes - 16u/17u National Team Signatures Materials Brayden Harris #NTS-BH (AU, MEM, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/eRUAAOSwE5poJ4iz/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "16u/17u National Team Signatures Materials"
+    ],
+    "Card Number": [
+     "NTS-BH"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Memorabilia"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "Brayden Harris"
+    ],
+    "Set": [
+     "2025 Panini Stars and Stripes"
+    ],
+    "Team": [
+     "United States Baseball National Team Development Program"
+    ],
+    "Season": [
+     "2025"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "8093815053",
+   "title": "2023 Topps Xpectations - Autographs Bobby Miller #XA-BM Cyber Cyan /10 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/YAkAAeSwXRNqtQ6A/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Print Run": [
+     "10"
+    ],
+    "Insert Set": [
+     "Autographs"
+    ],
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Cyber Cyan"
+    ],
+    "Card Number": [
+     "XA-BM"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Bobby Miller"
+    ],
+    "Set": [
+     "2023 Topps Xpectations"
+    ],
+    "Team": [
+     "Los Angeles Dodgers"
+    ],
+    "Season": [
+     "2023"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24055913793",
+   "title": "2019 Topps Holiday Bowman - Bryce Harper #TH-BH Green /99",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/5rYAAOSwtQRnpiyZ/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Print Run": [
+     "99"
+    ],
+    "Parallel/Variety": [
+     "Green"
+    ],
+    "Card Number": [
+     "TH-BH"
+    ],
+    "Features": [
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Bryce Harper"
+    ],
+    "Set": [
+     "2019 Topps Holiday Bowman"
+    ],
+    "Team": [
+     "Philadelphia Phillies"
+    ],
+    "Season": [
+     "2019"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "6089777649",
+   "title": "2003 Flair Greats - Ballpark Heroes Nolan Ryan #1 BH",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/n7QAAeSws3xpsAAK/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Ballpark Heroes"
+    ],
+    "Card Number": [
+     "1 BH"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Fleer/SkyBox International"
+    ],
+    "Player/Athlete": [
+     "Nolan Ryan"
+    ],
+    "Set": [
+     "2003 Flair Greats"
+    ],
+    "Team": [
+     "Texas Rangers"
+    ],
+    "Season": [
+     "2003"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "13057406024",
+   "title": "2019-20 Upper Deck The Cup - Signature Materials Rookies Barrett Hayton #SP-BH /99 (AU, MEM, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/VsoAAOSwFLpn2ha-/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Print Run": [
+     "99"
+    ],
+    "Insert Set": [
+     "Signature Materials"
+    ],
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "SP-BH"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Memorabilia",
+     "Serial Numbered"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "Barrett Hayton"
+    ],
+    "Set": [
+     "2019-20 Upper Deck The Cup"
+    ],
+    "Team": [
+     "Arizona Coyotes"
+    ],
+    "Season": [
+     "2019-20"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7057233887",
+   "title": "2012-13 Upper Deck Artifacts - Auto Facts Bobby Hull #A-BH (AU)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ikUAAOSwiLtnpi26/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Auto Facts"
+    ],
+    "Card Number": [
+     "A-BH"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "Bobby Hull"
+    ],
+    "Set": [
+     "2012-13 Upper Deck Artifacts"
+    ],
+    "Team": [
+     "Chicago Blackhawks"
+    ],
+    "Season": [
+     "2012-13"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7089783966",
+   "title": "2013-14 Panini National Treasures - Treasured Trophies Hart Brett Hull #H-BH Gold /1 (AU)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Print Run": [
+     "1"
+    ],
+    "Insert Set": [
+     "Treasured Trophies Hart"
+    ],
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "Gold"
+    ],
+    "Card Number": [
+     "H-BH"
+    ],
+    "Features": [
+     "Insert",
+     "Serial Numbered",
+     "One of One",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Panini"
+    ],
+    "Player/Athlete": [
+     "Brett Hull"
+    ],
+    "Set": [
+     "2013-14 Panini National Treasures"
+    ],
+    "Team": [
+     "St. Louis Blues"
+    ],
+    "Season": [
+     "2013-14"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "10089713425",
+   "title": "2020 Leaf Happy Holidays - Bobby Hull #HH-BH1 Silver Prismatic /50 (AU)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/0BUAAeSw0e5psACq/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "Silver Prismatic"
+    ],
+    "Print Run": [
+     "50"
+    ],
+    "Card Number": [
+     "HH-BH1"
+    ],
+    "Features": [
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Bobby Hull"
+    ],
+    "Set": [
+     "2020 Leaf Happy Holidays"
+    ],
+    "Season": [
+     "2020"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "141072537",
+   "title": "Omron CP1H-XA40DR-A (CP1HXA40DRA) Processor/Controller",
+   "mpn": [
+    "CP1HXA40DRA"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "CP1HXA40DRA"
+    ],
+    "Brand": [
+     "Omron"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24079671053",
+   "title": "2024 Leaf Metal Collective - Leaf Autographs Benjamin Hall #RLA-BH1 Purple Mojo /10 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Sport": [
+     "Football"
+    ],
+    "Parallel/Variety": [
+     "Purple Mojo"
+    ],
+    "Print Run": [
+     "10"
+    ],
+    "Insert Set": [
+     "Leaf Autographs"
+    ],
+    "Card Number": [
+     "RLA-BH1"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Serial Numbered",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Benjamin Hall"
+    ],
+    "Set": [
+     "2024 Leaf Metal Collective"
+    ],
+    "Season": [
+     "2024"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "1165976935",
+   "title": "Siemens 6ES7960-1AA06-0XA0 SIMATIC S7-400H Synchronization Module",
+   "mpn": [
+    "6ES79601AA060XA0"
+   ],
+   "gtin": [
+    "4019169256384"
+   ],
+   "images": [],
+   "aspects": {
+    "MPN": [
+     "6ES79601AA060XA0"
+    ],
+    "Brand": [
+     "Siemens"
+    ],
+    "Model": [
+     "6ES7960-1AA06-0XA0"
+    ],
+    "Controller Platform": [
+     "S7/400"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "8057229998",
+   "title": "2014 Leaf Q Sports Heroes - Pure Autographs Bobby Hull #P-BH1 (AU)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/RGgAAOSwje1npipI/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Pure Autographs"
+    ],
+    "Card Number": [
+     "P-BH1"
+    ],
+    "Features": [
+     "Insert"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Bobby Hull"
+    ],
+    "Set": [
+     "2014 Leaf Q Sports Heroes"
+    ],
+    "Season": [
+     "2014"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7089820220",
+   "title": "2000-01 Upper Deck - A Piece of History 500 Goal Club Bobby Hull #500-BH (MEM)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/9cQAAeSwq8NpsAAg/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Ice Hockey"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "A Piece of History 500 Goal Club"
+    ],
+    "Card Number": [
+     "500-BH"
+    ],
+    "Features": [
+     "Insert",
+     "Memorabilia"
+    ],
+    "League": [
+     "National Hockey League (NHL)"
+    ],
+    "Manufacturer": [
+     "Upper Deck"
+    ],
+    "Player/Athlete": [
+     "Bobby Hull"
+    ],
+    "Set": [
+     "2000-01 Upper Deck"
+    ],
+    "Team": [
+     "Chicago Blackhawks"
+    ],
+    "Season": [
+     "2000-01"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "20055931588",
+   "title": "2015 Leaf Ultimate Draft - Big Hitters Tyler Stephenson #BH-TS1 Bronze Etched Foil (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/egYAAOSw9KtnpjVW/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "Bronze Etched Foil"
+    ],
+    "Insert Set": [
+     "Big Hitters"
+    ],
+    "Card Number": [
+     "BH-TS1"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert",
+     "Parallel/Variety"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Tyler Stephenson"
+    ],
+    "Set": [
+     "2015 Leaf Ultimate Draft"
+    ],
+    "Season": [
+     "2015"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "8058187062",
+   "title": "2022 Bowman Draft - Chrome Draft Pick Autographs Bryce Hubbart #CDA-BH (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/DMMAAOSw02Rnpiib/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Insert Set": [
+     "Chrome Draft Pick Autographs"
+    ],
+    "Sport": [
+     "Baseball"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Card Number": [
+     "CDA-BH"
+    ],
+    "Features": [
+     "Rookie",
+     "Insert"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Bryce Hubbart"
+    ],
+    "Set": [
+     "2022 Bowman Draft"
+    ],
+    "Team": [
+     "Cincinnati Reds"
+    ],
+    "Season": [
+     "2022"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "22057413706",
+   "title": "2012 Topps Finest UFC - Jumbo Fight Mat Relics Benson Henderson #FFJM-BH (MEM)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/KX0AAOSwUl1npjPg/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Mixed Martial Arts (MMA)"
+    ],
+    "Parallel/Variety": [
+     "[Base]"
+    ],
+    "Insert Set": [
+     "Jumbo Fight Mat Relics"
+    ],
+    "Card Number": [
+     "FFJM-BH"
+    ],
+    "Features": [
+     "Insert",
+     "Memorabilia"
+    ],
+    "League": [
+     "Ultimate Fighting Championship (UFC)"
+    ],
+    "Manufacturer": [
+     "Topps"
+    ],
+    "Player/Athlete": [
+     "Benson Henderson"
+    ],
+    "Set": [
+     "2012 Topps Finest UFC"
+    ],
+    "Season": [
+     "2012"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7055881735",
+   "title": "2017 Leaf Metal Draft - Blake Hunt #BA-BH1 Blue /25 (AU, RC)",
+   "mpn": [],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/YRoAAOSwnDhnpjHJ/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Sport": [
+     "Baseball"
+    ],
+    "Print Run": [
+     "25"
+    ],
+    "Parallel/Variety": [
+     "Blue"
+    ],
+    "Card Number": [
+     "BA-BH1"
+    ],
+    "Features": [
+     "Rookie",
+     "Serial Numbered",
+     "Base Set",
+     "Parallel/Variety"
+    ],
+    "League": [
+     "Major League Baseball (MLB)"
+    ],
+    "Manufacturer": [
+     "Leaf"
+    ],
+    "Player/Athlete": [
+     "Blake Hunt"
+    ],
+    "Set": [
+     "2017 Leaf Metal Draft"
+    ],
+    "Team": [
+     "San Diego Padres"
+    ],
+    "Season": [
+     "2017"
+    ]
+   },
+   "match": false
+  }
+ ],
+ "MZUQHGA348CRJ89": [],
+ "FUSKDK12BICOE25": [],
+ "WEBBYMOHW": [],
+ "WEBBYMO": [],
+ "S57WS0515P7383": [
+  {
+   "epid": "3044145370",
+   "title": "Size 6 - Maison Margiela Replica 2019 White Grey",
+   "mpn": [
+    "S57WS0236P1895101"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/Ol4AAOSwRBNoREDC/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Maison Margiela Replica 2019"
+    ],
+    "Release Year": [
+     "2020"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "6"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "S57WS0236-P1895-101"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "20062967874",
+   "title": "Size 11 - Maison Margiela Replica Black Gum",
+   "mpn": [
+    "S57WS0236P1895H6851"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/aT4AAeSwqxVpWB~t/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Model": [
+     "Maison Margiela Replica"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "11"
+    ],
+    "Style Code": [
+     "S57WS0236-P1895-H6851"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "13097128323",
+   "title": "Size 8 - Maison Margiela Replica Black",
+   "mpn": [
+    "S57WS0517P7799H6851"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Model": [
+     "Maison Margiela Replica"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "US Shoe Size": [
+     "8"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "S57WS0517-P7799-H6851"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "3072245502",
+   "title": "Size 10.5 - Maison Margiela 22 Retro Runner Orange Red",
+   "mpn": [
+    "S57WS0242P1879966"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Model": [
+     "Maison Margiela 22 Retro Runner"
+    ],
+    "Color": [
+     "Orange"
+    ],
+    "US Shoe Size": [
+     "10.5"
+    ],
+    "Upper Material": [
+     "Mesh"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "S57WS0242-P1879-966"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "10044141488",
+   "title": "Size 6 - Maison Margiela Replica Sneaker Black",
+   "mpn": [
+    "S57WS0236P1897900"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/4~0AAeSw5D5p2dFz/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Model": [
+     "Maison Margiela Replica Sneaker"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2022"
+    ],
+    "US Shoe Size": [
+     "6"
+    ],
+    "Style Code": [
+     "S57WS0236-P1897-900"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "5089170699",
+   "title": "Size 12 - Maison Margiela Future Mid White",
+   "mpn": [
+    "S57WS0538P7573T1003"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Type": [
+     "Athletic"
+    ],
+    "Shoe Shaft Style": [
+     "Mid Top"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Model": [
+     "Maison Margiela Future"
+    ],
+    "Release Year": [
+     "2025"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "12"
+    ],
+    "Style Code": [
+     "S57WS0538-P7573-T1003"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "24092679975",
+   "title": "Size 7.5 - Maison Margiela Replica Blue Nights",
+   "mpn": [
+    "S57WS0236P1895T6065"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Department": [
+     "Men"
+    ],
+    "Model": [
+     "Maison Margiela Replica"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "US Shoe Size": [
+     "7.5"
+    ],
+    "Color": [
+     "Blue"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Style Code": [
+     "S57WS0236-P1895-T6065"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "28062975229",
+   "title": "Size 14 - Maison Margiela Replica Black Gum",
+   "mpn": [
+    "S57WS0236P1895H6851"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/aT4AAeSwqxVpWB~t/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Upper Material": [
+     "Leather"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Model": [
+     "Maison Margiela Replica"
+    ],
+    "Color": [
+     "Black"
+    ],
+    "Release Year": [
+     "2019"
+    ],
+    "US Shoe Size": [
+     "14"
+    ],
+    "Style Code": [
+     "S57WS0236-P1895-H6851"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "20044141147",
+   "title": "Size 10 - Maison Margiela Tabi High White",
+   "mpn": [
+    "S57WS0253P1875T1003"
+   ],
+   "gtin": [],
+   "images": [
+    "https://i.ebayimg.com/images/g/ZT8AAOSwW1BoTRug/s-l1600.jpg"
+   ],
+   "aspects": {
+    "Model": [
+     "Maison Margiela Tabi"
+    ],
+    "Color": [
+     "White"
+    ],
+    "US Shoe Size": [
+     "10"
+    ],
+    "Type": [
+     "Athletic"
+    ],
+    "Style Code": [
+     "S57WS0253-P1875-T1003"
+    ],
+    "Shoe Shaft Style": [
+     "High Top"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  },
+  {
+   "epid": "7089160701",
+   "title": "Size 9 - Maison Margiela Future Mid White",
+   "mpn": [
+    "S57WS0538P7573T1003"
+   ],
+   "gtin": [],
+   "images": [],
+   "aspects": {
+    "Type": [
+     "Athletic"
+    ],
+    "Style": [
+     "Sneaker"
+    ],
+    "Shoe Shaft Style": [
+     "Mid Top"
+    ],
+    "Model": [
+     "Maison Margiela Future"
+    ],
+    "Color": [
+     "White"
+    ],
+    "Release Year": [
+     "2025"
+    ],
+    "US Shoe Size": [
+     "9"
+    ],
+    "Style Code": [
+     "S57WS0538-P7573-T1003"
+    ],
+    "Department": [
+     "Men"
+    ],
+    "Brand": [
+     "Maison Margiela"
+    ]
+   },
+   "match": false
+  }
+ ]
 }
