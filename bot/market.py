@@ -65,14 +65,29 @@ def _words(s: str) -> list[str]:
     return [w for w in re.findall(r"[a-z0-9]+", (s or "").lower()) if len(w) > 2 and w not in ("with", "and", "the")]
 
 
+NOT_SAME = re.compile(r"\b(women'?s?|womens|wmns|ladies|kids?|youth|toddler|infant|baby|boys?|girls?|gs|td|ps|"
+                      r"box only|empty box|laces only|dust ?bag only|replacement)\b", re.I)
+GENERIC = {"men", "mens", "new", "low", "high", "top", "sneaker", "sneakers", "leather", "canvas"}
+
+
 def _matches(title: str, p: dict) -> bool:
+    """Same product: style code in the title, or brand + every model word + most colorway words.
+    Women's/kids'/accessory-only listings never count."""
+    if NOT_SAME.search(title):
+        return False
     t = set(_words(title))
-    brand = _words((p.get("brand") or "").replace("Salvatore ", ""))
-    model = _words(p.get("model"))
     code = re.sub(r"\s+", "", (p.get("style_code") or "")).lower()
     if code and code in re.sub(r"[\s-]+", "", title.lower()):
         return True
-    return all(w in t for w in brand) and all(w in t for w in model)
+    brand = _words((p.get("brand") or "").replace("Salvatore ", ""))
+    model = _words(p.get("model"))
+    if not (all(w in t for w in brand) and all(w in t for w in model)):
+        return False
+    colors = [w for w in _words((p.get("colorway") or "").replace("/", " ")) if w not in GENERIC]
+    if not colors:
+        return True
+    hit = sum(1 for w in colors if w in t)
+    return hit >= (len(colors) if len(colors) <= 3 else len(colors) - 1)
 
 
 def search(q: str, tok: str) -> list[dict]:
@@ -112,7 +127,33 @@ def competitors(p: dict, tok: str) -> list[dict]:
                 out.append({"price": round(price + ship_cost, 2), "title": title[:90],
                             "url": it.get("itemWebUrl"), "seller": (it.get("seller") or {}).get("username")})
         time.sleep(0.3)
-    return sorted(out, key=lambda x: x["price"])
+    out.sort(key=lambda x: x["price"])
+    if len(out) >= 3:       # very low asks are usually fakes or mislabeled; don't compare against them
+        mid = statistics.median(c["price"] for c in out)
+        out = [c for c in out if c["price"] >= 0.45 * mid]
+    return out
+
+
+def market_for(item_id: str, max_age_h: float = 72, min_n: int = 3) -> dict | None:
+    """Fresh market numbers for a listing, or None (too few comparable listings or stale data)."""
+    if not OUT.exists():
+        return None
+    d = json.loads(OUT.read_text())
+    try:
+        age = (datetime.now(timezone.utc) - datetime.fromisoformat(d["checked"].replace("Z", "+00:00"))).total_seconds()
+    except Exception:
+        return None
+    v = d.get("items", {}).get(str(item_id))
+    if age > max_age_h * 3600 or not v or (v.get("n") or 0) < min_n or not v.get("median"):
+        return None
+    return v
+
+
+def product_market(p: dict) -> dict:
+    """{n, median, cheapest} for a product we haven't listed yet (used to vet new listings)."""
+    comp = competitors(p, app_token())
+    return {"n": len(comp), "median": round(statistics.median([c["price"] for c in comp]), 2) if comp else None,
+            "cheapest": comp[0]["price"] if comp else None}
 
 
 def run() -> list[str]:

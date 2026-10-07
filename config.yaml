@@ -53,6 +53,7 @@ pricing:
   decay_after_days: 7
   decay_step: 0.03
   decay_floor_mult: 1.5       # Rafael, Oct 5: drops never go below 1.5× the required profit ($150; LV $300); listing minimum stays $100
+  match_market: true          # Rafael, Oct 7: "match market wherever you can" — drop to just under the eBay median of other new listings, never below the 1.5× floor (sync.market_drops)
 
 risk:
   min_sources_per_size: 2     # anti-cancellation rule

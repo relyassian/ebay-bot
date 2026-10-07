@@ -41,6 +41,60 @@ def live_style_codes() -> set[str]:
     return codes
 
 
+MKT_CACHE = ROOT / "data" / "market_candidates.json"
+
+
+def priced_for_market(cid: str, c: dict) -> tuple[dict, str | None]:
+    """Rafael (Oct 7): only list what can sell — no competition, or at/under what other eBay sellers ask.
+    Each size is priced just under the median of other new listings of the same shoe (never above our planned
+    price, never below 1.5x the required profit). Sizes whose floor is above the market are dropped.
+    Returns (candidate with adjusted prices, reason if nothing is competitive)."""
+    import copy
+    import json
+    import math
+    from datetime import datetime, timezone
+    from bot.profit import floor_price, is_taxable, item_min_net, landed_cost, store_shipping
+    cfg = load_config()
+    if not cfg.get("pricing", {}).get("match_market", False):
+        return c, None
+    cache = json.loads(MKT_CACHE.read_text()) if MKT_CACHE.exists() else {}
+    m = cache.get(cid)
+    now = datetime.now(timezone.utc)
+    if not m or (now - datetime.fromisoformat(m["at"])).total_seconds() > 72 * 3600:
+        try:
+            from bot.market import product_market
+            m = dict(product_market(c), at=now.isoformat())
+        except Exception as e:          # no market data → list as planned (the daily check will match it later)
+            print(f"market check failed for {cid}: {e}")
+            return c, None
+        cache[cid] = m
+        MKT_CACHE.write_text(json.dumps(cache, indent=1))
+    if (m.get("n") or 0) < 3 or not m.get("median"):
+        return c, None                  # little or no competition: keep our price
+    target = math.floor(m["median"]) - 0.01
+    mult = cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
+    base = item_min_net(cfg, brand=c.get("brand"))
+    c = copy.deepcopy(c)
+    keep = []
+    for s in c.get("sizes", []):
+        if s.get("cost") in (None, "") or not s.get("price"):
+            keep.append(s)          # make_draft skips/handles these
+            continue
+        landed = landed_cost(float(s["cost"]), cfg, overseas=bool(s.get("overseas")),
+                             taxable=is_taxable(cfg, category=c.get("category")),
+                             shipping=store_shipping(cfg, s.get("source")))
+        floor = floor_price(landed, cfg, base=base, mult=mult)
+        if floor > target:
+            continue
+        s["price"] = min(float(s["price"]), target)
+        keep.append(s)
+    if not keep:
+        return c, (f"other eBay sellers ask ~${m['median']:,.0f} for this shoe ({m['n']} listings); "
+                   "we can't get that low and keep 1.5x the profit")
+    c["sizes"] = keep
+    return c, None
+
+
 def auto_ok(cid: str, c: dict, d) -> str | None:
     """Rafael (Oct 5): list without asking when it makes good money, is accurate and isn't a repeat.
     Returns None if OK to auto-list, else the reason it still needs him."""
@@ -73,6 +127,11 @@ def drafts() -> list[str]:
     token = access_token()
     profiles, postal = _template(token)
     for cid, c in todo.items():
+        c, uncompetitive = priced_for_market(cid, c)
+        if uncompetitive:
+            state[cid] = {"status": "uncompetitive", "reason": uncompetitive}
+            print(f"{cid}: skipped — {uncompetitive}")
+            continue
         d = make_draft(c)
         if d.blocked_reason:
             state[cid] = {"status": "blocked", "reason": d.blocked_reason}
@@ -303,7 +362,12 @@ def publish(live: bool) -> list[str]:
     token = access_token()
     profiles, postal = _template(token)
     for cid in ready:
-        d = make_draft(cands[cid])          # fresh numbers: sizes that stopped clearing the rules drop out
+        cand, uncompetitive = priced_for_market(cid, cands[cid])
+        if uncompetitive:
+            state[cid] = {"status": "uncompetitive", "reason": uncompetitive}
+            continue
+        cands[cid] = cand
+        d = make_draft(cand)                # fresh numbers: sizes that stopped clearing the rules drop out
         if d.blocked_reason:
             state[cid] = {"status": "blocked", "reason": d.blocked_reason}
             out.append(f"⏸ {cid}: not listed — {d.blocked_reason} (numbers changed since you approved).")

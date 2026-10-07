@@ -19,6 +19,8 @@ and a hidden size is not relisted.
 """
 from __future__ import annotations
 
+import math
+
 import csv
 import shutil
 from dataclasses import dataclass
@@ -141,6 +143,40 @@ def decays(listing: Listing, sources: dict, cfg: dict, log: dict, auto: list, no
     return out
 
 
+def market_drops(listing: Listing, sources: dict, cfg: dict, auto: list, discount: float = 0.0,
+                 now: datetime | None = None) -> list:
+    """Rafael (Oct 7): "match market wherever you can". Lower each live size to just under the typical price other
+    sellers ask for the same new shoe (data/market.json median, from the daily price check), but never below
+    1.5x the required profit. When even that floor is above the market, go to the floor (as close as we can)."""
+    from bot.market import market_for
+    from bot.profit import floor_price
+    now = now or datetime.now(timezone.utc)
+    m = market_for(listing.item_id)
+    if not m:
+        return []
+    target_mkt = math.floor(m["median"]) - 0.01
+    mult = cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
+    max_age = cfg.get("sync", {}).get("max_source_age_hours", 36)
+    touched = {c.size for c in auto}
+    rows = ([(v.size, v.price, v.available) for v in listing.variations] if listing.variations
+            else [(None, listing.price, (listing.quantity or 0) - (listing.sold or 0))])
+    out = []
+    for size, price, available in rows:
+        if available <= 0 or size in touched or price * (1 - discount) <= target_mkt:
+            continue
+        src = sources.get((listing.item_id, size))
+        if not (src and src.cost is not None and src.checked_at
+                and (now - src.checked_at).total_seconds() <= max_age * 3600):
+            continue
+        landed = landed_cost(src.cost, cfg, overseas=src.overseas, taxable=is_taxable(cfg, listing.item_id),
+                             shipping=store_shipping(cfg, src.source))
+        floor = floor_price(landed, cfg, base=item_min_net(cfg, listing.item_id), mult=mult)
+        new = max(target_mkt, floor)
+        if new < price - 0.5:
+            out.append(Change(listing.item_id, size, new_price=new))
+    return out
+
+
 def load_approved_plans(ext: str = "csv") -> list[Path]:
     d = ROOT / "plans" / "approved"
     return sorted(d.glob(f"*.{ext}")) if d.exists() else []
@@ -246,6 +282,9 @@ def run(live: bool) -> list:
         auto, proposals, notes = decide(listing, sources, icfg, discount=disc)
         drops = (decays(listing, sources, icfg, price_log, auto, discount=disc)
                  if cfg.get("pricing", {}).get("decay", True) else [])
+        if cfg.get("pricing", {}).get("match_market", False):
+            mk = market_drops(listing, sources, icfg, auto, discount=disc)
+            drops = [c for c in drops if c.size not in {m.size for m in mk}] + mk
         auto += drops
         notes += [("lowered", c.size, c.new_price) for c in drops]
         if auto and live:
