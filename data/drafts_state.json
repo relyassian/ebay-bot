@@ -7,6 +7,18 @@
     "item_id": "820207186196",
     "status": "live"
   },
+  "bottega-veneta-eliot-mid-multicolor": {
+    "reason": "needs photos (no eBay catalog photo found)",
+    "status": "blocked"
+  },
+  "ferragamo-cassini-low-blue": {
+    "reason": "needs photos (no eBay catalog photo found)",
+    "status": "blocked"
+  },
+  "ferragamo-cosma-high-black": {
+    "reason": "needs photos (no eBay catalog photo found)",
+    "status": "blocked"
+  },
   "ferragamo-lunar-paneled-slip-on-sneaker-medium-b": {
     "reason": "needs photos (no eBay catalog photo found)",
     "status": "blocked"
@@ -87,6 +99,10 @@
     "item_id": "820207186525",
     "status": "live"
   },
+  "gucci-cordovan-lux-lace-up-black": {
+    "reason": "needs photos (no eBay catalog photo found)",
+    "status": "blocked"
+  },
   "gucci-driver-horsebit-black": {
     "reason": "needs photos (no eBay catalog photo found)",
     "status": "blocked"
@@ -119,6 +135,10 @@
     "reason": "needs photos (no eBay catalog photo found)",
     "status": "blocked"
   },
+  "gucci-horsebit-loafer-ivory-wool": {
+    "reason": "needs photos (no eBay catalog photo found)",
+    "status": "blocked"
+  },
   "gucci-interlocking-g-driver-brown": {
     "item_id": "820205221528",
     "status": "live"
@@ -142,6 +162,9 @@
     "status": "waiting_limit"
   },
   "gucci-mac80-dune": {
+    "status": "waiting_limit"
+  },
+  "gucci-mac80-high-black-off-white": {
     "status": "waiting_limit"
   },
   "gucci-mac80-off-white": {
@@ -247,5 +270,13 @@
   "lv-skate-beige": {
     "item_id": "820205389034",
     "status": "live"
+  },
+  "mcqueen-penny-loafer-black-white-sole": {
+    "reason": "needs photos (no eBay catalog photo found)",
+    "status": "blocked"
+  },
+  "prada-monolith-loafer-black": {
+    "reason": "needs photos (no eBay catalog photo found)",
+    "status": "blocked"
   }
 }
