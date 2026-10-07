@@ -46,5 +46,53 @@
   "median": 750.0,
   "cheapest": 750.0,
   "at": "2026-10-07T21:04:21.891268+00:00"
+ },
+ "bally-webby-leather-loafer-blue": {
+  "n": 3,
+  "median": 249.99,
+  "cheapest": 194.9,
+  "at": "2026-10-07T21:26:50.394979+00:00"
+ },
+ "bally-webby-logo-loafer-grey": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-07T21:26:52.120166+00:00"
+ },
+ "brunello-cucinelli-suede-sneaker-beige": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-07T21:26:53.849829+00:00"
+ },
+ "dg-portofino-lambskin-off-white": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-07T21:26:55.588593+00:00"
+ },
+ "givenchy-gent-derby-black": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-07T21:26:57.302295+00:00"
+ },
+ "givenchy-padded-nylon-trainer-black": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-07T21:26:59.042108+00:00"
+ },
+ "lanvin-curb-cutout-pink": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-07T21:27:10.648190+00:00"
+ },
+ "margiela-sprinters-black": {
+  "n": 2,
+  "median": 1250.7,
+  "cheapest": 1250.7,
+  "at": "2026-10-07T21:27:12.444034+00:00"
  }
 }
