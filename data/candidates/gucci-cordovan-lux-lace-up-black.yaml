@@ -1,0 +1,34 @@
+id: gucci-cordovan-lux-lace-up-black
+brand: Gucci
+model: Cordovan Lux Lace-Up Shoe
+colorway: Black
+style_code: 723694 DS800 1000
+category: dress_shoe
+department: Men
+color: Black
+upper_material: Leather
+size_system: UK
+retail_price: 1350
+price: 1308.99
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '10.5'
+  native: UK 10
+  cost: 584.0
+  source: GOAT new UK 10 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/gucci-cordovan-lux-lace-up-black-723694-ds800-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'
+- us: '11.5'
+  native: UK 11
+  cost: 798.0
+  source: GOAT new UK 11 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/gucci-cordovan-lux-lace-up-black-723694-ds800-1000
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'

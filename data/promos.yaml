@@ -1,5 +1,4 @@
 # Store promo codes, refreshed by the daily research (see bot/promos.py)
-# 2026-10-06: Gmail (last 21 days) searched for all 12 stores: only StockX's Klarna $15 email (Oct 2; expired Oct 4, not a usable code).
-# Site banners read in the browser: Cettire product page shows "New-season fashion, now up to 30% off" (prices already reduced, no code).
-# Cettire FIRST10 (app-only, first purchase) was not shown today, so it is dropped. StockX/GOAT/Italist/Nugnes pages showed no code.
+# 2026-10-07: Gmail (last 21 days) searched for all 12 stores: only StockX's Klarna $15 email (Oct 2; expired Oct 4, not a usable code).
+# Site banners read in the browser: Cettire product page showed no code; GOAT/Italist/Nugnes showed no code. StockX not reachable today (Cloudflare check).
 {}

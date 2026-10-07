@@ -1,4 +1,15 @@
 item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
+355066429434,5,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-07; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-07T10:49:27Z
+355066429434,5.5,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-07; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-07T10:49:27Z
+355066429434,6,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-07; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-07T10:49:27Z
+355066429434,6.5,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-07; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-07T10:49:27Z
+355066429434,7,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-07; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-07T10:49:27Z
+355066429434,7.5,,no new pair in stock at Italist 2026-10-07 (Shopify stock read),,false,0,2026-10-07T10:49:27Z
+355066429434,8,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-07; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-07T10:49:27Z
+355066429434,8.5,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-07; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-07T10:49:27Z
+355066429434,9,,no new pair in stock at Italist 2026-10-07 (Shopify stock read),,false,0,2026-10-07T10:49:27Z
+355066429434,9.5,,no new pair in stock at Italist 2026-10-07 (Shopify stock read),,false,0,2026-10-07T10:49:27Z
+355066429434,10,,no new pair in stock at Italist 2026-10-07 (Shopify stock read),,false,0,2026-10-07T10:49:27Z
 355066574768,5,,no in-stock source found 2026-09-30,,false,0,2026-09-30T23:22:02Z
 355066574768,5.5,,no in-stock source found 2026-09-30,,false,0,2026-09-30T23:22:02Z
 355066574768,6,,no in-stock source found 2026-09-30,,false,0,2026-09-30T23:22:02Z
@@ -32,6 +43,24 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355422702908,11,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355422702908,12,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355422702908,13,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
+355423513413,5.5,709.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,6,634.94,"StockX US M 6 (ask $599 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $927.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
+355423513413,6.5,475.94,"StockX US M 6.5 (ask $449 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $844.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
+355423513413,7,789.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,7.5,537.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,8,641.30,"StockX US M 8 (ask $605 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $730.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
+355423513413,8.5,679.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,9,704.90,"StockX US M 9 (ask $665 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $707.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
+355423513413,9.5,642.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,10,760.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,10.5,570.28,"StockX US M 10.5 (ask $538 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $845.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
+355423513413,11,696.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,11.5,1005.94,"StockX US M 11.5 (ask $949 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $1071.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
+355423513413,12,740.94,"StockX US M 12 (ask $699 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $765.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
+355423513413,12.5,620.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,13,555.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,13.5,804.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
+355423513413,15,852.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-07T10:49:27Z
 355426430327,6,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,6.5,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,7,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
@@ -45,79 +74,49 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355426430327,11,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,12,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,13,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
-356084785661,,246.48,"Cettire (page read 2026-10-06, Add to bag shown, duties included; code 775189CLNKGANST676145 Palladio)",https://www.cettire.com/products/salvatore-ferragamo-logo-engraved-cuff-links-922605775,false,1,2026-10-06T10:55:00Z
-355066429434,5,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-06; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-06T10:55:00Z
-355066429434,5.5,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-06; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-06T10:55:00Z
-355066429434,6,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-06; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-06T10:55:00Z
-355066429434,6.5,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-06; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-06T10:55:00Z
-355066429434,7,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-06; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-06T10:55:00Z
-355066429434,7.5,,no new pair in stock at Italist 2026-10-06 (browser read),,false,0,2026-10-06T10:55:00Z
-355066429434,8,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-06; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-06T10:55:00Z
-355066429434,8.5,621.19,"Italist/CHN boutique (Shopify stock read 2026-10-06; SKU 029392642848 NERO, standard width; ships from Italy)",https://italist.com/products/ferragamo-loafer-black-6597822603,true,1,2026-10-06T10:55:00Z
-355066429434,9,,no new pair in stock at Italist 2026-10-06 (browser read),,false,0,2026-10-06T10:55:00Z
-355066429434,9.5,,no new pair in stock at Italist 2026-10-06 (browser read),,false,0,2026-10-06T10:55:00Z
-355066429434,10,,no new pair in stock at Italist 2026-10-06 (browser read),,false,0,2026-10-06T10:55:00Z
-355423513413,5.5,709.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-06); also 1 other store(s), next $1057.88",https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,2,2026-10-06T10:55:00Z
-355423513413,6,634.94,"StockX US M 6 (ask $599 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $927.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
-355423513413,6.5,475.94,"StockX US M 6.5 (ask $449 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $844.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
-355423513413,7,792.00,"GOAT new UK 6.5 = US 7 (browser read 2026-10-06); also 1 other store(s), next $1110.88",https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,2,2026-10-06T10:55:00Z
-355423513413,7.5,537.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-06); also 1 other store(s), next $739.88",https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,2,2026-10-06T10:55:00Z
-355423513413,8,641.30,"StockX US M 8 (ask $605 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $730.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
-355423513413,8.5,679.00,"GOAT new UK 8 = US 8.5 (browser read 2026-10-06); also 1 other store(s), next $816.20",https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,2,2026-10-06T10:55:00Z
-355423513413,9,704.90,"StockX US M 9 (ask $665 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $707.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
-355423513413,9.5,642.00,"GOAT new UK 9 = US 9.5 (browser read 2026-10-06); also 1 other store(s), next $710.20",https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,2,2026-10-06T10:55:00Z
-355423513413,10,760.00,"GOAT new UK 9.5 = US 10 (browser read 2026-10-06); also 1 other store(s), next $937.04",https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,2,2026-10-06T10:55:00Z
-355423513413,10.5,570.28,"StockX US M 10.5 (ask $538 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $845.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
-355423513413,11,696.00,"GOAT new UK 10.5 = US 11 (browser read 2026-10-06); also 1 other store(s), next $1057.88",https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,2,2026-10-06T10:55:00Z
-355423513413,11.5,1005.94,"StockX US M 11.5 (ask $949 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $1071.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
-355423513413,12,740.94,"StockX US M 12 (ask $699 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $765.00",https://stockx.com/gucci-tennis-1977-gg-canvas,false,2,2026-10-06T10:55:00Z
-355423513413,12.5,620.00,"GOAT new UK 12 = US 12.5 (browser read 2026-10-06); also 1 other store(s), next $920.08",https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,2,2026-10-06T10:55:00Z
-355423513413,13,555.00,"GOAT new UK 12.5 = US 13 (browser read 2026-10-06); also 1 other store(s), next $927.50",https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,2,2026-10-06T10:55:00Z
-355423513413,13.5,804.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-06T10:55:00Z
-355423513413,15,852.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766,false,1,2026-10-06T10:55:00Z
-355426469262,5.5,370.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-06); also 1 other store(s), next $422.94",https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,2,2026-10-06T10:55:00Z
+355426469262,5.5,370.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-07T10:49:27Z
 355426469262,6,583.00,"StockX US M 6 (ask $550 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $610.00",https://stockx.com/gucci-ace-gg-supreme-black,false,2,2026-10-06T10:55:00Z
-355426469262,6.5,510.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-06); also 1 other store(s), next $604.20",https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,2,2026-10-06T10:55:00Z
+355426469262,6.5,510.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-07T10:49:27Z
 355426469262,7,359.34,"StockX US M 7 (ask $339 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $613.00",https://stockx.com/gucci-ace-gg-supreme-black,false,2,2026-10-06T10:55:00Z
-355426469262,7.5,514.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-06); also 1 other store(s), next $661.44",https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,2,2026-10-06T10:55:00Z
+355426469262,7.5,510.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-07T10:49:27Z
 355426469262,8,530.00,"StockX US M 8 (ask $500 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $539.00",https://stockx.com/gucci-ace-gg-supreme-black,false,2,2026-10-06T10:55:00Z
 355426469262,8.5,602.08,"StockX US M 8.5 (ask $568 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $610.00",https://stockx.com/gucci-ace-gg-supreme-black,false,2,2026-10-06T10:55:00Z
 355426469262,9,763.20,"StockX US M 9 (ask $720 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $860.00",https://stockx.com/gucci-ace-gg-supreme-black,false,2,2026-10-06T10:55:00Z
-355426469262,9.5,651.00,"GOAT new UK 9 = US 9.5 (browser read 2026-10-06); also 1 other store(s), next $749.42",https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,2,2026-10-06T10:55:00Z
+355426469262,9.5,647.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-07T10:49:27Z
 355426469262,10,528.94,"StockX US M 10 (ask $499 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $620.00",https://stockx.com/gucci-ace-gg-supreme-black,false,2,2026-10-06T10:55:00Z
-355426469262,10.5,605.00,"GOAT new UK 10 = US 10.5 (browser read 2026-10-06); also 1 other store(s), next $731.40",https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,2,2026-10-06T10:55:00Z
-355426469262,11.5,536.00,"GOAT new UK 11 = US 11.5 (browser read 2026-10-06); also 1 other store(s), next $982.62",https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,2,2026-10-06T10:55:00Z
+355426469262,10.5,605.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-07T10:49:27Z
+355426469262,11.5,536.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-07T10:49:27Z
 355426469262,12,507.74,"StockX US M 12 (ask $479 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $580.00",https://stockx.com/gucci-ace-gg-supreme-black,false,2,2026-10-06T10:55:00Z
-355426469262,12.5,627.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-06T10:55:00Z
-355426469262,13,389.00,"GOAT new UK 12.5 = US 13 (browser read 2026-10-06); also 1 other store(s), next $642.36",https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,2,2026-10-06T10:55:00Z
-355426469262,13.5,367.00,"GOAT new UK 13 = US 13.5 (browser read 2026-10-06); also 1 other store(s), next $1033.50",https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,2,2026-10-06T10:55:00Z
+355426469262,12.5,627.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-07T10:49:27Z
+355426469262,13,389.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-07T10:49:27Z
+355426469262,13.5,367.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-black-grey-429445-96g50-1130,false,1,2026-10-07T10:49:27Z
 355426469262,14,736.70,"StockX US M 14 (ask $695 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-gg-supreme-black,false,1,2026-10-06T10:55:00Z
-355428047951,5,633.00,"GOAT new UK 4.5 = US 5 (browser read 2026-10-06); also 1 other store(s), next $841.64",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,5.5,633.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-06); also 1 other store(s), next $841.64",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,6,633.00,"GOAT new UK 5.5 = US 6 (browser read 2026-10-06); also 1 other store(s), next $787.58",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,6.5,633.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-06); also 1 other store(s), next $809.84",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,7,666.00,"GOAT new UK 6.5 = US 7 (browser read 2026-10-06); also 1 other store(s), next $825.74",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,7.5,742.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-06); also 1 other store(s), next $820.44",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,8,680.00,"GOAT new UK 7.5 = US 8 (browser read 2026-10-06); also 1 other store(s), next $727.16",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,8.5,749.00,"GOAT new UK 8 = US 8.5 (browser read 2026-10-06); also 1 other store(s), next $761.08",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,9,748.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-06); also 1 other store(s), next $839.52",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
+355428047951,5,633.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,5.5,633.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,6,633.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,6.5,633.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,7,666.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,7.5,724.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,8,707.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,8.5,749.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,9,748.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
 355428047951,9.5,424.00,"StockX US M 9.5 (ask $400 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $425.00",https://stockx.com/gucci-ace-bee,false,2,2026-10-06T10:55:00Z
 355428047951,10,610.56,"StockX US M 10 (ask $576 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $810.00",https://stockx.com/gucci-ace-bee,false,2,2026-10-06T10:55:00Z
-355428047951,10.5,740.00,"GOAT new UK 10 = US 10.5 (browser read 2026-10-06); also 1 other store(s), next $1093.92",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,11,743.00,"GOAT new UK 10.5 = US 11 (browser read 2026-10-06); also 1 other store(s), next $1096.04",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,11.5,633.00,"GOAT new UK 11 = US 11.5 (browser read 2026-10-06); also 1 other store(s), next $1091.80",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,12,633.00,"GOAT new UK 11.5 = US 12 (browser read 2026-10-06); also 1 other store(s), next $841.64",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
+355428047951,10.5,740.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,11,743.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,11.5,633.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,12,633.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
 355428047951,12.5,530.00,"StockX US M 12.5 (ask $500 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $633.00",https://stockx.com/gucci-ace-bee,false,2,2026-10-06T10:55:00Z
 355428047951,13,588.30,"StockX US M 13 (ask $555 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $633.00",https://stockx.com/gucci-ace-bee,false,2,2026-10-06T10:55:00Z
-355428047951,13.5,633.00,"GOAT new UK 13 = US 13.5 (browser read 2026-10-06); also 1 other store(s), next $821.50",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,14,633.00,"GOAT new UK 13.5 = US 14 (browser read 2026-10-06); also 1 other store(s), next $821.50",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,14.5,633.00,"GOAT new UK 14 = US 14.5 (browser read 2026-10-06); also 1 other store(s), next $840.58",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,15,633.00,"GOAT new UK 14.5 = US 15 (browser read 2026-10-06); also 1 other store(s), next $841.64",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,15.5,633.00,"GOAT new UK 15 = US 15.5 (browser read 2026-10-06); also 1 other store(s), next $841.64",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,16,633.00,"GOAT new UK 15.5 = US 16 (browser read 2026-10-06); also 1 other store(s), next $841.64",https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,2,2026-10-06T10:55:00Z
-355428047951,16.5,633.00,GOAT new UK 16 = US 16.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-06T10:55:00Z
-355428047951,17,633.00,GOAT new UK 16.5 = US 17 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-06T10:55:00Z
-355428079713,5.5,,no new pair in stock at StockX/GOAT 2026-10-06 (browser read),,false,0,2026-10-06T10:55:00Z
+355428047951,13.5,633.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,14,633.00,GOAT new UK 13.5 = US 14 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,14.5,633.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,15,633.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,15.5,633.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,16,633.00,GOAT new UK 15.5 = US 16 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,16.5,633.00,GOAT new UK 16 = US 16.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428047951,17,633.00,GOAT new UK 16.5 = US 17 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-embroidered-bee-429446-02jp0-9064,false,1,2026-10-07T10:49:27Z
+355428079713,5.5,,no new pair in stock at GOAT 2026-10-07 (browser read; StockX not reachable),,false,0,2026-10-07T10:49:27Z
 355428079713,6.5,1001.70,"StockX US M 6.5 (ask $945 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-06T10:55:00Z
 355428079713,7,1180.84,"StockX US M 7 (ask $1114 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-06T10:55:00Z
 355428079713,7.5,488.66,"StockX US M 7.5 (ask $461 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-06T10:55:00Z
@@ -126,73 +125,75 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355428079713,11,507.74,"StockX US M 11 (ask $479 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-06T10:55:00Z
 355428079713,12,636.00,"StockX US M 12 (ask $600 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-06T10:55:00Z
 355428079713,13,424.00,"StockX US M 13 (ask $400 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-embroidered,false,1,2026-10-06T10:55:00Z
-355429309757,6.5,527.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-06T10:55:00Z
-355429309757,7.5,937.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-06T10:55:00Z
+355429309757,6.5,527.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-07T10:49:27Z
+355429309757,7.5,937.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-07T10:49:27Z
 355429309757,8,421.88,"StockX US M 8 (ask $398 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $645.00",https://stockx.com/gucci-ace-gg-crystal-canvas-blue,false,2,2026-10-06T10:55:00Z
-355429309757,8.5,2443.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-06T10:55:00Z
+355429309757,8.5,2443.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-07T10:49:27Z
 355429309757,9,609.50,"StockX US M 9 (ask $575 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $633.00",https://stockx.com/gucci-ace-gg-crystal-canvas-blue,false,2,2026-10-06T10:55:00Z
-355429309757,9.5,647.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-06T10:55:00Z
-355429340181,6.5,702.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-06); also 1 other store(s), next $1234.90",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,2,2026-10-06T10:55:00Z
+355429309757,9.5,647.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-blue-760775-facrf-4349,false,1,2026-10-07T10:49:27Z
+355429340181,6.5,702.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-07T10:49:27Z
 355429340181,7,1234.90,"StockX US M 7 (ask $1165 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,1,2026-10-06T10:55:00Z
-355429340181,7.5,705.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-06T10:55:00Z
+355429340181,7.5,705.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-07T10:49:27Z
 355429340181,8,1239.14,"StockX US M 8 (ask $1169 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,1,2026-10-06T10:55:00Z
 355429340181,8.5,634.94,"StockX US M 8.5 (ask $599 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $813.00",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,2,2026-10-06T10:55:00Z
 355429340181,9,514.10,"StockX US M 9 (ask $485 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,1,2026-10-06T10:55:00Z
-355429340181,9.5,,no new pair in stock at StockX/GOAT 2026-10-06 (browser read),,false,0,2026-10-06T10:55:00Z
+355429340181,9.5,,no new pair in stock at GOAT 2026-10-07 (browser read; StockX not reachable),,false,0,2026-10-07T10:49:27Z
 355429340181,10,583.00,"StockX US M 10 (ask $550 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $1096.00",https://stockx.com/gucci-ace-gg-crystal-canvas-green,false,2,2026-10-06T10:55:00Z
-355429340181,10.5,,no new pair in stock at StockX/GOAT 2026-10-06 (browser read),,false,0,2026-10-06T10:55:00Z
-355429340181,11.5,2443.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-06T10:55:00Z
-355429355271,5.5,2443.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-06T10:55:00Z
+355429340181,10.5,,no new pair in stock at GOAT 2026-10-07 (browser read; StockX not reachable),,false,0,2026-10-07T10:49:27Z
+355429340181,11.5,2443.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-green-760775-facrf-3751,false,1,2026-10-07T10:49:27Z
+355429355271,5.5,2443.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-07T10:49:27Z
 355429355271,6.5,1179.78,"StockX US M 6.5 (ask $1113 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $1313.00",https://stockx.com/gucci-ace-gg-crystal-canvas-black,false,2,2026-10-06T10:55:00Z
 355429355271,7.5,592.54,"StockX US M 7.5 (ask $559 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $943.00",https://stockx.com/gucci-ace-gg-crystal-canvas-black,false,2,2026-10-06T10:55:00Z
-355429355271,8,895.00,"GOAT new UK 7.5 = US 8 (browser read 2026-10-06); also 1 other store(s), next $1038.80",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,2,2026-10-06T10:55:00Z
+355429355271,8,895.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-07T10:49:27Z
 355429355271,8.5,985.80,"StockX US M 8.5 (ask $930 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $1405.00",https://stockx.com/gucci-ace-gg-crystal-canvas-black,false,2,2026-10-06T10:55:00Z
-355429355271,9,785.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-06); also 1 other store(s), next $1238.08",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,2,2026-10-06T10:55:00Z
-355429355271,9.5,1043.04,"StockX US M 9.5 (ask $984 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-gg-crystal-canvas-black,false,1,2026-10-06T10:55:00Z
-355429355271,10,703.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-06T10:55:00Z
-355429355271,10.5,811.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-06T10:55:00Z
+355429355271,9,785.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-07T10:49:27Z
+355429355271,9.5,635.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07); StockX not re-read today (Cloudflare check),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-07T10:49:27Z
+355429355271,10,703.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-07T10:49:27Z
+355429355271,10.5,811.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-black-760775-facrf-1163,false,1,2026-10-07T10:49:27Z
 355429355271,11.5,1086.50,"StockX US M 11.5 (ask $1025 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-gg-crystal-canvas-black,false,1,2026-10-06T10:55:00Z
-355429385763,5.5,961.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-06); also 1 other store(s), next $1015.48",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-06T10:55:00Z
-355429385763,6.5,633.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-06); also 2 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-06T10:55:00Z
-355429385763,7,625.00,"Nugnes1920 UK 6.5 = US 7 (Shopify stock read 2026-10-06; ships from Italy); also 2 other store(s), next $837.40",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,3,2026-10-06T10:55:00Z
-355429385763,7.5,670.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-06); also 2 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-06T10:55:00Z
-355429385763,8,625.00,"Nugnes1920 UK 7.5 = US 8 (Shopify stock read 2026-10-06; ships from Italy); also 2 other store(s), next $740.00",https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,3,2026-10-06T10:55:00Z
-355429385763,8.5,670.00,"GOAT new UK 8 = US 8.5 (browser read 2026-10-06); also 1 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-06T10:55:00Z
-355429385763,9,670.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-06); also 2 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-06T10:55:00Z
+355429385763,5.5,961.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-07T10:49:27Z
+355429385763,6.5,633.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-07T10:49:27Z
+355429385763,7,625.00,Nugnes1920 UK 6.5 = US 7 (Shopify stock read 2026-10-07; ships from Italy); also GOAT $840.00,https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,2,2026-10-07T10:49:59Z
+355429385763,7.5,670.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-07T10:49:27Z
+355429385763,8,625.00,Nugnes1920 UK 7.5 = US 8 (Shopify stock read 2026-10-07; ships from Italy); also GOAT $740.00,https://nugnes1920.com/en-us/products/gucci-low-top-ace-gg-supreme-fabric-sneakers-beige-760775-facmz9746-000041491,true,2,2026-10-07T10:49:59Z
+355429385763,8.5,670.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-07T10:49:27Z
+355429385763,9,670.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-07T10:49:27Z
 355429385763,9.5,450.50,"StockX US M 9.5 (ask $425 + 6% fee, browser read 2026-10-06); also 2 other store(s), next $451.00",https://stockx.com/gucci-ace-web-beige-ebony,false,3,2026-10-06T10:55:00Z
 355429385763,10,636.00,"StockX US M 10 (ask $600 + 6% fee, browser read 2026-10-06); also 2 other store(s), next $625.00",https://stockx.com/gucci-ace-web-beige-ebony,false,3,2026-10-06T10:55:00Z
-355429385763,10.5,670.00,"GOAT new UK 10 = US 10.5 (browser read 2026-10-06); also 1 other store(s), next $949.76",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-06T10:55:00Z
-355429385763,11,646.00,"GOAT new UK 10.5 = US 11 (browser read 2026-10-06); also 2 other store(s), next $625.00",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,3,2026-10-06T10:55:00Z
+355429385763,10.5,670.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-07T10:49:27Z
+355429385763,11,646.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-07T10:49:27Z
 355429385763,11.5,660.38,"StockX US M 11.5 (ask $623 + 6% fee, browser read 2026-10-06); also 2 other store(s), next $668.00",https://stockx.com/gucci-ace-web-beige-ebony,false,3,2026-10-06T10:55:00Z
-355429385763,12.5,669.00,"GOAT new UK 12 = US 12.5 (browser read 2026-10-06); also 1 other store(s), next $673.10",https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,2,2026-10-06T10:55:00Z
+355429385763,12.5,669.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-crystal-canvas-beige-760775-facmz-9746,false,1,2026-10-07T10:49:27Z
 355429385763,13,460.04,"StockX US M 13 (ask $434 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $1073.00",https://stockx.com/gucci-ace-web-beige-ebony,false,2,2026-10-06T10:55:00Z
+356084785661,,246.48,"Cettire (page read 2026-10-07, Add to bag shown, duties included; code 775189CLNKGANST676145 Palladio)",https://www.cettire.com/products/salvatore-ferragamo-logo-engraved-cuff-links-922605775,false,1,2026-10-07T10:49:27Z
 820204075354,6.5,504.56,"StockX US M 6.5 (ask $476 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $615.00",https://stockx.com/gucci-ace-web-black-navy-red,false,2,2026-10-06T10:55:00Z
-820204075354,7.5,563.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-06); also 1 other store(s), next $634.94",https://www.goat.com/sneakers/gucci-ace-black-blue-red-757892-aacag-1096,false,2,2026-10-06T10:55:00Z
-820204075354,8.5,571.00,"GOAT new UK 8 = US 8.5 (browser read 2026-10-06); also 1 other store(s), next $935.98",https://www.goat.com/sneakers/gucci-ace-black-blue-red-757892-aacag-1096,false,2,2026-10-06T10:55:00Z
+820204075354,7,582.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-black-blue-red-757892-aacag-1096,false,1,2026-10-07T10:49:27Z
+820204075354,7.5,563.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-black-blue-red-757892-aacag-1096,false,1,2026-10-07T10:49:27Z
+820204075354,8.5,571.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-black-blue-red-757892-aacag-1096,false,1,2026-10-07T10:49:27Z
 820204075354,13,371.00,"StockX US M 13 (ask $350 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $561.00",https://stockx.com/gucci-ace-web-black-navy-red,false,2,2026-10-06T10:55:00Z
 820204075398,7,402.80,"StockX US M 7 (ask $380 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $579.00",https://stockx.com/gucci-ace-web-white-green-red,false,2,2026-10-06T10:55:00Z
 820204075398,12.5,495.02,"StockX US M 12.5 (ask $467 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $992.00",https://stockx.com/gucci-ace-web-white-green-red,false,2,2026-10-06T10:55:00Z
 820204075433,6,520.46,"StockX US M 6 (ask $491 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $522.00",https://stockx.com/adidas-x-gucci-gazelle-black-gg-monogram,false,2,2026-10-06T10:55:00Z
 820204075433,6.5,446.26,"StockX US M 6.5 (ask $421 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $459.00",https://stockx.com/adidas-x-gucci-gazelle-black-gg-monogram,false,2,2026-10-06T10:55:00Z
-820204075474,7.5,443.00,"GOAT new US 7.5 = US 7.5 (browser read 2026-10-06); also 1 other store(s), next $588.30",https://www.goat.com/sneakers/gucci-x-gazelle-light-blue-suede-hq8851,false,2,2026-10-06T10:55:00Z
+820204075474,7.5,443.00,GOAT new US 7.5 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-x-gazelle-light-blue-suede-hq8851,false,1,2026-10-07T10:49:27Z
 820204075517,6,289.38,"StockX US M 6 (ask $273 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $546.00",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,2,2026-10-06T10:55:00Z
-820204075517,7,463.00,"GOAT new UK 6.5 = US 7 (browser read 2026-10-06); also 1 other store(s), next $509.86",https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,2,2026-10-06T10:55:00Z
-820204075517,8,481.00,"GOAT new UK 7.5 = US 8 (browser read 2026-10-06); also 1 other store(s), next $507.74",https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,2,2026-10-06T10:55:00Z
-820204075517,8.5,520.00,"GOAT new UK 8 = US 8.5 (browser read 2026-10-06); also 1 other store(s), next $550.14",https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,2,2026-10-06T10:55:00Z
-820204075517,10.5,393.00,"GOAT new UK 10 = US 10.5 (browser read 2026-10-06); also 1 other store(s), next $786.52",https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,2,2026-10-06T10:55:00Z
-820204075517,11,523.00,"GOAT new UK 10.5 = US 11 (browser read 2026-10-06); also 1 other store(s), next $761.08",https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,2,2026-10-06T10:55:00Z
+820204075517,7,464.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,1,2026-10-07T10:49:27Z
+820204075517,8,481.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,1,2026-10-07T10:49:27Z
+820204075517,8.5,520.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,1,2026-10-07T10:49:27Z
+820204075517,10.5,393.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,1,2026-10-07T10:49:27Z
+820204075517,11,523.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,1,2026-10-07T10:49:27Z
 820204075517,11.5,497.14,"StockX US M 11.5 (ask $469 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $519.00",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,2,2026-10-06T10:55:00Z
 820204075517,12,508.80,"StockX US M 12 (ask $480 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $868.00",https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-black,false,2,2026-10-06T10:55:00Z
-820204075517,12.5,360.00,"GOAT new UK 12 = US 12.5 (browser read 2026-10-06); also 1 other store(s), next $480.18",https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,2,2026-10-06T10:55:00Z
-820204075517,13.5,512.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,1,2026-10-06T10:55:00Z
-820204075592,6.5,493.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-06); also 1 other store(s), next $509.86",https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,2,2026-10-06T10:55:00Z
-820204075592,7,493.00,"GOAT new UK 6.5 = US 7 (browser read 2026-10-06); also 1 other store(s), next $539.54",https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,2,2026-10-06T10:55:00Z
-820204075592,7.5,493.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-06); also 1 other store(s), next $508.80",https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,2,2026-10-06T10:55:00Z
-820204075592,8,590.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,1,2026-10-06T10:55:00Z
+820204075517,12.5,360.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,1,2026-10-07T10:49:27Z
+820204075517,13.5,512.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-horsebit-black-green-red-624698-1xh10-1066,false,1,2026-10-07T10:49:27Z
+820204075592,6.5,493.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,1,2026-10-07T10:49:27Z
+820204075592,7,493.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,1,2026-10-07T10:49:27Z
+820204075592,7.5,493.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,1,2026-10-07T10:49:27Z
+820204075592,8,590.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,1,2026-10-07T10:49:27Z
 820204075592,9,530.00,"StockX US M 9 (ask $500 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $649.00",https://stockx.com/gucci-horsebit-driver-loafers-black,false,2,2026-10-06T10:55:00Z
-820204075592,10,510.00,"GOAT new UK 9.5 = US 10 (browser read 2026-10-06); also 1 other store(s), next $811.96",https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,2,2026-10-06T10:55:00Z
-820204075592,10.5,563.00,"GOAT new UK 10 = US 10.5 (browser read 2026-10-06); also 1 other store(s), next $800.30",https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,2,2026-10-06T10:55:00Z
-820204075633,9,529.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-06); also 1 other store(s), next $530.00",https://www.goat.com/sneakers/gucci-re-web-sneaker-gg-canvas-white-beige-ae787476-aadhw-9573,false,2,2026-10-06T10:55:00Z
+820204075592,10,510.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,1,2026-10-07T10:49:27Z
+820204075592,10.5,563.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-loafer-horsebit-black-752621-d3v00-1000,false,1,2026-10-07T10:49:27Z
+820204075633,9,529.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-re-web-sneaker-gg-canvas-white-beige-ae787476-aadhw-9573,false,1,2026-10-07T10:49:27Z
 820204075737,12.5,422.94,"StockX US M 12.5 (ask $399 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $672.00",https://stockx.com/gucci-rhyton-distressed,false,2,2026-10-06T10:55:00Z
 820204075737,13.5,323.30,"StockX US M 13.5 (ask $305 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $347.00",https://stockx.com/gucci-rhyton-distressed,false,2,2026-10-06T10:55:00Z
 820204075830,7,422.94,"StockX US M 7 (ask $399 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $628.00",https://stockx.com/gucci-screener-black-canvas,false,2,2026-10-06T10:55:00Z
@@ -203,56 +204,57 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 820205221528,6,428.24,"StockX US M 6 (ask $404 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $602.00",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,2,2026-10-06T10:55:00Z
 820205221528,6.5,424.00,"StockX US M 6.5 (ask $400 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $732.00",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,2,2026-10-06T10:55:00Z
 820205221528,7,424.00,"StockX US M 7 (ask $400 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $692.00",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,2,2026-10-06T10:55:00Z
-820205221528,8,424.00,"GOAT new UK 7.5 = US 8 (browser read 2026-10-06); also 1 other store(s), next $782.28",https://www.goat.com/sneakers/gucci-driver-interlocking-g-brown-sugar-730148-1xh60-2361,false,2,2026-10-06T10:55:00Z
-820205221528,9,432.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-06); also 1 other store(s), next $765.32",https://www.goat.com/sneakers/gucci-driver-interlocking-g-brown-sugar-730148-1xh60-2361,false,2,2026-10-06T10:55:00Z
-820205221528,10.5,445.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-driver-interlocking-g-brown-sugar-730148-1xh60-2361,false,1,2026-10-06T10:55:00Z
+820205221528,8,424.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-brown-sugar-730148-1xh60-2361,false,1,2026-10-07T10:49:27Z
+820205221528,9,432.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-brown-sugar-730148-1xh60-2361,false,1,2026-10-07T10:49:27Z
+820205221528,10.5,445.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-brown-sugar-730148-1xh60-2361,false,1,2026-10-07T10:49:27Z
 820205221528,11,426.12,"StockX US M 11 (ask $402 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-interlocking-g-moccasins-brown,false,1,2026-10-06T10:55:00Z
-820205221528,13.5,378.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-driver-interlocking-g-brown-sugar-730148-1xh60-2361,false,1,2026-10-06T10:55:00Z
-820205221563,5.5,445.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-06); also 1 other store(s), next $515.16",https://www.goat.com/sneakers/gucci-driver-interlocking-g-washed-indigo-692379-1xh00-4246,false,2,2026-10-06T10:55:00Z
-820205221563,6,356.00,"GOAT new UK 5.5 = US 6 (browser read 2026-10-06); also 1 other store(s), next $530.00",https://www.goat.com/sneakers/gucci-driver-interlocking-g-washed-indigo-692379-1xh00-4246,false,2,2026-10-06T10:55:00Z
-820205221563,9,517.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-driver-interlocking-g-washed-indigo-692379-1xh00-4246,false,1,2026-10-06T10:55:00Z
+820205221528,13.5,362.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-brown-sugar-730148-1xh60-2361,false,1,2026-10-07T10:49:27Z
+820205221563,5.5,445.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-washed-indigo-692379-1xh00-4246,false,1,2026-10-07T10:49:27Z
+820205221563,6,356.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-washed-indigo-692379-1xh00-4246,false,1,2026-10-07T10:49:27Z
+820205221563,8.5,523.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-washed-indigo-692379-1xh00-4246,false,1,2026-10-07T10:49:27Z
+820205221563,9,517.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-washed-indigo-692379-1xh00-4246,false,1,2026-10-07T10:49:27Z
 820205221563,9.5,504.56,"StockX US M 9.5 (ask $476 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-06T10:55:00Z
 820205221563,10,504.56,"StockX US M 10 (ask $476 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-06T10:55:00Z
-820205221563,12.5,386.00,"GOAT new UK 12 = US 12.5 (browser read 2026-10-06); also 1 other store(s), next $544.84",https://www.goat.com/sneakers/gucci-driver-interlocking-g-washed-indigo-692379-1xh00-4246,false,2,2026-10-06T10:55:00Z
+820205221563,12.5,386.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-washed-indigo-692379-1xh00-4246,false,1,2026-10-07T10:49:27Z
 820205221563,13,341.32,"StockX US M 13 (ask $322 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-interlocking-g-driver-washed-indigo,false,1,2026-10-06T10:55:00Z
-820205221628,6,525.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-kaveh-loafer-black-green-red-644724-17x10-1060,false,1,2026-10-06T10:55:00Z
+820205221628,6,525.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-kaveh-loafer-black-green-red-644724-17x10-1060,false,1,2026-10-07T10:49:27Z
 820205221628,12,511.98,"StockX US M 12 (ask $483 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $629.00",https://stockx.com/gucci-interlocking-g-loafers-black-green-red-web,false,2,2026-10-06T10:55:00Z
-820205221628,12.5,366.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-kaveh-loafer-black-green-red-644724-17x10-1060,false,1,2026-10-06T10:55:00Z
-820205221669,7.5,550.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-06); also 1 other store(s), next $593.60",https://www.goat.com/sneakers/gucci-mac80-sneaker-black-off-white-756811-aab79-1051,false,2,2026-10-06T10:55:00Z
-820205221669,11.5,632.00,"GOAT new UK 11 = US 11.5 (browser read 2026-10-06); also 1 other store(s), next $853.30",https://www.goat.com/sneakers/gucci-mac80-sneaker-black-off-white-756811-aab79-1051,false,2,2026-10-06T10:55:00Z
+820205221628,12.5,366.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-kaveh-loafer-black-green-red-644724-17x10-1060,false,1,2026-10-07T10:49:27Z
+820205221669,7.5,550.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-mac80-sneaker-black-off-white-756811-aab79-1051,false,1,2026-10-07T10:49:27Z
+820205221669,11.5,632.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-mac80-sneaker-black-off-white-756811-aab79-1051,false,1,2026-10-07T10:49:27Z
 820205221669,12,409.16,"StockX US M 12 (ask $386 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $496.00",https://stockx.com/gucci-mac80-black-off-white,false,2,2026-10-06T10:55:00Z
 820205221669,12.5,528.94,"StockX US M 12.5 (ask $499 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $721.00",https://stockx.com/gucci-mac80-black-off-white,false,2,2026-10-06T10:55:00Z
-820205221669,13,589.00,"GOAT new UK 12.5 = US 13 (browser read 2026-10-06); also 1 other store(s), next $734.58",https://www.goat.com/sneakers/gucci-mac80-sneaker-black-off-white-756811-aab79-1051,false,2,2026-10-06T10:55:00Z
+820205221669,13,589.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-mac80-sneaker-black-off-white-756811-aab79-1051,false,1,2026-10-07T10:49:27Z
 820205221669,13.5,505.62,"StockX US M 13.5 (ask $477 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $957.00",https://stockx.com/gucci-mac80-black-off-white,false,2,2026-10-06T10:55:00Z
-820205221669,14,537.00,GOAT new UK 13.5 = US 14 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-mac80-sneaker-black-off-white-756811-aab79-1051,false,1,2026-10-06T10:55:00Z
-820205221755,12.5,375.00,"GOAT new UK 12 = US 12.5 (browser read 2026-10-06); also 1 other store(s), next $452.62",https://www.goat.com/sneakers/gucci-noel-driver-loafer-black-450891-dtm10-1060,false,2,2026-10-06T10:55:00Z
-820205221755,13.5,488.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-noel-driver-loafer-black-450891-dtm10-1060,false,1,2026-10-06T10:55:00Z
-820205221855,9,529.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-06); also 1 other store(s), next $530.00",https://www.goat.com/sneakers/gucci-re-web-sneaker-gg-canvas-black-787476-aadhw-1077,false,2,2026-10-06T10:55:00Z
+820205221669,14,537.00,GOAT new UK 13.5 = US 14 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-mac80-sneaker-black-off-white-756811-aab79-1051,false,1,2026-10-07T10:49:27Z
+820205221755,12.5,375.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-noel-driver-loafer-black-450891-dtm10-1060,false,1,2026-10-07T10:49:27Z
+820205221755,13.5,488.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-noel-driver-loafer-black-450891-dtm10-1060,false,1,2026-10-07T10:49:27Z
+820205221855,9,529.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-re-web-sneaker-gg-canvas-black-787476-aadhw-1077,false,1,2026-10-07T10:49:27Z
 820205329339,11.5,360.40,"StockX US M 11.5 (ask $340 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $661.00",https://stockx.com/gucci-ace-supreme-bees,false,2,2026-10-06T10:55:00Z
-820205329339,12.5,430.00,"GOAT new UK 12 = US 12.5 (browser read 2026-10-06); also 1 other store(s), next $518.34",https://www.goat.com/sneakers/gucci-ace-gg-supreme-bees-548950-9n020-8465,false,2,2026-10-06T10:55:00Z
+820205329339,12.5,430.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-supreme-bees-548950-9n020-8465,false,1,2026-10-07T10:49:27Z
 820205329339,14,386.90,"StockX US M 14 (ask $365 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-supreme-bees,false,1,2026-10-06T10:55:00Z
 820205329339,14.5,378.42,"StockX US M 14.5 (ask $357 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-supreme-bees,false,1,2026-10-06T10:55:00Z
-820205329431,5.5,446.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-interlocking-g-599147-ayo70-9094,false,1,2026-10-06T10:55:00Z
+820205329431,5.5,446.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-interlocking-g-599147-ayo70-9094,false,1,2026-10-07T10:49:27Z
 820205329431,6.5,422.94,"StockX US M 6.5 (ask $399 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $573.00",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,2,2026-10-06T10:55:00Z
 820205329431,7,421.88,"StockX US M 7 (ask $398 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,1,2026-10-06T10:55:00Z
 820205329431,7.5,409.16,"StockX US M 7.5 (ask $386 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $823.00",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,2,2026-10-06T10:55:00Z
 820205329431,8,421.88,"StockX US M 8 (ask $398 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $603.00",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,2,2026-10-06T10:55:00Z
 820205329431,9,376.30,"StockX US M 9 (ask $355 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $868.00",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,2,2026-10-06T10:55:00Z
 820205329431,10.5,453.68,"StockX US M 10.5 (ask $428 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $1124.00",https://stockx.com/gucci-ace-perforated-interlocking-g-white,false,2,2026-10-06T10:55:00Z
-820205329431,13.5,316.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-interlocking-g-599147-ayo70-9094,false,1,2026-10-06T10:55:00Z
-820205329431,14.5,321.00,"GOAT new UK 14 = US 14.5 (browser read 2026-10-06); also 1 other store(s), next $634.94",https://www.goat.com/sneakers/gucci-ace-interlocking-g-599147-ayo70-9094,false,2,2026-10-06T10:55:00Z
-820205329595,12,558.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-mac80-sneaker-off-white-gum-747953-aab8c-9110,false,1,2026-10-06T10:55:00Z
+820205329431,13.5,316.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-interlocking-g-599147-ayo70-9094,false,1,2026-10-07T10:49:27Z
+820205329431,14.5,321.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-interlocking-g-599147-ayo70-9094,false,1,2026-10-07T10:49:27Z
+820205329595,12,558.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-mac80-sneaker-off-white-gum-747953-aab8c-9110,false,1,2026-10-07T10:49:27Z
 820205329595,13.5,580.88,"StockX US M 13.5 (ask $548 + 6% fee, browser read 2026-10-06)",https://stockx.com/gucci-mac80-off-white,false,1,2026-10-06T10:55:00Z
-820205329783,5,495.00,"GOAT new UK 4.5 = US 5 (browser read 2026-10-06); also 1 other store(s), next $697.48",https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,2,2026-10-06T10:55:00Z
-820205329783,6,553.00,"GOAT new UK 5.5 = US 6 (browser read 2026-10-06); also 1 other store(s), next $681.58",https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,2,2026-10-06T10:55:00Z
-820205329783,6.5,504.00,"GOAT new UK 6 = US 6.5 (browser read 2026-10-06); also 1 other store(s), next $608.44",https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,2,2026-10-06T10:55:00Z
+820205329783,5,495.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,1,2026-10-07T10:49:27Z
+820205329783,6,553.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,1,2026-10-07T10:49:27Z
+820205329783,6.5,504.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,1,2026-10-07T10:49:27Z
 820205329783,7,477.00,"StockX US M 7 (ask $450 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $569.00",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,2,2026-10-06T10:55:00Z
-820205329783,7.5,533.00,"GOAT new UK 7 = US 7.5 (browser read 2026-10-06); also 1 other store(s), next $623.28",https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,2,2026-10-06T10:55:00Z
-820205329783,8.5,520.00,"GOAT new UK 8 = US 8.5 (browser read 2026-10-06); also 1 other store(s), next $524.70",https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,2,2026-10-06T10:55:00Z
-820205329783,9,491.00,"GOAT new UK 8.5 = US 9 (browser read 2026-10-06); also 1 other store(s), next $585.12",https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,2,2026-10-06T10:55:00Z
-820205329783,9.5,537.00,"GOAT new UK 9 = US 9.5 (browser read 2026-10-06); also 1 other store(s), next $660.38",https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,2,2026-10-06T10:55:00Z
-820205329783,10.5,501.00,"GOAT new UK 10 = US 10.5 (browser read 2026-10-06); also 1 other store(s), next $581.94",https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,2,2026-10-06T10:55:00Z
-820205329783,11.5,451.00,"GOAT new UK 11 = US 11.5 (browser read 2026-10-06); also 1 other store(s), next $452.62",https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,2,2026-10-06T10:55:00Z
+820205329783,7.5,531.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,1,2026-10-07T10:49:27Z
+820205329783,8.5,520.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,1,2026-10-07T10:49:27Z
+820205329783,9,491.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,1,2026-10-07T10:49:27Z
+820205329783,9.5,537.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,1,2026-10-07T10:49:27Z
+820205329783,10.5,501.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,1,2026-10-07T10:49:27Z
+820205329783,11.5,451.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-high-beige-ebony-625807-hvk70-9765,false,1,2026-10-07T10:49:27Z
 820205329783,12,447.32,"StockX US M 12 (ask $422 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $569.00",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,2,2026-10-06T10:55:00Z
 820205329783,12.5,469.58,"StockX US M 12.5 (ask $443 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $472.00",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,2,2026-10-06T10:55:00Z
 820205329783,13,447.32,"StockX US M 13 (ask $422 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $602.00",https://stockx.com/gucci-tennis-1977-canvas-high-top-beige-gg-print,false,2,2026-10-06T10:55:00Z
@@ -261,159 +263,160 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 820205389034,10,1462.80,"StockX US M 10 (ask $1380 + 6% fee, browser read 2026-10-06)",https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white,false,1,2026-10-06T10:55:00Z
 820205389034,11,1219.00,"StockX US M 11 (ask $1150 + 6% fee, browser read 2026-10-06)",https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white,false,1,2026-10-06T10:55:00Z
 820205389034,12,1559.26,"StockX US M 12 (ask $1471 + 6% fee, browser read 2026-10-06)",https://stockx.com/louis-vuitton-lv-skate-sneaker-beige-white,false,1,2026-10-06T10:55:00Z
-820205698211,5,575.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,1,2026-10-06T10:55:00Z
-820205698211,5.5,490.00,"GOAT new UK 5 = US 5.5 (browser read 2026-10-06); also 1 other store(s), next $727.16",https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,2,2026-10-06T10:55:00Z
-820205698211,6,525.00,"GOAT new UK 5.5 = US 6 (browser read 2026-10-06); also 1 other store(s), next $928.56",https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,2,2026-10-06T10:55:00Z
-820205698211,11.5,520.00,"GOAT new UK 11 = US 11.5 (browser read 2026-10-06); also 1 other store(s), next $554.38",https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,2,2026-10-06T10:55:00Z
-820205698211,12.5,598.00,"GOAT new UK 12 = US 12.5 (browser read 2026-10-06); also 1 other store(s), next $977.32",https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,2,2026-10-06T10:55:00Z
+820205698211,5,575.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,1,2026-10-07T10:49:27Z
+820205698211,5.5,490.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,1,2026-10-07T10:49:27Z
+820205698211,6,525.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,1,2026-10-07T10:49:27Z
+820205698211,11.5,520.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,1,2026-10-07T10:49:27Z
+820205698211,12.5,598.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,1,2026-10-07T10:49:27Z
 820205698211,13,424.00,"StockX US M 13 (ask $400 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $505.00",https://stockx.com/gucci-ace-black-gg,false,2,2026-10-06T10:55:00Z
 820205698211,13.5,444.14,"StockX US M 13.5 (ask $419 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $490.00",https://stockx.com/gucci-ace-black-gg,false,2,2026-10-06T10:55:00Z
 820205698211,14,496.08,"StockX US M 14 (ask $468 + 6% fee, browser read 2026-10-06); also 1 other store(s), next $514.00",https://stockx.com/gucci-ace-black-gg,false,2,2026-10-06T10:55:00Z
-820205698211,15.5,497.00,"GOAT new UK 15 = US 15.5 (browser read 2026-10-06); also 1 other store(s), next $583.00",https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,2,2026-10-06T10:55:00Z
-820207186160,8,737.00,GOAT new EU 41 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/balenciaga-runner-sneaker-black-matte-772774-w3rbt-1000,false,1,2026-10-06T10:55:00Z
-820207186196,6,728.00,GOAT new EU 39 = US 6 (browser read 2026-10-06),https://www.goat.com/sneakers/balenciaga-runner-sneaker-white-677403-w3rb1-9000,false,1,2026-10-06T10:55:00Z
-820207186196,12,769.00,GOAT new EU 45 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/balenciaga-runner-sneaker-white-677403-w3rb1-9000,false,1,2026-10-06T10:55:00Z
-820207186222,12,412.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-embossed-white-625787-1xk10-9022,false,1,2026-10-06T10:55:00Z
-820207186222,13,401.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-embossed-white-625787-1xk10-9022,false,1,2026-10-06T10:55:00Z
-820207186222,17,227.00,GOAT new UK 16.5 = US 17 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-ace-gg-embossed-white-625787-1xk10-9022,false,1,2026-10-06T10:55:00Z
-820207186253,7,516.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158,false,1,2026-10-06T10:55:00Z
-820207186253,7.5,546.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158,false,1,2026-10-06T10:55:00Z
-820207186253,10,,no new pair in stock at GOAT 2026-10-06 (browser read),,false,0,2026-10-06T10:55:00Z
-820207186253,12.5,503.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158,false,1,2026-10-06T10:55:00Z
-820207186253,14.5,560.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158,false,1,2026-10-06T10:55:00Z
-820207186287,6.5,407.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,7.5,432.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,8,447.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,8.5,426.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,9,446.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,9.5,507.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,10,458.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,10.5,471.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,11.5,476.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,12,301.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,12.5,382.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,13,392.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,13.5,311.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,14.5,269.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,15,424.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186287,15.5,337.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186315,5.5,638.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280,false,1,2026-10-06T10:55:00Z
-820207186315,8.5,476.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280,false,1,2026-10-06T10:55:00Z
-820207186315,10,646.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280,false,1,2026-10-06T10:55:00Z
-820207186315,12.5,430.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280,false,1,2026-10-06T10:55:00Z
-820207186346,5,549.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,5.5,634.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,6.5,501.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,7,522.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,7.5,486.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,9,666.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,9.5,641.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,10,685.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,13,554.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,13.5,522.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,15,580.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186346,15.5,402.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-06T10:55:00Z
-820207186379,8.5,395.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-green-demetra-661301-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186379,9,415.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-green-demetra-661301-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186379,11.5,424.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-green-demetra-661301-2sh90-3760,false,1,2026-10-06T10:55:00Z
-820207186442,6,641.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-06T10:55:00Z
-820207186442,12,642.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-06T10:55:00Z
-820207186442,13.5,623.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-06T10:55:00Z
-820207186442,15,363.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-06T10:55:00Z
-820207186442,15.5,621.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-06T10:55:00Z
-820207186465,7,571.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,7.5,452.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,8,369.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,10,473.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,10.5,529.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,11.5,401.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,12.5,368.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,13,320.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,13.5,300.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,14,317.00,GOAT new UK 13.5 = US 14 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,14.5,383.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,15,320.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186465,15.5,317.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-06T10:55:00Z
-820207186489,5.5,605.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,6,451.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,6.5,486.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,7,486.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,7.5,520.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,8,427.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,8.5,523.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,9,644.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,9.5,478.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,10,430.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,10.5,407.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,11.5,509.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,12.5,347.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,13,373.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,13.5,314.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,14,424.00,GOAT new UK 13.5 = US 14 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,15,423.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186489,15.5,394.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-06T10:55:00Z
-820207186525,6.5,597.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-06T10:55:00Z
-820207186525,8.5,503.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-06T10:55:00Z
-820207186525,9.5,362.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-06T10:55:00Z
-820207186525,10.5,439.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-06T10:55:00Z
-820207186525,11.5,590.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-06T10:55:00Z
-820207186525,12,374.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-06T10:55:00Z
-820207186525,12.5,374.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-06T10:55:00Z
-820207186525,13.5,374.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-06T10:55:00Z
-820207186550,7,426.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154,false,1,2026-10-06T10:55:00Z
-820207186550,8,434.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154,false,1,2026-10-06T10:55:00Z
-820207186550,8.5,411.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154,false,1,2026-10-06T10:55:00Z
-820207186550,9,424.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154,false,1,2026-10-06T10:55:00Z
-820207186594,12.5,644.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-gg-screener-grey-navy-576223-faa3t-4551,false,1,2026-10-06T10:55:00Z
-820207186615,8,657.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-mac80-sneaker-white-blue-749896-aab79-9149,false,1,2026-10-06T10:55:00Z
-820207186615,10,425.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-mac80-sneaker-white-blue-749896-aab79-9149,false,1,2026-10-06T10:55:00Z
-820207186615,11.5,528.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-mac80-sneaker-white-blue-749896-aab79-9149,false,1,2026-10-06T10:55:00Z
-820207186641,7,453.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-interlocking-g-star-692935-drw00-9522,false,1,2026-10-06T10:55:00Z
-820207186667,7.5,559.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-06T10:55:00Z
-820207186667,8,488.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-06T10:55:00Z
-820207186667,8.5,882.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-06T10:55:00Z
-820207186667,9,526.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-06T10:55:00Z
-820207186667,9.5,561.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-06T10:55:00Z
-820207186667,10,561.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-06T10:55:00Z
-820207186667,10.5,566.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-06T10:55:00Z
-820207186667,11,566.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-06T10:55:00Z
-820207186704,5,324.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-white-red-green-reflective-643491-2h060-9088,false,1,2026-10-06T10:55:00Z
-820207186704,7.5,505.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-white-red-green-reflective-643491-2h060-9088,false,1,2026-10-06T10:55:00Z
-820207186704,8.5,509.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-rhyton-white-red-green-reflective-643491-2h060-9088,false,1,2026-10-06T10:55:00Z
-820207186744,8,570.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-06T10:55:00Z
-820207186744,9.5,529.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-06T10:55:00Z
-820207186744,10,538.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-06T10:55:00Z
-820207186744,11.5,652.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-06T10:55:00Z
-820207186744,12,607.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-06T10:55:00Z
-820207186744,12.5,629.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-06T10:55:00Z
-820207186744,13,479.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-06T10:55:00Z
-820207186774,12,522.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-black-714658-usm10-8442,false,1,2026-10-06T10:55:00Z
-820207186774,12.5,413.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-black-714658-usm10-8442,false,1,2026-10-06T10:55:00Z
-820207186774,13,568.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-black-714658-usm10-8442,false,1,2026-10-06T10:55:00Z
-820207186802,10.5,459.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-06T10:55:00Z
-820207186802,11,450.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-06T10:55:00Z
-820207186802,11.5,450.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-06T10:55:00Z
-820207186802,12,310.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-06T10:55:00Z
-820207186802,12.5,347.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-06T10:55:00Z
-820207186802,13,349.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-06T10:55:00Z
-820207186802,13.5,451.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-06T10:55:00Z
-820207186833,6.5,719.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-06T10:55:00Z
-820207186833,7,728.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-06T10:55:00Z
-820207186833,10,764.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-06T10:55:00Z
-820207186833,10.5,669.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-06T10:55:00Z
-820207186833,11,668.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-06T10:55:00Z
-820207186833,11.5,503.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-06T10:55:00Z
-820207186833,12,684.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-06T10:55:00Z
-820207186833,12.5,776.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-06T10:55:00Z
-820207186833,13,776.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-06T10:55:00Z
-820207186853,7.5,676.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444,false,1,2026-10-06T10:55:00Z
-820207186853,8,675.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444,false,1,2026-10-06T10:55:00Z
-820207186853,9,632.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444,false,1,2026-10-06T10:55:00Z
-820207186853,9.5,641.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444,false,1,2026-10-06T10:55:00Z
-820207186878,13,442.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-tennis-1977-black-ivory-606111-un320-1291,false,1,2026-10-06T10:55:00Z
-820207186878,14.5,372.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-tennis-1977-black-ivory-606111-un320-1291,false,1,2026-10-06T10:55:00Z
-820207186919,13,408.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-tennis-1977-denim-606111-2kq10-4463,false,1,2026-10-06T10:55:00Z
-820207186919,13.5,327.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-tennis-1977-denim-606111-2kq10-4463,false,1,2026-10-06T10:55:00Z
-820207186962,9.5,477.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-tennis-1977-low-gg-monogram-ebony-beige-771461-factd-8644,false,1,2026-10-06T10:55:00Z
-820207186962,10,550.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-tennis-1977-low-gg-monogram-ebony-beige-771461-factd-8644,false,1,2026-10-06T10:55:00Z
-820207186962,11.5,419.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-06),https://www.goat.com/sneakers/gucci-tennis-1977-low-gg-monogram-ebony-beige-771461-factd-8644,false,1,2026-10-06T10:55:00Z
+820205698211,15.5,497.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-embossed-black-625787-1xk10-1000,false,1,2026-10-07T10:49:27Z
+820207186160,8,1629.00,GOAT new EU 41 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/balenciaga-runner-sneaker-black-matte-772774-w3rbt-1000,false,1,2026-10-07T10:49:27Z
+820207186196,6,728.00,GOAT new EU 39 = US 6 (browser read 2026-10-07),https://www.goat.com/sneakers/balenciaga-runner-sneaker-white-677403-w3rb1-9000,false,1,2026-10-07T10:49:27Z
+820207186196,12,767.00,GOAT new EU 45 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/balenciaga-runner-sneaker-white-677403-w3rb1-9000,false,1,2026-10-07T10:49:27Z
+820207186222,12,412.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-embossed-white-625787-1xk10-9022,false,1,2026-10-07T10:49:27Z
+820207186222,13,401.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-embossed-white-625787-1xk10-9022,false,1,2026-10-07T10:49:27Z
+820207186222,17,227.00,GOAT new UK 16.5 = US 17 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-ace-gg-embossed-white-625787-1xk10-9022,false,1,2026-10-07T10:49:27Z
+820207186253,7,516.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158,false,1,2026-10-07T10:49:27Z
+820207186253,7.5,546.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158,false,1,2026-10-07T10:49:27Z
+820207186253,10,,no new pair in stock at GOAT 2026-10-07 (browser read; StockX not reachable),,false,0,2026-10-07T10:49:27Z
+820207186253,12.5,503.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158,false,1,2026-10-07T10:49:27Z
+820207186253,14.5,560.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-black-red-724004-faa1u-1158,false,1,2026-10-07T10:49:27Z
+820207186287,6.5,407.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,7.5,432.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,8,447.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,8.5,426.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,9,446.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,9.5,507.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,10,458.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,10.5,471.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,11.5,476.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,12,301.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,12.5,382.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,13,392.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,13.5,311.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,14.5,269.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,15,424.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186287,15.5,337.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-green-demetra-697882-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186315,5.5,638.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280,false,1,2026-10-07T10:49:27Z
+820207186315,8.5,476.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280,false,1,2026-10-07T10:49:27Z
+820207186315,10,646.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280,false,1,2026-10-07T10:49:27Z
+820207186315,12.5,430.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-grey-yellow-blue-703645-2sh90-1280,false,1,2026-10-07T10:49:27Z
+820207186346,5,549.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,5.5,634.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,6.5,501.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,7,522.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,7.5,486.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,9,666.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,9.5,641.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,10,685.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,13,554.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,13.5,522.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,15,580.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186346,15.5,402.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-black-demetra-661303-2sh90-1072,false,1,2026-10-07T10:49:27Z
+820207186379,8.5,395.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-green-demetra-661301-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186379,9,415.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-green-demetra-661301-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186379,11.5,424.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-green-demetra-661301-2sh90-3760,false,1,2026-10-07T10:49:27Z
+820207186442,6,641.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-07T10:49:27Z
+820207186442,12,642.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-07T10:49:27Z
+820207186442,13.5,623.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-07T10:49:27Z
+820207186442,15,363.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-07T10:49:27Z
+820207186442,15.5,621.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-high-white-demetra-red-673077-2shg0-9076,false,1,2026-10-07T10:49:27Z
+820207186465,7,571.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,7.5,452.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,8,369.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,10,473.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,10.5,529.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,11.5,401.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,12.5,368.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,13,320.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,13.5,300.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,14,317.00,GOAT new UK 13.5 = US 14 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,14.5,383.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,15,320.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186465,15.5,317.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-green-698785-2shg0-9089,false,1,2026-10-07T10:49:27Z
+820207186489,5.5,605.00,GOAT new UK 5 = US 5.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,6,451.00,GOAT new UK 5.5 = US 6 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,6.5,486.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,7,486.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,7.5,520.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,8,427.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,8.5,523.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,9,644.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,9.5,478.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,10,430.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,10.5,407.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,11.5,509.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,12.5,347.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,13,373.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,13.5,312.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,14,424.00,GOAT new UK 13.5 = US 14 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,15,423.00,GOAT new UK 14.5 = US 15 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186489,15.5,394.00,GOAT new UK 15 = US 15.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-low-white-demetra-red-697882-2shj0-9090,false,1,2026-10-07T10:49:27Z
+820207186525,6.5,597.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-07T10:49:27Z
+820207186525,8.5,503.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-07T10:49:27Z
+820207186525,9.5,362.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-07T10:49:27Z
+820207186525,10.5,439.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-07T10:49:27Z
+820207186525,11.5,590.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-07T10:49:27Z
+820207186525,12,374.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-07T10:49:27Z
+820207186525,12.5,374.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-07T10:49:27Z
+820207186525,13.5,374.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-basket-red-black-demetra-697882-2sh90-6662,false,1,2026-10-07T10:49:27Z
+820207186550,7,426.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154,false,1,2026-10-07T10:49:27Z
+820207186550,8,434.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154,false,1,2026-10-07T10:49:27Z
+820207186550,8.5,411.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154,false,1,2026-10-07T10:49:27Z
+820207186550,9,424.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-driver-interlocking-g-green-730148-1xh60-3154,false,1,2026-10-07T10:49:27Z
+820207186594,12.5,644.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-gg-screener-grey-navy-576223-faa3t-4551,false,1,2026-10-07T10:49:27Z
+820207186615,8,657.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-mac80-sneaker-white-blue-749896-aab79-9149,false,1,2026-10-07T10:49:27Z
+820207186615,10,425.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-mac80-sneaker-white-blue-749896-aab79-9149,false,1,2026-10-07T10:49:27Z
+820207186615,11.5,528.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-mac80-sneaker-white-blue-749896-aab79-9149,false,1,2026-10-07T10:49:27Z
+820207186641,7,453.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-interlocking-g-star-692935-drw00-9522,false,1,2026-10-07T10:49:27Z
+820207186667,7.5,559.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-07T10:49:27Z
+820207186667,8,488.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-07T10:49:27Z
+820207186667,8.5,882.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-07T10:49:27Z
+820207186667,9,526.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-07T10:49:27Z
+820207186667,9.5,561.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-07T10:49:27Z
+820207186667,10,561.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-07T10:49:27Z
+820207186667,10.5,566.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-07T10:49:27Z
+820207186667,11,566.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-maxi-gg-supreme-black-khaki-beige-725932-faa1p-1155,false,1,2026-10-07T10:49:27Z
+820207186704,5,324.00,GOAT new UK 4.5 = US 5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-white-red-green-reflective-643491-2h060-9088,false,1,2026-10-07T10:49:27Z
+820207186704,7.5,505.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-white-red-green-reflective-643491-2h060-9088,false,1,2026-10-07T10:49:27Z
+820207186704,8.5,509.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-rhyton-white-red-green-reflective-643491-2h060-9088,false,1,2026-10-07T10:49:27Z
+820207186744,8,570.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-07T10:49:27Z
+820207186744,8.5,612.00,GOAT new UK 8 = US 8.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-07T10:49:27Z
+820207186744,9.5,529.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-07T10:49:27Z
+820207186744,10,538.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-07T10:49:27Z
+820207186744,11.5,652.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-07T10:49:27Z
+820207186744,12,607.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-07T10:49:27Z
+820207186744,12.5,604.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-07T10:49:27Z
+820207186744,13,479.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-beige-ebony-monogram-721116-aabeb-9742,false,1,2026-10-07T10:49:27Z
+820207186774,12,522.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-black-714658-usm10-8442,false,1,2026-10-07T10:49:27Z
+820207186774,12.5,412.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-black-714658-usm10-8442,false,1,2026-10-07T10:49:27Z
+820207186774,13,568.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-black-714658-usm10-8442,false,1,2026-10-07T10:49:27Z
+820207186802,10.5,459.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-07T10:49:27Z
+820207186802,11,450.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-07T10:49:27Z
+820207186802,11.5,450.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-07T10:49:27Z
+820207186802,12,310.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-07T10:49:27Z
+820207186802,12.5,347.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-07T10:49:27Z
+820207186802,13,349.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-07T10:49:27Z
+820207186802,13.5,451.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-black-714658-usm10-8475,false,1,2026-10-07T10:49:27Z
+820207186833,6.5,719.00,GOAT new UK 6 = US 6.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-07T10:49:27Z
+820207186833,7,728.00,GOAT new UK 6.5 = US 7 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-07T10:49:27Z
+820207186833,10,764.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-07T10:49:27Z
+820207186833,10.5,669.00,GOAT new UK 10 = US 10.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-07T10:49:27Z
+820207186833,11,668.00,GOAT new UK 10.5 = US 11 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-07T10:49:27Z
+820207186833,11.5,503.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-07T10:49:27Z
+820207186833,12,684.00,GOAT new UK 11.5 = US 12 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-07T10:49:27Z
+820207186833,12.5,776.00,GOAT new UK 12 = US 12.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-07T10:49:27Z
+820207186833,13,776.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-run-sneaker-white-suede-749785-aab62-9144,false,1,2026-10-07T10:49:27Z
+820207186853,7.5,676.00,GOAT new UK 7 = US 7.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444,false,1,2026-10-07T10:49:27Z
+820207186853,8,675.00,GOAT new UK 7.5 = US 8 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444,false,1,2026-10-07T10:49:27Z
+820207186853,9,632.00,GOAT new UK 8.5 = US 9 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444,false,1,2026-10-07T10:49:27Z
+820207186853,9.5,641.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-screener-gg-supreme-black-grey-763525-facmi-8444,false,1,2026-10-07T10:49:27Z
+820207186878,13,442.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-black-ivory-606111-un320-1291,false,1,2026-10-07T10:49:27Z
+820207186878,14.5,372.00,GOAT new UK 14 = US 14.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-black-ivory-606111-un320-1291,false,1,2026-10-07T10:49:27Z
+820207186919,13,408.00,GOAT new UK 12.5 = US 13 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-denim-606111-2kq10-4463,false,1,2026-10-07T10:49:27Z
+820207186919,13.5,327.00,GOAT new UK 13 = US 13.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-denim-606111-2kq10-4463,false,1,2026-10-07T10:49:27Z
+820207186962,9.5,477.00,GOAT new UK 9 = US 9.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-low-gg-monogram-ebony-beige-771461-factd-8644,false,1,2026-10-07T10:49:27Z
+820207186962,10,550.00,GOAT new UK 9.5 = US 10 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-low-gg-monogram-ebony-beige-771461-factd-8644,false,1,2026-10-07T10:49:27Z
+820207186962,11.5,419.00,GOAT new UK 11 = US 11.5 (browser read 2026-10-07),https://www.goat.com/sneakers/gucci-tennis-1977-low-gg-monogram-ebony-beige-771461-factd-8644,false,1,2026-10-07T10:49:27Z

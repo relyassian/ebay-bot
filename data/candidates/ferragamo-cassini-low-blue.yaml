@@ -1,0 +1,33 @@
+id: ferragamo-cassini-low-blue
+brand: Ferragamo
+model: Cassini Low-Top Sneaker
+colorway: Blue
+style_code: 021276 763502 M
+category: sneaker
+department: Men
+color: Blue
+size_system: US
+retail_price: 895
+price: 867.99
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '8'
+  native: US 8
+  cost: 384.0
+  source: GOAT new US 8 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/ferragamo-cassini-low-top-sneaker-blue-021276-763502-m
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'
+- us: '8.5'
+  native: US 8.5
+  cost: 384.0
+  source: GOAT new US 8.5 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/ferragamo-cassini-low-top-sneaker-blue-021276-763502-m
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'

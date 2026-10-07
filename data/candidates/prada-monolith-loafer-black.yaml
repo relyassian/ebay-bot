@@ -1,0 +1,26 @@
+id: prada-monolith-loafer-black
+brand: Prada
+model: Monolith Brushed Leather Loafer
+colorway: Black
+style_code: 2DE129 B4L F0002
+category: loafer
+department: Men
+color: Black
+upper_material: Leather
+size_system: UK
+retail_price: 1270
+price: 1230.99
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7.5'
+  native: UK 6.5
+  cost: 666.0
+  source: GOAT new UK 6.5 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/prada-monolith-loafer-black-2de129-b4l-f0002
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'

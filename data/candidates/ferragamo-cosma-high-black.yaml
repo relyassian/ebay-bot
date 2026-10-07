@@ -1,0 +1,33 @@
+id: ferragamo-cosma-high-black
+brand: Ferragamo
+model: Cosma High-Top Sneaker
+colorway: Black
+style_code: 021186 758765 M
+category: sneaker
+department: Men
+color: Black
+size_system: US
+retail_price: 1090
+price: 1056.99
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '12'
+  native: US 12
+  cost: 373.0
+  source: GOAT new US 12 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/ferragamo-cosma-high-top-sneaker-black-021186-758765-m
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'
+- us: '13'
+  native: US 13
+  cost: 373.0
+  source: GOAT new US 13 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/ferragamo-cosma-high-top-sneaker-black-021186-758765-m
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'

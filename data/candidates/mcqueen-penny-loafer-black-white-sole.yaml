@@ -1,0 +1,50 @@
+id: mcqueen-penny-loafer-black-white-sole
+brand: Alexander McQueen
+model: Contrast Sole Leather Penny Loafer
+colorway: Black/White
+style_code: 683571 WHZ8N 1090
+category: loafer
+department: Men
+color: Black
+upper_material: Leather
+size_system: EU
+retail_price: 970
+price: 939.99
+discontinued_verified: false
+photos: []
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7'
+  native: EU 40
+  cost: 410.0
+  source: GOAT new EU 40 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/alexander-mcqueen-contrast-sole-leather-penny-loafers-black-white-683571-whz8n-1090
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'
+- us: '8'
+  native: EU 41
+  cost: 413.0
+  source: GOAT new EU 41 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/alexander-mcqueen-contrast-sole-leather-penny-loafers-black-white-683571-whz8n-1090
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'
+- us: '8.5'
+  native: EU 41.5
+  cost: 410.0
+  source: GOAT new EU 41.5 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/alexander-mcqueen-contrast-sole-leather-penny-loafers-black-white-683571-whz8n-1090
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'
+- us: '9'
+  native: EU 42
+  cost: 431.0
+  source: GOAT new EU 42 (browser read 2026-10-07)
+  url: https://www.goat.com/sneakers/alexander-mcqueen-contrast-sole-leather-penny-loafers-black-white-683571-whz8n-1090
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T10:50:57Z'
