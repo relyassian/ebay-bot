@@ -1,0 +1,36 @@
+# Extra research run 2026-10-07 (competitive products). Source: Farfetch sale, read in the browser.
+# retail_price = Farfetch's crossed-out US price (brand US retail not verified); price = 85% of it to stay under retail.
+# Net at this price (8% ads): US 12 $174. No eBay catalog match (catalog lookup Oct 7) -> photos: [].
+id: brunello-cucinelli-suede-sneaker-beige
+brand: Brunello Cucinelli
+model: Panelled Suede Sneaker
+colorway: Beige
+style_code: MZUQHGA348CRJ89
+category: sneaker
+department: Men
+color: Beige
+upper_material: Suede
+size_system: IT
+retail_price: 1472
+price: 1250.99
+discontinued_verified: false
+photos: []
+made_in: Italy
+highlights:
+- Calf suede upper
+- Perforated detail
+- Calf leather lining
+- Rubber sole
+included:
+- Shoes
+- Original box
+sizes:
+- us: '12'
+  native: '45'
+  cost: 774.0
+  source: Farfetch (IT 45; style MZUQHGA348CRJ89; duties included; size menu read
+    in browser 2026-10-07)
+  url: https://www.farfetch.com/shopping/men/brunello-cucinelli-panelled-sneakers-item-33862377.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'

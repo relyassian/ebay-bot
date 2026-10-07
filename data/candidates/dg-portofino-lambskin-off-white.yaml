@@ -1,0 +1,45 @@
+# Extra research run 2026-10-07 (competitive products). Source: Farfetch sale, read in the browser.
+# retail_price = Farfetch's crossed-out US price (brand US retail not verified); price = 85% of it to stay under retail.
+# Net at this price (8% ads): US 8 $191, US 12 $191. No eBay catalog match (catalog lookup Oct 7) -> photos: [].
+id: dg-portofino-lambskin-off-white
+brand: Dolce & Gabbana
+model: Portofino Lambskin Sneaker
+colorway: Off-White
+style_code: CS2392A0218
+category: sneaker
+department: Men
+color: White
+upper_material: Leather
+size_system: IT
+retail_price: 944
+price: 801.99
+discontinued_verified: false
+photos: []
+made_in: Italy
+highlights:
+- Lambskin leather upper
+- Openwork toe
+- Contrast heel
+- Rubber sole
+included:
+- Shoes
+- Original box
+sizes:
+- us: '8'
+  native: '41'
+  cost: 410.0
+  source: Farfetch (EU 41; style CS2392A0218; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/dolce-gabbana-portofino-leather-sneakers-item-34084701.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '12'
+  native: '45'
+  cost: 410.0
+  source: Farfetch (EU 45; style CS2392A0218; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/dolce-gabbana-portofino-leather-sneakers-item-34084701.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'

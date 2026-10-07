@@ -1,0 +1,42 @@
+# Extra research run 2026-10-07 (competitive products). Source: Farfetch sale, read in the browser.
+# retail_price = Farfetch's crossed-out US price (brand US retail not verified); price = 85% of it to stay under retail.
+# Net at this price (8% ads): US 10 $194, US 11 $237. No eBay catalog match (catalog lookup Oct 7) -> photos: [].
+id: lanvin-curb-cutout-pink
+brand: Lanvin
+model: Curb Cut-Out Lace-Up Sneaker
+colorway: Pink
+style_code: FUSKDK12BICOE25
+category: sneaker
+department: Men
+color: Pink
+upper_material: Suede
+size_system: EU
+retail_price: 1143
+price: 970.99
+discontinued_verified: false
+photos: []
+highlights:
+- Calf suede and textile upper
+- Rubber sole
+included:
+- Shoes
+- Original box
+sizes:
+- us: '10'
+  native: '43'
+  cost: 538.0
+  source: Farfetch (FR 43; style FUSKDK12BICOE25; duties included; size menu read
+    in browser 2026-10-07)
+  url: https://www.farfetch.com/shopping/men/lanvin-curb-cut-out-lace-up-sneakers-item-33005144.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '11'
+  native: '44'
+  cost: 495.0
+  source: Farfetch (FR 44; style FUSKDK12BICOE25; duties included; size menu read
+    in browser 2026-10-07)
+  url: https://www.farfetch.com/shopping/men/lanvin-curb-cut-out-lace-up-sneakers-item-33005144.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'

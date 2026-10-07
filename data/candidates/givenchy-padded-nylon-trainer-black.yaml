@@ -1,0 +1,88 @@
+# Extra research run 2026-10-07 (competitive products). Source: Farfetch sale, read in the browser.
+# retail_price = Farfetch's crossed-out US price (brand US retail not verified); price = 85% of it to stay under retail.
+# Net at this price (8% ads): US 7 $163, US 8 $163, US 8.5 $163, US 9 $163, US 9.5 $163, US 10 $163, US 13 $163. No eBay catalog match (catalog lookup Oct 7) -> photos: [].
+id: givenchy-padded-nylon-trainer-black
+brand: Givenchy
+model: Padded Nylon and Leather Trainer Sneaker
+colorway: Black
+style_code: BH00AYH1WF
+category: sneaker
+department: Men
+color: Black
+upper_material: Nylon
+size_system: FR
+retail_price: 1398
+price: 1187.99
+discontinued_verified: false
+photos: []
+made_in: Italy
+highlights:
+- Padded nylon and calf leather upper
+- Rubber sole
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7'
+  native: '40'
+  cost: 737.0
+  source: Farfetch (FR 40; style BH00AYH1WF; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-trainers-sneakers-in-padded-nylon-and-leather-item-31022092.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '8'
+  native: '41'
+  cost: 737.0
+  source: Farfetch (FR 41; style BH00AYH1WF; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-trainers-sneakers-in-padded-nylon-and-leather-item-31022092.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '8.5'
+  native: '41.5'
+  cost: 737.0
+  source: Farfetch (FR 41.5; style BH00AYH1WF; duties included; size menu read in
+    browser 2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-trainers-sneakers-in-padded-nylon-and-leather-item-31022092.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '9'
+  native: '42'
+  cost: 737.0
+  source: Farfetch (FR 42; style BH00AYH1WF; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-trainers-sneakers-in-padded-nylon-and-leather-item-31022092.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '9.5'
+  native: '42.5'
+  cost: 737.0
+  source: Farfetch (FR 42.5; style BH00AYH1WF; duties included; size menu read in
+    browser 2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-trainers-sneakers-in-padded-nylon-and-leather-item-31022092.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '10'
+  native: '43'
+  cost: 737.0
+  source: Farfetch (FR 43; style BH00AYH1WF; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-trainers-sneakers-in-padded-nylon-and-leather-item-31022092.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '13'
+  native: '46'
+  cost: 737.0
+  source: Farfetch (FR 46; style BH00AYH1WF; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-trainers-sneakers-in-padded-nylon-and-leather-item-31022092.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'

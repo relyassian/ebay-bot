@@ -1,0 +1,70 @@
+# Extra research run 2026-10-07 (competitive products). Source: Farfetch sale, read in the browser.
+# retail_price = Farfetch's crossed-out US price (brand US retail not verified); price = 85% of it to stay under retail.
+# Net at this price (8% ads): US 7 $171, US 8 $171, US 9 $171, US 10 $171, US 11 $171. No eBay catalog match (catalog lookup Oct 7) -> photos: [].
+id: bally-webby-leather-loafer-blue
+brand: Bally
+model: Leather Loafer
+colorway: Blue
+style_code: WEBBYMO
+category: loafer
+department: Men
+color: Blue
+upper_material: Leather
+size_system: EU
+retail_price: 601
+price: 509.99
+discontinued_verified: false
+photos: []
+made_in: Italy
+highlights:
+- Calf leather upper
+- Rubber sole
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7'
+  native: '40'
+  cost: 204.0
+  source: Farfetch (EU 40; style WEBBYMO; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/bally-leather-loafers-item-37644383.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '8'
+  native: '41'
+  cost: 204.0
+  source: Farfetch (EU 41; style WEBBYMO; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/bally-leather-loafers-item-37644383.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '9'
+  native: '42'
+  cost: 204.0
+  source: Farfetch (EU 42; style WEBBYMO; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/bally-leather-loafers-item-37644383.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '10'
+  native: '43'
+  cost: 204.0
+  source: Farfetch (EU 43; style WEBBYMO; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/bally-leather-loafers-item-37644383.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '11'
+  native: '44'
+  cost: 204.0
+  source: Farfetch (EU 44; style WEBBYMO; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/bally-leather-loafers-item-37644383.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'

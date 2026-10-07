@@ -1,0 +1,62 @@
+# Extra research run 2026-10-07 (competitive products). Source: Farfetch sale, read in the browser.
+# retail_price = Farfetch's crossed-out US price (brand US retail not verified); price = 85% of it to stay under retail.
+# Net at this price (8% ads): US 7 $233, US 8 $233, US 10 $233, US 11 $233. No eBay catalog match (catalog lookup Oct 7) -> photos: [].
+id: givenchy-gent-derby-black
+brand: Givenchy
+model: Gent Leather Derby
+colorway: Black
+style_code: BH1047H1XA
+category: dress_shoe
+department: Men
+color: Black
+upper_material: Leather
+size_system: FR
+retail_price: 1161
+price: 985.99
+discontinued_verified: false
+photos: []
+made_in: Italy
+highlights:
+- Leather upper
+- Calf leather lining
+- Leather sole
+included:
+- Shoes
+- Original box
+sizes:
+- us: '7'
+  native: '40'
+  cost: 510.0
+  source: Farfetch (FR 40; style BH1047H1XA; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-gent-derbies-in-leather-item-33983631.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '8'
+  native: '41'
+  cost: 510.0
+  source: Farfetch (FR 41; style BH1047H1XA; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-gent-derbies-in-leather-item-33983631.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '10'
+  native: '43'
+  cost: 510.0
+  source: Farfetch (FR 43; style BH1047H1XA; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-gent-derbies-in-leather-item-33983631.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
+- us: '11'
+  native: '44'
+  cost: 510.0
+  source: Farfetch (FR 44; style BH1047H1XA; duties included; size menu read in browser
+    2026-10-07)
+  url: https://www.farfetch.com/shopping/men/givenchy-gent-derbies-in-leather-item-33983631.aspx
+  overseas: false
+  in_stock_sources: 1
+  checked_at: '2026-10-07T21:15:00Z'
