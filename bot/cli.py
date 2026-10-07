@@ -197,6 +197,13 @@ def main(argv=None) -> int:
     if args.cmd == "sync":
         from bot.alerts import send
         from bot.sync import run
+        # price check first, so matching the market uses today's numbers (read-only)
+        try:
+            from bot.market import run as market_run
+            for m in market_run():
+                print(m)
+        except Exception as e:
+            print("price check error:", e)
         for m in run(args.live):
             print(m)                      # full detail stays in the log (data/sync_log.txt)
         # eBay sale badges (Rafael, Oct 5): keep a markdown sale running on listings with enough margin
@@ -209,7 +216,7 @@ def main(argv=None) -> int:
             from bot.notices import add
             add("problem", f"Couldn't start the eBay sale: {str(e)[:160]}")
         # Rafael (Oct 7): per-listing ad rates, then a read-only price check against other eBay sellers
-        for name, fn in (("ad rates", "bot.ads:tune"), ("price check", "bot.market:run")):
+        for name, fn in (("ad rates", "bot.ads:tune"),):
             try:
                 mod, f = fn.split(":")
                 import importlib
