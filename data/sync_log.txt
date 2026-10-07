@@ -6,3 +6,71 @@ Nothing for you to do.
 {'photo': 'https://i.ebayimg.com/images/g/bMYAAOSwnQVn4A8o/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web White/Green/Red Low…\nSizes: US 12.5 · now from $788.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075398"}
 {'photo': 'https://i.ebayimg.com/images/g/pW8AAeSw93hqtwZg/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Re-Web GG Canvas Sneaker White/Beige Low…\nSizes: US 9 · now from $831.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075633"}
 {'photo': 'https://i.ebayimg.com/images/g/zDkAAeSw9zdo4Ggy/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Rhyton Leather Sneaker Ivory Low Top…\nSizes: US 12.5 · now from $694.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075737"}
+Ad rates: 7 listings up, 0 back down (5 at 10%, 1 at 12%, 1 at 15%); eBay accepted 7 of 7
+market 355066429434: ours 1098.99 vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
+market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
+market 355066574768: ours None vs cheapest 345.24 (13 others) · Salvatore Ferragamo Moccasin with Gancini Ornament
+market 355420832785: ours None vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Reversible Ganci
+market 355420948879: ours None vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Painted Gancini 
+market 355420967506: ours None vs cheapest 432.5 (8 others) · Gucci Horsebit Loafer with Web Black Leather Men's
+market 355422678861: ours None vs cheapest 399.0 (3 others) · Dolce & Gabbana Portofino Vintage Sneakers Black C
+market 355422689102: ours None vs cheapest 442.0 (2 others) · Dolce & Gabbana Saint Tropez Sneakers Black Calfsk
+market 355422702908: ours None vs cheapest 340.17 (9 others) · Dolce & Gabbana New Roma Sneakers Black Calfskin N
+market 355422763143: ours None vs cheapest 442.0 (2 others) · Dolce & Gabbana Saint Tropez Sneakers White Calfsk
+market 355423513413: ours 1026.99 vs cheapest 389.0 (9 others) · Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Me
+market 355426430327: ours None vs cheapest 340.17 (10 others) · Dolce & Gabbana New Roma Sneakers White Calfskin N
+market 355426469262: ours 993.99 vs cheapest 539.99 (9 others) · Gucci Ace GG Supreme Sneaker Black/Grey Men's Leat
+market 355428047951: ours 993.99 vs cheapest - (0 others) · Gucci Ace Embroidered Bee Sneaker White Men's Leat
+market 355428079713: ours 993.99 vs cheapest 469.99 (1 others) · Gucci Ace Embroidered Bee Sneaker Black Men's Leat
+market 355429309757: ours 993.99 vs cheapest 700.0 (2 others) · Gucci Ace GG Crystal Canvas Sneaker Blue Men's Lea
+market 355429340181: ours 993.99 vs cheapest 700.0 (2 others) · Gucci Ace GG Crystal Canvas Sneaker Green Men's Le
+market 355429355271: ours 1048.99 vs cheapest 545.0 (3 others) · Gucci Ace GG Crystal Canvas Sneaker Black Men's Le
+market 355429385763: ours 1103.99 vs cheapest 499.0 (14 others) · Gucci Ace Sneaker with Web Beige/Ebony GG Supreme 
+market 820204075354: ours 875.99 vs cheapest 499.0 (13 others) · Gucci Ace Sneaker with Web Black/Navy/Red Men's Lo
+market 820204075398: ours 788.99 vs cheapest 499.0 (15 others) · Gucci Ace Sneaker with Web White/Green/Red Men's L
+market 820204075433: ours 899.99 vs cheapest 430.95 (7 others) · Gucci x adidas Gazelle GG Monogram Sneaker Black M
+market 820204075474: ours 899.99 vs cheapest - (0 others) · Gucci x adidas Gazelle Suede Sneaker Light Blue Me
+market 820204075517: ours 899.99 vs cheapest - (0 others) · Gucci Horsebit Driver Loafer with Web Black/Green/
+market 820204075592: ours 944.99 vs cheapest 487.0 (4 others) · Gucci Horsebit Driver Loafer Black Men's Leather D
+market 820204075633: ours 831.99 vs cheapest 539.99 (10 others) · Gucci Re-Web GG Canvas Sneaker White/Beige Men's L
+market 820204075737: ours 694.99 vs cheapest 400.0 (12 others) · Gucci Rhyton Leather Sneaker Ivory Men's Low Top S
+market 820204075830: ours 1044.99 vs cheapest 494.98 (5 others) · Gucci Screener GG Canvas Sneaker Black/Green/Red M
+market 820205221528: ours 759.99 vs cheapest 445.0 (17 others) · Gucci Interlocking G Driver Moccasin Brown Men's L
+market 820205221563: ours 824.99 vs cheapest 445.0 (18 others) · Gucci Interlocking G Driver Moccasin Washed Indigo
+market 820205221628: ours 888.24 vs cheapest 439.99 (1 others) · Gucci Interlocking G Loafer with Web Black/Green/R
+market 820205221669: ours 992.74 vs cheapest 375.0 (23 others) · Gucci MAC80 Sneaker Black/Off-White Men's Leather 
+market 820205221755: ours 841.49 vs cheapest - (0 others) · Gucci Noel Driver Loafer Black Men's Leather Drivi
+market 820205221855: ours 1047.99 vs cheapest 563.05 (9 others) · Gucci Re-Web GG Canvas Sneaker Black Men's Low Top
+market 820205329339: ours 714.99 vs cheapest 669.0 (2 others) · Gucci Ace GG Supreme Bees Sneaker Beige/Ebony Men'
+market 820205329431: ours 749.99 vs cheapest - (0 others) · Gucci Ace Sneaker with Perforated Interlocking G W
+market 820205329595: ours 992.74 vs cheapest 375.0 (26 others) · Gucci MAC80 Sneaker Off-White Men's Leather Low To
+market 820205329783: ours 869.99 vs cheapest 450.0 (5 others) · Gucci Tennis 1977 High-Top Sneaker Beige/Ebony GG 
+market 820205389034: ours 1981.99 vs cheapest 450.0 (12 others) · Louis Vuitton LV Skate Sneaker Beige/White Men's L
+market 820205698211: ours 929.99 vs cheapest 550.0 (4 others) · Gucci Ace GG Embossed Sneaker Black Men's Leather 
+market 820207186160: ours None vs cheapest 300.0 (21 others) · Balenciaga Runner Sneaker Black Matte Men's Mesh L
+market 820207186196: ours 1115.99 vs cheapest 300.0 (27 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
+market 820207186222: ours 666.99 vs cheapest 199.99 (90 others) · Gucci Ace GG Embossed - White Men's Leather Low To
+market 820207186253: ours 895.99 vs cheapest 295.0 (70 others) · Gucci Basket Black Red Men's Demetra Low Top Sneak
+market 820207186287: ours 634.99 vs cheapest 199.0 (87 others) · Gucci Basket Green Demetra Men's Low Top Sneakers 
+market 820207186315: ours 800.99 vs cheapest 200.0 (11 others) · Gucci Basket Grey Yellow Blue Men's Demetra Low To
+market 820207186346: ours 873.99 vs cheapest 349.0 (26 others) · Gucci Basket High Black Demetra Men's High Top Sne
+market 820207186379: ours 755.99 vs cheapest 285.0 (22 others) · Gucci Basket High Green Demetra Men's High Top Sne
+market 820207186442: ours 976.99 vs cheapest 250.0 (44 others) · Gucci Basket High White Demetra Red Men's High Top
+market 820207186465: ours 658.99 vs cheapest 250.0 (50 others) · Gucci Basket Low White Demetra Green Men's Low Top
+market 820207186489: ours 693.99 vs cheapest 250.0 (50 others) · Gucci Basket Low White Demetra Red Men's Low Top S
+market 820207186525: ours 713.99 vs cheapest 275.0 (43 others) · Gucci Basket Red Black Demetra Men's Low Top Sneak
+market 820207186550: ours 679.99 vs cheapest 350.0 (60 others) · Gucci Driver Interlocking G - Green Men's Leather 
+market 820207186594: ours 980.99 vs cheapest 474.05 (16 others) · Gucci GG Screener Grey Navy Men's Suede Low Top Sn
+market 820207186615: ours 794.99 vs cheapest 464.98 (29 others) · Gucci MAC80 Sneaker White Blue Men's Leather Low T
+market 820207186641: ours 830.99 vs cheapest 300.0 (93 others) · Gucci Rhyton Interlocking G Star Men's Leather Low
+market 820207186667: ours 863.99 vs cheapest 300.0 (95 others) · Gucci Rhyton Maxi GG Supreme - Black Khaki Beige M
+market 820207186704: ours 800.99 vs cheapest 335.0 (80 others) · Gucci Rhyton White Red Green Reflective Men's Mesh
+market 820207186744: ours 864.99 vs cheapest 350.0 (14 others) · Gucci Run Sneaker Beige Ebony Monogram Men's Leath
+market 820207186774: ours 780.99 vs cheapest 300.0 (23 others) · Gucci Run Sneaker Black Men's Knit Low Top Sneaker
+market 820207186802: ours 645.99 vs cheapest 329.0 (14 others) · Gucci Run Sneaker White Black Men's Knit Low Top S
+market 820207186833: ours 895.99 vs cheapest 329.0 (14 others) · Gucci Run Sneaker White Suede Men's Low Top Sneake
+market 820207186853: ours 965.99 vs cheapest 179.99 (93 others) · Gucci Screener GG Supreme - Black Grey Men's Leath
+market 820207186878: ours 719.99 vs cheapest 325.0 (85 others) · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top
+market 820207186919: ours 675.99 vs cheapest 315.0 (26 others) · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top 
+market 820207186962: ours 786.99 vs cheapest 165.0 (13 others) · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Me
+Price check: 66 listings compared, 49 priced more than 5% above another seller.

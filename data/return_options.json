@@ -1,0 +1,160 @@
+{
+ "returnPolicies": [
+  {
+   "categoryTreeId": "0",
+   "categoryId": "53120",
+   "domestic": {
+    "returnsAcceptanceEnabled": true,
+    "policyDescriptionEnabled": false,
+    "returnShippingCostPayers": [
+     "SELLER",
+     "BUYER"
+    ],
+    "refundMethods": [
+     "MONEY_BACK"
+    ],
+    "returnMethods": [
+     "REPLACEMENT"
+    ],
+    "returnPeriods": [
+     {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+     },
+     {
+      "value": 60,
+      "unit": "CALENDAR_DAY"
+     }
+    ]
+   },
+   "international": {
+    "returnsAcceptanceEnabled": true,
+    "policyDescriptionEnabled": false,
+    "returnShippingCostPayers": [
+     "SELLER",
+     "BUYER"
+    ],
+    "refundMethods": [
+     "MONEY_BACK"
+    ],
+    "returnMethods": [
+     "REPLACEMENT"
+    ],
+    "returnPeriods": [
+     {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+     },
+     {
+      "value": 60,
+      "unit": "CALENDAR_DAY"
+     }
+    ]
+   }
+  },
+  {
+   "categoryTreeId": "0",
+   "categoryId": "24087",
+   "domestic": {
+    "returnsAcceptanceEnabled": true,
+    "policyDescriptionEnabled": false,
+    "returnShippingCostPayers": [
+     "SELLER",
+     "BUYER"
+    ],
+    "refundMethods": [
+     "MONEY_BACK"
+    ],
+    "returnMethods": [
+     "REPLACEMENT"
+    ],
+    "returnPeriods": [
+     {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+     },
+     {
+      "value": 60,
+      "unit": "CALENDAR_DAY"
+     }
+    ]
+   },
+   "international": {
+    "returnsAcceptanceEnabled": true,
+    "policyDescriptionEnabled": false,
+    "returnShippingCostPayers": [
+     "SELLER",
+     "BUYER"
+    ],
+    "refundMethods": [
+     "MONEY_BACK"
+    ],
+    "returnMethods": [
+     "REPLACEMENT"
+    ],
+    "returnPeriods": [
+     {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+     },
+     {
+      "value": 60,
+      "unit": "CALENDAR_DAY"
+     }
+    ]
+   }
+  },
+  {
+   "categoryTreeId": "0",
+   "categoryId": "15709",
+   "domestic": {
+    "returnsAcceptanceEnabled": true,
+    "policyDescriptionEnabled": false,
+    "returnShippingCostPayers": [
+     "SELLER",
+     "BUYER"
+    ],
+    "refundMethods": [
+     "MONEY_BACK"
+    ],
+    "returnMethods": [
+     "REPLACEMENT"
+    ],
+    "returnPeriods": [
+     {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+     },
+     {
+      "value": 60,
+      "unit": "CALENDAR_DAY"
+     }
+    ]
+   },
+   "international": {
+    "returnsAcceptanceEnabled": true,
+    "policyDescriptionEnabled": false,
+    "returnShippingCostPayers": [
+     "SELLER",
+     "BUYER"
+    ],
+    "refundMethods": [
+     "MONEY_BACK"
+    ],
+    "returnMethods": [
+     "REPLACEMENT"
+    ],
+    "returnPeriods": [
+     {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+     },
+     {
+      "value": 60,
+      "unit": "CALENDAR_DAY"
+     }
+    ]
+   }
+  }
+ ]
+}
