@@ -52,6 +52,18 @@ SELLING LIMIT FIRST (Oct 6): read data/selling_limits.json. If AmountLimitRemain
 new listings and new sizes (error 21919188), so SKIP Part B and don't propose "sizes to add"; spend the time on
 Part A (keeping live sizes fresh and getting the off-sale, most-watched legacy listings back on sale) instead.
 5. New luxury men's sneakers/loafers NOT already listed (check data/candidates and data/drafts_state.json).
+   COMPETITIVE FIRST (Rafael, Oct 7: only list what can actually sell). The Oct 7 price check showed most of our
+   Gucci listings at 1.3–2x what other eBay sellers ask for the same new shoe, so they don't sell. The bot now vets
+   every candidate against eBay's other new listings (bot/market.py): each size is priced just under their median
+   and sizes that can't get there with 1.5x the profit are dropped; products with fewer than 3 other sellers keep
+   our price. So spend the time where the numbers can work:
+   - Store SALE sections, ~40%+ off retail: Farfetch sale (works, Rafael is signed in), Cettire, Italist, END
+     sale, SSENSE sale, Mytheresa sale, Nugnes1920. Read sizes in the size menu (Farfetch shows "Last 1 left").
+   - Shoes few people resell: less common colorways and models, Ferragamo, Bottega Veneta, Loewe, Prada, Alexander
+     McQueen, Tod's, Santoni, Berluti, Loro Piana. Popular Gucci (Ace, Rhyton, Basket, MAC80, Screener) bought at
+     GOAT/StockX prices almost never beats the eBay market: skip it unless a store has it 45%+ off retail.
+   - Quick check before writing a candidate: open https://www.ebay.com/sch/i.html?_nkw=<brand+model+colour>&LH_ItemCondition=1000
+     only if it loads without a bot check; otherwise just write it (the bot does the real check).
    Rotate through brands so each day covers different ones: Gucci (Ace, Screener, Rhyton, Re-Web, Horsebit and
    Jordaan loafers, drivers, adidas x Gucci Gazelle), Prada, Balenciaga, Bottega Veneta, Alexander McQueen,
    Loewe, Ferragamo, D&G.
