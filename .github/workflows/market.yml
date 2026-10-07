@@ -1,0 +1,32 @@
+name: market
+# On request: price check vs other eBay sellers + return-window options (read-only), then per-listing ad rates.
+# The same steps also run inside daily-sync every morning.
+on:
+  push:
+    paths: ["requests/market"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: {group: ebay-write, cancel-in-progress: false}
+jobs:
+  market:
+    runs-on: ubuntu-latest
+    env:
+      EBAY_CLIENT_ID: ${{ vars.EBAY_CLIENT_ID || secrets.EBAY_CLIENT_ID }}
+      EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+      EBAY_RUNAME: ${{ vars.EBAY_RUNAME || secrets.EBAY_RUNAME }}
+      EBAY_REFRESH_TOKEN: ${{ secrets.EBAY_REFRESH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: git fetch -q origin main && git reset -q --hard origin/main
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q -r requirements.txt
+      - run: python -c "from bot.market import run; print(*run(), sep='\n')" 2>&1 | tee data/market_log.txt
+      - run: python -c "from bot.ads import tune; print(*tune(True), sep='\n')" ${{ vars.LIVE == 'true' && '' || '# test' }} 2>&1 | tee data/ads_log.txt
+      - name: Save state
+        if: ${{ always() }}
+        run: |
+          git config user.name "ebay-bot"; git config user.email "bot@users.noreply.github.com"
+          git add data || true
+          git diff --cached --quiet || (git commit -m "bot: market check" && bash scripts/push_state.sh)

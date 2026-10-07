@@ -241,8 +241,10 @@ def run(live: bool) -> list:
                         print(f"title not updated for {item_id}: {str(e)[:200]}")
         from bot.markdown import discount_for
         disc = discount_for(item_id)
-        auto, proposals, notes = decide(listing, sources, cfg, discount=disc)
-        drops = (decays(listing, sources, cfg, price_log, auto, discount=disc)
+        from bot.ads import cfg_for
+        icfg = cfg_for(cfg, listing.item_id)          # this listing's own ad rate (Oct 7)
+        auto, proposals, notes = decide(listing, sources, icfg, discount=disc)
+        drops = (decays(listing, sources, icfg, price_log, auto, discount=disc)
                  if cfg.get("pricing", {}).get("decay", True) else [])
         auto += drops
         notes += [("lowered", c.size, c.new_price) for c in drops]

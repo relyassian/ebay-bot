@@ -208,6 +208,20 @@ def main(argv=None) -> int:
             print("markdown error:", e)
             from bot.notices import add
             add("problem", f"Couldn't start the eBay sale: {str(e)[:160]}")
+        # Rafael (Oct 7): per-listing ad rates, then a read-only price check against other eBay sellers
+        for name, fn in (("ad rates", "bot.ads:tune"), ("price check", "bot.market:run")):
+            try:
+                mod, f = fn.split(":")
+                import importlib
+                out = getattr(importlib.import_module(mod), f)(args.live) if f == "tune" else \
+                    getattr(importlib.import_module(mod), f)()
+                for m in out:
+                    print(m)
+            except Exception as e:
+                print(f"{name} error:", e)
+                if name == "ad rates":
+                    from bot.notices import add
+                    add("problem", f"Couldn't update ad rates: {str(e)[:160]}")
         # Rafael (Oct 5): one short morning update instead of a report per run
         from bot import digest
         if args.live and digest.due():

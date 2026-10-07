@@ -161,6 +161,13 @@ def build(token: str) -> str:
         fyi.append(f"{waiting} new products ready but waiting for eBay selling-limit room (lists itself when room opens)")
     if photos:
         fyi.append(f"{len(photos)} profitable products skipped: no eBay stock photo")
+    try:
+        from bot.market import summary_line
+        m = summary_line()
+        if m:
+            fyi.append(m)
+    except Exception as e:
+        print("market summary:", e)
     if fyi:
         lines.append("FYI: " + " · ".join(fyi))
     if act:

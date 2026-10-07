@@ -98,7 +98,8 @@ def run(live: bool) -> list[str]:
             continue
         if any(w in lst.title.lower() for w in words):
             continue
-        pct = best_step(lst, sources, cfg, mk.get("steps", [20, 15, 10, 5]))
+        from bot.ads import cfg_for
+        pct = best_step(lst, sources, cfg_for(cfg, iid), mk.get("steps", [20, 15, 10, 5]))
         print(f"markdown {iid}: {pct}% · {lst.title}")
         if pct:
             picks[iid] = pct
