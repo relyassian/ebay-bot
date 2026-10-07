@@ -24,9 +24,24 @@ def log_changes(counts: dict) -> None:
     DAYLOG.write_text(json.dumps(d))
 
 
+def _sent_on_remote() -> str:
+    """Date in the repo's latest copy of last_digest_date.txt. A queued run checks out an older commit, so the
+    local file can be stale (Oct 7: the update went out twice)."""
+    import subprocess
+    try:
+        subprocess.run(["git", "fetch", "-q", "origin", "main"], cwd=ROOT, timeout=60, check=True)
+        return subprocess.run(["git", "show", "origin/main:data/last_digest_date.txt"], cwd=ROOT, timeout=30,
+                              capture_output=True, text=True).stdout.strip()
+    except Exception:
+        return ""
+
+
 def due() -> bool:
     now = datetime.now(NY)
-    return now.hour >= 6 and (not SENT.exists() or SENT.read_text().strip() != now.strftime("%Y-%m-%d"))
+    today = now.strftime("%Y-%m-%d")
+    if now.hour < 6 or (SENT.exists() and SENT.read_text().strip() == today):
+        return False
+    return _sent_on_remote() != today
 
 
 def _stats(token: str) -> dict:
