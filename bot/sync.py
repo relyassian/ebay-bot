@@ -325,6 +325,8 @@ def run(live: bool) -> list:
         if errors:
             from bot.notices import add
             for e in errors:
+                if "System error" in e or "try again later" in e:
+                    continue        # eBay hiccup: the next run (within hours) retries it; not worth Rafael's time
                 add("problem", e[:200])
     ERRORS.write_text("\n".join(errors) + ("\n" if errors else ""))
     if errors:
