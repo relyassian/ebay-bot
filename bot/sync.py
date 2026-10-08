@@ -156,6 +156,9 @@ def market_drops(listing: Listing, sources: dict, cfg: dict, auto: list, discoun
         return []
     target_mkt = math.floor(m["median"]) - 0.01
     mult = cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
+    # Rafael (Oct 8) test: on a few listings, matching the market may go down to the $100 minimum (1x), not 1.5x
+    if str(listing.item_id) in set(map(str, cfg.get("pricing", {}).get("floor100_items", []))):
+        mult = 1.0
     max_age = cfg.get("sync", {}).get("max_source_age_hours", 36)
     touched = {c.size for c in auto}
     rows = ([(v.size, v.price, v.available) for v in listing.variations] if listing.variations

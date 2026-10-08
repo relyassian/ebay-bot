@@ -69,3 +69,18 @@ def test_market_drops_never_below_floor(monkeypatch):
     ch = {c.size: c.new_price for c in market_drops(lst, src, cfg, [], now=now)}
     assert ch["9"] == 699.99                       # matched the market
     assert 700 < ch["10"] < 900                    # as close as the 1.5x floor allows
+
+
+def test_floor100_items_go_lower(monkeypatch):
+    from datetime import datetime, timezone
+    import bot.market as mk
+    from bot.sync import market_drops
+    cfg = load_config()
+    now = datetime.now(timezone.utc)
+    lst = NS(item_id="X9", variations=[NS(size="10", price=900.0, available=1)], price=None, quantity=None, sold=None)
+    src = {("X9", "10"): NS(cost=480.0, overseas=False, source="GOAT", checked_at=now)}
+    monkeypatch.setattr(mk, "market_for", lambda iid: {"median": 500.0, "n": 8})
+    normal = market_drops(lst, src, cfg, [], now=now)[0].new_price
+    cfg2 = dict(cfg, pricing=dict(cfg["pricing"], floor100_items=["X9"]))
+    test = market_drops(lst, src, cfg2, [], now=now)[0].new_price
+    assert test < normal

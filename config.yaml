@@ -54,6 +54,12 @@ pricing:
   decay_step: 0.03
   decay_floor_mult: 1.5       # Rafael, Oct 5: drops never go below 1.5× the required profit ($150; LV $300); listing minimum stays $100
   match_market: true          # Rafael, Oct 7: "match market wherever you can" — drop to just under the eBay median of other new listings, never below the 1.5× floor (sync.market_drops)
+  floor100_items:             # Rafael, Oct 8: TEST (review Oct 15) - market matching may go down to $100 profit on these
+    - "820204075737"          # Gucci Rhyton Ivory: $100 floor $568 vs market $599 (fully matches)
+    - "820207186615"          # Gucci MAC80 White/Blue: $698 vs market $649
+    - "820205698211"          # Gucci Ace GG Embossed Black: $697 vs market $633
+    - "820205221669"          # Gucci MAC80 Black/Off-White: $678 vs market $579
+    - "820207186774"          # Gucci Run Black knit: $681 vs market $499
 
 risk:
   min_sources_per_size: 2     # anti-cancellation rule
