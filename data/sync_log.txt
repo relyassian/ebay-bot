@@ -67,10 +67,15 @@ market 820207186962: ours 786.99 vs cheapest - (0 others) · Gucci Tennis 1977 L
 Price check: 66 listings compared, 32 priced more than 5% above another seller.
 📋 Daily eBay check · Thu Oct 8
 
-What I did: raised the price a little on 5 listings because the store got pricier.
+What I did: raised the price a little on 5 listings because the store got pricier; lowered the price 3% on 4 listings that hadn't sold in a week.
 Nothing for you to do.
 {'photo': 'https://i.ebayimg.com/images/g/YWQAAeSwoAVpTqG5/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web Black/Navy/Red Low…\nSizes: US 7.5 · now from $875.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075354"}
 {'photo': 'https://i.ebayimg.com/images/g/bMYAAOSwnQVn4A8o/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web White/Green/Red Low…\nSizes: US 12.5 · now from $789.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075398"}
 {'photo': 'https://i.ebayimg.com/images/g/Fy0AAOSwgPdn4A-H/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Horsebit Driver Loafer Black Leather…\nSizes: all 4 sizes · now from $785.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075592"}
 {'photo': 'https://i.ebayimg.com/images/g/pW8AAeSw93hqtwZg/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Re-Web GG Canvas Sneaker White/Beige Low…\nSizes: US 9 · now from $831.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075633"}
 {'photo': 'https://i.ebayimg.com/images/g/zDkAAeSw9zdo4Ggy/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Rhyton Leather Sneaker Ivory Low Top…\nSizes: US 12.5 · now from $694.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075737"}
+Also changed:
+• Price Lowered 3%: Gucci MAC80 Sneaker Black/Off-White Leather Low… (all 4 sizes) https://www.ebay.com/itm/820205221669
+• Price Lowered 3%: Gucci Ace GG Embossed Sneaker Black Leather Low… (all 5 sizes) https://www.ebay.com/itm/820205698211
+• Price Lowered 3%: Gucci MAC80 Sneaker White Blue Leather Low Top… (US 10, 11.5) https://www.ebay.com/itm/820207186615
+• Price Lowered 3%: Gucci Run Sneaker Black Knit Low Top Sneakers… (US 12, 12.5) https://www.ebay.com/itm/820207186774
