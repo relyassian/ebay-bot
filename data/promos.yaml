@@ -1,6 +1,6 @@
 # Store promo codes, refreshed by the daily research (see bot/promos.py)
-# 2026-10-07 (evening re-check): Gmail (last 21 days) searched for all 12 stores: only StockX's Klarna $15 email (Oct 2; Klarna offer, not a code).
-# Site banners read in the Mac browser: Cettire shows FIRST10 (app only, first purchase only); Farfetch only a refer-a-friend 10%;
-# Mytheresa "10% off first order" (newsletter sign-up, no code shown); Italist, GOAT, END showed no code. SSENSE: Cloudflare check (not attempted).
+# 2026-10-08: Gmail (last 21 days) searched for all 12 stores: only StockX's Klarna $15 email (Oct 2; Klarna offer, not a code).
+# Site banners read in the Mac browser today: Cettire shows FIRST10 (app only, first purchase only); Farfetch only a refer-a-friend 10%;
+# GOAT and StockX showed no code. Others not re-read today.
 cettire:
-  - {code: FIRST10, discount: "extra 10% off, first purchase only, Cettire app only", source: "Cettire site banner, read Oct 7"}
+  - {code: FIRST10, discount: "extra 10% off, first purchase only, Cettire app only", source: "Cettire site banner, read Oct 8"}
