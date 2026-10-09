@@ -1,6 +1,6 @@
 # eBay Arbitrage — STATUS
 _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old chat lost its Mac connection, then audited against the old chat (v2)._
-_Copies: Mac `~/Desktop/eBay Arbitrage/STATUS.md` and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
+_Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
 ## 1. What we've built
@@ -92,6 +92,6 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - **Rafael's own replies between roughly Oct 6–7 (old chat turns ~521–537) were not read** (hit the chat-read limit). Sections 5.1–5.4 may be out of date; the re-read task above fixes this.
 - **Sun–Fri preference vs daily research:** Rafael asked for Sunday–Friday monitoring (the old monitor ran Sun–Fri), but the research ran **every day including Saturday**, and I kept that for the in-chat research. Reason: store prices older than 36h take sizes off sale, and Friday 6:40am → Sunday 6:40am is 48h, so skipping Saturday would hide sizes for most of Saturday night and Sunday morning. Needs his call (alternatives: skip Saturday and accept the gap, or run Friday afternoon too).
 - **In-chat research is unproven:** it relies on this chat receiving the scheduled message and still having the Mac link. First run is Oct 9 6:40am; if it fails the 7:07am backup is the safety net, so keep the backup unpaused until one in-chat run has succeeded.
-- **Mac folder choice:** I put STATUS.md in `~/Desktop/eBay Arbitrage/` because Desktop is the only folder I can reach. No project folder or handoff file exists on the Desktop or in `~/Claude Code` (only a settings file). If you keep a different folder for this project, tell me and I'll move it.
+- **Mac folder choice:** the Desktop folder is no longer reachable from this chat (only `~/Claude Code` is). The current STATUS.md is in `~/Claude Code/`; the old v1 in `~/Desktop/eBay Arbitrage/` is stale. If you keep a different project folder, tell me and I'll move it.
 - **Lost with the old container:** scratch files (`goat_batch.json`, `log.txt`, `fb_rows.json` with the Facebook candidate picks). Their results that mattered are in `source_prices.csv`; the Facebook pick list is not and can be regenerated.
 - **Inferred, not found:** about 20 older listings (47 live drafts + 66 compared ≈ 67 listings); "1 sale / $899.99" origin; whether Rafael answered the FB/wholesale/ship-through-me offers.
