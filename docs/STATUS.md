@@ -101,3 +101,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - NOT applied: GOAT. 48 pages read, but ~200 of 270 sizes showed one flat price per page (e.g. $950 on Basket Green Demetra, whose page shows Buy New $269). Looks like a size-picker fallback, not real per-size asks. Old GOAT rows kept, so they expire after 36h and go off sale (safe). Needs a fixed extractor before GOAT is trusted. The assistant's click on "Buy New" was blocked (purchase flow), so it could not check the size picker.
 - NOT done: END/Farfetch/Italist/Nugnes/Cettire rechecks; Part C (Gmail promos). Redo tomorrow.
 - Backup research task (7:07am) still enabled; v2 paused.
+
+## Check-in 2026-10-09 7:21am ET
+- Research ran 6:48am ET (StockX only; GOAT not applied, see above). daily-sync success 7:02am; sale-alerts chain healthy (last 12 runs ok).
+- Sales: none new (TotalSoldCount 1, $899.99). Selling-limit room $4,183.89. notices.json empty.
