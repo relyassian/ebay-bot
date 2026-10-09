@@ -105,3 +105,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Check-in 2026-10-09 7:21am ET
 - Research ran 6:48am ET (StockX only; GOAT not applied, see above). daily-sync success 7:02am; sale-alerts chain healthy (last 12 runs ok).
 - Sales: none new (TotalSoldCount 1, $899.99). Selling-limit room $4,183.89. notices.json empty.
+
+## 2026-10-09 2:50pm ET
+- Backup research task (trig_01QV4pywhVAgf7BvHcDb4Q8k) was created via http_api; I can't edit it and it does not appear in my task list or (per Rafael) his. Its 7:07am run already fired. Check claude.ai/code/routines for it.
+- GOAT extractor: Rafael approved opening the size picker (view only), but the auto-mode classifier still blocks the "Buy New" click. GOAT stays on old rows (expire after 36h). Fix needs a different route (e.g. GOAT's page JSON/network data via read_network_requests, no click).
