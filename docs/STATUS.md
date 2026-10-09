@@ -1,56 +1,97 @@
 # eBay Arbitrage — STATUS
-_Last updated: Fri Oct 9, 2026, 1:20am ET (rebuilt in the new chat after the old chat lost its Mac connection)._
-_Canonical copy: Mac `~/Desktop/eBay Arbitrage/STATUS.md`; mirrored to the repo at `docs/STATUS.md`. Update both at the end of every work session._
+_Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old chat lost its Mac connection, then audited against the old chat (v2)._
+_Copies: Mac `~/Desktop/eBay Arbitrage/STATUS.md` and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
+_Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
-## What we've built
-- **ebay-bot** (GitHub `relyassian/ebay-bot`, public so GitHub Actions minutes stay free). Python, runs entirely on GitHub Actions, live on eBay (`LIVE=true` repo variable).
-  - **sale-alerts** (`sales.yml`, `bot/listen.py`): always-on self-chaining runs (~25 min each). Answers Telegram, checks orders every 10 min, lists approved drafts, saves state. Confirmed running every 25 min as of Oct 9 05:00 UTC.
-  - **daily-sync** (`daily.yml`, `bot/sync.py`): runs after each research push. Hides sizes with no profitable store (or no data in 36h), relists sold sizes, raises up to +15% automatically, 3%/7-day decay, matches market price down to 1.5× the required profit, eBay sale badges (20/15/10/5%).
-  - **New listings**: research writes `data/candidates/*.yaml` → bot drafts → auto-publishes when every size clears the floor, has an eBay catalog photo and a verified style code.
-  - **Promoted Listings** 8% on all shoe listings (`ads.yml`, `data/ads_state.json`).
-  - **Telegram**: one morning digest (`bot/digest.py`), instant bold sale alerts, plain-English replies via Claude Haiku (`bot/chat.py`). Commands: `STATUS`, `PAUSE`, `RESUME`, `yes R1`, `no <draft>`.
-- **Daily research** (Claude scheduled task, fresh session each morning): reads store prices/stock in the Mac's built-in browser (StockX, GOAT, Cettire; Farfetch/Italist/Nugnes1920/END as available), rewrites `data/source_prices.csv`, adds up to 8 new candidates, promo codes. Instructions: `docs/research_routine.md`.
+## 1. What we've built
+- **ebay-bot** (GitHub `relyassian/ebay-bot`, public so Actions minutes stay free). Python on GitHub Actions, live on eBay (`LIVE=true` repo variable).
+  - **sale-alerts** (`sales.yml`, `bot/listen.py`): self-chaining runs (~25 min each): Telegram replies, new-order check every 10 min, lists approved drafts, saves state. Verified running back-to-back at Oct 9 05:00 UTC.
+  - **daily-sync** (`daily.yml`, `bot/sync.py`): runs on each research push. Hides sizes with no profitable store (or no price row in 36h), relists sold sizes, raises up to +15% automatically, decays unsold prices 3%/7 days, matches the market (see rules), eBay sale badges (20/15/10/5%), per-listing ad rates.
+  - **Price check vs other eBay sellers** (`bot/market.py`, runs before each sync) → `data/market.json`. 21 of ~66 listings have ≥3 comparable sellers; the rest have little competition.
+  - **New listings**: research writes `data/candidates/*.yaml` → bot drafts → vets against the eBay market → auto-publishes if every size clears the floor, has an eBay catalog photo and a verified style code.
+  - **Promoted Listings** 8% base on all shoe listings; the daily tune raises 7 listings to 10–15% only while every live size keeps 1.5× required profit (`bot/ads.py`).
+  - **Telegram**: one morning digest, instant bold sale alerts, plain-English replies via Claude Haiku. Commands: `STATUS`, `PAUSE`, `RESUME`, `yes R1`, `no <draft>`. Duplicate-digest bug fixed Oct 7.
+- **Daily research**: reads StockX/GOAT/Cettire/Farfetch in the Mac's built-in browser, rewrites `data/source_prices.csv`, adds up to 8 candidates (Oct 7 change: "competitive first": sale sections and low-competition brands), promo codes. Instructions: `docs/research_routine.md`. **From Oct 9 it runs inside this chat** (see section 11).
 
-## Current state (read from the repo, Oct 9 ~05:10 UTC)
-- **Listings:** 66 listings compared in the last price check (≈47 bot-created + ≈19–20 legacy). Drafts: 47 live, 25 blocked, 8 waiting for selling-limit room. 80 candidate files.
-- **eBay selling limit (binding constraint):** $4,183.89 of listed value left this month (7,135 qty). Resets ~Nov 1. eBay refused a limit increase (no sales history yet); sales are what raise it.
-- **Sales this month (per eBay limit data):** 1 sale, $899.99.
-- **Last daily check (Oct 8):** raised 5 listings (store got pricier), dropped 4 by 3%. 446 source-price rows, last research read Oct 8 ~10:52 UTC.
-- **Engagement (Oct 8):** new listings 279 views/7d, 6 watchers; legacy listings 98 views/7d, 232 watchers.
+## 2. Standing decisions and instructions from Rafael (all still in force)
+- **Oct 9: every scheduled-task result for the eBay project must appear in THIS chat, not in the Scheduled section and not in any other chat, unless Rafael says otherwise. eBay tasks only** (not Marketing, Price AI, Shieldr or trading-bot tasks).
+- **Update STATUS.md (Mac + repo) at the end of every work session; every scheduled run starts by reading it.**
+- Oct 1: one in-stock store is enough to list/relist (accepts cancellation risk). Style codes are never shown on eBay.
+- Oct 2: Promoted Listings 8%; prices raised ~10% once to cover it.
+- Oct 4: no idol-worship brands/imagery: Dior, Hermès, Christian Louboutin, Versace, Nike, Saint Laurent, Valentino, Medusa/Buddha/crosses/angels/saints. **Ask before adding any brand.**
+- Oct 5: new listings auto-publish; raises ≤15% and drops ≥ floor are automatic; ≥$300 profit above $1,500 price (+$100 per $500); Louis Vuitton ≥$200; drops never below 1.5× required profit; sale badges; fuller titles; Telegram = one morning digest, sales instant.
+- Oct 7: **"Relisting: you don't have to ask me."** **"Match market wherever you can."** **"Put more products that have no competition, or match or are lower than the market."**
+- Oct 7: **Return policy: do all the other changes, but tell Rafael before touching returns.** eBay allows only 30 or 60 days (14 is not possible); buyer-paid return shipping is allowed. Returns are still **none**. No decision yet.
+- Oct 8: **Floor-100 test** on 5 Gucci listings (market matching may go to $100 profit instead of $150).
+- Older: Sun–Fri monitoring at 7am (see gaps), quantity 1 per size, $5,000 cap on bought-but-unpaid orders, new with box only, Rafael buys the pair himself (the bot never auto-buys), approves any cufflink/Best Offer in-between cases.
+
+## 3. Current state (read from the repo, Oct 9 ~05:30 UTC)
+- **Listings:** 47 bot-created live + about 20 older = about 67; the last price check compared 66. Drafts: 47 live, 25 blocked, 8 waiting for selling-limit room.
+- **25 blocked drafts = all "needs photos"** (no eBay catalog photo; the 8 low-competition Oct 7 finds are among them: Bally blue + grey loafers, Margiela Sprinters, 2 Givenchy, Lanvin Curb pink, D&G Portofino off-white, Brunello Cucinelli beige, plus Ferragamo/Gucci/Prada/McQueen/Bottega ones). Rule: eBay catalog photos or Rafael's own photos only.
+- **8 waiting on selling limit:** Gucci loafer Interlocking G brown, MAC80 blue / dune / high black-off-white / off-white-black, Re-Web leather black / white, Run light-grey-brown.
+- **eBay selling limit (the binding constraint):** $4,183.89 listing value and 7,135 items left this month; resets about Nov 1. eBay declined a limit increase (no sales history yet).
+- **Sales:** the bot's own sales log is empty and the old chat said "no sales yet" on bot listings. eBay's limits endpoint reports 1 sold item worth $899.99 this period. **Not reconciled**: treat as "0 bot sales, 1 sale of unknown origin".
+- **Last daily check (Oct 8):** 5 listings raised (store got pricier), 4 lowered 3%. Store prices last refreshed Oct 8 11:12 UTC; sizes with no row newer than 36h go off sale, so rows expire about Oct 9 23:12 UTC if today's research fails.
+- **Traffic (Oct 8):** new listings 279 views/7d, 6 watchers; older listings 98 views/7d, 232 watchers. Price check found most Gucci listings 1.3–1.9× what other sellers ask (asking prices, rough matching); about 39 of 43 compared can't reach the market even at the $100 floor.
+- **10 older listings that were off sale (about 120 watchers):** 2 relisted Oct 7 (Ferragamo reversible-bit moccasin as Wide EE; D&G Saint Tropez white, US 6/7/8.5 from Farfetch). The other 8 have no store with stock or no confirmed style code.
 - **Telegram "Needs you" queue:** empty.
 
-## In progress
-- **Floor-100 test** (started Oct 8, `config.yaml → pricing.floor100_items`): 5 low-margin Gucci listings (Rhyton Ivory 820204075737, MAC80 White/Blue 820207186615, Ace GG Embossed Black 820205698211, MAC80 Black/Off-White 820205221669, Run Black knit 820207186774) may match market down to $100 profit instead of $150. **Review Oct 15.**
-- **Ads + ~10% price bump** (since Oct 2). **Review Oct 16.**
+## 4. In progress
+- **Floor-100 test** (started Oct 8): Rhyton Ivory 820204075737, MAC80 White/Blue 820207186615, Ace GG Embossed Black 820205698211, MAC80 Black/Off-White 820205221669, Run Black knit 820207186774. Review Oct 15.
+- **Ads + ~10% price bump** since Oct 2. Review Oct 16.
+- **Pending size-add plans** in `plans/pending/`: Oct 6 (91 sizes, 32 listings) and Oct 7 (78 sizes, 29 listings). Prices are from Oct 6–7 (stale) and would add far more listed value than the $4.2k of limit left, so **do not apply before Nov 1 and re-verify prices first**. Rafael has not approved them.
 
-## Open decisions (Rafael)
-1. **eBay drop-shipping policy risk (most important).** eBay's policy bans buying from another retailer/marketplace to fulfill an order — which is the current model. Recommended fix: "ship through Rafael" (store ships to him, he inspects, he ships to the authenticator): ~$15–20 extra and 2–4 extra days per sale. Rafael said "don't make any changes yet."
-2. **Bally blue loafers:** buy one pair ($204, Farfetch, free 30-day returns) to photograph, so uncatalogued shoes can be listed. Not decided.
-3. **Floor-100 test:** expand / keep / revert after Oct 15 review.
-4. **Other marketplaces:** none allow list-before-owning (Mercari bans it; Whatnot needs 2-day shipping). Only viable once he owns stock. Grailed/Poshmark not yet checked.
+## 5. Open decisions (Rafael)
+1. **eBay drop-shipping policy (biggest risk).** eBay bans buying from another retailer to fulfill an order; the authenticator hides the store box but doesn't make it allowed. Recommended: "ship through me" (store ships to Rafael, he inspects and ships to the authenticator): about $15–20 and 2–4 days more per sale, ~10–20% of thin sizes drop off. Rafael: "don't make any changes yet." **Not decided.**
+2. **Wholesale supplier route** (e.g. BrandsGateway, seen as "Vendor::BGW" on Italist): eBay allows drop shipping from a true wholesale supplier. Research was offered ("research wholesalers"); **not started**.
+3. **Facebook Marketplace / Grailed test (proposed Oct 7):** 10 pairs, Rafael lists by hand, "SOLD F12" Telegram command to pull sizes from eBay, 2-week test. "Build the FB pack" step was blocked by a tool permission and awaits his confirmation. **Nothing was posted; I could not confirm whether he replied.** Mercari/Depop/Poshmark/Whatnot ruled out (they forbid listing unowned items).
+4. **Bally pair:** buy one blue loafer ($204, Farfetch, free 30-day returns), photograph it, unlocks photo-less low-competition shoes. Not decided.
+5. **Floor-100:** expand / keep / revert after Oct 15.
+6. **Returns:** Rafael must be told before any change (see section 2).
+7. **Offers to watchers on relisted items:** idea only; nothing sent without his OK.
+8. **StockX developer API access:** requested around Sept 30 ("tell me when StockX approves you"). Status unknown; research currently reads StockX in the browser.
+9. **Saturday research:** see section 12.
 
-## Next steps
-1. Oct 15: floor-100 review → recommendation with profit math.
-2. Oct 16: ads review → keep / lower prices / change rate.
-3. Get sales to raise the eBay limit; prioritize listings most likely to sell over adding more.
-4. Decide the compliance switch (#1 above) before volume grows.
-5. Nov 1: limit resets → 8 waiting drafts publish; check research backup timing after the DST change.
-6. M5 backlog: more store adapters, promo inbox, tracking ingest from store emails.
+## 6. Side venture: TikTok Shop / Amazon (separate from eBay; project files `claude/product-criteria.md`, `claude/tiktok-pet-roller.md`)
+- Own-brand, creator-driven. Criteria agreed Oct 6 (≥$8–10 net/order, evergreen, multi-channel, no patent traps, one niche).
+- Current pick (Oct 7): pet shedding kit (self-cleaning deshedding brush + electrostatic glove) at $29.99; product #2 poop-bag dispenser + refills; roller dropped (active utility patent to 2030). Test budget ≤ $800 (100 kits, 15 to creators).
+- **Not started.** Rafael still needs to: open a TikTok Shop seller account, log in to Kalodata/FastMoss/Helium 10/Jungle Scout (so I can verify velocity), get supplier quotes. No scheduled tasks for it.
 
-## Rules (summary — full spec in repo `CLAUDE.md`)
-$100 net floor (target $250; LV $200; $300+ when price > $1,500) · new with box only · qty 1 per size · match by style code, never show it on eBay · no returns, free shipping, ≥3-day handling · catalog photos only · never auto-buy (Rafael buys from the link) · cash cap $5,000 in bought-but-unpaid orders · excluded brands: Dior, Hermès, Christian Louboutin, Versace, Nike, Saint Laurent, Valentino + religious/mythological imagery (ask Rafael before adding any brand) · NJ sales tax doesn't apply to shoes/clothing · StockX/GOAT checkout shipping $14.95.
+## 7. Next steps
+1. **Rafael: pause "eBay Research v2" now; pause the backup "eBay Research" after today's in-chat run succeeds** (section 11), so research results only appear in this chat.
+2. Today 6:40am ET: first in-chat research run; 7:20am: first daily check-in.
+3. Oct 15 floor-100 review; Oct 16 ads review.
+4. Decide #1 (compliance) before volume grows; #3/#4 if he wants more sales channels or photos.
+5. Nov 1: limit resets → 8 waiting drafts publish; clocks change (in-chat tasks use fixed UTC times: reschedule to 11:40Z research / 12:20Z check-in).
+6. M5 backlog: more store adapters, promo inbox, tracking ingest from store emails, Google Sheet dashboard, bookkeeping CSV.
 
-## Key file paths (repo `relyassian/ebay-bot`)
-`CLAUDE.md` spec · `config.yaml` all numbers/switches · `docs/research_routine.md` research instructions · `data/source_prices.csv` store prices · `data/candidates/` new products · `data/drafts_state.json` draft status · `data/stats.json` views/watchers · `data/selling_limits.json` · `data/notices.json` "Needs you" · `data/sales_log.csv` · `data/price_log.json` · `data/rafael_requests.txt` · `bot/` code · `.github/workflows/` (sales, daily, ads, catalog, market, snapshot, dump, connect-ebay, demo).
+## 8. Rules (summary; full spec in repo `CLAUDE.md`)
+$100 net floor (target $250) · new with box only · qty 1 per size · match by style code, never show it on eBay · no returns, free shipping, ≥3-day handling · eBay catalog photos only · never auto-buy · cash cap $5,000 · NJ sales tax doesn't apply to shoes · StockX/GOAT checkout shipping $14.95 · decay never below 1.5× required profit (floor-100 test items: 1×).
 
-## Accounts & tools
-eBay seller `rafaelelyassian` (Trading API, OAuth refresh token in GitHub secrets) · GitHub `relyassian` · Telegram bot · Anthropic API key (Haiku for chat replies) · Claude desktop app on Rafael's Mac (built-in browser signed in to eBay/StockX/GOAT — must stay open and awake for research) · stores: StockX, GOAT, Cettire, Farfetch, Italist, Nugnes1920, END.
+## 9. Key paths (repo `relyassian/ebay-bot`)
+`CLAUDE.md` · `config.yaml` · `docs/research_routine.md` · `docs/STATUS.md` · `data/source_prices.csv` · `data/candidates/` · `data/drafts_state.json` · `data/market.json` · `data/stats.json` · `data/selling_limits.json` · `data/notices.json` · `data/sales_log.csv` · `data/price_log.json` · `data/ads_state.json` · `data/rafael_requests.txt` · `plans/pending/` · `bot/` · `.github/workflows/`.
 
-## Scheduled tasks
-| Task | When (ET) | Where it runs | What |
+## 10. Accounts and tools
+eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · GitHub `relyassian` · Telegram bot · Anthropic API key (Haiku replies) · Claude desktop app on Rafael's Mac (built-in browser signed in to eBay/StockX/GOAT; must stay open and awake) · Farfetch (signed in; free 30-day returns) · stores: StockX, GOAT, Cettire, Farfetch, Italist, Nugnes1920, END.
+
+## 11. Scheduled tasks (times ET; all eBay results post in THIS chat)
+| Task | Next run | Where | Notes |
 |---|---|---|---|
-| eBay Research v2 (StockX/GOAT) | daily 6:37am | fresh session (not tied to any chat) | full research + push |
-| eBay Research (backup) | daily 7:07am EDT (UTC cron — becomes 6:07am after Nov 1, BEFORE the 6:37 run; Rafael must change it to 10:07am ET) | fresh session | skips itself if the 6:37 run already succeeded |
-| eBay daily check-in | Sun–Fri 7:20am | **this chat** | reads STATUS.md, confirms research + bot ran, posts a short summary here |
-| Floor-100 review | Oct 15, 11:00am | **this chat** | review + recommendation |
-| Ads review | Oct 16, 10:00am | **this chat** | review + recommendation |
+| eBay daily research (in-chat), 8 tasks | 6:40am daily incl. Saturday: Oct 9, 10, 11, 12, 13, 14, 15, 16 | **this chat** | Reads STATUS.md first. Skips itself (and says so) if a separate research task already ran today. The Oct 16 run schedules Oct 17–30. |
+| eBay daily check-in, 12 tasks | 7:20am: Fri Oct 9; Sun 11; Mon 12; Tue 13; Wed 14; Thu 15; Fri 16; Sun 18; Mon 19; Tue 20; Wed 21; Thu 22 | **this chat** | Reads STATUS.md first. The Oct 22 run schedules Oct 23–Nov 5. No Saturday check-ins. |
+| Review floor-100 test `trig_01Q8gf…` | Thu Oct 15, 11:00am | this chat | Reads STATUS.md first. |
+| Review eBay ads results `trig_019JtJ…` | Fri Oct 16, 10:00am | this chat | Reads STATUS.md first. |
+| Re-read old chat gaps `trig_01L62x…` | Fri Oct 9, ~2:39am | this chat | One-off: reads Rafael's replies I couldn't reach, updates sections 5 and 12. |
+| **eBay Research v2 `trig_01AG46…`** | daily 6:37am | separate session (Scheduled section) | **Rafael: pause this.** I tried to pause it; the permission check blocked me. Until paused, its results show up in the Scheduled section. |
+| **eBay Research (backup) `trig_01QV4p…`** | daily 7:07am EDT (UTC cron: 6:07am after Nov 1) | separate session | **Rafael: pause this after today's first in-chat research run succeeds** (it is the safety net until then). Also has its own stale prompt. I can't edit it (created outside a chat). |
+| Old chat copies of the two reviews | — | old chat | Already paused (`enabled: false`). Don't delete. |
+| eBay listing monitor `trig_01Nf9e…` | — | — | Paused, replaced by the research tasks. |
+| Other chats' tasks (Marketing/X/Reddit, Price AI, Shieldr, trading bot) | — | their own chats | Not eBay. Untouched. |
+
+## 12. Known gaps and unverified items
+- **Rafael's own replies between roughly Oct 6–7 (old chat turns ~521–537) were not read** (hit the chat-read limit). Sections 5.1–5.4 may be out of date; the re-read task above fixes this.
+- **Sun–Fri preference vs daily research:** Rafael asked for Sunday–Friday monitoring (the old monitor ran Sun–Fri), but the research ran **every day including Saturday**, and I kept that for the in-chat research. Reason: store prices older than 36h take sizes off sale, and Friday 6:40am → Sunday 6:40am is 48h, so skipping Saturday would hide sizes for most of Saturday night and Sunday morning. Needs his call (alternatives: skip Saturday and accept the gap, or run Friday afternoon too).
+- **In-chat research is unproven:** it relies on this chat receiving the scheduled message and still having the Mac link. First run is Oct 9 6:40am; if it fails the 7:07am backup is the safety net, so keep the backup unpaused until one in-chat run has succeeded.
+- **Mac folder choice:** I put STATUS.md in `~/Desktop/eBay Arbitrage/` because Desktop is the only folder I can reach. No project folder or handoff file exists on the Desktop or in `~/Claude Code` (only a settings file). If you keep a different folder for this project, tell me and I'll move it.
+- **Lost with the old container:** scratch files (`goat_batch.json`, `log.txt`, `fb_rows.json` with the Facebook candidate picks). Their results that mattered are in `source_prices.csv`; the Facebook pick list is not and can be regenerated.
+- **Inferred, not found:** about 20 older listings (47 live drafts + 66 compared ≈ 67 listings); "1 sale / $899.99" origin; whether Rafael answered the FB/wholesale/ship-through-me offers.
