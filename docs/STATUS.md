@@ -50,7 +50,7 @@ eBay seller `rafaelelyassian` (Trading API, OAuth refresh token in GitHub secret
 | Task | When (ET) | Where it runs | What |
 |---|---|---|---|
 | eBay Research v2 (StockX/GOAT) | daily 6:37am | fresh session (not tied to any chat) | full research + push |
-| eBay Research (backup) | daily 10:07am | fresh session | runs only if 6:37 failed |
+| eBay Research (backup) | daily 7:07am EDT (UTC cron — becomes 6:07am after Nov 1, BEFORE the 6:37 run; Rafael must change it to 10:07am ET) | fresh session | skips itself if the 6:37 run already succeeded |
 | eBay daily check-in | Sun–Fri 7:20am | **this chat** | reads STATUS.md, confirms research + bot ran, posts a short summary here |
 | Floor-100 review | Oct 15, 11:00am | **this chat** | review + recommendation |
 | Ads review | Oct 16, 10:00am | **this chat** | review + recommendation |
