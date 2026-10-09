@@ -95,3 +95,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - **Mac folder choice:** the Desktop folder is no longer reachable from this chat (only `~/Claude Code` is). The current STATUS.md is in `~/Claude Code/`; the old v1 in `~/Desktop/eBay Arbitrage/` is stale. If you keep a different project folder, tell me and I'll move it.
 - **Lost with the old container:** scratch files (`goat_batch.json`, `log.txt`, `fb_rows.json` with the Facebook candidate picks). Their results that mattered are in `source_prices.csv`; the Facebook pick list is not and can be regenerated.
 - **Inferred, not found:** about 20 older listings (47 live drafts + 66 compared ≈ 67 listings); "1 sale / $899.99" origin; whether the "1 sale / $899.99" is the pre-bot order that led to his GOAT order 200219919 (old chat said "either this order is from before the bot or sale alerts aren't working"; never confirmed). Whether he answered the FB/wholesale/ship-through-me offers in turns before 521 is unknown.
+
+## Research run 2026-10-09 (in-chat, ~7am ET)
+- Done: StockX refresh, 88 rows (25 pages), pushed. Selling limit $4,183.89 < $5,000, so Part B skipped.
+- NOT applied: GOAT. 48 pages read, but ~200 of 270 sizes showed one flat price per page (e.g. $950 on Basket Green Demetra, whose page shows Buy New $269). Looks like a size-picker fallback, not real per-size asks. Old GOAT rows kept, so they expire after 36h and go off sale (safe). Needs a fixed extractor before GOAT is trusted. The assistant's click on "Buy New" was blocked (purchase flow), so it could not check the size picker.
+- NOT done: END/Farfetch/Italist/Nugnes/Cettire rechecks; Part C (Gmail promos). Redo tomorrow.
+- Backup research task (7:07am) still enabled; v2 paused.
