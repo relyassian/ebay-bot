@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "kind": "problem",
+  "text": "gucci-mac80-dune: eBay refused to list it: Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consid",
+  "at": "2026-10-10T11:02:42+00:00"
+ },
+ {
+  "kind": "problem",
+  "text": "gucci-mac80-high-black-off-white: eBay refused to list it: Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this mont",
+  "at": "2026-10-10T11:02:42+00:00"
+ },
+ {
+  "kind": "problem",
+  "text": "gucci-mac80-off-white-black: eBay refused to list it: Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Pl",
+  "at": "2026-10-10T11:02:42+00:00"
+ },
+ {
+  "kind": "problem",
+  "text": "gucci-re-web-leather-black: eBay refused to list it: Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Ple",
+  "at": "2026-10-10T11:02:42+00:00"
+ },
+ {
+  "kind": "problem",
+  "text": "gucci-re-web-leather-white: eBay refused to list it: Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Ple",
+  "at": "2026-10-10T11:02:42+00:00"
+ },
+ {
+  "kind": "problem",
+  "text": "gucci-run-light-grey-brown: eBay refused to list it: Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Ple",
+  "at": "2026-10-10T11:02:42+00:00"
+ }
+]

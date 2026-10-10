@@ -176,32 +176,38 @@
     "status": "live"
   },
   "gucci-loafer-interlocking-g-brown": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820223864929",
+    "status": "live"
   },
   "gucci-mac80-black-offwhite": {
     "item_id": "820205221669",
     "status": "live"
   },
   "gucci-mac80-blue": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820223865172",
+    "status": "live"
   },
   "gucci-mac80-dune": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "gucci-mac80-high-black-off-white": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "gucci-mac80-off-white": {
     "item_id": "820205329595",
     "status": "live"
   },
   "gucci-mac80-off-white-black": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "gucci-mac80-off-white-green": {
     "reason": "needs photos (no eBay catalog photo found)",
@@ -220,12 +226,16 @@
     "status": "live"
   },
   "gucci-re-web-leather-black": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "gucci-re-web-leather-white": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "gucci-re-web-white-beige": {
     "item_id": "820204075633",
@@ -248,8 +258,10 @@
     "status": "live"
   },
   "gucci-run-light-grey-brown": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,143.86 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "gucci-run-sneaker-beige-ebony-monogram": {
     "item_id": "820207186744",
