@@ -109,3 +109,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## 2026-10-09 2:50pm ET
 - Backup research task (trig_01QV4pywhVAgf7BvHcDb4Q8k) was created via http_api; I can't edit it and it does not appear in my task list or (per Rafael) his. Its 7:07am run already fired. Check claude.ai/code/routines for it.
 - GOAT extractor: Rafael approved opening the size picker (view only), but the auto-mode classifier still blocks the "Buy New" click. GOAT stays on old rows (expire after 36h). Fix needs a different route (e.g. GOAT's page JSON/network data via read_network_requests, no click).
+
+## Research run 2026-10-10 (in-chat, 6:41am ET)
+- Done: StockX 88 rows (25 pages) + GOAT 270 rows (50 pages) refreshed and pushed (`b281efe`). GOAT now read from GOAT's own per-size data feed (method in docs/research_routine.md), no clicking. 260 of 270 GOAT prices matched yesterday's old rows, so yesterday's old GOAT data was right and yesterday's flat-price reads were the bad ones.
+- Not done: END, Farfetch, Italist, Nugnes, Cettire rechecks; Part C (Gmail promos); Part B skipped (selling limit $4,183.89).
+- Guard: v2 disabled; backup task not visible in my list; newest data before this run was Oct 9 10:48Z.

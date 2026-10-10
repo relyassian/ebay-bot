@@ -106,3 +106,6 @@ Part A (keeping live sizes fresh and getting the off-sale, most-watched legacy l
 9. Commit with message "research: YYYY-MM-DD" and push to main (the push triggers the bot).
 10. Notify Rafael only if something needs him (product with no source anywhere, research you couldn't
     complete). Otherwise send nothing: the bot's Telegram messages cover the rest.
+
+## GOAT per-size prices (found Oct 10; no clicking needed)
+On any goat.com tab run JS: fetch the product page, regex `"id":(\d+),"internalSho` for the template id, then GET `/web-api/v1/product_variants/buy_bar_data?productTemplateId=<id>&countryCode=US` (JSON per size/condition). Keep only `shoeCondition=new_no_defects` and `boxCondition=good_condition`, take the lowest `lowestPriceCents.amount/100` per `sizeOption.presentation` (native size). One JS call handles ~25 pages. Never click Buy New (blocked as a purchase flow, and unnecessary). Do not use the headline "Buy New" or size-picker text.
