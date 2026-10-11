@@ -94,5 +94,107 @@
   "median": 1250.7,
   "cheapest": 1250.7,
   "at": "2026-10-07T21:27:12.444034+00:00"
+ },
+ "bottega-veneta-eliot-mid-multicolor": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:09.667119+00:00"
+ },
+ "ferragamo-cassini-low-blue": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:13.355775+00:00"
+ },
+ "ferragamo-cosma-high-black": {
+  "n": 1,
+  "median": 500.0,
+  "cheapest": 500.0,
+  "at": "2026-10-11T21:05:16.661382+00:00"
+ },
+ "ferragamo-lunar-paneled-slip-on-sneaker-medium-b": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:20.022493+00:00"
+ },
+ "ferragamo-lunar-paneled-slip-on-sneaker-red": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:22.903782+00:00"
+ },
+ "ferragamo-nima-knit-low-top-sneaker-blue": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:26.406423+00:00"
+ },
+ "gucci-cordovan-lux-lace-up-black": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:30.499648+00:00"
+ },
+ "gucci-driver-horsebit-black": {
+  "n": 11,
+  "median": 545.0,
+  "cheapest": 380.0,
+  "at": "2026-10-11T21:05:33.758551+00:00"
+ },
+ "gucci-driver-horsebit-green": {
+  "n": 24,
+  "median": 395.0,
+  "cheapest": 292.5,
+  "at": "2026-10-11T21:05:35.361757+00:00"
+ },
+ "gucci-driver-web-brown": {
+  "n": 1,
+  "median": 565.0,
+  "cheapest": 565.0,
+  "at": "2026-10-11T21:05:37.036852+00:00"
+ },
+ "gucci-horsebit-loafer-black": {
+  "n": 28,
+  "median": 611.99,
+  "cheapest": 440.0,
+  "at": "2026-10-11T21:05:40.414473+00:00"
+ },
+ "gucci-horsebit-loafer-ivory-wool": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:42.087060+00:00"
+ },
+ "gucci-mac80-off-white-green": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:45.317367+00:00"
+ },
+ "gucci-screener-gg-supreme-blue-red": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:48.770301+00:00"
+ },
+ "gucci-tennis-1977-white-green-red": {
+  "n": 4,
+  "median": 476.07,
+  "cheapest": 350.0,
+  "at": "2026-10-11T21:05:51.522203+00:00"
+ },
+ "mcqueen-penny-loafer-black-white-sole": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:53.382885+00:00"
+ },
+ "prada-monolith-loafer-black": {
+  "n": 0,
+  "median": null,
+  "cheapest": null,
+  "at": "2026-10-11T21:05:56.496606+00:00"
  }
 }
