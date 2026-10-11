@@ -120,3 +120,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Gap: one GOAT URL in source_prices.csv, `goat.com/sneakers/gucci-mac80-sneaker-blue-778301-aab79-4542`, is not in my GOAT page list, so its rows were not refreshed. One Gucci Run monogram size (US 13) has no GOAT size.
 - Not done: END/Farfetch/Italist/Nugnes/Cettire rechecks; Part C Gmail; Part B skipped (limit $4,183.89).
 - Waiting on Rafael: non-catalog photos for the 25 photo-blocked drafts (my Oct 10 recommendation).
+
+## Check-in 2026-10-11 7:21am ET
+- Research ran 6:50am ET (StockX + GOAT). daily-sync success 6:50am; sale-alerts chain healthy (last 8 runs ok, one in progress).
+- Sales: none new (TotalSoldCount 1, $899.99). Selling-limit room $4,183.89. notices.json empty. Drafts: 49 live, 25 blocked (photos), 6 invalid.
