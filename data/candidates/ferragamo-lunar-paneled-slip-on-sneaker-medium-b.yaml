@@ -9,7 +9,6 @@ color: Medium Brown
 size_system: US
 retail_price: 995
 discontinued_verified: false
-photos: []
 included:
 - Shoes
 - Original box
@@ -68,3 +67,5 @@ sizes:
   overseas: false
   in_stock_sources: 1
   checked_at: '2026-10-05T19:30:01Z'
+photos: ["https://image.goat.com/1000/attachments/product_template_pictures/images/116/244/309/original/021271_20772342_20M.png.png"]
+photo_source: store product photo (GOAT/StockX), Rafael OK Oct 11

@@ -10,7 +10,6 @@ size_system: EU
 retail_price: 995
 price: 964.99
 discontinued_verified: false
-photos: []
 included:
 - Shoes
 - Original box
@@ -63,3 +62,5 @@ sizes:
   overseas: false
   in_stock_sources: 1
   checked_at: '2026-10-07T10:50:57Z'
+photos: ["https://image.goat.com/1000/attachments/product_template_pictures/images/116/480/852/original/827556_20V5JG1_209642.png.png"]
+photo_source: store product photo (GOAT/StockX), Rafael OK Oct 11

@@ -27,7 +27,7 @@ _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitra
 
 ## 3. Current state (read from the repo, Oct 9 ~05:30 UTC)
 - **Listings:** 47 bot-created live + about 20 older = about 67; the last price check compared 66. Drafts: 47 live, 25 blocked, 8 waiting for selling-limit room.
-- **25 blocked drafts = all "needs photos"** (no eBay catalog photo; the 8 low-competition Oct 7 finds are among them: Bally blue + grey loafers, Margiela Sprinters, 2 Givenchy, Lanvin Curb pink, D&G Portofino off-white, Brunello Cucinelli beige, plus Ferragamo/Gucci/Prada/McQueen/Bottega ones). Rule: eBay catalog photos or Rafael's own photos only.
+- **25 blocked drafts = all "needs photos"** (no eBay catalog photo; the 8 low-competition Oct 7 finds are among them: Bally blue + grey loafers, Margiela Sprinters, 2 Givenchy, Lanvin Curb pink, D&G Portofino off-white, Brunello Cucinelli beige, plus Ferragamo/Gucci/Prada/McQueen/Bottega ones). Rule (changed Oct 11, see below): eBay catalog photo, else store/marketplace photo.
 - **8 waiting on selling limit:** Gucci loafer Interlocking G brown, MAC80 blue / dune / high black-off-white / off-white-black, Re-Web leather black / white, Run light-grey-brown.
 - **eBay selling limit (the binding constraint):** $4,183.89 listing value and 7,135 items left this month; resets about Nov 1. eBay declined a limit increase (no sales history yet).
 - **Sales:** the bot's own sales log is empty and the old chat said "no sales yet" on bot listings. eBay's limits endpoint reports 1 sold item worth $899.99 this period. **Not reconciled**: treat as "0 bot sales, 1 sale of unknown origin".
@@ -124,3 +124,11 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Check-in 2026-10-11 7:21am ET
 - Research ran 6:50am ET (StockX + GOAT). daily-sync success 6:50am; sale-alerts chain healthy (last 8 runs ok, one in progress).
 - Sales: none new (TotalSoldCount 1, $899.99). Selling-limit room $4,183.89. notices.json empty. Drafts: 49 live, 25 blocked (photos), 6 invalid.
+
+## Oct 11 (evening): photo rule changed by Rafael
+- Rafael: "just take photos from online somewhere" (after I warned about copyright takedown risk and that I had not verified Authenticity Guarantee behavior with non-catalog photos). CLAUDE.md rule 8 updated: catalog photo first, else store/marketplace photo of the exact style code; never other eBay sellers' photos.
+- **17 of the 25 blocked drafts unblocked**: photo URL added to `data/candidates/<id>.yaml` (`photos:` + `photo_source:`), state reset so the next daily-sync/sale-alerts run re-drafts and eBay-verifies them. 14 photos from GOAT page `og:image` (one image per product; the page's other images are different colorways, so not used), 3 from StockX (`images.stockx.com`, white background). Two GOAT images were viewed and match the product.
+- **7 still blocked (Farfetch-only, Farfetch blocks the browser, none on GOAT/StockX):** Bally blue + grey loafers, Brunello Cucinelli beige, D&G Portofino off-white, 2 Givenchy, Lanvin Curb pink, Margiela Sprinters. Need another source (brand site, other retailer) or the Bally buy-one-and-photograph idea.
+- Watch: eBay Verify may reject a photo URL (hotlink or size); drafts then show "invalid" in `drafts_state.json`. Most new drafts will queue as `waiting_limit` (limit room $4,183.89, 8 already waiting).
+- Not verified: whether Authenticity Guarantee accepts these listings without catalog photos; check the first one that lists.
+

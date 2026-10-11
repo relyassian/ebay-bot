@@ -9,7 +9,6 @@ color: Black
 size_system: UK
 retail_price: 1100
 discontinued_verified: false
-photos: []
 included:
 - Shoes
 - Original box
@@ -51,3 +50,5 @@ sizes:
   in_stock_sources: 1
   checked_at: '2026-10-05T19:30:01Z'
 upper_material: Leather
+photos: ["https://image.goat.com/1000/attachments/product_template_additional_pictures/images/079/098/894/original/1056659_01.jpg.jpeg"]
+photo_source: store product photo (GOAT/StockX), Rafael OK Oct 11

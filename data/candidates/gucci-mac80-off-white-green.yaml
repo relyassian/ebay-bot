@@ -11,7 +11,6 @@ retail_price: 950
 price: 1044.99
 department: Men
 discontinued_verified: false
-photos: []
 included:
 - Shoes
 - Original box
@@ -79,3 +78,5 @@ sizes:
   url: https://stockx.com/gucci-mac80-off-white-green
   overseas: false
   in_stock_sources: 2
+photos: ["https://images.stockx.com/images/Gucci-MAC80-Off-White-Green-Product.jpg?fit=fill&bg=FFFFFF&w=1000&h=800&q=90"]
+photo_source: store product photo (GOAT/StockX), Rafael OK Oct 11

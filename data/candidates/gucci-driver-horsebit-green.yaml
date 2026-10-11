@@ -9,7 +9,6 @@ color: Green
 size_system: UK
 retail_price: 750
 discontinued_verified: false
-photos: []
 included:
 - Shoes
 - Original box
@@ -69,3 +68,5 @@ sizes:
   in_stock_sources: 1
   checked_at: '2026-10-05T19:30:01Z'
 upper_material: Suede
+photos: ["https://image.goat.com/1000/attachments/product_template_pictures/images/097/286/874/original/765859_0PV00_3154.png.png"]
+photo_source: store product photo (GOAT/StockX), Rafael OK Oct 11

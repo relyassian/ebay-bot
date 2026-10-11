@@ -14,7 +14,7 @@ Candidate files live in data/candidates/<id>.yaml (written by the daily research
   size_system: IT                    # native system printed in the shoe
   retail_price: 725
   discontinued_verified: false
-  photos: [https://...]              # eBay-hosted catalog photos or Rafael's own photos only
+  photos: [https://...]              # eBay catalog photos first; else store/marketplace product photos (Rafael OK Oct 11)
   made_in: Italy                     # optional, only if verified
   highlights: [Leather upper, Rubber sole]   # optional, verified features from the brand/store page
   included: [Shoes, Original box, Dust bag]  # optional, only what the source confirms; default = item + box
@@ -247,7 +247,7 @@ def make_draft(c: dict, cfg: dict | None = None) -> Draft:
     elif c["category"] not in CATEGORY_IDS:
         d.blocked_reason = f"category '{c['category']}' not supported yet"
     elif not d.photos:
-        d.blocked_reason = "needs photos (no eBay catalog photo found)"
+        d.blocked_reason = "needs photos (no eBay catalog or store photo found)"
     elif not d.sizes:
         d.blocked_reason = "no size clears the rules"
     return d

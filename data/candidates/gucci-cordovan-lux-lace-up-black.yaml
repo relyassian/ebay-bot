@@ -11,7 +11,6 @@ size_system: UK
 retail_price: 1350
 price: 1308.99
 discontinued_verified: false
-photos: []
 included:
 - Shoes
 - Original box
@@ -32,3 +31,5 @@ sizes:
   overseas: false
   in_stock_sources: 1
   checked_at: '2026-10-07T10:50:57Z'
+photos: ["https://image.goat.com/1000/attachments/product_template_pictures/images/100/858/402/original/723694_DS800_1000.png.png"]
+photo_source: store product photo (GOAT/StockX), Rafael OK Oct 11

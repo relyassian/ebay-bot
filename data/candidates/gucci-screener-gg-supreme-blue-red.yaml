@@ -11,7 +11,6 @@ retail_price: 1020
 price: 1099.99
 department: Men
 discontinued_verified: false
-photos: []
 included:
 - Shoes
 - Original box
@@ -93,3 +92,5 @@ sizes:
   url: https://stockx.com/gucci-screener-gg-supreme-dark-blue-red
   overseas: false
   in_stock_sources: 1
+photos: ["https://images.stockx.com/images/Gucci-Screener-GG-Supreme-Dark-Blue-Red.jpg?fit=fill&bg=FFFFFF&w=1000&h=800&q=90"]
+photo_source: store product photo (GOAT/StockX), Rafael OK Oct 11

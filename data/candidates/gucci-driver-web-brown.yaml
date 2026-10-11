@@ -11,7 +11,6 @@ retail_price: 850
 price: 899.99
 department: Men
 discontinued_verified: false
-photos: []
 included:
 - Shoes
 - Original box
@@ -65,3 +64,5 @@ sizes:
   url: https://stockx.com/gucci-ayrton-webbing-trimmed-horsebit-leather-driver-loafers-brown
   overseas: false
   in_stock_sources: 1
+photos: ["https://images.stockx.com/images/Gucci-Ayrton-Webbing-Trimmed-Horsebit-Leather-Driver-Loafers-Brown-Product.jpg?fit=fill&bg=FFFFFF&w=1000&h=800&q=90"]
+photo_source: store product photo (GOAT/StockX), Rafael OK Oct 11
