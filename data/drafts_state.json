@@ -16,8 +16,8 @@
     "status": "blocked"
   },
   "bottega-veneta-eliot-mid-multicolor": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820228649208",
+    "status": "live"
   },
   "brunello-cucinelli-suede-sneaker-beige": {
     "reason": "needs photos (no eBay catalog photo found)",
@@ -28,24 +28,30 @@
     "status": "blocked"
   },
   "ferragamo-cassini-low-blue": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820228649230",
+    "status": "live"
   },
   "ferragamo-cosma-high-black": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820228649253",
+    "status": "live"
   },
   "ferragamo-lunar-paneled-slip-on-sneaker-medium-b": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "ferragamo-lunar-paneled-slip-on-sneaker-red": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "ferragamo-nima-knit-low-top-sneaker-blue": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "givenchy-gent-derby-black": {
     "reason": "needs photos (no eBay catalog photo found)",
@@ -147,8 +153,11 @@
     "status": "live"
   },
   "gucci-driver-web-brown": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]",
+      "Warning 21920406: Authenticity Guarantee [Authenticity Guarantee, Authenticity Guarantee]"
+    ],
+    "status": "invalid"
   },
   "gucci-gg-screener-grey-navy": {
     "item_id": "820207186594",
@@ -163,8 +172,11 @@
     "status": "uncompetitive"
   },
   "gucci-horsebit-loafer-ivory-wool": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]",
+      "Warning 21920406: Authenticity Guarantee [Authenticity Guarantee, Authenticity Guarantee]"
+    ],
+    "status": "invalid"
   },
   "gucci-interlocking-g-driver-brown": {
     "item_id": "820205221528",
@@ -213,8 +225,10 @@
     "status": "invalid"
   },
   "gucci-mac80-off-white-green": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
+    ],
+    "status": "invalid"
   },
   "gucci-mac80-sneaker-white-blue": {
     "item_id": "820207186615",
@@ -326,11 +340,14 @@
     "status": "blocked"
   },
   "mcqueen-penny-loafer-black-white-sole": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "errors": [
+      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 1,922.94 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]",
+      "Warning 21920406: Authenticity Guarantee [Authenticity Guarantee, Authenticity Guarantee]"
+    ],
+    "status": "invalid"
   },
   "prada-monolith-loafer-black": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820228649857",
+    "status": "live"
   }
 }
