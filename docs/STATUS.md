@@ -132,3 +132,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Watch: eBay Verify may reject a photo URL (hotlink or size); drafts then show "invalid" in `drafts_state.json`. Most new drafts will queue as `waiting_limit` (limit room $4,183.89, 8 already waiting).
 - Not verified: whether Authenticity Guarantee accepts these listings without catalog photos; check the first one that lists.
 
+
+## Oct 11, 21:15Z: result of the photo unblock
+- 17 drafts re-processed: **4 listed live** (Bottega Eliot Mid, Ferragamo Cassini, Ferragamo Cosma, Prada Monolith) so eBay accepted the GOAT photo links; **no photo errors**. 4 skipped as uncompetitive (other sellers ask less: Gucci Driver Horsebit black + green, Gucci Horsebit Loafer black, Gucci Tennis 1977). 8 hit eBay's monthly listing limit (now $1,922.94 room) and were moved to waiting_limit so they retry. 1 real error: Gucci Cordovan Lux needs the item specific "Style" (to fix).
+- Bottega, Cassini, Cosma and one Prada size were taken off sale by the sync right after listing: their store rows are from Oct 7 (older than 36h). They come back when the research run refreshes those GOAT rows (these 4 GOAT URLs are not yet in the daily path list: add them).
+- Still unverified: Authenticity Guarantee with non-catalog photos (check first sale/AG status on the 4 live items).
