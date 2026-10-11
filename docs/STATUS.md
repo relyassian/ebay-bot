@@ -114,3 +114,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Done: StockX 88 rows (25 pages) + GOAT 270 rows (50 pages) refreshed and pushed (`b281efe`). GOAT now read from GOAT's own per-size data feed (method in docs/research_routine.md), no clicking. 260 of 270 GOAT prices matched yesterday's old rows, so yesterday's old GOAT data was right and yesterday's flat-price reads were the bad ones.
 - Not done: END, Farfetch, Italist, Nugnes, Cettire rechecks; Part C (Gmail promos); Part B skipped (selling limit $4,183.89).
 - Guard: v2 disabled; backup task not visible in my list; newest data before this run was Oct 9 10:48Z.
+
+## Research run 2026-10-11 (in-chat, 6:41am ET)
+- Done: StockX 88 rows + GOAT 270 rows refreshed and pushed (`6d7c80b`). GOAT via buy_bar_data feed (docs/research_routine.md). StockX still needs page-by-page DOM reads (about 2-3 pages per browser batch, ~9 batches).
+- Gap: one GOAT URL in source_prices.csv, `goat.com/sneakers/gucci-mac80-sneaker-blue-778301-aab79-4542`, is not in my GOAT page list, so its rows were not refreshed. One Gucci Run monogram size (US 13) has no GOAT size.
+- Not done: END/Farfetch/Italist/Nugnes/Cettire rechecks; Part C Gmail; Part B skipped (limit $4,183.89).
+- Waiting on Rafael: non-catalog photos for the 25 photo-blocked drafts (my Oct 10 recommendation).
