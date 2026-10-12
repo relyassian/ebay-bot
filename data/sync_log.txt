@@ -20,8 +20,8 @@ market 355429385763: ours 1069.99 vs cheapest - (0 others) · Gucci Ace Sneaker 
 market 820204075354: ours 875.99 vs cheapest - (0 others) · Gucci Ace Sneaker with Web Black/Navy/Red Men's Lo
 market 820204075398: ours 804.99 vs cheapest 595.0 (2 others) · Gucci Ace Sneaker with Web White/Green/Red Men's L
 market 820204075433: ours 789.99 vs cheapest 430.95 (3 others) · Gucci x adidas Gazelle GG Monogram Sneaker Black M
-market 820204075474: ours 899.99 vs cheapest - (0 others) · Gucci x adidas Gazelle Suede Sneaker Light Blue Me
-market 820204075517: ours 899.99 vs cheapest - (0 others) · Gucci Horsebit Driver Loafer with Web Black/Green/
+market 820204075474: ours 871.99 vs cheapest - (0 others) · Gucci x adidas Gazelle Suede Sneaker Light Blue Me
+market 820204075517: ours 871.99 vs cheapest - (0 others) · Gucci Horsebit Driver Loafer with Web Black/Green/
 market 820204075592: ours 785.99 vs cheapest 487.0 (4 others) · Gucci Horsebit Driver Loafer Black Men's Leather D
 market 820204075633: ours None vs cheapest 950.0 (1 others) · Gucci Re-Web GG Canvas Sneaker White/Beige Men's L
 market 820204075737: ours 575.99 vs cheapest 499.0 (3 others) · Gucci Rhyton Leather Sneaker Ivory Men's Low Top S
@@ -39,7 +39,7 @@ market 820205329783: ours 869.99 vs cheapest 544.95 (1 others) · Gucci Tennis 1
 market 820205389034: ours 1981.99 vs cheapest 1464.95 (1 others) · Louis Vuitton LV Skate Sneaker Beige/White Men's L
 market 820205698211: ours 682.99 vs cheapest 550.0 (3 others) · Gucci Ace GG Embossed Sneaker Black Men's Leather 
 market 820207186160: ours None vs cheapest 350.0 (2 others) · Balenciaga Runner Sneaker Black Matte Men's Mesh L
-market 820207186196: ours 1115.99 vs cheapest 300.0 (15 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
+market 820207186196: ours 1115.99 vs cheapest 300.0 (14 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
 market 820207186222: ours 666.99 vs cheapest - (0 others) · Gucci Ace GG Embossed - White Men's Leather Low To
 market 820207186253: ours 862.99 vs cheapest 375.0 (10 others) · Gucci Basket Black Red Men's Demetra Low Top Sneak
 market 820207186287: ours 617.99 vs cheapest 199.0 (37 others) · Gucci Basket Green Demetra Men's Low Top Sneakers 
@@ -64,26 +64,57 @@ market 820207186853: ours 965.99 vs cheapest - (0 others) · Gucci Screener GG S
 market 820207186878: ours 719.99 vs cheapest 325.0 (2 others) · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top
 market 820207186919: ours 675.99 vs cheapest 390.0 (4 others) · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top 
 market 820207186962: ours 786.99 vs cheapest - (0 others) · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Me
-market 820223864929: ours 780.99 vs cheapest 399.97 (7 others) · Gucci Loafer with Interlocking G Brown Men's Leath
-market 820223865172: ours 735.99 vs cheapest 464.98 (9 others) · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sne
+market 820223864929: ours None vs cheapest 399.97 (7 others) · Gucci Loafer with Interlocking G Brown Men's Leath
+market 820223865172: ours None vs cheapest 464.98 (9 others) · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sne
 market 820228649208: ours None vs cheapest - (0 others) · Bottega Veneta Eliot Mid-Top Sneaker Multi-Color M
 market 820228649230: ours None vs cheapest - (0 others) · Ferragamo Cassini Low-Top Sneaker Blue Men's Low T
 market 820228649253: ours None vs cheapest 500.0 (1 others) · Ferragamo Cosma High-Top Sneaker Black Men's Sneak
 market 820228649857: ours None vs cheapest - (0 others) · Prada Monolith Brushed Leather Loafer Black Men's 
-Price check: 72 listings compared, 33 priced more than 5% above another seller.
-title 820228649253: "Ferragamo Cosma High-Top Sneaker Black Men's Sneakers Authentic New" -> "Ferragamo Cosma High-Top Sneaker Black Men's Sneakers Authentic Men's New"
-title 820228649857: "Prada Monolith Brushed Leather Loafer Black Men's Loafers Authentic New" -> "Prada Monolith Brushed Leather Loafer Black Men's Loafers Authentic Men's New"
-📋 Daily eBay check · Sun Oct 11
+market 820229263569: ours 802.99 vs cheapest - (0 others) · Ferragamo Lunar Paneled Slip-On Sneaker Medium Bro
+market 820229263683: ours 499.99 vs cheapest - (0 others) · Ferragamo Lunar Paneled Slip-On Sneaker Red Men's 
+market 820229263765: ours 727.99 vs cheapest - (0 others) · Ferragamo Nima Knit Low-Top Sneaker Blue Men's New
+market 820229263903: ours 899.99 vs cheapest 565.0 (1 others) · Gucci Horsebit Driver Loafer with Web Brown Men's 
+market 820229265137: ours 939.99 vs cheapest - (0 others) · Alexander McQueen Contrast Sole Leather Penny Loaf
+Price check: 77 listings compared, 32 priced more than 5% above another seller.
+title 820229263569: "Ferragamo Lunar Paneled Slip-On Sneaker Medium Brown Men's New" -> "Ferragamo Lunar Paneled Slip-On Sneaker Medium Brown Men's Low Top Sneakers New"
+title 820229263683: "Ferragamo Lunar Paneled Slip-On Sneaker Red Men's New" -> "Ferragamo Lunar Paneled Slip-On Sneaker Red Men's Low Top Sneakers Authentic New"
+title 820229263765: "Ferragamo Nima Knit Low-Top Sneaker Blue Men's New" -> "Ferragamo Nima Knit Low-Top Sneaker Blue Men's Low Top Sneakers Authentic New"
+title 820229263903: "Gucci Horsebit Driver Loafer with Web Brown Men's New" -> "Gucci Horsebit Driver Loafer with Web Brown Men's Leather Driving Shoes New"
+SYNC ERRORS:
+Gucci Loafer with Interlocking G Brown Leather… (820223864929): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed the amount you can list. You can list up to USD 2,805.00 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 .', )
+Gucci MAC80 Sneaker Blue Leather Low Top… (820223865172): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed the amount you can list. You can list up to USD 2,805.00 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 .', )
+Bottega Eliot Mid-Top Sneaker Multi-Color Low… (820228649208): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed the amount you can list. You can list up to USD 2,805.00 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 .', )
+Ferragamo Cosma High-Top Sneaker Black Sneakers… (820228649253): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed the amount you can list. You can list up to USD 1,069.02 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 .', )
+Prada Monolith Brushed Leather Loafer Black… (820228649857): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed the amount you can list. You can list up to USD 1,069.02 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 .', )
+📋 Daily eBay check · Mon Oct 12
 
-What I did: took 2 listings (or some sizes) off sale because stores ran out; raised the price a little on 5 listings because the store got pricier; lowered the price 3% on 2 listings that hadn't sold in a week.
+What I did: took 1 listing (or some sizes) off sale because stores ran out; put 1 listing back on sale; raised the price a little on 8 listings because the store got pricier; lowered the price 3% on 9 listings that hadn't sold in a week.
 Nothing for you to do.
+
+⚠️ Couldn't update 5 listing(s); I'm looking into it:
+• Gucci Loafer with Interlocking G Brown Leather… (820223864929): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed t
+• Gucci MAC80 Sneaker Blue Leather Low Top… (820223865172): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed the amo
+• Bottega Eliot Mid-Top Sneaker Multi-Color Low… (820228649208): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed th
+• Ferragamo Cosma High-Top Sneaker Black Sneakers… (820228649253): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed 
+• Prada Monolith Brushed Leather Loafer Black… (820228649857): eBay refused the change (ReviseFixedPriceItem failed: ['This listing would cause you to exceed the 
+{'photo': 'https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/iLwAAeSwKudqy~rh/$_1.PNG?set_id=8800005007', 'text': "✅ BACK ON SALE\nFerragamo Cassini Low-Top Sneaker Blue Low Top…\nSizes: all 2 sizes · you'd make $273\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820228649230"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/dZwAAOSwb9Nluz2m/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web Beige/Ebony GG…\nSizes: US 8.5 · now from $1,156.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355429385763"}
 {'photo': 'https://i.ebayimg.com/images/g/YWQAAeSwoAVpTqG5/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web Black/Navy/Red Low…\nSizes: US 7.5 · now from $875.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075354"}
 {'photo': 'https://i.ebayimg.com/images/g/bMYAAOSwnQVn4A8o/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web White/Green/Red Low…\nSizes: US 12.5 · now from $804.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075398"}
 {'photo': 'https://i.ebayimg.com/images/g/Fy0AAOSwgPdn4A-H/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Horsebit Driver Loafer Black Leather…\nSizes: all 4 sizes · now from $785.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075592"}
-{'photo': 'https://i.ebayimg.com/images/g/zDkAAeSw9zdo4Ggy/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Rhyton Leather Sneaker Ivory Low Top…\nSizes: all 2 sizes · now from $575.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075737"}
-{'photo': 'https://i.ebayimg.com/images/g/xWMAAeSwq2xpTqHH/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci MAC80 Sneaker Black/Off-White Leather Low…\nSizes: all 4 sizes · now from $677.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820205221669"}
 Also changed:
-• Price Lowered 3%: Gucci x adidas Gazelle Suede Sneaker Light Blue… (US 7.5) https://www.ebay.com/itm/820204075474
-• Price Lowered 3%: Gucci Horsebit Driver Loafer with Web… (US 6, 7, 8, 11.5, 12, 12.5) https://www.ebay.com/itm/820204075517
-• Taken Off Sale: Gucci Loafer with Interlocking G Brown Leather… (all 9 sizes) https://www.ebay.com/itm/820223864929
-• Taken Off Sale: Gucci MAC80 Sneaker Blue Leather Low Top… (all 11 sizes) https://www.ebay.com/itm/820223865172
+• Price Raised: Gucci Rhyton Leather Sneaker Ivory Low Top… (all 2 sizes) https://www.ebay.com/itm/820204075737
+• Price Raised: Gucci MAC80 Sneaker Black/Off-White Leather Low… (all 4 sizes) https://www.ebay.com/itm/820205221669
+• Price Raised: Gucci Run Sneaker Beige Ebony Monogram Leather… (US 9.5) https://www.ebay.com/itm/820207186744
+• Price Raised: Gucci Horsebit Driver Loafer with Web Brown New (US 11) https://www.ebay.com/itm/820229263903
+• Price Lowered 3%: Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas… (US 8.5, 9.5) https://www.ebay.com/itm/355423513413
+• Price Lowered 3%: Gucci Ace GG Supreme Sneaker Black/Grey Leather… (US 7.5, 10.5, 12, 13) https://www.ebay.com/itm/355426469262
+• Price Lowered 3%: Gucci Ace Embroidered Bee Sneaker Black Leather… (US 7.5, 13) https://www.ebay.com/itm/355428079713
+• Price Lowered 3%: Gucci Horsebit Driver Loafer with Web… (US 8.5) https://www.ebay.com/itm/820204075517
+• Price Lowered 3%: Gucci Interlocking G Driver Moccasin Washed… (US 13) https://www.ebay.com/itm/820205221563
+• Price Lowered 3%: Gucci Ace GG Supreme Bees Sneaker Beige/Ebony… (US 14, 14.5) https://www.ebay.com/itm/820205329339
+• Price Lowered 3%: Gucci Tennis 1977 High-Top Sneaker Beige/Ebony… (US 7, 11.5, 12, 12.5, 13, 13.5) https://www.ebay.com/itm/820205329783
+• Price Lowered 3%: Gucci Basket Low White Demetra Red Low Top… (US 8.5) https://www.ebay.com/itm/820207186489
+• Price Lowered 3%: Gucci Run Sneaker Black Knit Low Top Sneakers… (US 12.5, 13) https://www.ebay.com/itm/820207186774
+• Taken Off Sale: Ferragamo Nima Knit Low-Top Sneaker Blue New (US 12) https://www.ebay.com/itm/820229263765
+Ad rates: 5 listings up, 0 back down (2 at 10%, 1 at 12%, 2 at 15%); eBay accepted 5 of 5
