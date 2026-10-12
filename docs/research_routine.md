@@ -109,3 +109,7 @@ Part A (keeping live sizes fresh and getting the off-sale, most-watched legacy l
 
 ## GOAT per-size prices (found Oct 10; no clicking needed)
 On any goat.com tab run JS: fetch the product page, regex `"id":(\d+),"internalSho` for the template id, then GET `/web-api/v1/product_variants/buy_bar_data?productTemplateId=<id>&countryCode=US` (JSON per size/condition). Keep only `shoeCondition=new_no_defects` and `boxCondition=good_condition`, take the lowest `lowestPriceCents.amount/100` per `sizeOption.presentation` (native size). One JS call handles ~25 pages. Never click Buy New (blocked as a purchase flow, and unnecessary). Do not use the headline "Buy New" or size-picker text.
+
+
+## StockX reader (updated Oct 12)
+Old mobile-selector method no longer works. Navigate to the product page, then run JS: wait 2.5s; click the button whose text matches /^Size:/; wait 1.5s; collect unique `button,li,[role=option]` texts matching /^US M \d/ (strip `US M `). Text looks like `5.5  $739`; `BID` = no seller. Use 2 pages per browser_batch (50s deadline). Cost = ask x 1.06.

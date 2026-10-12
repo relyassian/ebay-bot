@@ -142,3 +142,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Rafael: prioritize near-market listings to build sales/account history now; above-market products still wanted later. Code: `bot/newlistings.py` drafts() sorts by price/market median (closest first) and retries "uncompetitive" drafts once `pricing.match_market` is false. Until then they stay parked (4 so far: Gucci Driver Horsebit black/green, Horsebit Loafer black, Tennis 1977 white-green-red).
 - Market comparison Oct 8-11: 7 of 26 measurable listings within ~1.25x of the eBay median (Rhyton Ivory, MAC80 White/Blue, Ace GG Embossed, MAC80 Blue...); 15 are 1.45-1.86x. Sale badges: one 14-day sale (Oct 5-19) on 12 listings; not verified on eBay itself.
 - Next: put near-market listings first in daily price refresh; decide Oct 15 floor-100 test from sales.
+
+## Oct 12: daily research (10:40Z run)
+- Part A done: GOAT refreshed 329 rows, StockX 57 rows (26 pages); 390 rows now dated Oct 12. Sizes with only BID (no seller) left unchanged (38 skipped); they age out via the 36h freshness rule.
+- New StockX reader (old mobile selector is dead): load page, wait 2.5s, click the button matching /^Size:/, wait 1.5s, collect unique button/li/[role=option] texts matching /^US M \d/. "BID" = no ask. Max 2 pages per browser_batch (50s limit). Cost = ask x 1.06.
+- Part B skipped (listing limit remaining ~$1,923, under $5,000). Part C (Gmail promos) and END/Farfetch/Italist/Nugnes/Cettire rechecks NOT done. Farfetch still blocks the browser.
+- Open: 7 Farfetch-only drafts have no photo source; Gucci Cordovan Lux needs "Style" item specific; check-in is 7:20am ET vs Rafael's 7:00 ask; backup research task trig_01QV4pywhVAgf7BvHcDb4Q8k not confirmed paused; "item from goat" question unanswered.
+- Mac copy of STATUS.md still stale (Oct 9).
