@@ -152,3 +152,6 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 
 ## Oct 12 check-in (11:28Z)
 - Research ran today (newest checked_at 10:53Z). daily-sync success 10:55Z; sale-alerts chain healthy (runs every ~25 min, all success). No sales logged (1 sold total, $899.99). notices.json empty. data/selling_limits.json shows $4,183.89 but is stale; real remaining after 4 new listings ~ $1,923.
+
+## Oct 12 evening: GOAT order checked (Rafael logged in; read-only)
+- GOAT order #200219919: Gucci Ace 'GG Crystal Canvas - Green', UK 10 (US 10.5), ordered 9/29, total $560.95 ($546 + $14.95 shipping). Status "Verified" by GOAT ("will be shipped shortly"). Tracking number shown: 878356372280 (carrier not stated on page). Ships to the NJ authenticator address; line 2 reads `evtn:l227ktv SKC3` (eVTN intact, not truncated this time). Not yet confirmed as delivered. Whether it matches the $899.99 eBay sale is still unverified.
