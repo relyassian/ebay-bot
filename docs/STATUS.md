@@ -149,3 +149,6 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part B skipped (listing limit remaining ~$1,923, under $5,000). Part C (Gmail promos) and END/Farfetch/Italist/Nugnes/Cettire rechecks NOT done. Farfetch still blocks the browser.
 - Open: 7 Farfetch-only drafts have no photo source; Gucci Cordovan Lux needs "Style" item specific; check-in is 7:20am ET vs Rafael's 7:00 ask; backup research task trig_01QV4pywhVAgf7BvHcDb4Q8k not confirmed paused; "item from goat" question unanswered.
 - Mac copy of STATUS.md still stale (Oct 9).
+
+## Oct 12 check-in (11:28Z)
+- Research ran today (newest checked_at 10:53Z). daily-sync success 10:55Z; sale-alerts chain healthy (runs every ~25 min, all success). No sales logged (1 sold total, $899.99). notices.json empty. data/selling_limits.json shows $4,183.89 but is stale; real remaining after 4 new listings ~ $1,923.
