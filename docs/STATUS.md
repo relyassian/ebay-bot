@@ -137,3 +137,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - 17 drafts re-processed: **4 listed live** (Bottega Eliot Mid, Ferragamo Cassini, Ferragamo Cosma, Prada Monolith) so eBay accepted the GOAT photo links; **no photo errors**. 4 skipped as uncompetitive (other sellers ask less: Gucci Driver Horsebit black + green, Gucci Horsebit Loafer black, Gucci Tennis 1977). 8 hit eBay's monthly listing limit (now $1,922.94 room) and were moved to waiting_limit so they retry. 1 real error: Gucci Cordovan Lux needs the item specific "Style" (to fix).
 - Bottega, Cassini, Cosma and one Prada size were taken off sale by the sync right after listing: their store rows are from Oct 7 (older than 36h). They come back when the research run refreshes those GOAT rows (these 4 GOAT URLs are not yet in the daily path list: add them).
 - Still unverified: Authenticity Guarantee with non-catalog photos (check first sale/AG status on the 4 live items).
+
+## Oct 11 (night): near-market first
+- Rafael: prioritize near-market listings to build sales/account history now; above-market products still wanted later. Code: `bot/newlistings.py` drafts() sorts by price/market median (closest first) and retries "uncompetitive" drafts once `pricing.match_market` is false. Until then they stay parked (4 so far: Gucci Driver Horsebit black/green, Horsebit Loafer black, Tennis 1977 white-green-red).
+- Market comparison Oct 8-11: 7 of 26 measurable listings within ~1.25x of the eBay median (Rhyton Ivory, MAC80 White/Blue, Ace GG Embossed, MAC80 Blue...); 15 are 1.45-1.86x. Sale badges: one 14-day sale (Oct 5-19) on 12 listings; not verified on eBay itself.
+- Next: put near-market listings first in daily price refresh; decide Oct 15 floor-100 test from sales.

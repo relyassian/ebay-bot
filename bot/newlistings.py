@@ -114,14 +114,31 @@ def auto_ok(cid: str, c: dict, d) -> str | None:
     return None
 
 
+def _market_ratio(cid: str, c: dict) -> float:
+    """Our cheapest planned price / median of other eBay sellers (cached). Unknown = 1.0. Lower = closer to selling."""
+    import json
+    try:
+        m = json.loads(MKT_CACHE.read_text()).get(cid) or {}
+        prices = [float(s["price"]) for s in c.get("sizes", []) if s.get("price")]
+        if m.get("median") and (m.get("n") or 0) >= 3 and prices:
+            return min(prices) / float(m["median"])
+    except Exception:
+        pass
+    return 1.0
+
+
 def drafts() -> list[str]:
     from bot.ebay.auth import access_token
     from bot.ebay.trading import verify_add
     state, out = load_state(), []
     auto = load_config()["listing"].get("auto_publish")
     # with auto-publish on, drafts still waiting for Rafael are re-checked under his standing rule too
+    # Rafael (Oct 11): build the account with near-market sales first; above-market products are kept (status
+    # "uncompetitive") and listed later once pricing.match_market is turned off.
+    retry = ("sent", "waiting_limit") + (() if load_config().get("pricing", {}).get("match_market", False) else ("uncompetitive",))
     todo = {k: c for k, c in load_candidates().items()
-            if k not in state or k.startswith("test-") or (auto and state[k].get("status") in ("sent", "waiting_limit"))}
+            if k not in state or k.startswith("test-") or (auto and state[k].get("status") in retry)}
+    todo = dict(sorted(todo.items(), key=lambda kv: _market_ratio(kv[0], kv[1])))   # closest to market first (limited listing room)
     if not todo:
         return out
     token = access_token()
