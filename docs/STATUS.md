@@ -161,3 +161,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - FedEx 878356372280 added to the order via new `add-tracking` command/workflow (CompleteSale, workflow id 382671516, inputs order/tracking/carrier). FedEx status at the time: Label Created Oct 7 (Shatin, HK), not yet picked up.
 - Watch: eBay ship-by / late-shipment risk if FedEx doesn't scan soon; GOAT support if still unscanned in a few days.
 - Not yet automated: parsing store emails for tracking (bot still needs this).
+
+## Oct 13: daily research NOT run (Mac browser unreachable)
+- 10:40Z scheduled research fired, but the linked-computer tools (built-in browser) are gone from this session. WebFetch fallback was refused (permission not answered) and GOAT/StockX sizes need JS anyway. No prices changed; newest checked_at is still Oct 12 10:53Z.
+- Guard: no other research task fired today (checked page 1 of enabled tasks; research tasks not listed there).
+- IMPACT: rows older than 36h expire at about 22:53Z Oct 13 (6:53pm ET). Without a refresh the sync takes live sizes off sale after that.
+- Fix: reopen this chat in the Claude desktop app on the Mac (Link to this computer), then re-run research. Tracking added to eBay order 11-15213-78941 Oct 12 (see above).
