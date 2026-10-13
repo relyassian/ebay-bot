@@ -155,3 +155,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 
 ## Oct 12 evening: GOAT order checked (Rafael logged in; read-only)
 - GOAT order #200219919: Gucci Ace 'GG Crystal Canvas - Green', UK 10 (US 10.5), ordered 9/29, total $560.95 ($546 + $14.95 shipping). Status "Verified" by GOAT ("will be shipped shortly"). Tracking number shown: 878356372280 (carrier not stated on page). Ships to the NJ authenticator address; line 2 reads `evtn:l227ktv SKC3` (eVTN intact, not truncated this time). Not yet confirmed as delivered. Whether it matches the $899.99 eBay sale is still unverified.
+
+## Oct 12 night: tracking added to eBay
+- eBay order 11-15213-78941 (Gucci Green Ace GG Crystal Canvas, US 10.5, $899.99, created Sep 26) = the $899.99 sale = GOAT order 200219919 (cost $560.95, est. net before fees about $340 minus eBay ~14%).
+- FedEx 878356372280 added to the order via new `add-tracking` command/workflow (CompleteSale, workflow id 382671516, inputs order/tracking/carrier). FedEx status at the time: Label Created Oct 7 (Shatin, HK), not yet picked up.
+- Watch: eBay ship-by / late-shipment risk if FedEx doesn't scan soon; GOAT support if still unscanned in a few days.
+- Not yet automated: parsing store emails for tracking (bot still needs this).
