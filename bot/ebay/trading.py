@@ -300,3 +300,21 @@ def verify_add(item_xml: str, token: str) -> tuple[bool, list[str]]:
 def add_item(item_xml: str, token: str) -> tuple[str | None, list[str]]:
     ok, root, msgs = _call_soft("AddFixedPriceItem", item_xml, token)
     return (root.findtext("e:ItemID", namespaces=NS) if ok else None), msgs
+
+
+def get_orders(token: str, days: int = 30) -> list[Sale]:
+    """All seller orders created in the last `days` days (any status). Read-only."""
+    from datetime import datetime, timedelta, timezone
+    now = datetime.now(timezone.utc)
+    frm = (now - timedelta(days=days)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    to = now.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    root = _call("GetOrders", f"<CreateTimeFrom>{frm}</CreateTimeFrom><CreateTimeTo>{to}</CreateTimeTo>"
+                              "<OrderRole>Seller</OrderRole><OrderStatus>All</OrderStatus>", token)
+    return parse_orders(root)
+
+
+def add_tracking(order_id: str, tracking: str, carrier: str, token: str) -> None:
+    """CompleteSale: attach a tracking number to an order (also marks it shipped)."""
+    _call("CompleteSale", f"<OrderID>{escape(order_id)}</OrderID><Shipped>true</Shipped>"
+          f"<Shipment><ShipmentTrackingDetails><ShippingCarrierUsed>{escape(carrier)}</ShippingCarrierUsed>"
+          f"<ShipmentTrackingNumber>{escape(tracking)}</ShipmentTrackingNumber></ShipmentTrackingDetails></Shipment>", token)

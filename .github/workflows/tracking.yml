@@ -1,0 +1,22 @@
+name: add-tracking
+# Lists recent eBay orders (read-only). With order + tracking inputs it adds the tracking number (needs LIVE=true).
+on:
+  workflow_dispatch:
+    inputs:
+      order: {description: "eBay order id (empty = just list orders)", required: false, default: ""}
+      tracking: {description: "Tracking number", required: false, default: ""}
+      carrier: {description: "Carrier", required: false, default: "FedEx"}
+jobs:
+  tracking:
+    runs-on: ubuntu-latest
+    env:
+      EBAY_CLIENT_ID: ${{ vars.EBAY_CLIENT_ID || secrets.EBAY_CLIENT_ID }}
+      EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+      EBAY_RUNAME: ${{ vars.EBAY_RUNAME || secrets.EBAY_RUNAME }}
+      EBAY_REFRESH_TOKEN: ${{ secrets.EBAY_REFRESH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q -r requirements.txt
+      - run: python -m bot.cli add-tracking --order "${{ inputs.order }}" --tracking "${{ inputs.tracking }}" --carrier "${{ inputs.carrier }}" ${{ vars.LIVE == 'true' && '--live' || '' }}

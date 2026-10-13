@@ -125,6 +125,8 @@ def main(argv=None) -> int:
     sub.add_parser("drafts")
     pa = sub.add_parser("ads-on"); pa.add_argument("--live", action="store_true")
     sub.add_parser("demo")
+    pt = sub.add_parser("add-tracking"); pt.add_argument("--order", default=""); pt.add_argument("--tracking", default="")
+    pt.add_argument("--carrier", default="FedEx"); pt.add_argument("--days", type=int, default=30); pt.add_argument("--live", action="store_true")
     pl = sub.add_parser("listen"); pl.add_argument("--minutes", type=int, default=25); pl.add_argument("--live", action="store_true")
     sub.add_parser("legacy-plan")
     sub.add_parser("snapshot")
@@ -146,6 +148,19 @@ def main(argv=None) -> int:
         return cmd_show(args)
     if args.cmd == "apply":
         return cmd_apply(args)
+    if args.cmd == "add-tracking":
+        from bot.ebay.auth import access_token
+        from bot.ebay.trading import get_orders, add_tracking
+        tok = access_token()
+        for o in get_orders(tok, args.days):
+            print(f"ORDER {o.order_id} | item {o.item_id} | size {o.size} | ${o.price:,.2f} | {o.created} | {o.title[:70]}")
+        if args.order and args.tracking:
+            if not args.live:
+                print(f"DRY RUN: would add {args.carrier} {args.tracking} to order {args.order}")
+            else:
+                add_tracking(args.order, args.tracking, args.carrier, tok)
+                print(f"DONE: added {args.carrier} {args.tracking} to order {args.order}")
+        return 0
     if args.cmd == "ads-on":
         import traceback
         from bot.ads import setup
