@@ -180,3 +180,4 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - NOT refreshed (blocked): Farfetch Ferragamo Gancini moccasins (8 rows) and D&G Saint Tropez (2 rows) show a bot check; Cettire cufflinks page renders blank. These rows expire 36h after their Oct 8 check and those sizes/listings go off sale unless Rafael loads them in the browser (Farfetch worked after sign-in on Oct 5).
 - Stale GOAT single sizes (Run beige-ebony US 13, Bottega US 12, Nima US 12) not refreshed (no size match in today's GOAT run).
 - Update (≈1:20pm ET, after Rafael signed in): Farfetch Ferragamo Gancini (8 rows) and D&G Saint Tropez (US 7 $465, US 8.5 $452) read in browser; stock and prices unchanged, rows refreshed. Cettire cufflinks (blank page) and 3 single GOAT sizes still not refreshed.
+- Cettire cufflinks (356084785661) read in browser ≈1:20pm ET: in stock, $241.06 duties included (was $246.48); row refreshed. Only the 3 single GOAT sizes remain unrefreshed.
