@@ -170,3 +170,6 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 
 ## Oct 13 check-in (11:22Z)
 - Research did NOT run today (Mac unreachable); newest checked_at Oct 12 10:53Z; rows expire ~22:53Z tonight. sale-alerts chain healthy (all recent runs success); daily-sync last success Oct 12 10:55Z. No new sales. Limit room ~$1,923 (file stale at $4,184). 4 notices: listing-limit refusals (Gucci Interlocking G loafer, MAC80 blue, Bottega Eliot, Ferragamo Cosma).
+
+## Oct 13 (12:30pm ET): research re-run after Mac relink
+- GOAT 328 rows + StockX 95 rows refreshed (423 rows dated Oct 13). Rows from other stores (Sept 30 / Oct 8) not rechecked: Part B skipped (limit ~$1,923), Part C and other-store rechecks not done. Browser was run 1 page per call when pages timed out (2 in parallel batches interleave: use one browser_batch at a time).
