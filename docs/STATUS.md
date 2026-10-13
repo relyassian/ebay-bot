@@ -173,3 +173,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 
 ## Oct 13 (12:30pm ET): research re-run after Mac relink
 - GOAT 328 rows + StockX 95 rows refreshed (423 rows dated Oct 13). Rows from other stores (Sept 30 / Oct 8) not rechecked: Part B skipped (limit ~$1,923), Part C and other-store rechecks not done. Browser was run 1 page per call when pages timed out (2 in parallel batches interleave: use one browser_batch at a time).
+
+## Oct 13 (≈1:30pm ET): "recheck" of non-GOAT/StockX rows
+- Italist Ferragamo Grandioso black (355066429434): read Shopify .js. 6 rows refreshed at $619.26; US 8.5 is out of stock, row removed (size goes off sale).
+- Nugnes1920 Gucci Ace GG Supreme beige (355429385763): US 7 and US 8 both in stock at $625, rows refreshed.
+- NOT refreshed (blocked): Farfetch Ferragamo Gancini moccasins (8 rows) and D&G Saint Tropez (2 rows) show a bot check; Cettire cufflinks page renders blank. These rows expire 36h after their Oct 8 check and those sizes/listings go off sale unless Rafael loads them in the browser (Farfetch worked after sign-in on Oct 5).
+- Stale GOAT single sizes (Run beige-ebony US 13, Bottega US 12, Nima US 12) not refreshed (no size match in today's GOAT run).
