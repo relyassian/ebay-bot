@@ -167,3 +167,6 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Guard: no other research task fired today (checked page 1 of enabled tasks; research tasks not listed there).
 - IMPACT: rows older than 36h expire at about 22:53Z Oct 13 (6:53pm ET). Without a refresh the sync takes live sizes off sale after that.
 - Fix: reopen this chat in the Claude desktop app on the Mac (Link to this computer), then re-run research. Tracking added to eBay order 11-15213-78941 Oct 12 (see above).
+
+## Oct 13 check-in (11:22Z)
+- Research did NOT run today (Mac unreachable); newest checked_at Oct 12 10:53Z; rows expire ~22:53Z tonight. sale-alerts chain healthy (all recent runs success); daily-sync last success Oct 12 10:55Z. No new sales. Limit room ~$1,923 (file stale at $4,184). 4 notices: listing-limit refusals (Gucci Interlocking G loafer, MAC80 blue, Bottega Eliot, Ferragamo Cosma).
