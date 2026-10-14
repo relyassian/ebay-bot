@@ -187,3 +187,6 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part B skipped (limit ~$1,923). Part C: Gmail had only a StockX seller-fee promo; promos.yaml now has Cettire FIRST10 and Farfetch GET10 (to Oct 28, selected styles, $300 min basket).
 - No rafael_requests.txt. Guard: newest checked_at was Oct 13 before this run; research tasks 'eBay Research v2'/'eBay Research' not seen on page 1 of list_triggers (has_more), not confirmed paused.
 - Browser notes: Farfetch/Cettire sometimes redirect once (interstitial) then load; re-navigate, then read with separate JS calls (timers stall when the pane is hidden). Mac STATUS.md still stale.
+
+## Oct 14 check-in (11:20Z)
+- Research ran today (441 rows dated Oct 14, newest 11:20Z). daily-sync success 10:57Z and 11:01Z; sale-alerts chain healthy (all recent runs success). No sales logged since Oct 13 (1 sold total). Limit file still stale at $4,183.89 (real ~ $1,923). notices.json: listing-limit refusals (cufflinks 356084785661, Ferragamo Grandioso 355066429434, Ferragamo Gancini moccasin 355420832785, plus others earlier): their price/qty changes won't apply until the limit resets ~Nov 1. Watch FedEx 878356372280.
