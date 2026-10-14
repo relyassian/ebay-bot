@@ -1,6 +1,8 @@
 # Store promo codes, refreshed by the daily research (see bot/promos.py)
-# 2026-10-08: Gmail (last 21 days) searched for all 12 stores: only StockX's Klarna $15 email (Oct 2; Klarna offer, not a code).
-# Site banners read in the Mac browser today: Cettire shows FIRST10 (app only, first purchase only); Farfetch only a refer-a-friend 10%;
-# GOAT and StockX showed no code. Others not re-read today.
+# 2026-10-14: Gmail (last 21 days) searched for all 12 stores: only a StockX "100% off seller fees" email (sellers only, not a buyer code).
+# Site banners read in the Mac browser: Cettire FIRST10 (app only, first purchase only); Farfetch GET10 terms read on a product page Oct 13.
+# GOAT and StockX showed no buyer code. Others not re-read today.
 cettire:
-  - {code: FIRST10, discount: "extra 10% off, first purchase only, Cettire app only", source: "Cettire site banner, read Oct 8"}
+  - {code: FIRST10, discount: "extra 10% off, first purchase only, Cettire app only", source: "Cettire site banner, read Oct 14"}
+farfetch:
+  - {code: GET10, discount: "up to 10% off selected styles only; basket min $300 before promo, max $300 off, once per customer, not with other codes", expires: 2026-10-28, source: "Farfetch product page terms, read Oct 13"}

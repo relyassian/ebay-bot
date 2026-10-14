@@ -181,3 +181,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Stale GOAT single sizes (Run beige-ebony US 13, Bottega US 12, Nima US 12) not refreshed (no size match in today's GOAT run).
 - Update (≈1:20pm ET, after Rafael signed in): Farfetch Ferragamo Gancini (8 rows) and D&G Saint Tropez (US 7 $465, US 8.5 $452) read in browser; stock and prices unchanged, rows refreshed. Cettire cufflinks (blank page) and 3 single GOAT sizes still not refreshed.
 - Cettire cufflinks (356084785661) read in browser ≈1:20pm ET: in stock, $241.06 duties included (was $246.48); row refreshed. Only the 3 single GOAT sizes remain unrefreshed.
+
+## Oct 14: daily research (10:41Z run, Mac browser linked)
+- Part A done: GOAT 327 rows + StockX 95 rows (26 pages, one page per call; 2 per batch times out) refreshed; Italist Grandioso (6 rows, now $620.57), Nugnes Gucci Ace beige (2), Farfetch Gancini (8) and D&G Saint Tropez (4 rows incl. US 6/8 not read on page; US 7 $465, US 8.5 $452 confirmed), Cettire cufflinks ($241.06) re-read, all unchanged except Italist FX. 422+ rows dated Oct 14. 4 GOAT sizes had no listing at GOAT today (Kaveh 12.5, Run beige-ebony 13, Bottega 45/US 12, Nima US 12): left stale, they go off sale after 36h.
+- Part B skipped (limit ~$1,923). Part C: Gmail had only a StockX seller-fee promo; promos.yaml now has Cettire FIRST10 and Farfetch GET10 (to Oct 28, selected styles, $300 min basket).
+- No rafael_requests.txt. Guard: newest checked_at was Oct 13 before this run; research tasks 'eBay Research v2'/'eBay Research' not seen on page 1 of list_triggers (has_more), not confirmed paused.
+- Browser notes: Farfetch/Cettire sometimes redirect once (interstitial) then load; re-navigate, then read with separate JS calls (timers stall when the pane is hidden). Mac STATUS.md still stale.
