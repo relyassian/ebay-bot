@@ -201,3 +201,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Research ran (newest checked_at 11:03Z today). daily-sync success 11:04Z; sale-alerts running every ~25 min, all success. No notices. No new sales logged (TotalSoldCount 1 / $899.99).
 - Selling-limit file still shows stale $4,183.89; real remaining ~$1,923, resets ~Nov 1.
 - Rafael: check FedEx 878356372280; floor-100 review today.
+
+## Oct 15 floor-100 review (15:00Z)
+- Result: inconclusive on sales. 0 sales on the 5 test listings and 0 on every other listing since Oct 8 (account total still 1 sold, the $899.99 Green Ace).
+- Interest (stats.json, Oct 15, 7-day views per live size): test listings 50 views / 9 live sizes = 5.6; other 56 listings 422 / 267 = 1.6. Watchers 4 vs 131 (0.4 vs 0.5 per size). Test items get ~3.5x views per size; no watcher lift.
+- Cost of the test: each pair gives up ~$50 of margin vs the 1.5x floor ($100 vs $150). Prices dropped 1-5 steps since Oct 8 (e.g. Embossed Black from $929.99 to $683-821; MAC80 B/OW from $1,044.99 to $678-860).
+- Recommendation: KEEP as is (do not expand, do not revert) and re-review ~Nov 1 when the selling limit resets and more listings are live. Rhyton Ivory now has 0 live sizes (unsourceable).
+- No config changed.
