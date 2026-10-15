@@ -196,3 +196,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part B skipped (selling limit remaining ~$1,923, resets ~Nov 1). Part C: Gmail promo search returned nothing new; promos.yaml unchanged (Farfetch GET10 still shown on site, expires Oct 28).
 - Still stale (go off sale after 36h, safe): Kaveh 12.5, Run beige-ebony 13, Bottega US 12, Nima US 12 (no GOAT listing).
 - Open for Rafael: FedEx 878356372280 (Gucci order 11-15213-78941) - confirm it's been scanned, else contact GOAT support. Floor-100 review today; ads review Oct 16.
+
+## Oct 15 check-in (11:20Z)
+- Research ran (newest checked_at 11:03Z today). daily-sync success 11:04Z; sale-alerts running every ~25 min, all success. No notices. No new sales logged (TotalSoldCount 1 / $899.99).
+- Selling-limit file still shows stale $4,183.89; real remaining ~$1,923, resets ~Nov 1.
+- Rafael: check FedEx 878356372280; floor-100 review today.
