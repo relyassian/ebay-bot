@@ -190,3 +190,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 
 ## Oct 14 check-in (11:20Z)
 - Research ran today (441 rows dated Oct 14, newest 11:20Z). daily-sync success 10:57Z and 11:01Z; sale-alerts chain healthy (all recent runs success). No sales logged since Oct 13 (1 sold total). Limit file still stale at $4,183.89 (real ~ $1,923). notices.json: listing-limit refusals (cufflinks 356084785661, Ferragamo Grandioso 355066429434, Ferragamo Gancini moccasin 355420832785, plus others earlier): their price/qty changes won't apply until the limit resets ~Nov 1. Watch FedEx 878356372280.
+
+## Oct 15 research (scheduled run, ~11:00-11:20Z)
+- Refreshed: GOAT 327 rows, StockX 26 pages / 95 rows, Italist (Ferragamo black loafer), Nugnes (Ace GG Supreme), Farfetch (Gancini moccasin, D&G Saint Tropez), Cettire cufflinks. All other-store prices/stock unchanged vs Oct 14. Rows dated Oct 15, good until ~Oct 16 23:00Z.
+- Part B skipped (selling limit remaining ~$1,923, resets ~Nov 1). Part C: Gmail promo search returned nothing new; promos.yaml unchanged (Farfetch GET10 still shown on site, expires Oct 28).
+- Still stale (go off sale after 36h, safe): Kaveh 12.5, Run beige-ebony 13, Bottega US 12, Nima US 12 (no GOAT listing).
+- Open for Rafael: FedEx 878356372280 (Gucci order 11-15213-78941) - confirm it's been scanned, else contact GOAT support. Floor-100 review today; ads review Oct 16.
