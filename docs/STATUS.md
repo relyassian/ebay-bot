@@ -208,3 +208,11 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Cost of the test: each pair gives up ~$50 of margin vs the 1.5x floor ($100 vs $150). Prices dropped 1-5 steps since Oct 8 (e.g. Embossed Black from $929.99 to $683-821; MAC80 B/OW from $1,044.99 to $678-860).
 - Recommendation: KEEP as is (do not expand, do not revert) and re-review ~Nov 1 when the selling limit resets and more listings are live. Rhyton Ivory now has 0 live sizes (unsourceable).
 - No config changed.
+
+## Oct 15 night: ad boost change (Rafael: "just do something to get sales")
+- Why no sales: traffic is thin (55 views/day across 60 listings, falling; new account, 1 sale). Not a price problem.
+- Found: ads already ON at 8%; the bot already auto-boosts to 10-15% where every size keeps 1.5x profit (12 listings on Oct 14).
+- Change (commit 9f2f5d0, config `ads.top_viewed_n: 10`, `top_viewed_mult: 1.0`): the 10 most-viewed listings (7-day views) may take 10/12/15% down to the $100 profit floor. Ad fee is only charged on an ad-driven sale.
+- Triggered the market workflow (id 377802242) at 03:14Z Oct 16 to apply it; result to be posted in this chat. Daily run re-tunes automatically.
+- Rafael to do: request a higher selling limit in Seller Hub (Performance > Selling limits). Limit room ~$1,923 until ~Nov 1.
+- Ads review (trig_019JtJ…) is Oct 16 10am.
