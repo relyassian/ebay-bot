@@ -156,10 +156,10 @@ def cfg_for(cfg: dict, item_id: str) -> dict:
     return c
 
 
-def best_rate(listing, sources: dict, cfg: dict, rates: list[float], discount: float = 0.0) -> float | None:
+def best_rate(listing, sources: dict, cfg: dict, rates: list[float], discount: float = 0.0, mult: float | None = None) -> float | None:
     """Highest rate in `rates` at which every live size keeps mult × the required profit; None if no rate fits."""
     from bot.profit import is_taxable, item_min_net, landed_cost, net_profit, required_net, store_shipping
-    mult = cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
+    mult = mult if mult is not None else cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
     base = item_min_net(cfg, listing.item_id)
     rows = ([(v.size, v.price, v.available) for v in listing.variations] if listing.variations
             else [(None, listing.price, (listing.quantity or 0) - (listing.sold or 0))])
@@ -201,13 +201,24 @@ def tune(live: bool) -> list[str]:
     cur = d.get("item_rates", {})
     token, sources = access_token(), load_sources()
     want: dict[str, float] = {}
+    # Rafael, Oct 15: the most-viewed listings may take a higher ad rate down to the $100 profit floor (mult 1.0)
+    top_n, top_mult = int(a.get("top_viewed_n", 0)), float(a.get("top_viewed_mult", 1.0))
+    top: set[str] = set()
+    if top_n:
+        try:
+            st = json.loads((ROOT / "data" / "stats.json").read_text())
+            last = st[sorted(st)[-1]]
+            top = {i for i, _ in sorted(((i, v.get("views_7d", 0)) for i, v in last.items() if v.get("live", 0) > 0),
+                                         key=lambda x: -x[1])[:top_n]}
+        except Exception as e:
+            print("ads tune: no stats for top-viewed", e)
     for iid in shoe_item_ids():
         try:
             lst = get_item(iid, token)
         except Exception as e:
             print("ads tune: can't read", iid, e)
             continue
-        r = best_rate(lst, sources, cfg, steps, discount_for(iid)) or base
+        r = best_rate(lst, sources, cfg, steps, discount_for(iid), top_mult if iid in top else None) or base
         if abs(r - float(cur.get(iid, base))) > 1e-9:
             want[iid] = r
     if not want:

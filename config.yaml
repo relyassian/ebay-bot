@@ -35,6 +35,8 @@ listing:
 
 ads:
   rate: 0.08                  # Promoted Listings ad rate on every shoe listing (Rafael, Oct 2); prices raised once to cover it
+  top_viewed_n: 10            # Rafael, Oct 15: the 10 most-viewed listings (7-day views) may take a higher ad rate down to the $100 profit floor
+  top_viewed_mult: 1.0
   boost_steps: [0.10, 0.12, 0.15]   # Rafael, Oct 7: higher rate per listing only while every live size keeps 1.5x the required profit (bot/ads.py tune)
 
 exclude:                      # Rafael, Oct 4: nothing connected to idol worship. Only brands HE confirmed; ask him before adding any.
