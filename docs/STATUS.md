@@ -216,3 +216,13 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Triggered the market workflow (id 377802242) at 03:14Z Oct 16 to apply it; result to be posted in this chat. Daily run re-tunes automatically.
 - Rafael to do: request a higher selling limit in Seller Hub (Performance > Selling limits). Limit room ~$1,923 until ~Nov 1.
 - Ads review (trig_019JtJ…) is Oct 16 10am.
+
+## Oct 17/18 catch-up research (run late night Oct 17 ET)
+- Gap: no research Oct 16 or Oct 17 (chained one-shots lapsed). Prices were >36h stale, so sizes were heading off sale. Manual refresh done: GOAT 60 pages (327 rows), StockX 26 pages (95 rows), Italist, Nugnes, Farfetch (Gancini, D&G Saint Tropez), Cettire cufflinks ($241.06, Add to bag). Committed "research: 2026-10-17".
+- Changes seen: Farfetch Gancini sizes 6-7.5 now $725 (was $731); D&G Saint Tropez US 7 $460, US 8.5 $452; Italist Ferragamo loafer $610.50.
+- Not refreshed: GOAT US 13 on 820207186222 (no GOAT listing) stays stale, goes off sale after 36h (safe). Promo Gmail scan and the Oct 16 check-in / ads review still to do.
+- Recurring prevention: scheduled task "eBay daily research (recurring)" trig_01KccF1saAhBjHmECjbhgdVJ, cron CRON_TZ=America/New_York 40 6 * * *, needs the Mac, auto-approve. Uses America/New_York so it follows the Nov 1 clock change. Old backup triggers trig_01AG46TxH4X9tRdmeGVZN5Gi and trig_01QV4pywhVAgf7BvHcDb4Q8k not confirmed paused.
+- Ad boost: market workflow ran; 16 listings boosted (6 at 10%, 6 at 12%, 4 at 15%), up from 12.
+- Risk: on Oct 16 eBay refused hide-size changes on 13 listings (selling limit), so some stale sizes may still be live. See data/notices.json.
+- Rafael to do: check FedEx 878356372280 (Gucci order 11-15213-78941, unscanned as of Oct 13; contact GOAT support if still unscanned); request higher selling limit; photos for 7 Farfetch-only drafts. Re-review floor-100 test ~Nov 1.
+- Mac copy of STATUS.md (~/Desktop/eBay Arbitrage/) still stale since Oct 9; repo copy is current.
