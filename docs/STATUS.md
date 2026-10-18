@@ -240,3 +240,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Ads: 28 shoe listings on 8%, 17 boosted 10-15%.
 - Open: 8 drafts blocked "needs photos" (none on GOAT/StockX by exact code; Farfetch photos need Rafael's OK because of takedown risk). 4 drafts parked "uncompetitive". 33 of 77 listings >5% above another seller.
 - Proposed (awaiting Rafael): new-product research now the cap is lifted; $100 floor for the top-viewed listings only.
+
+## Oct 18 afternoon: new-product research pass (Rafael: "go, do the job")
+- Scanned Nugnes1920 men's shoe collections (Shopify products.json, compare_at vs price, in-stock sizes): 11 items at 36-51% off, but 1-3 sizes each. Italist products.json is mostly BGW/non-shoes: not scanned. Farfetch search shows no sale %, not scanned further.
+- Estimated nets ($100-160 at ~3% under retail, 8% ads, unverified US retail, duties unknown). Catalog photo check (requests/catalog.txt): only Gucci Lace-Up 865172AAGBV1000 has an eBay catalog match with images (UK 6 only, $680). Enki/Screener matches have no images. No candidates written: thin sizes, thin margins.
+- Conclusion: store-sale arbitrage on these brands is near the margin floor; more listings are not the lever by themselves. Options to Rafael: Farfetch photos for the 8 blocked drafts (takedown risk), $100 floor on top-viewed only, wait for ads (review ~Oct 25).
