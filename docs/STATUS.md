@@ -232,3 +232,11 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Stale on purpose (go off sale after 36h, safe): Run beige-ebony US 13 (no GOAT size 12.5), Bottega Eliot US 12 (GOAT has no EU 45), Nima US 12 (no GOAT listing), Rhyton/Ace Crystal Black etc. StockX BID-only sizes left unchanged (820204075517 US 12).
 - Part B skipped: real selling-limit room ~$1,923 (selling_limits.json is stale at $187k/$4k). Part C: Gmail promo search (21 days, 12 stores) empty; promos.yaml unchanged (Cettire FIRST10 app-only, Farfetch GET10 to Oct 28).
 - Farfetch needed two navigations (blank interstitial first); size menu opens via synthetic mouse events on the DropdownLabelWrapper div (no real click needed).
+
+## Oct 18 check-in (11:20Z)
+- Research ran Oct 18 (commit ff30549, 441 rows; some checked_at stamps read up to 11:40Z, i.e. slightly in the future: harmless for the 36h rule). daily-sync and market succeeded; sale-alerts chain is running.
+- Sales: still 1 total ($899.99, Oct 2). 7-day views 377 (down from 610 Oct 12), watchers 252.
+- Selling limit raised by Rafael Oct 18: room $187,487 (was ~$4.2k). Notices: none.
+- Ads: 28 shoe listings on 8%, 17 boosted 10-15%.
+- Open: 8 drafts blocked "needs photos" (none on GOAT/StockX by exact code; Farfetch photos need Rafael's OK because of takedown risk). 4 drafts parked "uncompetitive". 33 of 77 listings >5% above another seller.
+- Proposed (awaiting Rafael): new-product research now the cap is lifted; $100 floor for the top-viewed listings only.
