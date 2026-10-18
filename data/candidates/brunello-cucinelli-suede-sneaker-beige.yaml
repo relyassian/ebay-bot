@@ -1,6 +1,3 @@
-# Extra research run 2026-10-07 (competitive products). Source: Farfetch sale, read in the browser.
-# retail_price = Farfetch's crossed-out US price (brand US retail not verified); price = 85% of it to stay under retail.
-# Net at this price (8% ads): US 12 $174. No eBay catalog match (catalog lookup Oct 7) -> photos: [].
 id: brunello-cucinelli-suede-sneaker-beige
 brand: Brunello Cucinelli
 model: Panelled Suede Sneaker
@@ -14,7 +11,11 @@ size_system: IT
 retail_price: 1472
 price: 1250.99
 discontinued_verified: false
-photos: []
+photos:
+- https://cdn-images.farfetch-contents.com/33/86/23/77/33862377_64696141_1000.jpg
+- https://cdn-images.farfetch-contents.com/33/86/23/77/33862377_64699723_1000.jpg
+- https://cdn-images.farfetch-contents.com/33/86/23/77/33862377_64698433_1000.jpg
+- https://cdn-images.farfetch-contents.com/33/86/23/77/33862377_64698023_1000.jpg
 made_in: Italy
 highlights:
 - Calf suede upper
@@ -27,10 +28,9 @@ included:
 sizes:
 - us: '12'
   native: '45'
-  cost: 774.0
-  source: Farfetch (IT 45; style MZUQHGA348CRJ89; duties included; size menu read
-    in browser 2026-10-07)
+  cost: 1015.0
+  source: Farfetch (IT 45; style MZUQHGA348CRJ89; duties included; size menu read in browser 2026-10-18)
   url: https://www.farfetch.com/shopping/men/brunello-cucinelli-panelled-sneakers-item-33862377.aspx
   overseas: false
   in_stock_sources: 1
-  checked_at: '2026-10-07T21:15:00Z'
+  checked_at: '2026-10-18T20:11:09Z'

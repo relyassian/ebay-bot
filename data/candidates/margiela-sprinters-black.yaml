@@ -1,6 +1,3 @@
-# Extra research run 2026-10-07 (competitive products). Source: Farfetch sale, read in the browser.
-# retail_price = Farfetch's crossed-out US price (brand US retail not verified); price = 85% of it to stay under retail.
-# Net at this price (8% ads): US 7 $194, US 8 $245, US 9 $228, US 10 $212, US 12 $215. No eBay catalog match (catalog lookup Oct 7) -> photos: [].
 id: margiela-sprinters-black
 brand: Maison Margiela
 model: Sprinters Sneaker
@@ -14,7 +11,12 @@ size_system: EU
 retail_price: 1104
 price: 937.99
 discontinued_verified: false
-photos: []
+photos:
+- https://cdn-images.farfetch-contents.com/32/25/42/88/32254288_62132728_1000.jpg
+- https://cdn-images.farfetch-contents.com/32/25/42/88/32254288_62352554_1000.jpg
+- https://cdn-images.farfetch-contents.com/32/25/42/88/32254288_62352545_1000.jpg
+- https://cdn-images.farfetch-contents.com/32/25/42/88/32254288_62132757_1000.jpg
+- https://cdn-images.farfetch-contents.com/32/25/42/88/32254288_62132765_1000.jpg
 made_in: Italy
 highlights:
 - Goat leather, calf leather and suede upper
@@ -26,46 +28,41 @@ included:
 sizes:
 - us: '7'
   native: '40'
-  cost: 512.0
-  source: Farfetch (EU 40; style S57WS0515P7383; duties included; size menu read in
-    browser 2026-10-07)
+  cost: 569.0
+  source: Farfetch (EU 40; style S57WS0515P7383; duties included; size menu read in browser 2026-10-18)
   url: https://www.farfetch.com/shopping/men/maison-margiela-sprinters-trainers-item-32254288.aspx
   overseas: false
   in_stock_sources: 1
-  checked_at: '2026-10-07T21:15:00Z'
+  checked_at: '2026-10-18T20:07:43Z'
 - us: '8'
   native: '41'
-  cost: 461.0
-  source: Farfetch (EU 41; style S57WS0515P7383; duties included; size menu read in
-    browser 2026-10-07)
+  cost: 569.0
+  source: Farfetch (EU 41; style S57WS0515P7383; duties included; size menu read in browser 2026-10-18)
   url: https://www.farfetch.com/shopping/men/maison-margiela-sprinters-trainers-item-32254288.aspx
   overseas: false
   in_stock_sources: 1
-  checked_at: '2026-10-07T21:15:00Z'
+  checked_at: '2026-10-18T20:07:43Z'
 - us: '9'
   native: '42'
-  cost: 478.0
-  source: Farfetch (EU 42; style S57WS0515P7383; duties included; size menu read in
-    browser 2026-10-07)
+  cost: 569.0
+  source: Farfetch (EU 42; style S57WS0515P7383; duties included; size menu read in browser 2026-10-18)
   url: https://www.farfetch.com/shopping/men/maison-margiela-sprinters-trainers-item-32254288.aspx
   overseas: false
   in_stock_sources: 1
-  checked_at: '2026-10-07T21:15:00Z'
+  checked_at: '2026-10-18T20:07:43Z'
 - us: '10'
   native: '43'
-  cost: 494.0
-  source: Farfetch (EU 43; style S57WS0515P7383; duties included; size menu read in
-    browser 2026-10-07)
+  cost: 695.0
+  source: Farfetch (EU 43; style S57WS0515P7383; duties included; size menu read in browser 2026-10-18)
   url: https://www.farfetch.com/shopping/men/maison-margiela-sprinters-trainers-item-32254288.aspx
   overseas: false
   in_stock_sources: 1
-  checked_at: '2026-10-07T21:15:00Z'
+  checked_at: '2026-10-18T20:07:43Z'
 - us: '12'
   native: '45'
-  cost: 491.0
-  source: Farfetch (EU 45; style S57WS0515P7383; duties included; size menu read in
-    browser 2026-10-07)
+  cost: 980.0
+  source: Farfetch (EU 45; style S57WS0515P7383; duties included; size menu read in browser 2026-10-18)
   url: https://www.farfetch.com/shopping/men/maison-margiela-sprinters-trainers-item-32254288.aspx
   overseas: false
   in_stock_sources: 1
-  checked_at: '2026-10-07T21:15:00Z'
+  checked_at: '2026-10-18T20:07:43Z'
