@@ -226,3 +226,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Risk: on Oct 16 eBay refused hide-size changes on 13 listings (selling limit), so some stale sizes may still be live. See data/notices.json.
 - Rafael to do: check FedEx 878356372280 (Gucci order 11-15213-78941, unscanned as of Oct 13; contact GOAT support if still unscanned); request higher selling limit; photos for 7 Farfetch-only drafts. Re-review floor-100 test ~Nov 1.
 - Mac copy of STATUS.md (~/Desktop/eBay Arbitrage/) still stale since Oct 9; repo copy is current.
+
+## Research run 2026-10-18 (scheduled 6:40am ET run, Mac browser linked)
+- Guard passed (newest checked_at was Oct 18 03:47Z = 11:47pm ET Oct 17). Refreshed: GOAT 60 pages (328 rows, 11 price changes; Gucci Ace Embossed White US 13 now $2,235 = effectively unsourceable, Rhyton Maxi 8.5 $874), StockX 26 pages (94 rows, 11 changes; Tennis 1977 GG Canvas US 6 down to $437, US 11.5 up to $1,027), Italist Grandioso (unchanged $610.50, 6 sizes in stock), Nugnes Ace beige (unchanged $625, US 7/8), Farfetch Gancini (unchanged, 8 sizes) and D&G Saint Tropez (EU 39/40 $460, EU 41.5 $452; US 6 row now Farfetch $460 instead of GOAT $483), Cettire cufflinks ($241.06, Add to bag).
+- Stale on purpose (go off sale after 36h, safe): Run beige-ebony US 13 (no GOAT size 12.5), Bottega Eliot US 12 (GOAT has no EU 45), Nima US 12 (no GOAT listing), Rhyton/Ace Crystal Black etc. StockX BID-only sizes left unchanged (820204075517 US 12).
+- Part B skipped: real selling-limit room ~$1,923 (selling_limits.json is stale at $187k/$4k). Part C: Gmail promo search (21 days, 12 stores) empty; promos.yaml unchanged (Cettire FIRST10 app-only, Farfetch GET10 to Oct 28).
+- Farfetch needed two navigations (blank interstitial first); size menu opens via synthetic mouse events on the DropdownLabelWrapper div (no real click needed).
