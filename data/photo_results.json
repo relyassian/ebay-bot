@@ -1,0 +1,40 @@
+{
+ "820204075474": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075474/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075474/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075474/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075474/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075474/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075474/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075474/7.jpg"
+  ],
+  "source": "other",
+  "page": "https://www.stadiumgoods.com/products/gazelle-gucci-light-blue-suede-134054",
+  "notes": "Stadium Goods (code HQ8851 in their title). 7 transparent-bg PNG studio shots: pair 3/4, single 3/4, side, heel, 3/4 low, sole, side/heel. Exact match. | flattened to white JPG, head = single front 3/4"
+ },
+ "820204075433": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075433/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075433/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075433/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075433/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075433/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075433/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075433/7.jpg"
+  ],
+  "source": "other",
+  "page": "https://www.stadiumgoods.com/products/gucci-gazelle-gg-monogram-black-117170",
+  "notes": "Stadium Goods (code IE2264 in their title). 7 transparent-bg PNG studio shots, same angle order. Exact match. | flattened to white JPG, head = single front 3/4"
+ },
+ "820204075633": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075633/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075633/2.jpg",
+   "https://i.ebayimg.com/images/g/pW8AAeSw93hqtwZg/s-l1600.jpg"
+  ],
+  "source": "italist",
+  "page": "https://italist.com/products/gucci-sneaker-beige-6131042443",
+  "notes": "Italist (Vendor CHN, not BGW), SKU 787476AADHW 9573 matches. Only 2 images (3/4 front, side), 1200x1800 with large white margins around a small shoe: crop to the shoe before use."
+ }
+}
