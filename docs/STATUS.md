@@ -258,3 +258,11 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Today: research ran (f00244d, newest checked_at 10:52Z), daily-sync + sale-alerts OK. Drafts: 65 live, 11 invalid, 4 uncompetitive. 7-day views 375, watchers 252. No sale alerts; total sold still 1 (last limits read Oct 18).
 - eBay sale started on 5 listings. Notices: none.
 - Open: Givenchy derby Style field; ads review ~Oct 25; $100 floor on top-viewed (awaiting Rafael); FedEx 878356372280 check; Mac STATUS.md copy not reachable this session. Note: two "eBay daily check-in" triggers exist (trig_01PiTdw4wssvNMrEMNMa3QPJ and trig_01MGrTqxmq39kn4SdXKPrXRc) - possible duplicate.
+
+## Oct 19 afternoon: floor 100 + new-listing push (Rafael: "take it down to 100 but not less", "make new listings", "use other websites' photos", "belts/ties too", "prioritize items below market")
+- config.yaml pricing.floor100_items now has the 10 most-viewed listings (+5 from the Oct 8 test): market matching may go to exactly $100 net. Net math (bot/profit.py) = price x (1 - 13.6% fee - the listing's own ad rate [cfg_for] - 1% buffer) - landed (cost + shipping + duty if overseas + tax if taxable). Checked all 9 new IDs: min net at the floor is $100.05 at the base 8% ad rate; ads.tune only boosts a rate when every live size keeps >= $100 at that rate, so price and rate never undercut $100. Weekly 3% decay for these items still stops at 1.5x (pricing.decay_price has no item id): not changed.
+- Real risk to "exactly $100": store prices move after the check (Margiela rose $512 -> $569 overnight). Bot re-reads prices daily, raises up to 15% or hides the size.
+- Givenchy derby: added Style=Derby, re-approved (verify pending). Gucci Cordovan Lux still needs a verified Style.
+- 9 old Gucci drafts (MAC80 x4, Re-Web x2, Run, Screener, Horsebit ivory) were "invalid" only because of the old limit; at their $1,045-1,265 prices vs eBay median $400-610 they are uncompetitive, so NOT re-approved.
+- Accessories scan (Nugnes man belts/wallets/ties/Gucci/Fendi/Bottega/Loro Piana, 42 products fetched): only D&G leather belt $375 (40% off) - above the belt buy-price ceilings. Nothing listed. Footwear scan earlier: nothing worth listing.
+- Rafael OK'd photos from other websites (Oct 19); still never another eBay seller's photos.
