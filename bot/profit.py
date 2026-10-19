@@ -67,9 +67,23 @@ def item_min_net(cfg: dict, item_id: str | None = None, brand: str | None = None
     return float(p["floor"])
 
 
+def charm_up(raw: float) -> float:
+    """Smallest price ending in 4.99 or 9.99 that is >= raw (Rafael, Oct 19: prices end in 4.99 / 9.99)."""
+    return math.ceil((raw + 0.01) / 5 - 1e-9) * 5 - 0.01
+
+
+def charm_near(price: float, floor: float = 0.0, below: float | None = None) -> float:
+    """Nearest price ending in 4.99 / 9.99, never below `floor` (the $100-net floor price; rounds up if needed).
+    below = a ceiling to stay at or under when possible (e.g. the eBay median we are matching)."""
+    n = round((price + 0.01) / 5) * 5 - 0.01
+    if below is not None:
+        n = min(n, math.floor((below + 0.01) / 5) * 5 - 0.01)
+    return n if n >= floor else charm_up(floor)
+
+
 def floor_price(landed: float, cfg: dict, *, reship: bool = False, net_target: float | None = None,
                 base: float | None = None, mult: float = 1.0) -> float:
-    """Lowest eBay price (ending in .99) that clears the required profit at that price (tiered above $1,500).
+    """Lowest eBay price (ending in 4.99 or 9.99) that clears the required profit at that price (tiered above $1,500).
     net_target = a fixed profit target instead (e.g. Tier A). mult = require mult × the required profit
     (price drops stop at 1.5×, Rafael Oct 5)."""
     if net_target is None:
@@ -85,7 +99,7 @@ def floor_price(landed: float, cfg: dict, *, reship: bool = False, net_target: f
     target = net_target
     keep = 1 - p["ebay_fee_rate"] - p["promoted_rate"] - p["inad_buffer_rate"]
     raw = (target + landed + (p["reship_cost"] if reship else 0)) / keep
-    return math.ceil(raw + 0.01) - 0.01
+    return charm_up(raw)
 
 
 def tier(net: float, cfg: dict) -> str:

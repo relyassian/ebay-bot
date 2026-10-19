@@ -154,7 +154,8 @@ def market_drops(listing: Listing, sources: dict, cfg: dict, auto: list, discoun
     m = market_for(listing.item_id)
     if not m:
         return []
-    target_mkt = math.floor(m["median"]) - 0.01
+    from bot.profit import charm_near
+    target_mkt = charm_near(m["median"] - 0.01, below=m["median"] - 0.01)   # at or just under the median, ending 4.99/9.99
     mult = cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
     # Rafael (Oct 8) test: on a few listings, matching the market may go down to the $100 minimum (1x), not 1.5x
     if str(listing.item_id) in set(map(str, cfg.get("pricing", {}).get("floor100_items", []))):

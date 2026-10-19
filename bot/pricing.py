@@ -14,7 +14,7 @@ import math
 from datetime import datetime, timedelta, timezone
 
 from bot.config import ROOT
-from bot.profit import floor_price, landed_cost
+from bot.profit import charm_near, floor_price, landed_cost
 
 LOG = ROOT / "data" / "price_log.json"
 SALES = ROOT / "data" / "sales_log.csv"
@@ -44,13 +44,13 @@ def track(log: dict, item_id: str, size: str | None, price: float, now: datetime
 
 def decay_price(price: float, cost: float, overseas: bool, cfg: dict, taxable: bool = False,
                 shipping: float | None = None, base: float | None = None) -> float | None:
-    """Next lower price (−step, ending .99), or None if that would go below the floor price."""
+    """Next lower price (−step, ending 4.99/9.99), or None if that would go below the floor price."""
     step = cfg.get("pricing", {}).get("decay_step", 0.03)
     # Rafael (Oct 5): drops stop at 1.5× the required profit ($150 normally, $300 on LV), not at the listing minimum
     mult = cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
     floor = floor_price(landed_cost(cost, cfg, overseas=overseas, taxable=taxable, shipping=shipping), cfg, base=base,
                         mult=mult)
-    new = math.floor(price * (1 - step)) - 0.01
+    new = charm_near(price * (1 - step), floor, below=price * (1 - step))
     new = max(new, floor)
     return new if new < price - 0.5 else None
 

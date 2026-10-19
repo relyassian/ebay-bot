@@ -15,9 +15,9 @@ def test_landed_cost_us_and_overseas():
 def test_floor_price_clears_floor():
     landed = landed_cost(632, CFG)
     p = floor_price(landed, CFG)
-    assert str(p).endswith(".99")
+    assert f"{p:.2f}"[-4:] in ("4.99", "9.99")
     assert net_profit(p, landed, CFG) >= 100
-    assert net_profit(p - 1, landed, CFG) < 100
+    assert net_profit(p - 5, landed, CFG) < 100
 
 
 def test_tiers():
@@ -59,3 +59,11 @@ def test_floor_price_respects_tiers():
         landed = landed_cost(cost, CFG, shipping=14.95)
         p = floor_price(landed, CFG)
         assert net_profit(p, landed, CFG) >= required_net(p, CFG) - 0.01
+
+
+def test_charm_rounding_grid_and_floor():
+    from bot.profit import charm_near, charm_up
+    assert charm_up(1136.00) == 1139.99 and charm_up(1134.99) == 1134.99 and charm_up(1135.0) == 1139.99
+    assert charm_near(70.99) == 69.99 and charm_near(72.99) == 74.99 and charm_near(1136.99) == 1134.99
+    assert charm_near(70.99, floor=70.5) == 74.99          # rounding down would break the floor -> up
+    assert charm_near(74.0, floor=0, below=73.0) == 69.99  # stay at/under the ceiling

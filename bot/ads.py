@@ -55,7 +55,8 @@ def bot_created_ids() -> list[str]:
 def covered_price(price: float, rate: float, cfg: dict) -> float:
     p = cfg["profit"]
     keep = 1 - p["ebay_fee_rate"] - p["inad_buffer_rate"]
-    return math.ceil(price * keep / (keep - rate)) - 0.01
+    from bot.profit import charm_up
+    return charm_up(price * keep / (keep - rate))
 
 
 def _h(tok: str) -> dict:

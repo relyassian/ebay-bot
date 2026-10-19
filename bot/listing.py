@@ -38,7 +38,7 @@ from xml.sax.saxutils import escape
 import yaml
 
 from bot.config import ROOT, load_config
-from bot.profit import (floor_price, is_taxable, item_min_net, landed_cost, net_profit, required_net,
+from bot.profit import (charm_near, floor_price, is_taxable, item_min_net, landed_cost, net_profit, required_net,
                         store_shipping, tier)
 
 CANDIDATES = ROOT / "data" / "candidates"
@@ -231,7 +231,8 @@ def make_draft(c: dict, cfg: dict | None = None) -> Draft:
                              taxable=is_taxable(cfg, category=c.get("category")),
                              shipping=store_shipping(cfg, s.get("source")))
         base = item_min_net(cfg, brand=c.get("brand"))
-        price = max(float(s.get("price") or c.get("price") or 0), floor_price(landed, cfg, base=base))
+        _fl = floor_price(landed, cfg, base=base)
+        price = charm_near(float(s.get("price") or c.get("price") or 0), _fl)
         net = net_profit(price, landed, cfg)
         if net < required_net(price, cfg, base):
             skipped.append(f"US {s['us']}: net ${net:.0f}"); continue
