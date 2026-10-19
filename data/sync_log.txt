@@ -28,7 +28,7 @@ market 820204075737: ours 578.99 vs cheapest 499.0 (3 others) · Gucci Rhyton Le
 market 820204075830: ours 1012.99 vs cheapest - (0 others) · Gucci Screener GG Canvas Sneaker Black/Green/Red M
 market 820205221528: ours 759.99 vs cheapest - (0 others) · Gucci Interlocking G Driver Moccasin Brown Men's L
 market 820205221563: ours 774.99 vs cheapest - (0 others) · Gucci Interlocking G Driver Moccasin Washed Indigo
-market: 820205221628 HTTPSConnectionPool(host='api.ebay.com', port=443): Read timed out. (read timeout=30)
+market 820205221628: ours 870.99 vs cheapest - (0 others) · Gucci Interlocking G Loafer with Web Black/Green/R
 market 820205221669: ours 676.99 vs cheapest 525.0 (5 others) · Gucci MAC80 Sneaker Black/Off-White Men's Leather 
 market 820205221755: ours 841.49 vs cheapest - (0 others) · Gucci Noel Driver Loafer Black Men's Leather Drivi
 market 820205221855: ours None vs cheapest - (0 others) · Gucci Re-Web GG Canvas Sneaker Black Men's Low Top
@@ -83,10 +83,39 @@ market 820253018812: ours 1187.99 vs cheapest - (0 others) · Givenchy Padded Ny
 market 820253018968: ours 970.99 vs cheapest - (0 others) · Lanvin Curb Cut-Out Lace-Up Sneaker Pink Men's Sue
 market 820253019164: ours 937.99 vs cheapest - (0 others) · Maison Margiela Sprinters Sneaker Black Men's Leat
 market 820256466735: ours 985.99 vs cheapest - (0 others) · Givenchy Gent Leather Derby Black Men's New
-Price check: 84 listings compared, 34 priced more than 5% above another seller.
+Price check: 85 listings compared, 34 priced more than 5% above another seller.
 📋 Daily eBay check · Mon Oct 19
 
-What I did: raised the price a little on 2 listings because the store got pricier.
+What I did: raised the price a little on 2 listings because the store got pricier; made 27 changes you approved.
 Nothing for you to do.
+
+Changes you approved:
+• Gucci Re-Web GG Canvas Sneaker White/Beige Low…: updated
+• Gucci Ace GG Embossed Sneaker Black Leather Low…: updated
+• Gucci Ace GG Supreme Bees Sneaker Beige/Ebony…: updated
+• Gucci MAC80 Sneaker Blue Leather Low Top…: updated
+• Gucci Run Sneaker White Suede Low Top Sneakers…: updated
+• Gucci Tennis 1977 Low GG Monogram - Ebony Beige…: updated
+• Gucci Run Sneaker Black Knit Low Top Sneakers…: updated
+• Gucci Basket Black Red Demetra Low Top Sneakers…: updated
+• Gucci Tennis 1977 High-Top Sneaker Beige/Ebony…: updated
+• Gucci Basket High Black Demetra High Top…: updated
+• Gucci MAC80 Sneaker Black/Off-White Leather Low…: updated
+• Gucci Re-Web GG Canvas Sneaker Black Low Top…: updated
+• Gucci MAC80 Sneaker Off-White Leather Low Top…: updated
+• Balenciaga Runner Sneaker Black Matte Mesh Low…: updated
+• Balenciaga Runner Sneaker White Mesh Low Top…: updated
+• Gucci Basket High Green Demetra High Top…: updated
+• Gucci Basket High White Demetra Red High Top…: updated
+• Gucci Basket Low White Demetra Green Low Top…: updated
+• Gucci Basket Low White Demetra Red Low Top…: updated
+• Gucci Basket Red Black Demetra Low Top Sneakers…: updated
+• Gucci GG Screener Grey Navy Suede Low Top…: updated
+• Gucci Rhyton Interlocking G Star Leather Low…: updated
+• Gucci Rhyton Maxi GG Supreme - Black Khaki…: updated
+• Gucci Rhyton White Red Green Reflective Mesh…: updated
+• Gucci Screener GG Supreme - Black Grey Leather…: updated
+• Gucci Tennis 1977 Black Ivory Canvas Low Top…: updated
+• Prada Monolith Brushed Leather Loafer Black…: updated
 {'photo': 'https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/WAAAAeSw4MJqy~ri/$_1.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cosma High-Top Sneaker Black Sneakers…\nSizes: all 2 sizes · now from $634.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649253"}
 {'photo': 'https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/8a0AAeSwY5Zq1S~X/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nBally Logo-Plaque Leather Loafer Grey Loafers…\nSizes: US 11 · now from $519.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820253018257"}
