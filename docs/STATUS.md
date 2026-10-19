@@ -283,3 +283,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - GOAT product pages carry 8 extra studio photos in __NEXT_DATA__ (productTemplateExternalPictures; fetch the page from inside a goat.com tab and read `additional_pictures/.../medium/` URLs, swap to /original/ and download from image.goat.com). Standard order: 1 side, 2 side close-up, 3 medial, 4 sole, 5 sole close-up, 6 heel pair, 7 heel close-up, 8 pair 3/4 front. We use [8,1,3,2,6,4,7], padded square on white, hosted in data/photos/<item>/ (public repo, raw.githubusercontent.com).
 - Applied Oct 19 22:46Z: 26 GOAT sets + the 2 Gazelles (Stadium Goods) + Re-Web. Verified in snapshot: 31 listings now have 7 photos; 29 still have 1 (listed in data/photo_worklist2.json; GOAT has no extra pictures for those, e.g. brown Interlocking G loafer, Horsebit drivers, Ferragamo Lunar/Cassini/Cosma/Nima, McQueen, LV, Bottega Eliot).
 - A second research agent is looking for those 29 elsewhere (Cettire, Luisaviaroma, Mytheresa, END, Saks, resale sites); results go to data/photo_results2.json (not yet applied; merge into photo_results.json and run `python -m bot.photos`).
+
+## Oct 19 late night: photo batch 2 done
+- 27 more listings got retailer galleries (3–6 photos, best 3/4 angle first; hosted in `data/photos/<id>/`, results in `data/photo_results.json`). Verified in snapshot: 87 listings now have ≥3 photos.
+- Still 1 photo (skipped on purpose): 820229265137 (McQueen, no good source) and 820207186315 (only watermarked shots found).
+- Weak sets to upgrade later: 820207186550 (green Driver, mixed shots), 820204075737 Rhyton, 820207186615 MAC80.
+- New-listing pipeline should collect several photos per candidate (todo).
+- Still pending: Rafael's store-name choice (my pick: Corso Luxe); first Part D scan runs Oct 20 6:40am ET (needs the Mac on).
