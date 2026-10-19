@@ -94,6 +94,21 @@ Part A (keeping live sizes fresh and getting the off-sale, most-watched legacy l
    reuse an id from data/candidates or data/drafts_state.json. Style codes are for matching only; the bot never
    shows them on eBay. category: sneaker or loafer (eBay needs Upper Material: take it from the catalog aspects).
 
+## PART D — daily below-market scan (Rafael, Oct 19: "daily"; run every day, ~15 minutes, even when Part B is skipped for room)
+Goal: find items we can list BELOW what eBay and other retailers charge, so they sell fast, at >= $100 net (target $250).
+Priority order: (1) lowest price vs the eBay new-condition median, (2) lowest vs other retailers' current price,
+(3) widest margin. Anything that cannot undercut eBay by ~5% and still net $100 is skipped.
+- Scope: men's shoes AND belts, ties, wallets/cardholders, cufflinks, small leather goods, sunglasses, and
+  apparel >= ~$800 retail (Rafael, Oct 19: "doesn't have to only be shoes"). Brands per CLAUDE.md; respect config.yaml `exclude`.
+- Where: store sale sections (Nugnes1920 `*-man` collections via products.json, Italist, Farfetch, SSENSE, Cettire,
+  END, Mytheresa, Nordstrom/Neiman) plus StockX/GOAT lowest asks for small goods.
+- Check the market: eBay sold/active new-condition comps for the exact item (sch/i.html?LH_ItemCondition=1000 if it
+  loads; else bot/market.py vets it after the candidate is written) and one other retailer's price. Record both in
+  the candidate's notes. Buy-price ceilings for belts/ties: ~65-80% off retail (CLAUDE.md "Product scope").
+- Photos: other websites' product photos of the exact item are fine (Rafael, Oct 19). NEVER another eBay seller's photos.
+- Write candidates as in Part B (category: belt / tie / wallet / cufflinks / sneaker / loafer ...). Max 8 per day.
+- Log in docs/STATUS.md: how many items scanned, how many written, best margin found, so thin yield stays visible.
+
 ## PART C — promo codes (always, ~5 minutes)
 8. Search Rafael's Gmail (last 21 days) for promo/discount emails from the stores he buys from (Cettire,
    Farfetch, SSENSE, Italist, Nugnes1920, GOAT, StockX, Mytheresa, END, Saks, Neiman Marcus, Nordstrom) and
