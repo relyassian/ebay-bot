@@ -11,7 +11,8 @@
   ],
   "source": "other",
   "page": "https://www.stadiumgoods.com/products/gazelle-gucci-light-blue-suede-134054",
-  "notes": "Stadium Goods (code HQ8851 in their title). 7 transparent-bg PNG studio shots: pair 3/4, single 3/4, side, heel, 3/4 low, sole, side/heel. Exact match. | flattened to white JPG, head = single front 3/4"
+  "notes": "Stadium Goods (code HQ8851 in their title). 7 transparent-bg PNG studio shots: pair 3/4, single 3/4, side, heel, 3/4 low, sole, side/heel. Exact match. | flattened to white JPG, head = single front 3/4",
+  "applied": true
  },
  "820204075433": {
   "photos": [
@@ -25,16 +26,385 @@
   ],
   "source": "other",
   "page": "https://www.stadiumgoods.com/products/gucci-gazelle-gg-monogram-black-117170",
-  "notes": "Stadium Goods (code IE2264 in their title). 7 transparent-bg PNG studio shots, same angle order. Exact match. | flattened to white JPG, head = single front 3/4"
+  "notes": "Stadium Goods (code IE2264 in their title). 7 transparent-bg PNG studio shots, same angle order. Exact match. | flattened to white JPG, head = single front 3/4",
+  "applied": true
  },
  "820204075633": {
   "photos": [
    "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075633/1.jpg",
    "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075633/2.jpg",
-   "https://i.ebayimg.com/images/g/pW8AAeSw93hqtwZg/s-l1600.jpg"
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075633/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075633/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075633/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075633/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820204075633/7.jpg"
   ],
-  "source": "italist",
-  "page": "https://italist.com/products/gucci-sneaker-beige-6131042443",
-  "notes": "Italist (Vendor CHN, not BGW), SKU 787476AADHW 9573 matches. Only 2 images (3/4 front, side), 1200x1800 with large white margins around a small shoe: crop to the shoe before use."
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820205698211": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205698211/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205698211/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205698211/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205698211/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205698211/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205698211/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205698211/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820205329339": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329339/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329339/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329339/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329339/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329339/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329339/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329339/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820223865172": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820223865172/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820223865172/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820223865172/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820223865172/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820223865172/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820223865172/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820223865172/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186833": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186833/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186833/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186833/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186833/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186833/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186833/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186833/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186962": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186962/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186962/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186962/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186962/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186962/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186962/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186962/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186774": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186774/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186774/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186774/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186774/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186774/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186774/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186774/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186253": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186253/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186253/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186253/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186253/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186253/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186253/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186253/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820205329783": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329783/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329783/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329783/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329783/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329783/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329783/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329783/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186346": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186346/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186346/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186346/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186346/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186346/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186346/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186346/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820205221669": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221669/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221669/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221669/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221669/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221669/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221669/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221669/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820205221855": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221855/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221855/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221855/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221855/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221855/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221855/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205221855/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820205329595": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329595/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329595/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329595/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329595/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329595/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329595/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820205329595/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186160": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186160/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186160/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186160/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186160/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186160/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186160/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186160/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186196": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186196/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186196/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186196/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186196/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186196/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186196/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186196/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186379": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186379/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186379/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186379/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186379/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186379/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186379/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186379/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186442": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186442/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186442/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186442/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186442/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186442/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186442/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186442/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186465": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186465/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186465/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186465/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186465/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186465/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186465/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186465/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186489": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186489/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186489/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186489/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186489/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186489/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186489/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186489/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186525": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186525/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186525/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186525/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186525/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186525/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186525/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186525/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186594": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186594/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186594/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186594/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186594/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186594/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186594/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186594/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186641": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186641/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186641/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186641/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186641/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186641/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186641/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186641/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186667": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186667/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186667/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186667/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186667/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186667/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186667/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186667/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186704": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186704/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186704/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186704/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186704/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186704/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186704/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186704/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186853": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186853/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186853/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186853/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186853/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186853/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186853/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186853/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820207186878": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186878/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186878/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186878/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186878/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186878/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186878/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820207186878/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
+ },
+ "820228649857": {
+  "photos": [
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820228649857/1.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820228649857/2.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820228649857/3.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820228649857/4.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820228649857/5.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820228649857/6.jpg",
+   "https://raw.githubusercontent.com/relyassian/ebay-bot/main/data/photos/820228649857/7.jpg"
+  ],
+  "source": "goat",
+  "page": "goat additional pictures",
+  "notes": "GOAT studio set; head = pair 3/4 front; order pair,side,medial,detail,heel pair,sole,heel detail; padded to square"
  }
 }

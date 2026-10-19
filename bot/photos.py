@@ -38,6 +38,8 @@ def make_plan() -> tuple[str | None, list[str]]:
     snaps = {s["item_id"]: s for s in json.loads(SNAPSHOT.read_text())}
     plan, notes = [], []
     for item_id, r in res.items():
+        if r.get("applied"):
+            continue
         snap = snaps.get(item_id)
         if not snap:
             notes.append(f"{item_id}: not in snapshot"); continue
