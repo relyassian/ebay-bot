@@ -28,7 +28,7 @@ market 820204075737: ours 578.99 vs cheapest 499.0 (3 others) · Gucci Rhyton Le
 market 820204075830: ours 1012.99 vs cheapest - (0 others) · Gucci Screener GG Canvas Sneaker Black/Green/Red M
 market 820205221528: ours 759.99 vs cheapest - (0 others) · Gucci Interlocking G Driver Moccasin Brown Men's L
 market 820205221563: ours 774.99 vs cheapest - (0 others) · Gucci Interlocking G Driver Moccasin Washed Indigo
-market 820205221628: ours 870.99 vs cheapest - (0 others) · Gucci Interlocking G Loafer with Web Black/Green/R
+market: 820205221628 HTTPSConnectionPool(host='api.ebay.com', port=443): Read timed out. (read timeout=30)
 market 820205221669: ours 676.99 vs cheapest 525.0 (5 others) · Gucci MAC80 Sneaker Black/Off-White Men's Leather 
 market 820205221755: ours 841.49 vs cheapest - (0 others) · Gucci Noel Driver Loafer Black Men's Leather Drivi
 market 820205221855: ours None vs cheapest - (0 others) · Gucci Re-Web GG Canvas Sneaker Black Men's Low Top
@@ -68,7 +68,7 @@ market 820223864929: ours 754.99 vs cheapest 399.97 (7 others) · Gucci Loafer w
 market 820223865172: ours 735.99 vs cheapest 450.0 (9 others) · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sne
 market 820228649208: ours 963.99 vs cheapest - (0 others) · Bottega Veneta Eliot Mid-Top Sneaker Multi-Color M
 market 820228649230: ours 798.94 vs cheapest - (0 others) · Ferragamo Cassini Low-Top Sneaker Blue Men's Low T
-market 820228649253: ours 630.99 vs cheapest 500.0 (1 others) · Ferragamo Cosma High-Top Sneaker Black Men's Sneak
+market 820228649253: ours 634.99 vs cheapest 500.0 (1 others) · Ferragamo Cosma High-Top Sneaker Black Men's Sneak
 market 820228649857: ours None vs cheapest - (0 others) · Prada Monolith Brushed Leather Loafer Black Men's 
 market 820229263569: ours 790.99 vs cheapest - (0 others) · Ferragamo Lunar Paneled Slip-On Sneaker Medium Bro
 market 820229263683: ours 493.99 vs cheapest - (0 others) · Ferragamo Lunar Paneled Slip-On Sneaker Red Men's 
@@ -76,22 +76,17 @@ market 820229263765: ours 713.99 vs cheapest - (0 others) · Ferragamo Nima Knit
 market 820229263903: ours 871.99 vs cheapest 565.0 (1 others) · Gucci Horsebit Driver Loafer with Web Brown Men's 
 market 820229265137: ours 892.99 vs cheapest - (0 others) · Alexander McQueen Contrast Sole Leather Penny Loaf
 market 820253018067: ours 480.99 vs cheapest 194.9 (3 others) · Bally Leather Loafer Blue Men's Loafers Authentic 
-market 820253018257: ours 515.99 vs cheapest - (0 others) · Bally Logo-Plaque Leather Loafer Grey Men's Loafer
+market 820253018257: ours 519.99 vs cheapest - (0 others) · Bally Logo-Plaque Leather Loafer Grey Men's Loafer
 market 820253018386: ours 1466.99 vs cheapest - (0 others) · Brunello Cucinelli Panelled Suede Sneaker Beige Me
 market 820253018496: ours 801.99 vs cheapest - (0 others) · Dolce & Gabbana Portofino Lambskin Sneaker Off-Whi
 market 820253018812: ours 1187.99 vs cheapest - (0 others) · Givenchy Padded Nylon and Leather Trainer Sneaker 
 market 820253018968: ours 970.99 vs cheapest - (0 others) · Lanvin Curb Cut-Out Lace-Up Sneaker Pink Men's Sue
 market 820253019164: ours 937.99 vs cheapest - (0 others) · Maison Margiela Sprinters Sneaker Black Men's Leat
 market 820256466735: ours 985.99 vs cheapest - (0 others) · Givenchy Gent Leather Derby Black Men's New
-Price check: 85 listings compared, 34 priced more than 5% above another seller.
+Price check: 84 listings compared, 34 priced more than 5% above another seller.
 📋 Daily eBay check · Mon Oct 19
 
-What I did: raised the price a little on 2 listings because the store got pricier; made 3 changes you approved.
+What I did: raised the price a little on 2 listings because the store got pricier.
 Nothing for you to do.
-
-Changes you approved:
-• Gucci x adidas Gazelle Suede Sneaker Light Blue…: updated
-• Gucci x adidas Gazelle GG Monogram Sneaker…: updated
-• ⚠️ Gucci Re-Web GG Canvas Sneaker White/Beige Low…: eBay refused (ReviseFixedPriceItem failed: ['A mixture of Self Hosted and EPS pictures are not allowed.'])
 {'photo': 'https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/WAAAAeSw4MJqy~ri/$_1.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cosma High-Top Sneaker Black Sneakers…\nSizes: all 2 sizes · now from $634.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649253"}
 {'photo': 'https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/8a0AAeSwY5Zq1S~X/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nBally Logo-Plaque Leather Loafer Grey Loafers…\nSizes: US 11 · now from $519.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820253018257"}
