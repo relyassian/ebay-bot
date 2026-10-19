@@ -51,3 +51,11 @@ def test_new_size_starts_clock_and_off_sale_not_dropped():
 def test_price_change_restarts_clock():
     log = log_since(8, 1099.99)                        # price was changed elsewhere since
     assert not decays(lst(999.99), src(450), CFG, log, [], NOW)
+
+
+def test_photo_clean_rules():
+    from bot.photos import clean
+    cur = ["https://i.ebayimg.com/00/s/x/$_57.JPG?set_id=1"]
+    out = clean(["https://cdn-images.farfetch-contents.com/a_1000.jpg", "http://insecure/x.jpg",
+                 "https://i.ebayimg.com/00/s/OTHER/$_57.JPG", cur[0], "https://cdn-images.farfetch-contents.com/a_1000.jpg?x=1"], cur)
+    assert out == ["https://cdn-images.farfetch-contents.com/a_1000.jpg", cur[0]]
