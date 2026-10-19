@@ -62,6 +62,16 @@ pricing:
     - "820205698211"          # Gucci Ace GG Embossed Black: $697 vs market $633
     - "820205221669"          # Gucci MAC80 Black/Off-White: $678 vs market $579
     - "820207186774"          # Gucci Run Black knit: $681 vs market $499
+    # Rafael, Oct 19: "take it down to 100 but not less" - the 10 most-viewed listings (market matching and ad boosts may go to exactly the $100 net floor; net includes eBay fee, ad rate, 1% buffer, shipping, duty)
+    - "355428079713"          # Gucci Ace Embroidered Bee
+    - "820229263903"          # Gucci Horsebit Driver Loafer with Web
+    - "820204075474"          # Gucci x adidas Gazelle Suede
+    - "355429355271"          # Gucci Ace GG Crystal Canvas (black)
+    - "355420832785"          # Ferragamo Moccasin with Gancini
+    - "820223864929"          # Gucci Loafer with Interlocking G
+    - "355429385763"          # Gucci Ace Sneaker with Web
+    - "355429340181"          # Gucci Ace GG Crystal Canvas (green)
+    - "820207186222"          # Gucci Ace GG Embossed White
 
 risk:
   min_sources_per_size: 2     # anti-cancellation rule
