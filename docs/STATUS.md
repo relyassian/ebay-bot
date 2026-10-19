@@ -266,3 +266,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - 9 old Gucci drafts (MAC80 x4, Re-Web x2, Run, Screener, Horsebit ivory) were "invalid" only because of the old limit; at their $1,045-1,265 prices vs eBay median $400-610 they are uncompetitive, so NOT re-approved.
 - Accessories scan (Nugnes man belts/wallets/ties/Gucci/Fendi/Bottega/Loro Piana, 42 products fetched): only D&G leather belt $375 (40% off) - above the belt buy-price ceilings. Nothing listed. Footwear scan earlier: nothing worth listing.
 - Rafael OK'd photos from other websites (Oct 19); still never another eBay seller's photos.
+
+## Oct 19 evening (Rafael: "daily", store question)
+- Daily below-market scan added as Part D in docs/research_routine.md; recurring task trig_01KccF1saAhBjHmECjbhgdVJ (6:40am ET, needs the Mac) prompt now runs Parts A-D. First Part D run: Oct 20.
+- Givenchy derby (givenchy-gent-derby-black) is live.
+- eBay Store question: fee savings per third-party source (edesk, unverified against eBay) ~0.9% Basic / ~1.5% Premium vs $21.95-$27.95 / $59.95-$74.95 per month; break-even roughly $2.4k/mo (Basic) to $4k+/mo (Premium) in sales. Recommendation: rename the username (free, once per 30 days, feedback moves with it) but skip the store subscription until sales volume justifies it. Not done yet: the rename itself (Rafael's call). Check the bot's eBay token still works after any rename.
