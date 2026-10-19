@@ -251,3 +251,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Method: GOAT via buy_bar_data in one JS call (all 60 in ~20s); StockX 3 pages per browser_batch works (iframe approach returns empty, do not use).
 - Stale on purpose (go off sale after 36h): Run beige-ebony US 13 (no GOAT 12.5), Bottega Eliot US 12 (no GOAT EU 45), Nima US 12. The 8 Farfetch-only draft rows (Bally, Cucinelli, D&G Portofino, Givenchy, Lanvin, Margiela) were NOT re-read; they expire about Oct 20 08:00Z (drafts only, no live listing).
 - Part B (new products) NOT done today. Correction: selling-limit room was ~$187k on Oct 18 (Rafael raised it), so the under-$5,000 skip rule no longer applies; I did not verify room today and ran out of the run on Part A. Next run should do Part B. Part C: Gmail promo search empty; promos.yaml unchanged (Farfetch GET10 to Oct 28, Cettire FIRST10 app-only).
+
+## Oct 19 check-in (11:23Z) + Oct 18 evening changes
+- Oct 18 ~16:20 ET: Rafael OK'd "use any photos you can". 8 blocked drafts got Farfetch product photos + re-read sizes/costs; 7 went live (Bally blue + grey loafers, Brunello Cucinelli suede sneaker, D&G Portofino off-white, Givenchy padded nylon trainer, Lanvin Curb pink, Margiela Sprinters). Givenchy Gent derby invalid: eBay needs the "Style" item specific (TODO). Takedown risk: Farfetch photos.
+- Oct 18 selling limit raised: room $187,487. New-product scan (Nugnes 36-51% off) found nothing worth listing.
+- Today: research ran (f00244d, newest checked_at 10:52Z), daily-sync + sale-alerts OK. Drafts: 65 live, 11 invalid, 4 uncompetitive. 7-day views 375, watchers 252. No sale alerts; total sold still 1 (last limits read Oct 18).
+- eBay sale started on 5 listings. Notices: none.
+- Open: Givenchy derby Style field; ads review ~Oct 25; $100 floor on top-viewed (awaiting Rafael); FedEx 878356372280 check; Mac STATUS.md copy not reachable this session. Note: two "eBay daily check-in" triggers exist (trig_01PiTdw4wssvNMrEMNMa3QPJ and trig_01MGrTqxmq39kn4SdXKPrXRc) - possible duplicate.
