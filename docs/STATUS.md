@@ -319,3 +319,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Cufflinks live at $599.99 (cost ~$241). Selling limit room 13,673 items / $173,587; $5,000 cash cap untouched.
 - Root cause of no sales: market.json shows 34 of 74 priced listings are >5% above the cheapest competitor and 22 of 24 with comps are above the eBay median (many Gucci $100-300 over). Only 5 of 24 would net >=$100 at 95% of median, 11 net >=$0.
 - Proposal to Rafael pending his go: lower floor for sales (e.g. $50), reprice the items that net >=$50 at ~95% of median, delist the underwater ones, then fill to 100 only with at-market items.
+
+## Oct 20 evening: real fee on the Gucci sale + demand scan status
+- Order 11-15213-78941 (Gucci Ace GG Crystal green, Casual Shoes cat 24087): eBay fee $132.90 on $899.99 price / $974.24 total incl. buyer tax = 13.6% of the TOTAL (tax included) + $0.40 per order = 14.8% of price. Seller received $767.09 (held to Oct 27). Bot model (13.6% + 1% buffer) is within ~$5 of this; buffer covers the tax-on-fee effect but not the $0.40.
+- eBay fee page: 8% (no per-order fee) only for Athletic Shoes category at >= $150; 52 listings are in Athletic Shoes (not verified against a sale); Ace Crystal listings are Casual Shoes so they pay 13.6%. Do not move categories just for fees.
+- Older cancelled order 13-15032-44930 (Ferragamo Rolo, Aug 16, refunded Aug 25): the cancellation history Rafael wanted to avoid.
+- Demand scan (competitor sold quantities via Browse API) failed with HTTP 429: eBay daily Browse quota used up by today's scans. It reruns automatically in tomorrow's daily-sync (after reset ~3am ET); results -> data/demand_results.json. requests/scan.json cleared to save quota.
