@@ -313,3 +313,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Near-misses: MM6 sneaker SH3WS0012P6435T1003 at Biffi $192 (~$93-110 net, duty at checkout unknown, cheap competition from $220); Givenchy New City 1 size.
 - Blocked: SSENSE (Cloudflare), Farfetch (blank page in Mac browser), Mytheresa sale (JS). Do not bypass.
 - Takeaway: discount boutiques are priced at or above eBay. Better leverage may be price/market side (listing items we already source) or new categories, not more boutique scanning.
+
+## Oct 20 3pm: state of the store + why no sales (Rafael asked)
+- 87 listings on eBay: 86 bot-managed + AirPods Max ($375, Rafael's own, bot ignores). 75 have >=1 size live, 11 fully hidden (out of stock at stores). 326 live sizes. 7-day views 426, watchers 252, 1 sale total.
+- Cufflinks live at $599.99 (cost ~$241). Selling limit room 13,673 items / $173,587; $5,000 cash cap untouched.
+- Root cause of no sales: market.json shows 34 of 74 priced listings are >5% above the cheapest competitor and 22 of 24 with comps are above the eBay median (many Gucci $100-300 over). Only 5 of 24 would net >=$100 at 95% of median, 11 net >=$0.
+- Proposal to Rafael pending his go: lower floor for sales (e.g. $50), reprice the items that net >=$50 at ~95% of median, delist the underwater ones, then fill to 100 only with at-market items.
