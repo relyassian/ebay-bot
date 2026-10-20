@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-20T19:27:16Z",
+ "checked": "2026-10-20T19:51:31Z",
  "items": {
   "slamjam:y-3-footwear-y-3-f50-tunit-chito-grey-j359524": {
    "n": 0,
@@ -1096,20 +1096,20 @@
    ]
   },
   "baseblu:sneakers-250": {
-   "n": 21,
+   "n": 20,
    "median": 200.6,
    "cheapest": 169.0,
-   "p25": 188.77,
+   "p25": 199.9,
    "top": [
     "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
     "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
    ]
   },
   "baseblu:sneakers-248": {
-   "n": 20,
+   "n": 21,
    "median": 200.6,
    "cheapest": 169.0,
-   "p25": 199.9,
+   "p25": 188.77,
    "top": [
     "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
     "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
@@ -1161,20 +1161,20 @@
    "top": []
   },
   "baseblu:sneaker-s-rubber-4": {
-   "n": 20,
+   "n": 21,
    "median": 200.6,
    "cheapest": 169.0,
-   "p25": 199.9,
+   "p25": 188.77,
    "top": [
     "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
     "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
    ]
   },
   "baseblu:sneaker-s-rubber-3": {
-   "n": 20,
+   "n": 21,
    "median": 200.6,
    "cheapest": 169.0,
-   "p25": 199.9,
+   "p25": 188.77,
    "top": [
     "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
     "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
@@ -1191,10 +1191,10 @@
    ]
   },
   "baseblu:sneaker-s-rubber-1": {
-   "n": 21,
+   "n": 20,
    "median": 200.6,
    "cheapest": 169.0,
-   "p25": 188.77,
+   "p25": 199.9,
    "top": [
     "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
     "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
@@ -1424,10 +1424,10 @@
    "top": []
   },
   "baseblu:sneakers-213": {
-   "n": 44,
+   "n": 43,
    "median": 442.48,
    "cheapest": 230.0,
-   "p25": 375.0,
+   "p25": 349.0,
    "top": [
     "Dolce & Gabbana White/Black Leather Logo Lace-Up Low-Top Sneakers 12.5",
     "Dolce & Gabbana Men's Multi-Color Leather Lace-Up Sneakers Camouflage Sole Made"
@@ -2029,7 +2029,7 @@
    "top": []
   },
   "biffi:xt-6-l49211000-alloyblack": {
-   "n": 94,
+   "n": 95,
    "median": 200.0,
    "cheapest": 119.94,
    "p25": 185.0,
@@ -2245,13 +2245,13 @@
    "top": []
   },
   "biffi:area-lo-sneakers-f3902003-lightgrey": {
-   "n": 3,
-   "median": 200.0,
+   "n": 2,
+   "median": 203.52,
    "cheapest": 144.16,
    "p25": 144.16,
    "top": [
     "Axel Arigato Area Low-Top Leather Sneakers, Brand Size 35 ( US Size 5 )",
-    "Axel Arigato Area Hi Cremino/Light Grey High Top Sneakers"
+    "Axel Arigato Area Patchwork Paneled Sneakers"
    ]
   },
   "biffi:mm6-sneakers-sh3ws0012-p6435t1003": {
@@ -2561,8 +2561,8 @@
    "top": []
   },
   "baseblu:speed-sneakers-4": {
-   "n": 32,
-   "median": 785.95,
+   "n": 33,
+   "median": 900.0,
    "cheapest": 293.55,
    "p25": 499.99,
    "top": [
@@ -3496,8 +3496,8 @@
    "top": []
   },
   "antonioli:man-rhun-shoes-sneakers-2025-black": {
-   "n": 16,
-   "median": 73.64,
+   "n": 17,
+   "median": 69.9,
    "cheapest": 18.49,
    "p25": 31.95,
    "top": [
@@ -3516,8 +3516,8 @@
    ]
   },
   "antonioli:man-rhun-shoes-sneakers-1989-black": {
-   "n": 16,
-   "median": 53.96,
+   "n": 15,
+   "median": 73.99,
    "cheapest": 15.0,
    "p25": 32.0,
    "top": [
@@ -3620,8 +3620,8 @@
    "top": []
   },
   "antonioli:man-rhun-shoes-sneakers-3250-black": {
-   "n": 37,
-   "median": 38.95,
+   "n": 36,
+   "median": 38.97,
    "cheapest": 18.99,
    "p25": 26.82,
    "top": [

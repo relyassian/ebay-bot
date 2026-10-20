@@ -1,4 +1,5 @@
 scan: 469
+demand: 0
 market 355066429434: ours 1087.99 vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
 market 355066574768: ours None vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Gancini Ornament
@@ -40,10 +41,10 @@ market 820205329783: ours 816.99 vs cheapest 310.0 (1 others) · Gucci Tennis 19
 market 820205389034: ours 1981.99 vs cheapest - (0 others) · Louis Vuitton LV Skate Sneaker Beige/White Men's L
 market 820205698211: ours 738.99 vs cheapest 550.0 (3 others) · Gucci Ace GG Embossed Sneaker Black Men's Leather 
 market 820207186160: ours None vs cheapest 749.0 (1 others) · Balenciaga Runner Sneaker Black Matte Men's Mesh L
-market 820207186196: ours 1115.99 vs cheapest 499.0 (9 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
+market 820207186196: ours 1115.99 vs cheapest 499.0 (10 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
 market 820207186222: ours 680.99 vs cheapest - (0 others) · Gucci Ace GG Embossed - White Men's Leather Low To
 market 820207186253: ours 815.99 vs cheapest 375.0 (10 others) · Gucci Basket Black Red Men's Demetra Low Top Sneak
-market 820207186287: ours 617.99 vs cheapest 199.0 (35 others) · Gucci Basket Green Demetra Men's Low Top Sneakers 
+market 820207186287: ours 617.99 vs cheapest 189.0 (35 others) · Gucci Basket Green Demetra Men's Low Top Sneakers 
 market 820207186315: ours 775.99 vs cheapest - (0 others) · Gucci Basket Grey Yellow Blue Men's Demetra Low To
 market 820207186346: ours 841.99 vs cheapest 350.0 (6 others) · Gucci Basket High Black Demetra Men's High Top Sne
 market 820207186379: ours 742.99 vs cheapest 350.0 (7 others) · Gucci Basket High Green Demetra Men's High Top Sne
@@ -84,5 +85,5 @@ market 820253018812: ours 1187.99 vs cheapest - (0 others) · Givenchy Padded Ny
 market 820253018968: ours 1129.99 vs cheapest - (0 others) · Lanvin Curb Cut-Out Lace-Up Sneaker Pink Men's Sue
 market 820253019164: ours 937.99 vs cheapest - (0 others) · Maison Margiela Sprinters Sneaker Black Men's Leat
 market 820256466735: ours 985.99 vs cheapest - (0 others) · Givenchy Gent Leather Derby Black Men's New
-market 820259478300: ours None vs cheapest 799.99 (1 others) · Maison Margiela Sprinters Sneaker White/Grey Men's
-Price check: 86 listings compared, 34 priced more than 5% above another seller.
+market 820259478300: ours 839.99 vs cheapest 799.99 (1 others) · Maison Margiela Sprinters Sneaker White/Grey Men's
+Price check: 86 listings compared, 35 priced more than 5% above another seller.
