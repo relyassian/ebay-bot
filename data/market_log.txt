@@ -1,4 +1,4 @@
-scan: 2
+scan: 469
 market 355066429434: ours 1087.99 vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
 market 355066574768: ours None vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Gancini Ornament
@@ -58,7 +58,7 @@ market 820207186641: ours 819.99 vs cheapest 675.0 (1 others) · Gucci Rhyton In
 market 820207186667: ours 843.99 vs cheapest - (0 others) · Gucci Rhyton Maxi GG Supreme - Black Khaki Beige M
 market 820207186704: ours 800.99 vs cheapest 360.0 (2 others) · Gucci Rhyton White Red Green Reflective Men's Mesh
 market 820207186744: ours 909.99 vs cheapest 595.0 (1 others) · Gucci Run Sneaker Beige Ebony Monogram Men's Leath
-market 820207186774: ours 664.99 vs cheapest 300.0 (14 others) · Gucci Run Sneaker Black Men's Knit Low Top Sneaker
+market 820207186774: ours 664.99 vs cheapest 300.0 (13 others) · Gucci Run Sneaker Black Men's Knit Low Top Sneaker
 market 820207186802: ours 619.99 vs cheapest 330.0 (3 others) · Gucci Run Sneaker White Black Men's Knit Low Top S
 market 820207186833: ours 864.99 vs cheapest - (0 others) · Gucci Run Sneaker White Suede Men's Low Top Sneake
 market 820207186853: ours 965.99 vs cheapest - (0 others) · Gucci Screener GG Supreme - Black Grey Men's Leath
@@ -84,4 +84,5 @@ market 820253018812: ours 1187.99 vs cheapest - (0 others) · Givenchy Padded Ny
 market 820253018968: ours 1129.99 vs cheapest - (0 others) · Lanvin Curb Cut-Out Lace-Up Sneaker Pink Men's Sue
 market 820253019164: ours 937.99 vs cheapest - (0 others) · Maison Margiela Sprinters Sneaker Black Men's Leat
 market 820256466735: ours 985.99 vs cheapest - (0 others) · Givenchy Gent Leather Derby Black Men's New
-Price check: 85 listings compared, 34 priced more than 5% above another seller.
+market 820259478300: ours None vs cheapest 799.99 (1 others) · Maison Margiela Sprinters Sneaker White/Grey Men's
+Price check: 86 listings compared, 34 priced more than 5% above another seller.

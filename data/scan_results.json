@@ -1,17 +1,420 @@
 {
- "checked": "2026-10-20T17:31:37Z",
+ "checked": "2026-10-20T19:07:15Z",
  "items": {
-  "sprint": {
-   "n": 2,
-   "median": 799.99,
-   "cheapest": 799.99,
-   "p25": 799.99,
+  "slamjam:y-3-footwear-y-3-f50-tunit-chito-grey-j359524": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-quest-gtx-green-j366229": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-quest-expedition-black-j366227": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-whisper-expedition-black-j366228": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-6-grey-j366230": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:roa-footwear-kuna-trail-black-j346925": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:roa-footwear-kuna-trail-multicolor-j346926": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:roa-footwear-cingino-waterproof-sympatex-black-j346923": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:mm6-maison-margiela-footwear-xt-mm6-salomon-multicolor-j3483": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:roa-footwear-katharina-waterproof-sympatex-black-j346902": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:roa-footwear-cingino-brown-j346914": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:magliano-footwear-panenka-veja-x-magliano-white-j352908": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:mm6-maison-margiela-footwear-mocassin-beige-j348328": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:roa-footwear-sella-lite-white-j330182": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-xa-pro-3d-gtx-slam-jam-black-j340042": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-tepiaz-advanced-black-j350586": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-evo-black-j366223": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-evo-grey-j366222": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-evo-black-j366221": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-whisper-gtx-black-j366219": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-whisper-gtx-beige-j366220": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-4-og-yellow-j366224": {
+   "n": 1,
+   "median": 250.0,
+   "cheapest": 250.0,
+   "p25": 250.0,
    "top": [
-    "Maison Margiela Sprinters Sneaker Shoes NEW size 35 EU 5 US Green White Grey",
-    "Maison Margiela Sprinters Sneaker Shoes NEW size 36 EU 6 US Blue White Grey"
+    "Salomon XT-4 OG Sneakers, Vanilla Ice / Acid Lime / Pink Frosting, Size 7 M/8 W"
    ]
   },
-  "sprint2": {
+  "slamjam:salomon-footwear-shoes-snowclog-og-black-j366218": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:mm6-maison-margiela-footwear-mm6-men-s-shoes-show-beige-j363": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:dries-van-noten-footwear-ms262-1002-ml-shoes-q0397-bei-beige": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-tepiaz-advanced-black-j350585": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:mm6-maison-margiela-footwear-laceups-black-j363170": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:y-3-footwear-y-3-diagonal-stan-smith-white-j359534": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:y-3-footwear-y-3-diagonal-stan-smith-black-j359535": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:comme-des-garcons-homme-plus-footwear-mens-shoes-x-nike-air-": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:dries-van-noten-footwear-ms262-1635-mlshoes-q0110-black-blac": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:dries-van-noten-footwear-ms262-1503-ml-shoes-q0132-dpu-purpl": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:dries-van-noten-footwear-ms262-1503-ml-shoes-q0133-blawhi-bl": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-4-og-gtx-black-j366207": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:dries-van-noten-accessories-bltm262-belt087-305-ml-belt-mult": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:dries-van-noten-accessories-bltm262-belt094-305-ml-belt-bei-": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:dries-van-noten-accessories-bltm262-belt094-102-ml-belt-blac": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-6-gtx-black-j366206": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rick-owens-shoes-sneakers-ru02f4889lco-911": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rick-owens-shoes-sneakers-ru02f4890lhl-911": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rick-owens-shoes-sneakers-ru02f4897lcolvs-7811": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-shoes-sneakers-a000gafagat-9545": {
+   "n": 44,
+   "median": 750.0,
+   "cheapest": 399.99,
+   "p25": 649.0,
+   "top": [
+    "Gucci Men's Screener Leather High-top Sneakers Light Hibiscus Red",
+    "Gucci Screener Yellow Sneakers Men's Size 9"
+   ]
+  },
+  "antonioli:man-maison-mihara-yasuhiro-shoes-sneakers-a17fw728-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-mihara-yasuhiro-shoes-sneakers-a17fw731-white": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-mihara-yasuhiro-shoes-sneakers-a17fw710-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-mihara-yasuhiro-shoes-sneakers-a17fw709-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-mihara-yasuhiro-shoes-sneakers-a17fw732-white": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-mihara-yasuhiro-shoes-sneakers-a17fw710-white": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-mihara-yasuhiro-shoes-sneakers-a17fw732-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-ann-demeulemeester-shoes-sneakers-b0012587fa038-099": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-golden-goose-shoes-sneakers-gmf00128f000567-10509": {
+   "n": 47,
+   "median": 690.0,
+   "cheapest": 400.0,
+   "p25": 575.0,
+   "top": [
+    "Golden Goose Deluxe Brand Stardan Sneakers 35 5",
+    "Golden Goose Men Stardan Sneakers White NIB EU 41 US 8"
+   ]
+  },
+  "antonioli:man-golden-goose-shoes-sneakers-gmf00101f000321-80203": {
+   "n": 80,
+   "median": 690.0,
+   "cheapest": 443.98,
+   "p25": 690.0,
+   "top": [
+    "Golden Goose Super Star Men's US14 EU47 Waxed Brown Suede Python Star Sneakers",
+    "Golden Goose Super Star  Men's US13 EU46 Waxed Brown Suede Python Star Sneakers"
+   ]
+  },
+  "antonioli:man-golden-goose-shoes-sneakers-gmf00102f008728-83408": {
+   "n": 80,
+   "median": 690.0,
+   "cheapest": 443.98,
+   "p25": 690.0,
+   "top": [
+    "Golden Goose Super Star Men's US14 EU47 Waxed Brown Suede Python Star Sneakers",
+    "Golden Goose Super Star  Men's US13 EU46 Waxed Brown Suede Python Star Sneakers"
+   ]
+  },
+  "antonioli:man-jil-sander-shoes-loafers-flats-j32ws0072p7564-001": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-margiela-shoes-loafers-flats-s57wr0159p7550": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-balenciaga-shoes-sneakers-865703wstvl-2010": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-prada-shoes-sneakers-2ee4902hkd-f0k74": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-margiela-shoes-sneakers-s57ws0512p7549-h9046": {
    "n": 2,
    "median": 858.5,
    "cheapest": 730.0,
@@ -20,6 +423,3374 @@
     "Maison Margiela Sprinter Low Top Sneakers - Size 44 - Yellow White - NEW",
     "Maison Margiela Sprinter Low-Top Sneakers in Black / White / Tonal Grey BNWB 45"
    ]
+  },
+  "antonioli:man-ann-demeulemeester-shoes-sneakers-b0012585fa038-099": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-prada-shoes-sneakers-2eg479d7c-f0002": {
+   "n": 8,
+   "median": 755.0,
+   "cheapest": 549.0,
+   "p25": 699.0,
+   "top": [
+    "$1,020 PRADA Collapse Blue Re-Nylon & Suede Men's Sneakers UK 6 US 7 EU 40 NIB",
+    "$1,020 PRADA Collapse Red Re-Nylon & Suede Men's Sneakers US8"
+   ]
+  },
+  "antonioli:man-gucci-shoes-loafers-flats-851398aafar-1000": {
+   "n": 52,
+   "median": 462.5,
+   "cheapest": 234.99,
+   "p25": 359.0,
+   "top": [
+    "GUCCI Horsebit Mens Loafers Black Leather Size 10 / 45 EUR Made In Italy",
+    "GUCCI - Black Leather Horsebit Loafers, Size-UK 9"
+   ]
+  },
+  "antonioli:man-burberry-shoes-lace-ups-8119130-a1189": {
+   "n": 1,
+   "median": 410.2,
+   "cheapest": 410.2,
+   "p25": 410.2,
+   "top": [
+    "Burberry Men's Black Leather Derby Dress Shoes US 10.5 EU 44"
+   ]
+  },
+  "antonioli:man-golden-goose-shoes-sneakers-gmf00105f008684-40375": {
+   "n": 12,
+   "median": 497.5,
+   "cheapest": 443.98,
+   "p25": 455.0,
+   "top": [
+    "Golden Goose Super Star Men's US14 EU47 Waxed Brown Suede Python Star Sneakers",
+    "Golden Goose Super Star  Men's US13 EU46 Waxed Brown Suede Python Star Sneakers"
+   ]
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l45397600": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l49210700": {
+   "n": 3,
+   "median": 214.99,
+   "cheapest": 195.99,
+   "p25": 195.99,
+   "top": [
+    "Salomon XT-6 Gore-Tex Waterproof Sneakers L47450600 Black Silver",
+    "Salomon XT-6 Gore-Tex Sneakers Wrought Iron Urban Chic Sedona Sage Multi Sizes"
+   ]
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l49210800": {
+   "n": 3,
+   "median": 214.99,
+   "cheapest": 195.99,
+   "p25": 195.99,
+   "top": [
+    "Salomon XT-6 Gore-Tex Waterproof Sneakers L47450600 Black Silver",
+    "Salomon XT-6 Gore-Tex Sneakers Wrought Iron Urban Chic Sedona Sage Multi Sizes"
+   ]
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l45404900": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-golden-goose-shoes-sneakers-gmf00102f006113-11915": {
+   "n": 80,
+   "median": 690.0,
+   "cheapest": 443.98,
+   "p25": 690.0,
+   "top": [
+    "Golden Goose Super Star Men's US14 EU47 Waxed Brown Suede Python Star Sneakers",
+    "Golden Goose Super Star  Men's US13 EU46 Waxed Brown Suede Python Star Sneakers"
+   ]
+  },
+  "antonioli:man-demon-shoes-sneakers-adventa-brown": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-prada-shoes-sneakers-2ee4902hkd-f0316": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-margiela-shoes-sneakers-s57ws0538p7573-t4027": {
+   "n": 8,
+   "median": 668.0,
+   "cheapest": 460.0,
+   "p25": 630.0,
+   "top": [
+    "Maison Margiela , New Future High Sneakers Black, Size 11. The Maison Margiela x",
+    "Maison Margiela Future Low Top Sneakers Black -EU 42 US 9 New With Box"
+   ]
+  },
+  "antonioli:man-demon-shoes-sneakers-hono-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l47588000": {
+   "n": 1,
+   "median": 164.89,
+   "cheapest": 164.89,
+   "p25": 164.89,
+   "top": [
+    "Mens SALOMON L47588000 Speedcross 3 Black/Ftw Silver/Black"
+   ]
+  },
+  "antonioli:man-gucci-shoes-loafers-flats-874936aagsm-1060": {
+   "n": 1,
+   "median": 1080.0,
+   "cheapest": 1080.0,
+   "p25": 1080.0,
+   "top": [
+    "Gucci Como Loafers (120)(PLEASE REQUEST YOUR SIZE BEFORE PURCHASING)"
+   ]
+  },
+  "antonioli:man-mm6-maison-margiela-shoes-loafers-flats-sh1wr0006p7431-t": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-y-3-shoes-sneakers-kz9045-silver": {
+   "n": 5,
+   "median": 238.06,
+   "cheapest": 186.48,
+   "p25": 200.0,
+   "top": [
+    "Y-3 - Men Adios Pro 4 Sneakers",
+    "Y-3 Adidas Adizero Adios Pro 4 White powder men's Running Sneakers JS183"
+   ]
+  },
+  "antonioli:unisex-y-3-shoes-sneakers-ki9544-grefiv": {
+   "n": 9,
+   "median": 199.0,
+   "cheapest": 134.66,
+   "p25": 168.33,
+   "top": [
+    "Y-3 - Men Adios 9 Sneakers",
+    "Y-3 - Men Adios 9 Sneakers"
+   ]
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l45472800": {
+   "n": 9,
+   "median": 194.99,
+   "cheapest": 119.94,
+   "p25": 180.39,
+   "top": [
+    "Salomon X END. XT-6 Sneakers In Emerald/Asphalt Unisex Size W8.5/M7.5 (479531)",
+    "Salomon Unisex XT-6 Sneakers [L41252900], White / White / Lunar Rock, NEW"
+   ]
+  },
+  "antonioli:man-autry-shoes-sneakers-aulmll12": {
+   "n": 46,
+   "median": 135.45,
+   "cheapest": 79.49,
+   "p25": 115.48,
+   "top": [
+    "Autry Medalist Low Sneakers",
+    "Autry Medalist Low Bicolor Leather Sneakers"
+   ]
+  },
+  "antonioli:man-autry-shoes-sneakers-aulmls28": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-loewe-shoes-lace-ups-m816290x64-1100": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-loewe-shoes-loafers-flats-m815290x01-1100": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-prada-shoes-loafers-flats-2de1273zpq-f0002": {
+   "n": 50,
+   "median": 597.0,
+   "cheapest": 250.0,
+   "p25": 438.0,
+   "top": [
+    "PRADA Milano Woman\u2019s Black Fine Leather Loafers Made In England, Size 41 1/2",
+    "NIB PRADA 2DD001 GREEN TEXTURED LEATHER  LOGO MOCCASINS DRIVING LOAFERS 5.5"
+   ]
+  },
+  "antonioli:man-maison-margiela-shoes-sneakers-s57ws0538p6840-ha331": {
+   "n": 8,
+   "median": 668.0,
+   "cheapest": 460.0,
+   "p25": 630.0,
+   "top": [
+    "Maison Margiela , New Future High Sneakers Black, Size 11. The Maison Margiela x",
+    "Maison Margiela Future Low Top Sneakers Black -EU 42 US 9 New With Box"
+   ]
+  },
+  "antonioli:man-ann-demeulemeester-accessories-belts-b0014364lt128-099": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-balenciaga-accessories-belts-a001212acqk-1000": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-balenciaga-shoes-loafers-flats-876324wbec1-1001": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-fendi-shoes-sneakers-7e1937a2c9-f1xif": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-shoes-sneakers-a000glaagvy-1243": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-burberry-shoes-sneakers-8095276-b9368": {
+   "n": 6,
+   "median": 443.98,
+   "cheapest": 368.88,
+   "p25": 400.68,
+   "top": [
+    "Burberry Terrace Check Low-Top Sneakers",
+    "Burberry Terrace Vintage Check Low-Top Sneakers"
+   ]
+  },
+  "antonioli:man-balenciaga-shoes-sneakers-734734wtsax-1000": {
+   "n": 19,
+   "median": 545.0,
+   "cheapest": 260.0,
+   "p25": 375.0,
+   "top": [
+    "New! Balenciaga '3XL' Sock Sneaker Black Knit Mens Size 7 US 40 Eur. MSRP $1080",
+    "Balenciaga 3Xl Sock Sneaker Men's"
+   ]
+  },
+  "antonioli:man-ann-demeulemeester-shoes-sneakers-b0012585lt147-099": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-ann-demeulemeester-shoes-sneakers-b0012587lt147-004": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:unisex-demon-shoes-sneakers-vipara-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-balenciaga-shoes-sneakers-825418wdtsc-9110": {
+   "n": 8,
+   "median": 575.0,
+   "cheapest": 329.0,
+   "p25": 459.0,
+   "top": [
+    "Balenciaga Monday Suede Low Top Sneakers Beige Men Lace-Up Style 825417WMNSS",
+    "MSRP $1,050 Balenciaga Men's Monday 3B Logo Low Top Sneakers"
+   ]
+  },
+  "antonioli:man-demon-shoes-sneakers-poyana-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-demon-shoes-sneakers-hono-grey": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-loewe-accessories-belts-e821z20x13-0686": {
+   "n": 2,
+   "median": 542.5,
+   "cheapest": 500.0,
+   "p25": 500.0,
+   "top": [
+    "Authentic Loewe Anagram Reversible Belt Size 85cm",
+    "loewe Anagram Logo Gold Buckle reversible black/ tan Leather belt size 100/40"
+   ]
+  },
+  "antonioli:man-gucci-shoes-sneakers-865441aagff-1048": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-shoes-sneakers-874880aagy3-9049": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-autry-shoes-sneakers-sclmuk05": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-autry-shoes-sneakers-sclmkq04": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-autry-shoes-sneakers-sclmkj02": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-autry-shoes-sneakers-sclmuk10": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-shoes-sneakers-875174faf9h-9052": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-fendi-shoes-sneakers-7e1971b17v-f1xjv": {
+   "n": 45,
+   "median": 600.0,
+   "cheapest": 407.99,
+   "p25": 559.0,
+   "top": [
+    "Fendi FF Match Leather White/Green Sneakers 12 US (11 Fendi) 7E1643 IT NIB $970",
+    "Fendi Roma Match Men\u2019s Sneakers Size 12 Leather"
+   ]
+  },
+  "antonioli:man-fendi-shoes-loafers-flats-7d199669f-f0qa1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-fendi-accessories-belts-7c0565b12l-f1myj": {
+   "n": 26,
+   "median": 410.38,
+   "cheapest": 225.0,
+   "p25": 371.98,
+   "top": [
+    "Men's Fendi Cintura Belt Reversible  Sand + Chantilly [New w/ Tags]",
+    "Fendi FF Gold Buckle Reversible Slim Gray Belt 95/38 Italy 8C0719 NWT $550"
+   ]
+  },
+  "antonioli:man-junya-watanabe-shoes-lace-ups-wqk1060014-beige": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-golden-goose-shoes-sneakers-gmf00102f005359-11166": {
+   "n": 80,
+   "median": 690.0,
+   "cheapest": 443.98,
+   "p25": 690.0,
+   "top": [
+    "Golden Goose Super Star Men's US14 EU47 Waxed Brown Suede Python Star Sneakers",
+    "Golden Goose Super Star  Men's US13 EU46 Waxed Brown Suede Python Star Sneakers"
+   ]
+  },
+  "antonioli:man-golden-goose-shoes-sneakers-gmf00102f008695-83401": {
+   "n": 80,
+   "median": 690.0,
+   "cheapest": 443.98,
+   "p25": 690.0,
+   "top": [
+    "Golden Goose Super Star Men's US14 EU47 Waxed Brown Suede Python Star Sneakers",
+    "Golden Goose Super Star  Men's US13 EU46 Waxed Brown Suede Python Star Sneakers"
+   ]
+  },
+  "antonioli:woman-autry-shoes-sneakers-aulwll15": {
+   "n": 23,
+   "median": 135.45,
+   "cheapest": 82.95,
+   "p25": 115.54,
+   "top": [
+    "Autry Medalist Low Bicolor Leather Sneakers",
+    "Autry Leather Colorblock Low Top Medalist 39 Sneakers NIB -Auth "
+   ]
+  },
+  "antonioli:man-rick-owens-shoes-sneakers-ru02f4879lvsq1-99": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-prada-shoes-sneakers-2eg479d7c-f0334": {
+   "n": 8,
+   "median": 755.0,
+   "cheapest": 549.0,
+   "p25": 699.0,
+   "top": [
+    "$1,020 PRADA Collapse Blue Re-Nylon & Suede Men's Sneakers UK 6 US 7 EU 40 NIB",
+    "$1,020 PRADA Collapse Red Re-Nylon & Suede Men's Sneakers US8"
+   ]
+  },
+  "antonioli:unisex-y-3-shoes-sneakers-ki7892-black": {
+   "n": 4,
+   "median": 192.97,
+   "cheapest": 133.46,
+   "p25": 169.53,
+   "top": [
+    "Y-3 - Men Tokyo Sneakers",
+    "Y-3 - Unisex Tokyo Sneakers"
+   ]
+  },
+  "antonioli:man-y-3-shoes-sneakers-ki7816-white": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:unisex-y-3-shoes-sneakers-ki7128-black": {
+   "n": 6,
+   "median": 252.96,
+   "cheapest": 186.48,
+   "p25": 200.0,
+   "top": [
+    "Y-3 - Men Adios Pro 4 Sneakers",
+    "Y-3 Adidas Adizero Adios Pro 4 White powder men's Running Sneakers JS183"
+   ]
+  },
+  "biffi:scarpe-cornaro-di26fwcom-f02s018smg": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-h705-allacciato-h-hxm7050gf10vho-0fd7": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sandal-37": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:pair-of-ankle-boots-9": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:pair-of-sneakers-38": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:pair-of-sneakers-36": {
+   "n": 44,
+   "median": 572.0,
+   "cheapest": 285.0,
+   "p25": 365.0,
+   "top": [
+    "Brunello Cucinelli Textured Leather and Suede Low-Top Sneakers with Gum Sole",
+    "Brunello Cucinelli Suede and Ribbed Textile Lace-Up Low-Top Sneakers Terracotta"
+   ]
+  },
+  "baseblu:pair-of-ankle-boots-10": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:lace-up-shoes-82": {
+   "n": 8,
+   "median": 755.0,
+   "cheapest": 549.0,
+   "p25": 699.0,
+   "top": [
+    "$1,020 PRADA Collapse Blue Re-Nylon & Suede Men's Sneakers UK 6 US 7 EU 40 NIB",
+    "$1,020 PRADA Collapse Red Re-Nylon & Suede Men's Sneakers US8"
+   ]
+  },
+  "baseblu:pair-of-laced-shoes-3": {
+   "n": 2,
+   "median": 310.19,
+   "cheapest": 285.0,
+   "p25": 285.0,
+   "top": [
+    "Brunello Cucinelli Suede and Ribbed Textile Lace-Up Low-Top Sneakers Terracotta",
+    "Brunello Cucinelli Brown Suede Style Low Top Lace Up Casual Sneakers EU 43 US 10"
+   ]
+  },
+  "baseblu:fit-vitel-tes-tecn-lycra-logo": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:lace-up-shoes-94": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:lace-up-shoes-81": {
+   "n": 8,
+   "median": 755.0,
+   "cheapest": 549.0,
+   "p25": 699.0,
+   "top": [
+    "$1,020 PRADA Collapse Blue Re-Nylon & Suede Men's Sneakers UK 6 US 7 EU 40 NIB",
+    "$1,020 PRADA Collapse Red Re-Nylon & Suede Men's Sneakers US8"
+   ]
+  },
+  "baseblu:lace-up-shoes-73": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:match-vitello-vitello-st-logo-1": {
+   "n": 21,
+   "median": 559.0,
+   "cheapest": 407.99,
+   "p25": 559.0,
+   "top": [
+    "Fendi FF Match Leather White/Green Sneakers 12 US (11 Fendi) 7E1643 IT NIB $970",
+    "Fendi Roma Match Men\u2019s Sneakers Size 12 Leather"
+   ]
+  },
+  "baseblu:sneaker-s-rubber-13": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-s-rubber-12": {
+   "n": 20,
+   "median": 200.6,
+   "cheapest": 169.0,
+   "p25": 199.9,
+   "top": [
+    "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
+    "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
+   ]
+  },
+  "baseblu:sneaker-s-rubber-11": {
+   "n": 20,
+   "median": 200.6,
+   "cheapest": 169.0,
+   "p25": 199.9,
+   "top": [
+    "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
+    "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
+   ]
+  },
+  "baseblu:sneakers-s-rubber-4": {
+   "n": 1,
+   "median": 431.16,
+   "cheapest": 431.16,
+   "p25": 431.16,
+   "top": [
+    "Alexander McQueen Black & Blue Low Boxer Dog Sneakers"
+   ]
+  },
+  "baseblu:sneakers-s-rubber-2": {
+   "n": 1,
+   "median": 237.5,
+   "cheapest": 237.5,
+   "p25": 237.5,
+   "top": [
+    "Alexander McQueen Woman's Oversize Larry Black Sneakers, Size 8.5US (38.5EUR)"
+   ]
+  },
+  "baseblu:sneakers-s-rubber": {
+   "n": 1,
+   "median": 237.5,
+   "cheapest": 237.5,
+   "p25": 237.5,
+   "top": [
+    "Alexander McQueen Woman's Oversize Larry Black Sneakers, Size 8.5US (38.5EUR)"
+   ]
+  },
+  "baseblu:sneaker-s-rubber-9": {
+   "n": 16,
+   "median": 267.85,
+   "cheapest": 185.5,
+   "p25": 199.9,
+   "top": [
+    "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship",
+    "Alexander McQueen Oversized Sneakers Men's White Leather Shoes Free Shipping"
+   ]
+  },
+  "baseblu:sneakers-250": {
+   "n": 20,
+   "median": 200.6,
+   "cheapest": 169.0,
+   "p25": 199.9,
+   "top": [
+    "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
+    "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
+   ]
+  },
+  "baseblu:sneakers-248": {
+   "n": 20,
+   "median": 200.6,
+   "cheapest": 169.0,
+   "p25": 199.9,
+   "top": [
+    "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
+    "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
+   ]
+  },
+  "baseblu:ornament-slip-on-6": {
+   "n": 4,
+   "median": 460.69,
+   "cheapest": 374.12,
+   "p25": 446.5,
+   "top": [
+    "Ferragamo Gancini Ornament Heeled Loafers, Size 7 C",
+    "Ferragamo Gancini Ornament Mule Loafers, Size 5"
+   ]
+  },
+  "baseblu:m-space-memo-5806": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-space-memo-5805": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-brb-trail-low-5801": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-brb-trail-low-05800": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-brb-trail-low-5800": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-s-rubber-4": {
+   "n": 20,
+   "median": 200.6,
+   "cheapest": 169.0,
+   "p25": 199.9,
+   "top": [
+    "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
+    "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
+   ]
+  },
+  "baseblu:sneaker-s-rubber-3": {
+   "n": 20,
+   "median": 200.6,
+   "cheapest": 169.0,
+   "p25": 199.9,
+   "top": [
+    "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
+    "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
+   ]
+  },
+  "baseblu:sneakers-201": {
+   "n": 40,
+   "median": 435.29,
+   "cheapest": 205.0,
+   "p25": 320.0,
+   "top": [
+    "Alexander McQueen Black Canvas And Rubber Tread Slick Low Top Sneakers Size 42.5",
+    "Alexander McQueen Tread Slick High Top Camo Skull Sneakers..  Size 41 D"
+   ]
+  },
+  "baseblu:sneaker-s-rubber-1": {
+   "n": 21,
+   "median": 200.6,
+   "cheapest": 169.0,
+   "p25": 188.77,
+   "top": [
+    "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
+    "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
+   ]
+  },
+  "baseblu:sneakers-151": {
+   "n": 20,
+   "median": 200.6,
+   "cheapest": 169.0,
+   "p25": 199.9,
+   "top": [
+    "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
+    "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
+   ]
+  },
+  "baseblu:sneakers-s-rubber-5": {
+   "n": 1,
+   "median": 431.16,
+   "cheapest": 431.16,
+   "p25": 431.16,
+   "top": [
+    "Alexander McQueen Black & Blue Low Boxer Dog Sneakers"
+   ]
+  },
+  "baseblu:veja-x-magliano-panenka-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:veja-x-magliano-panenka": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:veja-x-magliano-panenka-2": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:shoes-39": {
+   "n": 29,
+   "median": 649.0,
+   "cheapest": 338.09,
+   "p25": 450.0,
+   "top": [
+    "Brunello Cucinelli Dark Brown Suede Slip On Penny Loafers Size 44",
+    "Brunello Cucinelli Mustard Suede/White Fringe Slip On Loafers l Size EU37 l NIB"
+   ]
+  },
+  "baseblu:pair-of-ankle-boots-7": {
+   "n": 15,
+   "median": 734.94,
+   "cheapest": 420.0,
+   "p25": 535.5,
+   "top": [
+    "New Brunello Cucinelli Men\u2019s Shoes Chelsea Boots Beige IT40 US7",
+    "Brunello Cucinelli Suede Chelsea Boots with Lug Sole Brown"
+   ]
+  },
+  "baseblu:pair-of-ankle-boots-8": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:lace-up-shoes-91": {
+   "n": 7,
+   "median": 699.0,
+   "cheapest": 451.25,
+   "p25": 451.25,
+   "top": [
+    "Prada Prax 2.0 Blue Re-Nylon & Suede Sneakers 2EE455, UK 9 US 10",
+    "Prada Prax 2.0 Blue Re-Nylon & Suede Sneakers 2EE455, UK 7 US 8"
+   ]
+  },
+  "baseblu:lace-up-shoes-40": {
+   "n": 7,
+   "median": 699.0,
+   "cheapest": 451.25,
+   "p25": 451.25,
+   "top": [
+    "Prada Prax 2.0 Blue Re-Nylon & Suede Sneakers 2EE455, UK 9 US 10",
+    "Prada Prax 2.0 Blue Re-Nylon & Suede Sneakers 2EE455, UK 7 US 8"
+   ]
+  },
+  "baseblu:cornaro-gomma": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-65": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-mix-vitello-elastico-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-mix-vitello-elastico": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:lace-up-shoes-92": {
+   "n": 3,
+   "median": 600.0,
+   "cheapest": 506.62,
+   "p25": 506.62,
+   "top": [
+    "Prada Brushed Leather Low-Top Sneakers - Men's Size 6.5",
+    "Prada Brushed Leather Sneakers - 4E2996 - Black - New In Box"
+   ]
+  },
+  "baseblu:sneakers-388": {
+   "n": 1,
+   "median": 1227.0,
+   "cheapest": 1227.0,
+   "p25": 1227.0,
+   "top": [
+    "Brunello Cucinelli Techno Cotton Knit Runners Sneakers in Brown / Gray BNWB 45"
+   ]
+  },
+  "baseblu:3xl-sneakers": {
+   "n": 54,
+   "median": 1240.0,
+   "cheapest": 559.49,
+   "p25": 895.5,
+   "top": [
+    "NEW Balenciaga Speed 3XL Knit Sock Sneakers Black White Mens Sz US 12 (45 EUR)",
+    "Size 34EU/4W - Balenciaga 3XL Pink Distressed Sneakers\ud83d\udc97 NEW/RETAIL $1,200!"
+   ]
+  },
+  "baseblu:city-sneaker-nw": {
+   "n": 2,
+   "median": 768.0,
+   "cheapest": 717.0,
+   "p25": 717.0,
+   "top": [
+    "Balenciaga City Low-Top Sneakers in Bal Grey / Brass BNWB 44",
+    "Balenciaga silver City Sneakers"
+   ]
+  },
+  "baseblu:3xl-interlace-w": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:triple-s-2-gradient-sneakers": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:3xl-extreme-laces-b": {
+   "n": 8,
+   "median": 1512.0,
+   "cheapest": 1122.0,
+   "p25": 1380.0,
+   "top": [
+    "Balenciaga 3XL Extreme Laces Logo Sneakers White / Navy / Orange / Grey BNWB 45",
+    "Balenciaga 3XL Extreme Laces Logo Sneakers White / Navy / Orange / Grey BNWB 42"
+   ]
+  },
+  "baseblu:track-trail-laces-3": {
+   "n": 1,
+   "median": 741.0,
+   "cheapest": 741.0,
+   "p25": 741.0,
+   "top": [
+    "MSRP $1250 Balenciaga Men's Track Trail Laces Sneakers, Size 12US (45EUR)"
+   ]
+  },
+  "baseblu:runner-gradient-sneakers": {
+   "n": 5,
+   "median": 1180.0,
+   "cheapest": 1180.0,
+   "p25": 1180.0,
+   "top": [
+    "Balenciaga Runner Gradient Sneakers(PLEASE REQUEST YOUR SIZE BEFORE PURCHASING)",
+    "Balenciaga Runner Gradient Sneakers(PLEASE REQUEST YOUR SIZE BEFORE PURCHASING)"
+   ]
+  },
+  "baseblu:3xl-sneakers-4": {
+   "n": 54,
+   "median": 1240.0,
+   "cheapest": 559.49,
+   "p25": 895.5,
+   "top": [
+    "NEW Balenciaga Speed 3XL Knit Sock Sneakers Black White Mens Sz US 12 (45 EUR)",
+    "Size 34EU/4W - Balenciaga 3XL Pink Distressed Sneakers\ud83d\udc97 NEW/RETAIL $1,200!"
+   ]
+  },
+  "baseblu:studio-sneaker": {
+   "n": 1,
+   "median": 375.0,
+   "cheapest": 375.0,
+   "p25": 375.0,
+   "top": [
+    "REPRESENT CLO STUDIO SNEAKERS 12M"
+   ]
+  },
+  "baseblu:pair-of-sneakers-37": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneakers-213": {
+   "n": 42,
+   "median": 442.48,
+   "cheapest": 230.0,
+   "p25": 349.0,
+   "top": [
+    "Dolce & Gabbana White/Black Leather Logo Lace-Up Low-Top Sneakers 12.5",
+    "Dolce & Gabbana Men's Multi-Color Leather Lace-Up Sneakers Camouflage Sole Made"
+   ]
+  },
+  "baseblu:mens-trainers-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:calfskin-leather-loafers": {
+   "n": 1,
+   "median": 349.0,
+   "cheapest": 349.0,
+   "p25": 349.0,
+   "top": [
+    "Dolce & Gabbana Mens Loafers Moccasins Shoes White Calfskin Leather  7US 40EU"
+   ]
+  },
+  "baseblu:velvet-slippers": {
+   "n": 13,
+   "median": 839.94,
+   "cheapest": 839.94,
+   "p25": 839.94,
+   "top": [
+    "Dolce&Gabbana NWB Loafers / Slippers Size 40.5 7.5 US Black Velvet W/ Gold Logo",
+    "Dolce&Gabbana NWB Loafers / Slippers Size 40 7 US In Red Velvet W/ Gold Logo"
+   ]
+  },
+  "baseblu:mens-trainers": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:pair-of-laced-shoes-2": {
+   "n": 10,
+   "median": 896.19,
+   "cheapest": 480.0,
+   "p25": 896.19,
+   "top": [
+    "Brunello Cucinelli Mens Suede Lace-Up Shoes In Off-White",
+    "Brunello Cucinelli NWB Suede/Canvas Lace Up Derby Shoes Size 42/9 US in Beige"
+   ]
+  },
+  "baseblu:sneakers675-9": {
+   "n": 6,
+   "median": 202.0,
+   "cheapest": 129.99,
+   "p25": 129.99,
+   "top": [
+    "Adidas Y-3 Men's Superstar Low Top Sneakers Black 7 US",
+    "Adidas Y-3 Men's Superstar Low Top Sneakers Black 10 US"
+   ]
+  },
+  "baseblu:pair-of-ankle-boots-11": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-ow-be-right-back-5748": {
+   "n": 8,
+   "median": 450.0,
+   "cheapest": 275.0,
+   "p25": 374.99,
+   "top": [
+    "Unisex OW Be Right Back Sneakers Gray Black For Off Arrow White Running Shoes",
+    "off-white be right back sneakers Sz7"
+   ]
+  },
+  "baseblu:lipari-low-top-sneakers-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:lipari-low-top-sneakers": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-ow-brb-worn-out-5753": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:dg-logo-leather-sneakers-1": {
+   "n": 24,
+   "median": 422.62,
+   "cheapest": 191.25,
+   "p25": 295.0,
+   "top": [
+    "Dolce&Gabbana Logo Accent Sneakers White Black Leather Men's Casual Shoes",
+    "Dolce & Gabbana | Plain Toe Plain Leather Logo Outlet Low-Top Sneakers Size 5"
+   ]
+  },
+  "baseblu:sabot-13": {
+   "n": 5,
+   "median": 500.0,
+   "cheapest": 393.75,
+   "p25": 495.0,
+   "top": [
+    "$890 Prada Mules Flower Round Peep Toe Black Suede Pumps Shoes 40 Sandals",
+    "Prada 2S2986 Brown Suede Mules Gold Logo Slip On Loafers Mens Shoes uk6"
+   ]
+  },
+  "baseblu:dg-logo-leather-sneakers": {
+   "n": 24,
+   "median": 422.62,
+   "cheapest": 191.25,
+   "p25": 295.0,
+   "top": [
+    "Dolce&Gabbana Logo Accent Sneakers White Black Leather Men's Casual Shoes",
+    "Dolce & Gabbana | Plain Toe Plain Leather Logo Outlet Low-Top Sneakers Size 5"
+   ]
+  },
+  "baseblu:dice-t-toe-sneaker-4": {
+   "n": 2,
+   "median": 167.48,
+   "cheapest": 167.48,
+   "p25": 167.48,
+   "top": [
+    "Axel Arigato Dice T-Toe Low-Top Sneakers",
+    "Axel Arigato Dice T-Toe Low-Top Sneakers, Brand Size 35 ( US Size 5 )"
+   ]
+  },
+  "baseblu:dice-t-toe-sneaker": {
+   "n": 2,
+   "median": 167.48,
+   "cheapest": 167.48,
+   "p25": 167.48,
+   "top": [
+    "Axel Arigato Dice T-Toe Low-Top Sneakers",
+    "Axel Arigato Dice T-Toe Low-Top Sneakers, Brand Size 35 ( US Size 5 )"
+   ]
+  },
+  "baseblu:mule-12": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:slide-23": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:tabi-ankle-boots-h30": {
+   "n": 16,
+   "median": 1200.0,
+   "cheapest": 543.0,
+   "p25": 1099.99,
+   "top": [
+    "Maison Margiela Tabi Ankle Boots H60 (White Pearly)",
+    "Authentic Brand New Maison Margiela Red Tabi Ankle Boots EU 37"
+   ]
+  },
+  "baseblu:m-ow-be-right-back-5747": {
+   "n": 8,
+   "median": 450.0,
+   "cheapest": 275.0,
+   "p25": 374.99,
+   "top": [
+    "Unisex OW Be Right Back Sneakers Gray Black For Off Arrow White Running Shoes",
+    "off-white be right back sneakers Sz7"
+   ]
+  },
+  "baseblu:studio-sneaker-3": {
+   "n": 1,
+   "median": 375.0,
+   "cheapest": 375.0,
+   "p25": 375.0,
+   "top": [
+    "REPRESENT CLO STUDIO SNEAKERS 12M"
+   ]
+  },
+  "baseblu:m-maverik-thong-web-rs": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-68": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:slide-12": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:slide-24": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-62": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneakers-397": {
+   "n": 43,
+   "median": 442.48,
+   "cheapest": 230.0,
+   "p25": 349.0,
+   "top": [
+    "Dolce & Gabbana White/Black Leather Logo Lace-Up Low-Top Sneakers 12.5",
+    "Dolce & Gabbana Men's Multi-Color Leather Lace-Up Sneakers Camouflage Sole Made"
+   ]
+  },
+  "baseblu:sneaker-58": {
+   "n": 47,
+   "median": 500.0,
+   "cheapest": 300.0,
+   "p25": 410.0,
+   "top": [
+    "Dolce & Gabbana Portofino White Leather Low Top Lace-Up Sneakers New w/ Box",
+    "Dolce & Gabbana Portofino Embellished Sneakers White Multi 35 Leather NWT"
+   ]
+  },
+  "baseblu:low-top-sneakers-5": {
+   "n": 3,
+   "median": 442.48,
+   "cheapest": 442.48,
+   "p25": 442.48,
+   "top": [
+    "Dolce & Gabbana Men's Gray Suede & Leather Athletic Sneakers Shoes US 11 IT 44",
+    "Dolce & Gabbana Men's Suede Leather  Athletic Sneakers Shoes US 11 IT 44"
+   ]
+  },
+  "baseblu:sneaker-61": {
+   "n": 47,
+   "median": 500.0,
+   "cheapest": 300.0,
+   "p25": 410.0,
+   "top": [
+    "Dolce & Gabbana Portofino White Leather Low Top Lace-Up Sneakers New w/ Box",
+    "Dolce & Gabbana Portofino Embellished Sneakers White Multi 35 Leather NWT"
+   ]
+  },
+  "baseblu:sneakers-127": {
+   "n": 42,
+   "median": 442.48,
+   "cheapest": 230.0,
+   "p25": 349.0,
+   "top": [
+    "Dolce & Gabbana White/Black Leather Logo Lace-Up Low-Top Sneakers 12.5",
+    "Dolce & Gabbana Men's Multi-Color Leather Lace-Up Sneakers Camouflage Sole Made"
+   ]
+  },
+  "baseblu:clay-sneakers-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:area-lo-sneaker-1": {
+   "n": 2,
+   "median": 485.0,
+   "cheapest": 269.99,
+   "p25": 269.99,
+   "top": [
+    "Axel Arigato Area Lo Leather Sneaker Men's White 41",
+    "Axel Arigato Area Low Men\u2019s Sneaker Green/White/Gray Colorblock New Box"
+   ]
+  },
+  "baseblu:sandal-s-rubber": {
+   "n": 6,
+   "median": 387.0,
+   "cheapest": 215.0,
+   "p25": 325.0,
+   "top": [
+    "Alexander McQUEEN $1090 Double Buckle Punk Mule Slide Sandals Apricot EU37/US7 C",
+    "Alexander McQueen Double Buckle Slide Mule Sandals Apricot size 38.5 US8.5"
+   ]
+  },
+  "baseblu:buckle-slide-sandals": {
+   "n": 6,
+   "median": 387.0,
+   "cheapest": 215.0,
+   "p25": 325.0,
+   "top": [
+    "Alexander McQUEEN $1090 Double Buckle Punk Mule Slide Sandals Apricot EU37/US7 C",
+    "Alexander McQueen Double Buckle Slide Mule Sandals Apricot size 38.5 US8.5"
+   ]
+  },
+  "slamjam:salomon-footwear-shoes-xt-6-pearl-blue-j366208": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-6-brown-j366203": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-tepiaz-advanced-multicolor-j366201": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-whisper-yellow-j366205": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-whisper-black-j366204": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:kiko-kostadinov-footwear-laan-loafers-black-j359799": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-xa-pro-3d-gtx-black-j350616": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:magliano-footwear-panenka-veja-x-magliano-red-j364808": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:magliano-footwear-panenka-veja-x-magliano-black-j364807": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:magliano-footwear-panenka-veja-x-magliano-brown-j364806": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:y-3-footwear-y3-f50-tunit-white-j355518": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:matthew-m-williams-footwear-desert-sneakers-white-j355793": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:y-3-footwear-y-3-regu-mule-black-j352895": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:george-cox-footwear-undercover-x-george-cox-laced-shoes-oran": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:y-3-footwear-y3-feroza-mer-lo-black-j355517": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:kiko-kostadinov-footwear-sargo-shoes-black-j359798": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:demon-footwear-dalmara-trail-leather-brown-brown-j364249": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xa-pro-3d-alpine-echoes-black-j366211": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-x-alp-alpine-echoes-black-j366210": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-rx-marie-jeanne-alpine-echoes-black-j": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-4-og-grey-j366214": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-4-og-grey-j366215": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-6-gtx-green-j366217": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-6-brown-j366216": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-6-blue-j366213": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-shoes-xt-6-brown-j366212": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:scarpe-cornaro-gomma-di26fwcom-f03n006cof": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneaker-f3054003-darkblueoffwhite": {
+   "n": 14,
+   "median": 205.5,
+   "cheapest": 125.0,
+   "p25": 146.28,
+   "top": [
+    "Axel Arigato Dice A sneaker White with Pink US 7.5  - NEW with Box and Shoe Bag",
+    "Axel Arigato Sneaker Dice Hi White/Kale Green US 8.5 EU 39 New In Box"
+   ]
+  },
+  "biffi:scarpe-cornaro-gomma-di26fwcom-f03n006tan": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:scarpe-cornaro-di26fwcom-f02s018nut": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-hogan-cool-allacciato-h-hxm6470fb60vgz-01vu": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-h705-allacciato-h-hxm7050gf10vho-01ry": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:premium-skate-leather-sneakers-5249-7547": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-panenka-suede-fu0320901-taupe": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-campo-suede-cp0321808-tent": {
+   "n": 9,
+   "median": 124.95,
+   "cheapest": 88.99,
+   "p25": 113.75,
+   "top": [
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers ",
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers NIB"
+   ]
+  },
+  "biffi:sneakers-achille-premium-2610-4928": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-windscape-low-plaid-sclm-xd02": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-windscape-low-plaid-sclm-xd01": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:cintura-a007a7-v77g11101": {
+   "n": 12,
+   "median": 584.5,
+   "cheapest": 279.74,
+   "p25": 475.0,
+   "top": [
+    "Bottega Veneta Cintura Leather Belt with Quick-Release Buckle",
+    "Bottega Veneta Q:2 / Cintura Belt in Nero/Electric Blue BNWB 110"
+   ]
+  },
+  "biffi:sneakers-86er-suede-br-hxm7010fz80uho-0caj": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:xt-6-l49211000-alloyblack": {
+   "n": 94,
+   "median": 200.47,
+   "cheapest": 119.94,
+   "p25": 185.0,
+   "top": [
+    "Salomon X END. XT-6 Sneakers In Emerald/Asphalt Unisex Size W8.5/M7.5 (479531)",
+    "Size 5.5 Salomon XT-6 Expanse LTR Bone Soda"
+   ]
+  },
+  "biffi:xt-4-og-gtx-l49240200-pearlblueasphalt": {
+   "n": 5,
+   "median": 205.99,
+   "cheapest": 147.0,
+   "p25": 188.99,
+   "top": [
+    "Salomon XT-6 GTX",
+    "Salomon XT-6 GTX Black Phantom Trail Running men\u2019s size Shoes L47450600"
+   ]
+  },
+  "biffi:xt-evo-l49177900-blackfieryred": {
+   "n": 17,
+   "median": 250.0,
+   "cheapest": 230.0,
+   "p25": 240.0,
+   "top": [
+    "Salomon XT-EVO KITH Outdoor Hiking Shoes Black Lemon Fiery Red US 11.5",
+    "Kith for Salomon XT-EVO - Black Coffee / Excalibur / Bluing Size 13"
+   ]
+  },
+  "biffi:v90-leather-sneakers-vd2003384-extrawhite": {
+   "n": 23,
+   "median": 115.54,
+   "cheapest": 65.0,
+   "p25": 88.99,
+   "top": [
+    "Veja V-90 O.T. Leather Sneakers in Extra-White Egee Size 36",
+    "Veja Small V-90 O.T. Leather Sneakers White Indigo Pepper 26 Leather NWT $105"
+   ]
+  },
+  "biffi:cornaro-sneakers-di24fwcom-f03l011blk": {
+   "n": 1,
+   "median": 515.0,
+   "cheapest": 515.0,
+   "p25": 515.0,
+   "top": [
+    "Diemme Cornaro  Gomma Faded Black Suede Lace-Up Sneakers Men\u2019s US 13 EU 47"
+   ]
+  },
+  "biffi:driving-suede-sneakers-5255-2006": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-achille-premium-2610-3621": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:soul-star-suede-sneakers-gmf00464-f00834635869": {
+   "n": 1,
+   "median": 375.0,
+   "cheapest": 375.0,
+   "p25": 375.0,
+   "top": [
+    "Golden Goose Soul-Star Low-Top Sneakers Mauve Suede Size 39"
+   ]
+  },
+  "biffi:2620217000132-402": {
+   "n": 2,
+   "median": 596.0,
+   "cheapest": 475.0,
+   "p25": 475.0,
+   "top": [
+    "Dries Van Noten Suede Sneakers - Size 41 - White - Made in Italy - NEW",
+    "Dries Van Noten Dustin Mixed Suede and Leather Retro Sneakers in White BNWB 44"
+   ]
+  },
+  "biffi:suede-sneakers-2620217000133-998": {
+   "n": 2,
+   "median": 596.0,
+   "cheapest": 475.0,
+   "p25": 475.0,
+   "top": [
+    "Dries Van Noten Suede Sneakers - Size 41 - White - Made in Italy - NEW",
+    "Dries Van Noten Dustin Mixed Suede and Leather Retro Sneakers in White BNWB 44"
+   ]
+  },
+  "biffi:super-star-sneakers-cocco-gmf01002-f00876115993": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:suede-sneakers-2620217000126-712": {
+   "n": 2,
+   "median": 596.0,
+   "cheapest": 475.0,
+   "p25": 475.0,
+   "top": [
+    "Dries Van Noten Suede Sneakers - Size 41 - White - Made in Italy - NEW",
+    "Dries Van Noten Dustin Mixed Suede and Leather Retro Sneakers in White BNWB 44"
+   ]
+  },
+  "biffi:achilles-low-sneakers-in-pelle-1528-0506": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-campo-cp0501537-extrawhiteb-1": {
+   "n": 18,
+   "median": 122.47,
+   "cheapest": 88.99,
+   "p25": 111.99,
+   "top": [
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers NIB",
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers "
+   ]
+  },
+  "biffi:xt-6-goretex-sneakers-l47581100-white-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:campo-sneakers-cp0502429-extrawhiteb-1": {
+   "n": 15,
+   "median": 115.0,
+   "cheapest": 88.99,
+   "p25": 95.99,
+   "top": [
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers ",
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers NIB"
+   ]
+  },
+  "biffi:v-90-sneakekrs-vd2003380-extrawhite-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:campo-sneakers-cp0501215-black": {
+   "n": 15,
+   "median": 115.0,
+   "cheapest": 88.99,
+   "p25": 95.99,
+   "top": [
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers ",
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers NIB"
+   ]
+  },
+  "biffi:panenka-sneakers-fu2020895-extrawhiteg": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:cintura-intrecciato-652944-vcpq11205": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-achille-premium-2610-7547": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:superstar-sneakers-in-pelle-gmf00102-f00611311915": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:fu2020896-whiteblack": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:cintura-ff-reversibile-7c0556-aqwhf0gwb": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:scarpe-in-suede-e-nylon-jacq-ff-7e1842-awcuf0b0z": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:scarpe-in-suede-e-nylon-jacq-ff-7e1842-awcuf1v8n": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:area-lo-sneakers-f3902003-lightgrey": {
+   "n": 2,
+   "median": 203.52,
+   "cheapest": 144.16,
+   "p25": 144.16,
+   "top": [
+    "Axel Arigato Area Low-Top Leather Sneakers, Brand Size 35 ( US Size 5 )",
+    "Axel Arigato Area Patchwork Paneled Sneakers"
+   ]
+  },
+  "biffi:mm6-sneakers-sh3ws0012-p6435t1003": {
+   "n": 14,
+   "median": 400.11,
+   "cheapest": 220.0,
+   "p25": 329.99,
+   "top": [
+    "Maison Margiela MM6 \u00d7 Salomon Spectur 2 Sneakers US 11 Brand New",
+    "MSRP $620 Maison Margiela MM6 Men's Leather Low-Top Sneakers, Size 8US (41 EUR)"
+   ]
+  },
+  "biffi:sneakes-area-lo-label-f3903002-beigeyellow": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:minimal-runner-nylon-suede-5242-7547": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-v-90-vd2021061-whiteblack": {
+   "n": 23,
+   "median": 115.54,
+   "cheapest": 65.0,
+   "p25": 88.99,
+   "top": [
+    "Veja V-90 O.T. Leather Sneakers in Extra-White Egee Size 36",
+    "Veja Small V-90 O.T. Leather Sneakers White Indigo Pepper 26 Leather NWT $105"
+   ]
+  },
+  "biffi:sneakers-clay-in-pelle-f4021002-offblackbeige": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-86er-suede-hxm7010fz80uho-419l": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:scarpe-yard-court-sneakers-bh00b5h1x4-100": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-hogan-cool-allacciato-h-hxm6470fb60vgz-690j": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:xt-4-og-sneaker-l47568400-sharkskin-1": {
+   "n": 6,
+   "median": 182.83,
+   "cheapest": 150.0,
+   "p25": 153.0,
+   "top": [
+    "Salomon XT-4 OG Men's Sneaker Blue/Gray Low Top US 9.5 (EU 43 1/3)",
+    "Salomon XT-4 OG Silver Black Lemon Men's Sports Sneaker L49216900"
+   ]
+  },
+  "biffi:xt-4-og-l49217100-blackdesert": {
+   "n": 87,
+   "median": 209.38,
+   "cheapest": 129.99,
+   "p25": 179.99,
+   "top": [
+    "Salomon XT-4 OG Vanilla Ice Ballad Blue Silver S/Lab Men's Size 11 (477412) NEW",
+    "Salomon XT-4 OG \u2018Portabella / Rose Taupe\u2019 Unisex Mens Size 10 - New in Box"
+   ]
+  },
+  "biffi:scarpe-xa-pro-3d-gore-tex-l49214300-blackblack": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:h701-allacciato-h-hxm7010fz80uho-0zgt": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-shot-a007by-v6vc09063": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakers-achille-premium-suede-2611-0240": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:driving-suede-sneakers-5255-3625": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:trailgrip-lite3-low-top-sneakers-4m00060m7242-999": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:loafer-shoes-39": {
+   "n": 50,
+   "median": 597.0,
+   "cheapest": 250.0,
+   "p25": 438.0,
+   "top": [
+    "PRADA Milano Woman\u2019s Black Fine Leather Loafers Made In England, Size 41 1/2",
+    "NIB PRADA 2DD001 GREEN TEXTURED LEATHER  LOGO MOCCASINS DRIVING LOAFERS 5.5"
+   ]
+  },
+  "baseblu:pair-of-sneakers-42": {
+   "n": 44,
+   "median": 572.0,
+   "cheapest": 285.0,
+   "p25": 365.0,
+   "top": [
+    "Brunello Cucinelli Textured Leather and Suede Low-Top Sneakers with Gum Sole",
+    "Brunello Cucinelli Suede and Ribbed Textile Lace-Up Low-Top Sneakers Terracotta"
+   ]
+  },
+  "baseblu:lace-up-shoes-90": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:rick-owens-x-dr-martens-quad-sole-pull-o": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:ankle-boots-45": {
+   "n": 3,
+   "median": 799.99,
+   "cheapest": 368.5,
+   "p25": 368.5,
+   "top": [
+    "NIB MIU MIU PRADA BLACK LEATHER 5T094C LACE UP STILETTO ANKLE BOOTS 39.5 9 ITALY",
+    "PRADA Nylon Leather Lace Up Combat Hiking Flat Triangle Logo Ankle Boots $1490"
+   ]
+  },
+  "baseblu:laced-up-crosta": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:laced-up-crosta-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneakers-481": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneakers-479": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:platform-canvas-sneakers": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneakers-478": {
+   "n": 13,
+   "median": 314.1,
+   "cheapest": 161.0,
+   "p25": 250.0,
+   "top": [
+    "$550 New Authentic Dsquared2  Corallo Leather Men's Sneakers Size 40 US 7 ",
+    "New Dsquared2 Santa Monica Black Leather Trainers Low Top Sneakers size 10.5"
+   ]
+  },
+  "baseblu:match-crosta-vitello-st-logo-2": {
+   "n": 2,
+   "median": 675.0,
+   "cheapest": 599.99,
+   "p25": 599.99,
+   "top": [
+    "Fendi MATCH FF Logo Leather Suede Mid High Top Lace Up Sneakers Shoes $1050",
+    "Fendi Match Low-Top Suede Jacquard Sneakers Brown/Black Monogram Lace-Up"
+   ]
+  },
+  "baseblu:slide-tess-st-fendi-1925-vitel": {
+   "n": 2,
+   "median": 699.99,
+   "cheapest": 699.99,
+   "p25": 699.99,
+   "top": [
+    "FENDI Feel FF Logo Double Band Flat Leather Slide Dad Sandals Shoes Brown $950",
+    "FENDI Feel FF Logo Double Band Flat Leather Slide Dad Sandals Shoes Plum $950"
+   ]
+  },
+  "baseblu:sneaker-vitello-nappa": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-vit-spazzolato-nappa": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:cingino-wp-shoes": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:lace-up-boot-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-73": {
+   "n": 43,
+   "median": 358.5,
+   "cheapest": 245.45,
+   "p25": 357.5,
+   "top": [
+    "Salvatore Ferragamo Brown Leather Lace-Up Sneakers Logo Stripe US 10 size",
+    "FERRAGAMO PIERRE WHITE LEATHER RAINBOW STADS GANCINI LOGO SNEAKERS 10.5 C ITALY"
+   ]
+  },
+  "baseblu:storm-boot": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:bobine-loafer": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:bobine-chelsea-bootie": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:ballet-runner-2-0-mesh": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:triple-s-4": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:speed-sneakers-4": {
+   "n": 34,
+   "median": 850.0,
+   "cheapest": 293.55,
+   "p25": 499.99,
+   "top": [
+    "Balenciaga Men\u2019s Speed Lace Up Logo Sneakers US 14/EU 47",
+    "NEW Balenciaga Speed Black Sock Style Sneakers 617636 W2DB1 1013 Size 4 WITH BOX"
+   ]
+  },
+  "baseblu:combat-strike-waxed-suede": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:strike-zip-bootie": {
+   "n": 2,
+   "median": 1132.5,
+   "cheapest": 875.0,
+   "p25": 875.0,
+   "top": [
+    "Balenciaga Strike 20mm Leather Lace Up Boots Black",
+    "Balenciaga Strike Lace Up Boots (Please request your size for purchasing)"
+   ]
+  },
+  "baseblu:3xl-sneakers-1": {
+   "n": 54,
+   "median": 1240.0,
+   "cheapest": 559.49,
+   "p25": 895.5,
+   "top": [
+    "NEW Balenciaga Speed 3XL Knit Sock Sneakers Black White Mens Sz US 12 (45 EUR)",
+    "Size 34EU/4W - Balenciaga 3XL Pink Distressed Sneakers\ud83d\udc97 NEW/RETAIL $1,200!"
+   ]
+  },
+  "baseblu:track-sneakers": {
+   "n": 13,
+   "median": 741.0,
+   "cheapest": 345.0,
+   "p25": 451.25,
+   "top": [
+    "Size 38EU/8W - Balenciaga Track Fluo Yellow Sneakers\ud83c\udfbe New/Retail $1.1K!",
+    "Balenciaga Track Sneakers Yellow | Size 38 | Authentic"
+   ]
+  },
+  "baseblu:silenzio-loafer-intrecciato-im-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:dawson-loafer-imperial-suede": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:medalist-low-suede-and-leather-sneakers": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:medalist-low-suede-and-leather-sneakers-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:trailgrip-apex-craft-gtx-low-top-sneaker": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:moncler-city-trek-low-top-sneakers-3": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:moncler-altive-low-top-sneakers": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneakers675-5": {
+   "n": 1,
+   "median": 234.98,
+   "cheapest": 234.98,
+   "p25": 234.98,
+   "top": [
+    "adidas Y-3 Nisi Lo Men's Shoes Sneakers Adria KI2666 Multi Size Off White Black"
+   ]
+  },
+  "baseblu:sneakers675-4": {
+   "n": 2,
+   "median": 211.54,
+   "cheapest": 143.08,
+   "p25": 143.08,
+   "top": [
+    "Y-3 - Men Regu 2002 Sneakers",
+    "Adidas Y-3 Regu Cream White Green Men\u2019s Designer Sneakers JQ2428"
+   ]
+  },
+  "baseblu:sneakers675-8": {
+   "n": 8,
+   "median": 278.5,
+   "cheapest": 190.0,
+   "p25": 250.0,
+   "top": [
+    "adidas Y-3 Gazelle Off White Sashiko Low Top Men's Sneakers FZ6404",
+    "Adidas Y-3 Men's Gazelle Leather Sneakers Clear Onyx Carbon 7 US"
+   ]
+  },
+  "baseblu:sneakers675-3": {
+   "n": 5,
+   "median": 238.06,
+   "cheapest": 186.48,
+   "p25": 200.0,
+   "top": [
+    "Y-3 - Men Adios Pro 4 Sneakers",
+    "Y-3 Adidas Adizero Adios Pro 4 White powder men's Running Sneakers JS183"
+   ]
+  },
+  "baseblu:sneakers675-7": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneakers675-2": {
+   "n": 2,
+   "median": 211.54,
+   "cheapest": 143.08,
+   "p25": 143.08,
+   "top": [
+    "Y-3 - Men Regu 2002 Sneakers",
+    "Adidas Y-3 Regu Cream White Green Men\u2019s Designer Sneakers JQ2428"
+   ]
+  },
+  "baseblu:sneakers675-6": {
+   "n": 1,
+   "median": 194.99,
+   "cheapest": 194.99,
+   "p25": 194.99,
+   "top": [
+    "Adidas Y-3 Men's Gazelle Leather Sneakers Clear Onyx Carbon 7 US"
+   ]
+  },
+  "baseblu:roccia-vet-boots": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:loafers-94": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:roccia-basso-lace-up": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:studio-sneaker-2": {
+   "n": 1,
+   "median": 375.0,
+   "cheapest": 375.0,
+   "p25": 375.0,
+   "top": [
+    "REPRESENT CLO STUDIO SNEAKERS 12M"
+   ]
+  },
+  "baseblu:rep-cap-distressed-leather": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:future-low-top": {
+   "n": 3,
+   "median": 1000.0,
+   "cheapest": 699.0,
+   "p25": 699.0,
+   "top": [
+    "Maison Margiela Future Men\u2019s White High-Top Hook & Loop Leather Sneakers NIB",
+    "Maison Margiela 22 Future Top High-Top Leather Hook & Loop Sneakers White 43/10"
+   ]
+  },
+  "baseblu:ankle-boots-44": {
+   "n": 7,
+   "median": 364.75,
+   "cheapest": 220.98,
+   "p25": 286.5,
+   "top": [
+    "$650 Prada Hidden Wedge Ankle Boots Booties Grey Suede Lace up Logo 40 US 10 NEW",
+    "NIB MIU MIU PRADA 5TP175 GRAY SUEDE LACE UP ANKLE PLATFORM HEEL BOOTS 37.5 ITALY"
+   ]
+  },
+  "baseblu:nappa-leather-sneakers-low-top-hexagon-1": {
+   "n": 3,
+   "median": 172.42,
+   "cheapest": 168.49,
+   "p25": 168.49,
+   "top": [
+    "PHILIPP PLEIN RUNNER HEXAGON LABS USC0079 PTE003N LOW-TOP SNEAKERS WHITE SIZE 40",
+    "PHILIPP PLEIN RUNNER HEXAGON LABS USC0079 PTE003N LOW-TOP SNEAKERS BLACK SIZE 37"
+   ]
+  },
+  "baseblu:laafe-f-ntgn01": {
+   "n": 6,
+   "median": 955.0,
+   "cheapest": 518.99,
+   "p25": 777.0,
+   "top": [
+    "NIB SANTONI FATTE A MANO Men's Leather Derby Lace-up Shoes Santoni 7-9 (US 8-10)",
+    "NIB Santoni Issac Lace Up Shoes Calf Patina Leather Brown US 9 $1500"
+   ]
+  },
+  "baseblu:pair-of-sneakers-9": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:portofino-sneakers": {
+   "n": 47,
+   "median": 500.0,
+   "cheapest": 300.0,
+   "p25": 410.0,
+   "top": [
+    "Dolce & Gabbana Portofino White Leather Low Top Lace-Up Sneakers New w/ Box",
+    "Dolce & Gabbana Portofino Embellished Sneakers White Multi 35 Leather NWT"
+   ]
+  },
+  "baseblu:match-crosta-vitello-st-logo": {
+   "n": 2,
+   "median": 675.0,
+   "cheapest": 599.99,
+   "p25": 599.99,
+   "top": [
+    "Fendi MATCH FF Logo Leather Suede Mid High Top Lace Up Sneakers Shoes $1050",
+    "Fendi Match Low-Top Suede Jacquard Sneakers Brown/Black Monogram Lace-Up"
+   ]
+  },
+  "baseblu:loafer-vitello-abrasivato": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-crosta-nylon": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:low-top-sneakers-7": {
+   "n": 1,
+   "median": 169.0,
+   "cheapest": 169.0,
+   "p25": 169.0,
+   "top": [
+    "Philipp Plein Low Top Predator Sneakers In White Euro Size 37"
+   ]
+  },
+  "baseblu:low-top-sneakers-6": {
+   "n": 1,
+   "median": 169.0,
+   "cheapest": 169.0,
+   "p25": 169.0,
+   "top": [
+    "Philipp Plein Low Top Predator Sneakers In White Euro Size 37"
+   ]
+  },
+  "baseblu:m-coda-l-top-sneaker-leather": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-coda-l-top-sneaker-leather-1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-space-memo-5804": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:moncler-city-trek-low-top-sneakers": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-ow-brb-worn-out-05753": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-low-top-3-0-off-court-06205": {
+   "n": 2,
+   "median": 347.5,
+   "cheapest": 345.0,
+   "p25": 345.0,
+   "top": [
+    "AUTHENTIC Off-White Off Court Tricolored Low-Top Sneakers Size 11 US",
+    "Authentic Off-White 3.0 Off-Court Low Top White Lace-Up Men\u2019s Sneakers size 44"
+   ]
+  },
+  "baseblu:m-out-of-office-4640": {
+   "n": 46,
+   "median": 597.77,
+   "cheapest": 270.0,
+   "p25": 500.0,
+   "top": [
+    "Off-White Out of Office 2023 Mid White Sneakers Brand New Size Men 6.5",
+    "Off-White Out Of Office Leather Sneakers In Green/Black - Men's Size EU 40/US 7"
+   ]
+  },
+  "baseblu:m-out-of-office-04640": {
+   "n": 46,
+   "median": 597.77,
+   "cheapest": 270.0,
+   "p25": 500.0,
+   "top": [
+    "Off-White Out of Office 2023 Mid White Sneakers Brand New Size Men 6.5",
+    "Off-White Out Of Office Leather Sneakers In Green/Black - Men's Size EU 40/US 7"
+   ]
+  },
+  "baseblu:m-vulc-low-4661": {
+   "n": 25,
+   "median": 349.99,
+   "cheapest": 165.0,
+   "p25": 249.0,
+   "top": [
+    "Off-White Low Vulcanized Leather Sneakers  9US/39EU color  WHITE",
+    "Off-White Low Vulcanized Leather Sneakers  size 8US/38 EU color  WHITE"
+   ]
+  },
+  "baseblu:m-low-top-3-0-off-court-1": {
+   "n": 12,
+   "median": 411.82,
+   "cheapest": 167.0,
+   "p25": 325.0,
+   "top": [
+    "Off-White 3.0 Off Court Suede Canvas White Celadon Men's Sneakers EU 38",
+    "Off-White 3.0 Off Court Sneakers White Navy Blue 6 US / 39 EU $850"
+   ]
+  },
+  "baseblu:m-out-of-office-04638": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:m-out-of-office-4641": {
+   "n": 46,
+   "median": 597.77,
+   "cheapest": 270.0,
+   "p25": 500.0,
+   "top": [
+    "Off-White Out of Office 2023 Mid White Sneakers Brand New Size Men 6.5",
+    "Off-White Out Of Office Leather Sneakers In Green/Black - Men's Size EU 40/US 7"
+   ]
+  },
+  "baseblu:logoed-sneakers-1": {
+   "n": 8,
+   "median": 755.0,
+   "cheapest": 549.0,
+   "p25": 699.0,
+   "top": [
+    "$1,020 PRADA Collapse Blue Re-Nylon & Suede Men's Sneakers UK 6 US 7 EU 40 NIB",
+    "$1,020 PRADA Collapse Red Re-Nylon & Suede Men's Sneakers US8"
+   ]
+  },
+  "baseblu:lace-up-shoes-95": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sneaker-74": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:v-83": {
+   "n": 21,
+   "median": 93.99,
+   "cheapest": 54.2,
+   "p25": 88.99,
+   "top": [
+    "VEJA V95 High Top Leather Sneakers Men's 7US white Natural Lace Up Closure",
+    "VEJA V-15 Suede Leather Sneakers Men's EU 41/US 8 Dune Pierre"
+   ]
+  },
+  "baseblu:college-a-novn01": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:trailgrip-gtx-low-top-sneakers-11": {
+   "n": 2,
+   "median": 474.5,
+   "cheapest": 450.0,
+   "p25": 450.0,
+   "top": [
+    "Moncler Trailgrip GTX GORE-TEX Low Top Athletic Sneakers Black Lace-Up NWT",
+    "Moncler Trailgrip GTX Sneakers Navy White Red Men\u2019s Size 11"
+   ]
+  },
+  "baseblu:sneakers-277": {
+   "n": 27,
+   "median": 93.99,
+   "cheapest": 54.2,
+   "p25": 88.99,
+   "top": [
+    "VEJA V95 High Top Leather Sneakers Men's 7US white Natural Lace Up Closure",
+    "VEJA V-15 Suede Leather Sneakers Men's EU 41/US 8 Dune Pierre"
+   ]
+  },
+  "baseblu:dice-t-toe-sneaker-6": {
+   "n": 2,
+   "median": 167.48,
+   "cheapest": 167.48,
+   "p25": 167.48,
+   "top": [
+    "Axel Arigato Dice T-Toe Low-Top Sneakers",
+    "Axel Arigato Dice T-Toe Low-Top Sneakers, Brand Size 35 ( US Size 5 )"
+   ]
+  },
+  "baseblu:m-new-chunky-b-leather-w-web": {
+   "n": 1,
+   "median": 388.0,
+   "cheapest": 388.0,
+   "p25": 388.0,
+   "top": [
+    "AUTH.GUCCI BLACK LEATHER DERBY Oversized blue rubber sole Sneakers Gucci Size 7"
+   ]
+  },
+  "baseblu:medalist-low-sneakers-37": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:visvim-footwear-segura-lo-g-patten-black-j353109": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:mm6-maison-margiela-footwear-sneakers-black-j348330": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-xt-4-og-multicolor-j350620": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-quasar-advanced-black-j350584": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-xt-6-black-j350588": {
+   "n": 1,
+   "median": 302.0,
+   "cheapest": 302.0,
+   "p25": 302.0,
+   "top": [
+    "Salomon XT-6 Low-Top Sneakers in Black / Phantom BNWB 12.5 US"
+   ]
+  },
+  "slamjam:salomon-footwear-rx-marie-jeanne-black-j350622": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-neuva-advanced-black-j350587": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:george-cox-footwear-tie-down-skipton-black-j311014": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:george-cox-footwear-skipton-black-j311013": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:george-cox-footwear-alaska-black-j311017": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:george-cox-footwear-ripple-derby-black-j311012": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-shoes-loafers-flats-871668aaf3q-1000": {
+   "n": 2,
+   "median": 1080.0,
+   "cheapest": 1080.0,
+   "p25": 1080.0,
+   "top": [
+    "Gucci Lugano Loafers (120)(PLEASE REQUEST YOUR SIZE BEFORE PURCHASING)",
+    "Gucci Lugano Loafers (120)(PLEASE REQUEST YOUR SIZE BEFORE PURCHASING)"
+   ]
+  },
+  "antonioli:man-givenchy-shoes-sneakers-bh00b7h1ym-001": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-balenciaga-accessories-belts-5703701ch0b-1000": {
+   "n": 16,
+   "median": 552.0,
+   "cheapest": 437.0,
+   "p25": 552.0,
+   "top": [
+    "Balenciaga Natural Calf Leather BB Extra Large Belt 40 in Dark Tan BNWB 95",
+    "Balenciaga Q:12 / Shiny Croc Embo Leather BB Large Belt in Black BNWB Size: 90"
+   ]
+  },
+  "antonioli:man-prada-shoes-sneakers-2de1633zm0-f0002": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-shoes-sneakers-871608faf48-9644": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-accessories-belts-874723aagrl-1000": {
+   "n": 14,
+   "median": 444.5,
+   "cheapest": 358.99,
+   "p25": 399.0,
+   "top": [
+    "NEW GUCCI GG Supreme Canvas Peach Leather Marmont Reversible Belt Size 100/40",
+    "NEW GUCCI GG Supreme Canvas Peach Leather Marmont Reversible Belt Size 90 / 36"
+   ]
+  },
+  "antonioli:man-balenciaga-shoes-sneakers-734734w3xl4-9191": {
+   "n": 54,
+   "median": 1240.0,
+   "cheapest": 559.49,
+   "p25": 895.5,
+   "top": [
+    "NEW Balenciaga Speed 3XL Knit Sock Sneakers Black White Mens Sz US 12 (45 EUR)",
+    "Size 34EU/4W - Balenciaga 3XL Pink Distressed Sneakers\ud83d\udc97 NEW/RETAIL $1,200!"
+   ]
+  },
+  "antonioli:man-ann-demeulemeester-shoes-sneakers-b0014077lt199-d0094": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-fendi-shoes-sneakers-7e1688aq6i-f1pxa": {
+   "n": 11,
+   "median": 600.0,
+   "cheapest": 478.0,
+   "p25": 559.0,
+   "top": [
+    "FENDI Sneakers Match Classic Low Top Athletic Shoes Trainers Pink Yellow Sz 38",
+    "New sz 9 / 8 Fendi FF Logo Match Green & White Leather Low Top Sneakers Men Shoe"
+   ]
+  },
+  "antonioli:man-prada-shoes-sneakers-2eg4797v6-f0002": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-margiela-shoes-sneakers-s57ws0517p7936-t2277": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-tom-ford-shoes-loafers-flats-j1670lcl395p-naa": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-church-s-shoes-lace-ups-eeb0019xv-f0aab": {
+   "n": 1,
+   "median": 386.54,
+   "cheapest": 386.54,
+   "p25": 386.54,
+   "top": [
+    "Church's Men's Black Shannon Plain-Toe Derby Oxfords Shoes Size UK:5.5F US:6.5F"
+   ]
+  },
+  "antonioli:man-church-s-shoes-loafers-flats-edc1489lg-f0aab": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-fendi-accessories-belts-7c0563b12k-f0qa1": {
+   "n": 54,
+   "median": 495.0,
+   "cheapest": 247.0,
+   "p25": 351.98,
+   "top": [
+    "FENDI Men's Black Belt Silver FF Logo Buckle Adjustable Casual Waist Belt 30mm",
+    "FENDI Men's Black Leather Belt FF Logo Silver Buckle Luxury Designer With Box"
+   ]
+  },
+  "antonioli:man-gucci-shoes-loafers-flats-a000mkaahfq-1000": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-loewe-shoes-sneakers-m816282xce-1265": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-shoes-loafers-flats-307929blm00-1000": {
+   "n": 21,
+   "median": 866.98,
+   "cheapest": 455.0,
+   "p25": 675.0,
+   "top": [
+    "GUCCI Wislet Gold Horsebit Blue Leather Loafers 1953 Sz UK 7.5, US 8 $900 **",
+    "Gucci Horsebit 1953 Men's Beige Suede Moc-Toe Loafers G8.5 US9"
+   ]
+  },
+  "antonioli:man-rick-owens-drkshdw-shoes-sneakers-du02f6800doep7-911": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l49206200": {
+   "n": 9,
+   "median": 185.48,
+   "cheapest": 139.98,
+   "p25": 139.99,
+   "top": [
+    "NEW Salomon Men's Speedcross 3 Trail Running Shoes Sneakers - 10 Gray/Black",
+    "Salomon Speedcross 3 Trail Runners 'Blue Granite' Hiking Sneakers Lugged New"
+   ]
+  },
+  "antonioli:man-rick-owens-shoes-sneakers-ru02f4855lcoes2-48all": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-loewe-shoes-lace-ups-m816290x64-3110": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rick-owens-drkshdw-shoes-sneakers-du02f6809doh1w1-9111": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-prada-shoes-sneakers-2ee364038-f0633": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rick-owens-drkshdw-shoes-sneakers-du02f6800bmc-911": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-autry-shoes-sneakers-wwlmgq04": {
+   "n": 7,
+   "median": 136.74,
+   "cheapest": 105.0,
+   "p25": 124.95,
+   "top": [
+    "    Autry Reelwind Low Sneakers Pink/Burgundy Size EU 35 US 5.5 New",
+    "Autry Reelwind Low-Top Sneakers, Brand Size 35 ( US Size 5 )"
+   ]
+  },
+  "antonioli:man-autry-shoes-sneakers-wwlmgq07": {
+   "n": 7,
+   "median": 136.74,
+   "cheapest": 105.0,
+   "p25": 124.95,
+   "top": [
+    "    Autry Reelwind Low Sneakers Pink/Burgundy Size EU 35 US 5.5 New",
+    "Autry Reelwind Low-Top Sneakers, Brand Size 35 ( US Size 5 )"
+   ]
+  },
+  "antonioli:man-autry-shoes-sneakers-dvlmyh01": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-autry-shoes-sneakers-dvlmoj01": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-autry-shoes-sneakers-avlmtw02": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-givenchy-shoes-sneakers-bh00b7h1xt-100": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-accessories-belts-864233fafut-9611": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-tom-ford-shoes-sneakers-j1597lcl532n-wwh": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-ann-demeulemeester-shoes-sneakers-b0014076lt199-d0094": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rick-owens-shoes-sneakers-ru01f2889ndolvx-999": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rick-owens-shoes-sneakers-ru01f2889ndolvx-1111": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-balenciaga-shoes-sneakers-772774w3rmu-1044": {
+   "n": 31,
+   "median": 1227.0,
+   "cheapest": 589.75,
+   "p25": 1047.0,
+   "top": [
+    "Size 35EU/5W - Balenciaga Runner Sneakers Grey/Blue/Green\ud83c\udf43 NEW/RETAIL $1,150!",
+    "BNIB Auth Balenciaga Runner Sneakers Shoes Blue Orange Sz:42/9 Gorgeous "
+   ]
+  },
+  "antonioli:man-ann-demeulemeester-shoes-sneakers-b0014406lt208-d0092": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-ann-demeulemeester-shoes-sneakers-b0014076lt212-d0094": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-demon-shoes-sneakers-permiana-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-demon-shoes-sneakers-tech-sandal-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-demon-shoes-sneakers-spalma-black-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-jil-sander-shoes-lace-ups-j32zj0026p7698-210": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-shoes-sneakers-a00147fagau-9059": {
+   "n": 18,
+   "median": 634.5,
+   "cheapest": 468.0,
+   "p25": 598.0,
+   "top": [
+    "NEW Authentic Gucci Screener Sneaker - Selling Nordstrom Now For $1,100",
+    "NIB Gucci Screener GG Black Canvas Suede Leather Authentic Sneaker UK9.5 US10"
+   ]
+  },
+  "antonioli:man-rick-owens-shoes-sneakers-rr02f4891lcd-3911": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-maison-margiela-shoes-sneakers-s57ws0561p7573-t1003": {
+   "n": 3,
+   "median": 630.0,
+   "cheapest": 620.0,
+   "p25": 620.0,
+   "top": [
+    "Maison Margiela Future Low Top Sneakers Black -EU 42 US 9 New With Box",
+    "Maison Margiela , Low Top Future Sneakers in Black BNWT 41 IT"
+   ]
+  },
+  "antonioli:man-fendi-shoes-sneakers-7e1968ay0t-f08m4": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rhun-shoes-sneakers-2025-black": {
+   "n": 15,
+   "median": 77.99,
+   "cheapest": 23.49,
+   "p25": 31.95,
+   "top": [
+    "Florida Panthers NHL 2025 B2B Stanley Cup Champions 12x18 Two-Sided Garden Flag",
+    "Rae Dunn Frosty The Snowman EVERYONE\u2019 FAVORITE SNOWMAN Mug Christmas 2025 B45"
+   ]
+  },
+  "antonioli:man-rhun-shoes-sneakers-2020-beige": {
+   "n": 12,
+   "median": 120.97,
+   "cheapest": 49.99,
+   "p25": 79.95,
+   "top": [
+    "NASCAR 2020 BRETT MOFFITT #23 JIMMIE JOHNSON TRIBUTE PLAN B SALES 1/24 TRUCK ",
+    "2020 BMW K1600 B USA model owner's manual (Reprint)"
+   ]
+  },
+  "antonioli:man-rhun-shoes-sneakers-1989-black": {
+   "n": 16,
+   "median": 53.96,
+   "cheapest": 15.0,
+   "p25": 32.0,
+   "top": [
+    "1989 B-2 Spirit Aircraft - 8x10 Photo Print On 8.5\" x 11\"",
+    "1989 B-Side Magazine 13 Siouxsie & Banshees Cocteau Twins, Wire"
+   ]
+  },
+  "antonioli:man-rick-owens-shoes-sneakers-ru02f4892lcow2-911": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rhun-shoes-sneakers-2020-treble-triple-black-suede": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rhun-shoes-sneakers-2020-treble-suede-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rhun-shoes-sneakers-2020-treble-black-leather": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rhun-shoes-sneakers-2020-treble-skate-suede-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rhun-shoes-sneakers-2025-treble-grain-leather": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-prada-shoes-loafers-flats-2db2392hii-f0y71": {
+   "n": 3,
+   "median": 1019.99,
+   "cheapest": 1019.99,
+   "p25": 1019.99,
+   "top": [
+    "$1250 PRADA ANTIQUED LEATHER BLOCK HEEL LOAFERS SIZE 36",
+    "$1250 PRADA ANTIQUED LEATHER BLOCK HEEL LOAFERS SIZE 37"
+   ]
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l45404200": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gucci-shoes-sneakers-a00a34fagm7-9611": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-loewe-shoes-loafers-flats-mgrp282x06-1100": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l49177900": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-junya-watanabe-shoes-lace-ups-wrk104001-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rick-owens-drkshdw-shoes-sneakers-du02f6803nbfdlv-7811": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rhun-shoes-sneakers-3250-black": {
+   "n": 36,
+   "median": 38.97,
+   "cheapest": 18.99,
+   "p25": 26.82,
+   "top": [
+    "Marantz 3200 /3250b / 3300  preamp front panel pilot LED lamp.",
+    "(12) Ignition Key(s) Fits Kubota SQ1140 SQ1200 SQ3250 B1700D B1700E B1700HSD"
+   ]
+  },
+  "antonioli:man-mm6-maison-margiela-shoes-sneakers-sh1ws0020p6303-hb420": {
+   "n": 10,
+   "median": 425.11,
+   "cheapest": 220.0,
+   "p25": 329.99,
+   "top": [
+    "Maison Margiela MM6 \u00d7 Salomon Spectur 2 Sneakers US 11 Brand New",
+    "MM6 Maison Margiela x Salomon Cross Low Textured Sneakers"
+   ]
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l45405700": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:unisex-salomon-shoes-sneakers-l49215100": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-y-3-shoes-sneakers-kh9321-black-white": {
+   "n": 1,
+   "median": 234.98,
+   "cheapest": 234.98,
+   "p25": 234.98,
+   "top": [
+    "adidas Y-3 Nisi Lo Men's Shoes Sneakers Adria KI2666 Multi Size Off White Black"
+   ]
+  },
+  "antonioli:man-prada-shoes-sneakers-2ee4433lf5-f0002": {
+   "n": 7,
+   "median": 699.0,
+   "cheapest": 451.25,
+   "p25": 451.25,
+   "top": [
+    "Prada Prax 2.0 Blue Re-Nylon & Suede Sneakers 2EE455, UK 9 US 10",
+    "Prada Prax 2.0 Blue Re-Nylon & Suede Sneakers 2EE455, UK 7 US 8"
+   ]
+  },
+  "antonioli:man-gucci-shoes-loafers-flats-867507aageh-1000": {
+   "n": 48,
+   "median": 490.38,
+   "cheapest": 214.0,
+   "p25": 385.0,
+   "top": [
+    "New Gucci Black Nappa Charlotte Moccasin Leather US 4 Loafers Size 34 IT ",
+    "GUCCI Horsebit Mens Loafers Black Leather Size 10 / 45 EUR Made In Italy"
+   ]
+  },
+  "antonioli:man-y-3-shoes-sneakers-kk1837": {
+   "n": 1,
+   "median": 499.95,
+   "cheapest": 499.95,
+   "p25": 499.95,
+   "top": [
+    "Adidas Y-3 Feroza Mercedes-AMG Petronas Silver Black Sneakers, Size 10.5 KK1837"
+   ]
+  },
+  "antonioli:man-gucci-shoes-sneakers-a006vlfagiv-1078": {
+   "n": 44,
+   "median": 750.0,
+   "cheapest": 399.99,
+   "p25": 649.0,
+   "top": [
+    "Gucci Men's Screener Leather High-top Sneakers Light Hibiscus Red",
+    "Gucci Screener Yellow Sneakers Men's Size 9"
+   ]
+  },
+  "antonioli:man-gucci-shoes-sneakers-a006vdaahav-9077": {
+   "n": 44,
+   "median": 750.0,
+   "cheapest": 399.99,
+   "p25": 649.0,
+   "top": [
+    "Gucci Men's Screener Leather High-top Sneakers Light Hibiscus Red",
+    "Gucci Screener Yellow Sneakers Men's Size 9"
+   ]
+  },
+  "antonioli:man-balenciaga-shoes-sneakers-865849wtr2g-4491": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-rick-owens-drkshdw-shoes-sneakers-du02f6800nbfd-7811": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-y-3-shoes-sneakers-kj0375-black": {
+   "n": 2,
+   "median": 170.0,
+   "cheapest": 150.0,
+   "p25": 150.0,
+   "top": [
+    "Y-3 NIZZASTAR LO Men\u2019s Black Low Top Lace-Up Sneakers w/ Box JR7454",
+    "Y-3 NIZZASTAR HI Men\u2019s White High Top Lace-Up Sneakers w/ Box JR4251"
+   ]
+  },
+  "antonioli:man-balenciaga-shoes-sneakers-542023wtrsh-1040": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-fendi-shoes-sneakers-7e1971b1rg-f1y21": {
+   "n": 1,
+   "median": 478.0,
+   "cheapest": 478.0,
+   "p25": 478.0,
+   "top": [
+    "FENDI Sneakers Match Classic Low Top Athletic Shoes Trainers Pink Yellow Sz 38"
+   ]
+  },
+  "antonioli:man-balenciaga-shoes-sneakers-856694wzenc-1080": {
+   "n": 2,
+   "median": 768.0,
+   "cheapest": 717.0,
+   "p25": 717.0,
+   "top": [
+    "Balenciaga City Low-Top Sneakers in Bal Grey / Brass BNWB 44",
+    "Balenciaga silver City Sneakers"
+   ]
+  },
+  "antonioli:man-gucci-shoes-sneakers-a006vdaahav-1077": {
+   "n": 44,
+   "median": 750.0,
+   "cheapest": 399.99,
+   "p25": 649.0,
+   "top": [
+    "Gucci Men's Screener Leather High-top Sneakers Light Hibiscus Red",
+    "Gucci Screener Yellow Sneakers Men's Size 9"
+   ]
+  },
+  "antonioli:man-balenciaga-shoes-sneakers-841765wcurb-1000": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-moncler-shoes-sneakers-4m00060m7242-999": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-givenchy-shoes-sneakers-bh00b5h1xv-111": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
   }
  }
 }
