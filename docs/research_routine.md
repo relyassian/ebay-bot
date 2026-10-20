@@ -106,6 +106,7 @@ Priority order: (1) lowest price vs the eBay new-condition median, (2) lowest vs
   loads; else bot/market.py vets it after the candidate is written) and one other retailer's price. Record both in
   the candidate's notes. Buy-price ceilings for belts/ties: ~65-80% off retail (CLAUDE.md "Product scope").
 - Photos: other websites' product photos of the exact item are fine (Rafael, Oct 19). NEVER another eBay seller's photos.
+- FAST COMP CHECK (Oct 20): put every screened item in `requests/scan.json` as [{key, brand, model, colorway, style_code}], also write `date -u +%s > requests/market`, commit+push; the `market` workflow writes `data/scan_results.json` ({n, median, cheapest, p25} of eBay new fixed-price comps) in ~2 min. Net = median*0.95*(1-0.146) - (price*1.10 duty + 20). Only write candidates with net >= $100 on >= 3 sizes.
 - Write candidates as in Part B (category: belt / tie / wallet / cufflinks / sneaker / loafer ...). Max 8 per day.
 - Log in docs/STATUS.md: how many items scanned, how many written, best margin found, so thin yield stays visible.
 

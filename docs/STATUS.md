@@ -300,3 +300,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Oct 20 check-in (7:20am ET)
 - Research ran today (534 source rows, newest checked_at Oct 20; Part D scan included). daily-sync latest run success (11:01Z); sale-alerts chain running. One daily-sync failure Oct 19 23:14Z was superseded by a success.
 - Sales: still 1 total ($899.99). Selling-limit room: 13,673 items / $173,587. No notices waiting.
+
+## Oct 20 afternoon: Part D scan by hand
+- Scanned Nugnes1920 (672 discounted items) and Italist (men, >=20% off, >=$200): 85 screened against live eBay comps (27 had >=2 comps).
+- Result: 0 viable. Store sale prices sit at or above the eBay median (e.g. Givenchy leather sneaker $420 vs eBay median $455; D&G belt $357 vs $297; Gucci loafers $588 vs $490). Best was a Moncler sneaker at ~$46 net, 1 size.
+- Lesson: only deeper-than-retail-sale sources (Farfetch/SSENSE/Cettire 50%+ off, browser needed) clear $100. New tool: `requests/scan.json` + `requests/market` push -> `data/scan_results.json` (see docs/research_routine.md Part D).
+- Selling room is not the limit (13,673 items); candidates are.
