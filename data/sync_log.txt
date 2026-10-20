@@ -1,5 +1,5 @@
 scan: 0
-demand: 117
+demand: 0
 order fees: 2
 market: 355066429434 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
 market: 355066509978 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
@@ -41,7 +41,7 @@ market: 820205329595 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACC
 market: 820205329783 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
 market: 820205389034 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
 market: 820205698211 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
-market: 820207186160 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
+market: 820207186160 ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 market: 820207186196 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
 market: 820207186222 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
 market: 820207186253 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
@@ -87,11 +87,10 @@ market: 820253018968 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACC
 market: 820253019164 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
 market: 820256466735 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
 market: 820259478300 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
-Price check: 0 listings compared, 0 priced more than 5% above another seller.
+Price check skipped: eBay returned no data (quota?). Kept the previous numbers.
 📋 Daily eBay check · Tue Oct 20
 
 What I did: raised the price a little on 2 listings because the store got pricier.
 Nothing for you to do.
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/0BQAAeSwzvtq1qXr/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cosma High-Top Sneaker Black Sneakers…\nSizes: all 2 sizes · now from $634.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649253"}
 {'photo': 'https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/8a0AAeSwY5Zq1S~X/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nBally Logo-Plaque Leather Loafer Grey Loafers…\nSizes: US 11 · now from $519.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820253018257"}
-ads tune: can't read 355420967506 ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
