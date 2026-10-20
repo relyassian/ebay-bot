@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-20T19:07:15Z",
+ "checked": "2026-10-20T19:27:16Z",
  "items": {
   "slamjam:y-3-footwear-y-3-f50-tunit-chito-grey-j359524": {
    "n": 0,
@@ -367,7 +367,7 @@
    ]
   },
   "antonioli:man-golden-goose-shoes-sneakers-gmf00101f000321-80203": {
-   "n": 80,
+   "n": 79,
    "median": 690.0,
    "cheapest": 443.98,
    "p25": 690.0,
@@ -377,7 +377,7 @@
    ]
   },
   "antonioli:man-golden-goose-shoes-sneakers-gmf00102f008728-83408": {
-   "n": 80,
+   "n": 79,
    "median": 690.0,
    "cheapest": 443.98,
    "p25": 690.0,
@@ -505,7 +505,7 @@
    "top": []
   },
   "antonioli:man-golden-goose-shoes-sneakers-gmf00102f006113-11915": {
-   "n": 80,
+   "n": 79,
    "median": 690.0,
    "cheapest": 443.98,
    "p25": 690.0,
@@ -845,7 +845,7 @@
    "top": []
   },
   "antonioli:man-golden-goose-shoes-sneakers-gmf00102f005359-11166": {
-   "n": 80,
+   "n": 79,
    "median": 690.0,
    "cheapest": 443.98,
    "p25": 690.0,
@@ -855,7 +855,7 @@
    ]
   },
   "antonioli:man-golden-goose-shoes-sneakers-gmf00102f008695-83401": {
-   "n": 80,
+   "n": 79,
    "median": 690.0,
    "cheapest": 443.98,
    "p25": 690.0,
@@ -1039,10 +1039,10 @@
    "top": []
   },
   "baseblu:sneaker-s-rubber-12": {
-   "n": 20,
+   "n": 21,
    "median": 200.6,
    "cheapest": 169.0,
-   "p25": 199.9,
+   "p25": 188.77,
    "top": [
     "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
     "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
@@ -1096,10 +1096,10 @@
    ]
   },
   "baseblu:sneakers-250": {
-   "n": 20,
+   "n": 21,
    "median": 200.6,
    "cheapest": 169.0,
-   "p25": 199.9,
+   "p25": 188.77,
    "top": [
     "Alexander McQueen White Leather Platform Sneakers Men Lace Up Thick Sole Casual ",
     "Alexander McQueen Oversized All White Leather Platform Sneakers Men Free Ship"
@@ -1424,10 +1424,10 @@
    "top": []
   },
   "baseblu:sneakers-213": {
-   "n": 42,
+   "n": 44,
    "median": 442.48,
    "cheapest": 230.0,
-   "p25": 349.0,
+   "p25": 375.0,
    "top": [
     "Dolce & Gabbana White/Black Leather Logo Lace-Up Low-Top Sneakers 12.5",
     "Dolce & Gabbana Men's Multi-Color Leather Lace-Up Sneakers Camouflage Sole Made"
@@ -1693,7 +1693,7 @@
    ]
   },
   "baseblu:sneakers-127": {
-   "n": 42,
+   "n": 43,
    "median": 442.48,
    "cheapest": 230.0,
    "p25": 349.0,
@@ -2030,7 +2030,7 @@
   },
   "biffi:xt-6-l49211000-alloyblack": {
    "n": 94,
-   "median": 200.47,
+   "median": 200.0,
    "cheapest": 119.94,
    "p25": 185.0,
    "top": [
@@ -2150,8 +2150,8 @@
    "cheapest": 88.99,
    "p25": 111.99,
    "top": [
-    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers NIB",
-    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers "
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers ",
+    "Veja Campo Bold Men's Size 11.5 US 45 EU Black/Pierre Suede Sneakers NIB"
    ]
   },
   "biffi:xt-6-goretex-sneakers-l47581100-white-1": {
@@ -2245,13 +2245,13 @@
    "top": []
   },
   "biffi:area-lo-sneakers-f3902003-lightgrey": {
-   "n": 2,
-   "median": 203.52,
+   "n": 3,
+   "median": 200.0,
    "cheapest": 144.16,
    "p25": 144.16,
    "top": [
     "Axel Arigato Area Low-Top Leather Sneakers, Brand Size 35 ( US Size 5 )",
-    "Axel Arigato Area Patchwork Paneled Sneakers"
+    "Axel Arigato Area Hi Cremino/Light Grey High Top Sneakers"
    ]
   },
   "biffi:mm6-sneakers-sh3ws0012-p6435t1003": {
@@ -2561,8 +2561,8 @@
    "top": []
   },
   "baseblu:speed-sneakers-4": {
-   "n": 34,
-   "median": 850.0,
+   "n": 32,
+   "median": 785.95,
    "cheapest": 293.55,
    "p25": 499.99,
    "top": [
@@ -2984,8 +2984,8 @@
    "top": []
   },
   "baseblu:v-83": {
-   "n": 21,
-   "median": 93.99,
+   "n": 22,
+   "median": 96.49,
    "cheapest": 54.2,
    "p25": 88.99,
    "top": [
@@ -3410,10 +3410,10 @@
    "top": []
   },
   "antonioli:man-balenciaga-shoes-sneakers-772774w3rmu-1044": {
-   "n": 31,
-   "median": 1227.0,
+   "n": 32,
+   "median": 1211.0,
    "cheapest": 589.75,
-   "p25": 1047.0,
+   "p25": 1122.0,
    "top": [
     "Size 35EU/5W - Balenciaga Runner Sneakers Grey/Blue/Green\ud83c\udf43 NEW/RETAIL $1,150!",
     "BNIB Auth Balenciaga Runner Sneakers Shoes Blue Orange Sz:42/9 Gorgeous "
@@ -3496,13 +3496,13 @@
    "top": []
   },
   "antonioli:man-rhun-shoes-sneakers-2025-black": {
-   "n": 15,
-   "median": 77.99,
-   "cheapest": 23.49,
+   "n": 16,
+   "median": 73.64,
+   "cheapest": 18.49,
    "p25": 31.95,
    "top": [
-    "Florida Panthers NHL 2025 B2B Stanley Cup Champions 12x18 Two-Sided Garden Flag",
-    "Rae Dunn Frosty The Snowman EVERYONE\u2019 FAVORITE SNOWMAN Mug Christmas 2025 B45"
+    "Florida Panthers Wincraft NHL 2025 B2B Stanley Cup Champions 1\" Lanyard",
+    "Florida Panthers NHL 2025 B2B Stanley Cup Champions 12x18 Two-Sided Garden Flag"
    ]
   },
   "antonioli:man-rhun-shoes-sneakers-2020-beige": {
@@ -3620,8 +3620,8 @@
    "top": []
   },
   "antonioli:man-rhun-shoes-sneakers-3250-black": {
-   "n": 36,
-   "median": 38.97,
+   "n": 37,
+   "median": 38.95,
    "cheapest": 18.99,
    "p25": 26.82,
    "top": [
