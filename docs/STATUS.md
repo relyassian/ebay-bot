@@ -296,3 +296,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Farfetch changes: Margiela Sprinters EU 41/42/43 now $508 (was 569/569/695); Givenchy padded trainer FR 41 (US 8) sold out, row blanked (off sale); Lanvin Curb FR 43 (US 10) is $754, not $533 (the Oct 18 figure looks like a misread; +41% so the bot keeps that size off sale).
 - Part B skipped (time; room is ample, ~$173k in the file). Part C: Gmail promo search (21 days, 12 stores) empty; promos.yaml unchanged (Farfetch GET10 to Oct 28, Cettire FIRST10 app-only).
 - Part D (first run): scanned Nugnes1920 sneakers/shoes/loafers/belts/accessories-man via products.json: ~46 in-stock items at 35-51% off. 0 candidates written. Best discount: Givenchy Nabuk sneaker $438 (51% off $895, US 8/10/11 area sizes 41/43/44) and McQueen loafer $458, but ships from Italy (duty) and needs a list price near or above typical eBay resale to clear $100; eBay comps NOT checked (eBay bot check). Valentino items skipped (excluded brand). Needs a market check before listing.
+
+## Oct 20 check-in (7:20am ET)
+- Research ran today (534 source rows, newest checked_at Oct 20; Part D scan included). daily-sync latest run success (11:01Z); sale-alerts chain running. One daily-sync failure Oct 19 23:14Z was superseded by a success.
+- Sales: still 1 total ($899.99). Selling-limit room: 13,673 items / $173,587. No notices waiting.
