@@ -204,7 +204,8 @@ def demand_requests() -> int:
     if out.exists():     # don't redo a fresh result (the workflow can run several times a day)
         try:
             age = (datetime.now(timezone.utc) - datetime.fromisoformat(json.loads(out.read_text())["checked"].replace("Z", "+00:00"))).total_seconds()
-            if age < 6 * 3600:
+            ok = sum(1 for v in json.loads(out.read_text())["items"].values() if "error" not in v)
+            if age < 6 * 3600 and ok >= 20:
                 return -1
         except Exception:
             pass
@@ -246,6 +247,8 @@ def demand_requests() -> int:
                              "top": sorted(rows, key=lambda r: -(r["sold"] or 0))[:3]}
         except Exception as e:
             res[p["key"]] = {"error": str(e)[:120]}
+    if not any("error" not in v for v in res.values()):     # all failed (eBay daily quota): keep the old file
+        return 0
     (ROOT / "data" / "demand_results.json").write_text(json.dumps(
         {"checked": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "items": res}, indent=1))
     return len(res)
