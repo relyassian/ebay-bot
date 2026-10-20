@@ -32,7 +32,7 @@ market 820205221628: ours 934.99 vs cheapest - (0 others) · Gucci Interlocking 
 market 820205221669: ours 676.99 vs cheapest 525.0 (5 others) · Gucci MAC80 Sneaker Black/Off-White Men's Leather 
 market 820205221755: ours 934.99 vs cheapest - (0 others) · Gucci Noel Driver Loafer Black Men's Leather Drivi
 market 820205221855: ours 1474.99 vs cheapest - (0 others) · Gucci Re-Web GG Canvas Sneaker Black Men's Low Top
-market 820205329339: ours None vs cheapest - (0 others) · Gucci Ace GG Supreme Bees Sneaker Beige/Ebony Men'
+market 820205329339: ours 702.99 vs cheapest - (0 others) · Gucci Ace GG Supreme Bees Sneaker Beige/Ebony Men'
 market 820205329431: ours 749.99 vs cheapest - (0 others) · Gucci Ace Sneaker with Perforated Interlocking G W
 market 820205329595: ours 884.99 vs cheapest 300.0 (19 others) · Gucci MAC80 Sneaker Off-White Men's Leather Low To
 market 820205329783: ours 816.99 vs cheapest 310.0 (1 others) · Gucci Tennis 1977 High-Top Sneaker Beige/Ebony GG 
@@ -80,21 +80,18 @@ market 820253018257: ours 519.99 vs cheapest - (0 others) · Bally Logo-Plaque L
 market 820253018386: ours 1466.99 vs cheapest - (0 others) · Brunello Cucinelli Panelled Suede Sneaker Beige Me
 market 820253018496: ours 801.99 vs cheapest - (0 others) · Dolce & Gabbana Portofino Lambskin Sneaker Off-Whi
 market 820253018812: ours 1187.99 vs cheapest - (0 others) · Givenchy Padded Nylon and Leather Trainer Sneaker 
-market 820253018968: ours 970.99 vs cheapest - (0 others) · Lanvin Curb Cut-Out Lace-Up Sneaker Pink Men's Sue
+market 820253018968: ours 1129.99 vs cheapest - (0 others) · Lanvin Curb Cut-Out Lace-Up Sneaker Pink Men's Sue
 market 820253019164: ours 937.99 vs cheapest - (0 others) · Maison Margiela Sprinters Sneaker Black Men's Leat
 market 820256466735: ours 985.99 vs cheapest - (0 others) · Givenchy Gent Leather Derby Black Men's New
 Price check: 85 listings compared, 34 priced more than 5% above another seller.
 📋 Daily eBay check · Tue Oct 20
 
-What I did: took 2 listings (or some sizes) off sale because stores ran out; put 1 listing back on sale; raised the price a little on 3 listings because the store got pricier; lowered the price 3% on 2 listings that hadn't sold in a week.
+What I did: raised the price a little on 2 listings because the store got pricier; lowered the price 3% on 4 listings that hadn't sold in a week.
 Nothing for you to do.
-{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/KasAAeSwPu5q1qVn/$_1.JPG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Ace GG Supreme Bees Sneaker Beige/Ebony…\nSizes: US 14, 14.5 · you'd make $150–$151\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820205329339"}
-{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/HWEAAOSw4VBlupju/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace Embroidered Bee Sneaker Black Leather…\nSizes: US 8 · now from $1,039.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355428079713"}
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/0BQAAeSwzvtq1qXr/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cosma High-Top Sneaker Black Sneakers…\nSizes: all 2 sizes · now from $634.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649253"}
 {'photo': 'https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/8a0AAeSwY5Zq1S~X/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nBally Logo-Plaque Leather Loafer Grey Loafers…\nSizes: US 11 · now from $519.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820253018257"}
-{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/~ZkAAOSwAVJlupTV/$_57.PNG?set_id=8800005007', 'text': "📉 PRICE LOWERED 3%\nGucci Ace Embroidered Bee Sneaker White Leather…\nSizes: US 12.5 · now from $979.99\n\nWhy: No sale in 7 days at the old price. It still makes you $100+, and it drops again next week if it doesn't sell (never below $100 profit).\nhttps://www.ebay.com/itm/355428047951"}
+{'photo': 'https://i.ebayimg.com/images/g/8nwAAOSwp6Nnuo9i/s-l1600.jpg', 'text': "📉 PRICE LOWERED 3%\nGucci Basket Grey Yellow Blue Demetra Low Top…\nSizes: US 8.5 · now from $829.99\n\nWhy: No sale in 7 days at the old price. It still makes you $100+, and it drops again next week if it doesn't sell (never below $100 profit).\nhttps://www.ebay.com/itm/820207186315"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/aP8AAeSwm6Fq1qXC/$_1.JPG?set_id=8800005007', 'text': "📉 PRICE LOWERED 3%\nGucci Run Sneaker Beige Ebony Monogram Leather…\nSizes: US 8, 10, 12.5 · now from $909.99\n\nWhy: No sale in 7 days at the old price. It still makes you $100+, and it drops again next week if it doesn't sell (never below $100 profit).\nhttps://www.ebay.com/itm/820207186744"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/th4AAeSwBMRq1qVt/$_1.JPG?set_id=8800005007', 'text': "📉 PRICE LOWERED 3%\nGucci Run Sneaker White Suede Low Top Sneakers…\nSizes: US 11.5 · now from $864.99\n\nWhy: No sale in 7 days at the old price. It still makes you $100+, and it drops again next week if it doesn't sell (never below $100 profit).\nhttps://www.ebay.com/itm/820207186833"}
 Also changed:
-• Price Lowered 3%: Gucci Horsebit Driver Loafer with Web Brown… (US 11.5) https://www.ebay.com/itm/820229263903
-• Taken Off Sale: Givenchy Padded Nylon and Leather Trainer… (US 8) https://www.ebay.com/itm/820253018812
-• Taken Off Sale: Lanvin Curb Cut-Out Lace-Up Sneaker Pink Suede… (US 10) https://www.ebay.com/itm/820253018968
-Ad rates: 1 listings up, 0 back down (1 at 15%); eBay accepted 1 of 1
+• Price Lowered 3%: Gucci Tennis 1977 Low GG Monogram - Ebony Beige… (US 11.5) https://www.ebay.com/itm/820207186962
