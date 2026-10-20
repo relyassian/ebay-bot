@@ -178,11 +178,77 @@ def scan_requests() -> int:
     return len(res)
 
 
+ITEM = "https://api.ebay.com/buy/browse/v1/item/"
+
+
+def _sold_info(item_id: str, tok: str) -> dict | None:
+    r = requests.get(ITEM + item_id, timeout=30, headers={"Authorization": f"Bearer {tok}",
+                     "X-EBAY-C-MARKETPLACE-ID": "EBAY_US"})
+    if r.status_code != 200:
+        return None
+    b = r.json()
+    est = (b.get("estimatedAvailabilities") or [{}])[0]
+    return {"sold": est.get("estimatedSoldQuantity"), "created": b.get("itemCreationDate"),
+            "price": float((b.get("price") or {}).get("value") or 0), "title": b.get("title", "")[:80],
+            "seller": (b.get("seller") or {}).get("username"), "fb": (b.get("seller") or {}).get("feedbackScore")}
+
+
+def demand_requests() -> int:
+    """Demand check (read-only): for each product in requests/demand.json, look at other sellers' matching NEW
+    listings and read eBay's estimated sold quantity + listing age. Writes data/demand_results.json:
+    {key: {listings, sold_total, sold_per_30d, median_price, top: [...]}}. Entries may carry `q` (free search)."""
+    src = ROOT / "requests" / "demand.json"
+    if not src.exists():
+        return 0
+    tok, res, now = app_token(), {}, datetime.now(timezone.utc)
+    for p in json.loads(src.read_text()):
+        try:
+            if p.get("q"):
+                hits = [it for it in search(p["q"], tok) if not NOT_SAME.search(it.get("title", ""))]
+                if p.get("must"):
+                    hits = [it for it in hits if all(w in it.get("title", "").lower() for w in p["must"])]
+            else:
+                hits = []
+                for q in ([p["style_code"]] if p.get("style_code") else []) + [
+                        " ".join(x for x in [p.get("brand", ""), p.get("model", ""), (p.get("colorway") or "").split()[0] if p.get("colorway") else ""] if x)]:
+                    hits += [it for it in search(q, tok) if _matches(it.get("title", ""), p)]
+            seen, rows = set(), []
+            for it in hits:
+                iid = it.get("itemId")
+                if iid in seen or (it.get("seller") or {}).get("username", "").lower() == SELLER:
+                    continue
+                seen.add(iid)
+                if len(rows) >= 10:
+                    break
+                info = _sold_info(iid, tok)
+                time.sleep(0.2)
+                if info:
+                    rows.append(info)
+            sold = sum(int(r["sold"] or 0) for r in rows)
+            rate = 0.0
+            for r in rows:
+                try:
+                    age = max(7, (now - datetime.fromisoformat(r["created"].replace("Z", "+00:00"))).days)
+                except Exception:
+                    age = 90
+                rate += int(r["sold"] or 0) * 30 / age
+            px = [r["price"] for r in rows if r["price"]]
+            res[p["key"]] = {"listings": len(rows), "sold_total": sold, "sold_per_30d": round(rate, 1),
+                             "median_price": round(statistics.median(px), 2) if px else None,
+                             "top": sorted(rows, key=lambda r: -(r["sold"] or 0))[:3]}
+        except Exception as e:
+            res[p["key"]] = {"error": str(e)[:120]}
+    (ROOT / "data" / "demand_results.json").write_text(json.dumps(
+        {"checked": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "items": res}, indent=1))
+    return len(res)
+
+
 def run() -> list[str]:
     from bot.ebay.auth import access_token
     from bot.ebay.trading import get_active_item_ids, get_item
     try:
         print("scan:", scan_requests())
+        print("demand:", demand_requests())
     except Exception as e:
         print("scan failed:", e)
     cfg = load_config()
