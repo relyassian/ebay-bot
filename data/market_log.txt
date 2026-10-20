@@ -1,4 +1,4 @@
-scan: 96
+scan: 2
 market 355066429434: ours 1087.99 vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
 market 355066574768: ours None vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Gancini Ornament
@@ -12,7 +12,7 @@ market 355422763143: ours 772.99 vs cheapest - (0 others) · Dolce & Gabbana Sai
 market 355423513413: ours 897.99 vs cheapest 524.99 (3 others) · Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Me
 market 355426430327: ours None vs cheapest - (0 others) · Dolce & Gabbana New Roma Sneakers White Calfskin N
 market 355426469262: ours 934.99 vs cheapest 754.95 (1 others) · Gucci Ace GG Supreme Sneaker Black/Grey Men's Leat
-market 355428047951: ours 963.99 vs cheapest - (0 others) · Gucci Ace Embroidered Bee Sneaker White Men's Leat
+market 355428047951: ours 934.99 vs cheapest - (0 others) · Gucci Ace Embroidered Bee Sneaker White Men's Leat
 market 355428079713: ours 934.99 vs cheapest - (0 others) · Gucci Ace Embroidered Bee Sneaker Black Men's Leat
 market 355429309757: ours 934.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Blue Men's Lea
 market 355429340181: ours 934.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Green Men's Le
