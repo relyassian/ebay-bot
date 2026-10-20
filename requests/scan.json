@@ -1,0 +1,597 @@
+[
+{
+"key": "nug:alexander-mcqueen-mocassino-in-pelle-nero-778158wies4-_1081",
+"brand": "Alexander Mcqueen",
+"model": "Leather loafer",
+"colorway": "",
+"style_code": "778158WIES4_1081"
+},
+{
+"key": "nug:givenchy-sneakers-in-nabuk-e-fibra-sintetica-beige-bh009kh1p",
+"brand": "Givenchy",
+"model": "Nabuk and synthetic fiber sneakers",
+"colorway": "",
+"style_code": "BH009KH1PP_100"
+},
+{
+"key": "nug:givenchy-sneakers-in-nabuk-e-fibra-sintetica-nero-bh009kh1qa",
+"brand": "Givenchy",
+"model": "Nabuk and synthetic fiber sneakers",
+"colorway": "",
+"style_code": "BH009KH1QA_001"
+},
+{
+"key": "nug:moncler_monaco2_blue_09a4m00180m6070-74u",
+"brand": "Moncler",
+"model": "Low-top leather sneakers",
+"colorway": "",
+"style_code": "09A4M00180M6070_74U"
+},
+{
+"key": "nug:doucals-mocassino-in-pelle-marrone-du3260mariuf159-_tm29",
+"brand": "Doucal'S",
+"model": "Leather loafer",
+"colorway": "",
+"style_code": "DU3260MARIUF159_TM29"
+},
+{
+"key": "nug:moncler-trailgrip-sneakers-in-technical-fabric-and-mesh-with",
+"brand": "Moncler",
+"model": "Trailgrip sneakers in technical fabric and me",
+"colorway": "",
+"style_code": "L109A4M00280M8443700"
+},
+{
+"key": "nug:churchs-mocassino-in-pelle-blu-edb1479ahz-_f0abm",
+"brand": "Church'S",
+"model": "Leather loafer",
+"colorway": "",
+"style_code": "EDB1479AHZ_F0ABM"
+},
+{
+"key": "nug:maison-margiela-replica-leather-sneakers-red-s57ws0517-p7644",
+"brand": "Maison Margiela",
+"model": "Replica Leather Sneakers",
+"colorway": "",
+"style_code": "S57WS0517P7644T4417"
+},
+{
+"key": "nug:ferragamo-sneakers-in-nylon-con-iconica-suola-gancini-bianco",
+"brand": "Ferragamo",
+"model": "Nylon sneakers with iconic gancini sole",
+"colorway": "",
+"style_code": "021285760648_WHITE"
+},
+{
+"key": "nug:dolce-gabbana-ariosto-suede-loafers-black-a50734-at44180999-",
+"brand": "Dolce & Gabbana",
+"model": "Ariosto suede loafers",
+"colorway": "",
+"style_code": "A50734AT44180999"
+},
+{
+"key": "nug:churchs_nocton_brown_eeg0819vj-f0axo",
+"brand": "Church'S",
+"model": "Suede lace-up shoe with embossed logo detail",
+"colorway": "",
+"style_code": "EEG0819VJ_F0AXO"
+},
+{
+"key": "nug:gucci-leather-lace-up-black-865172-aagbv1000-000036138",
+"brand": "Gucci",
+"model": "Leather lace-up",
+"colorway": "",
+"style_code": "865172AAGBV1000"
+},
+{
+"key": "nug:dolce-gabbana-mocassini-pantofola-in-suede-marrone-a50739-as",
+"brand": "Dolce & Gabbana",
+"model": "Suede Slipper Loafers",
+"colorway": "",
+"style_code": "A50739AS70780024"
+},
+{
+"key": "nug:rick-owens-minimal-nylon-and-suede-sneakers-grey-ru01f2889-n",
+"brand": "Rick Owens",
+"model": "Minimal nylon and suede sneakers",
+"colorway": "",
+"style_code": "RU01F2889NDOLVX787878"
+},
+{
+"key": "nug:fendi-mocassini-in-pelle-missina-nero-7d1838-aoshf0qa1",
+"brand": "Fendi",
+"model": "Missina leather loafers",
+"colorway": "",
+"style_code": "7D1838AOSHF0QA1"
+},
+{
+"key": "nug:dolce-gabbana-mocassini-in-suede-con-inserti-in-pelle-marron",
+"brand": "Dolce & Gabbana",
+"model": "Suede loafer with leather inserts",
+"colorway": "",
+"style_code": "A50735A01008B199"
+},
+{
+"key": "nug:gucci-mocassini-in-pelle-nero-851396-aadeo1000",
+"brand": "Gucci",
+"model": "Leather loafers",
+"colorway": "",
+"style_code": "851396AADEO1000"
+},
+{
+"key": "nug:fendi-leather-loafers-with-metal-ff-logo-black-7d1894-asaif0",
+"brand": "Fendi",
+"model": "Leather loafers with metal FF logo",
+"colorway": "",
+"style_code": "7D1894ASAIF0ABB"
+},
+{
+"key": "nug:dolce-gabbana-leather-belt-black-bc4943-ag6518b956-000046611",
+"brand": "Dolce & Gabbana",
+"model": "Leather belt",
+"colorway": "",
+"style_code": "BC4943AG6518B956"
+},
+{
+"key": "nug:dolce-gabbana-leather-belt-black-bc4942-ag6518b956-000050066",
+"brand": "Dolce & Gabbana",
+"model": "Leather belt",
+"colorway": "",
+"style_code": "BC4942AG6518B956"
+},
+{
+"key": "nug:tods-sneakers-in-suede-marrone-xxm04l0jf40re0-s818",
+"brand": "Tod'S",
+"model": "Suede sneakers",
+"colorway": "",
+"style_code": "XXM04L0JF40RE0S818"
+},
+{
+"key": "nug:givenchy-leather-sneakers-black-bh00b4h1x1-001-000028466",
+"brand": "Givenchy",
+"model": "Leather sneakers",
+"colorway": "",
+"style_code": "BH00B4H1X1001"
+},
+{
+"key": "nug:gucci-sneakers-in-tessuto-gg-bicolor-blue-857889-fafen4446",
+"brand": "Gucci",
+"model": "GG Bicolor Fabric sneakers",
+"colorway": "",
+"style_code": "857889FAFEN4446"
+},
+{
+"key": "nug:fendi-sneakers-fendi-match-in-pelle-bianca-e-suede-marrone-b",
+"brand": "Fendi",
+"model": "Sneakers Fendi Match in pelle bianca e suede ",
+"colorway": "",
+"style_code": "7E1926AY1PF1WCO"
+},
+{
+"key": "nug:adidas-y-3-sneakers-y-3-stan-smith-lo-pro-in-pelle-bianco-kj",
+"brand": "Adidas Y-3",
+"model": "Y-3 Stan Smith Lo Pro leather sneakers",
+"colorway": "",
+"style_code": "KJ2390White"
+},
+{
+"key": "nug:adidas-y-3-y-3-gazelle-suede-sneakers-with-engraved-logo-on-",
+"brand": "Adidas Y-3",
+"model": "Y-3 Gazelle suede sneakers with engraved logo",
+"colorway": "",
+"style_code": "KI4340Black"
+},
+{
+"key": "nug:doucals-daino-leather-loafers-brown-du3520taoruz054-tm00-000",
+"brand": "Doucal'S",
+"model": "Daino leather loafers",
+"colorway": "",
+"style_code": "DU3520TAORUZ054TM00"
+},
+{
+"key": "nug:adidas-y-3-canvas-sneakers-with-logo-on-the-side-white-ki085",
+"brand": "Adidas Y-3",
+"model": "Canvas sneakers with logo on the side",
+"colorway": "",
+"style_code": "KI0856White"
+},
+{
+"key": "nug:adidas-y-3-canvas-sneakers-with-logo-on-the-ide-black-kk3709",
+"brand": "Adidas Y-3",
+"model": "Canvas sneakers with logo on the ide",
+"colorway": "",
+"style_code": "KK3709Black"
+},
+{
+"key": "nug:adidas-x-wales-bonner-sneakers-low-top-wb-karintha-sequin-ma",
+"brand": "Adidas X Wales Bonner",
+"model": "WB Karintha Sequin low-top sneakers",
+"colorway": "",
+"style_code": "JR0259_CBLACK"
+},
+{
+"key": "nug:paraboot-leather-loafers-brown-093658-mielcerfwhisky-0000378",
+"brand": "Paraboot",
+"model": "Leather loafers",
+"colorway": "",
+"style_code": "093658MIELCERFWHISKY"
+},
+{
+"key": "nug:alexander-mcqueen-portacarte-in-pelle-con-stampa-logo-nero-7",
+"brand": "Alexander Mcqueen",
+"model": "Leather card holder with logo print",
+"colorway": "",
+"style_code": "7265671AAJO_1000"
+},
+{
+"key": "nug:dolce-gabbana-dg-cushion-canvas-with-side-logo-sneakers-brow",
+"brand": "Dolce & Gabbana",
+"model": "DG Cushion canvas with side logo sneakers",
+"colorway": "",
+"style_code": "CS2288A01278W125"
+},
+{
+"key": "nug:semelle-leather-loafers-brown-524350-cuoio-000037654",
+"brand": "Semelle",
+"model": "Leather loafers",
+"colorway": "",
+"style_code": "524350CUOIO"
+},
+{
+"key": "nug:semelle-leather-loafers-purple-524350-bordeaux-000037655",
+"brand": "Semelle",
+"model": "Leather loafers",
+"colorway": "",
+"style_code": "524350BORDEAUX"
+},
+{
+"key": "nug:semelle-leather-loafers-black-524350-nero-000037656",
+"brand": "Semelle",
+"model": "Leather loafers",
+"colorway": "",
+"style_code": "524350NERO"
+},
+{
+"key": "nug:adidas-x-wales-bonner-wb-gazelle-pony-pony-skin-sneakers-wit",
+"brand": "Adidas X Wales Bonner",
+"model": "WB Gazelle Pony pony skin sneakers with iconi",
+"colorway": "",
+"style_code": "KK3640WONWHI/CBLACK"
+},
+{
+"key": "nug:represent-suede-and-nubuck-sneakers-brown-mlm100535-16-00002",
+"brand": "Represent",
+"model": "Suede and nubuck sneakers",
+"colorway": "",
+"style_code": "MLM10053516"
+},
+{
+"key": "nug:represent-leather-and-suede-sneakers-with-engraved-logo-on-t",
+"brand": "Represent",
+"model": "Leather and suede sneakers with engraved logo",
+"colorway": "",
+"style_code": "MLM1006297246"
+},
+{
+"key": "nug:fendi-sneakers-fendi-flow-slip-on-nero-7e1392-ay9wf1ex4",
+"brand": "Fendi",
+"model": "Fendi Flow slip-on sneakers",
+"colorway": "",
+"style_code": "7E1392AY9WF1EX4"
+},
+{
+"key": "it:prada-sneakers-black-9337717899",
+"brand": "Prada",
+"model": "Deer Leather Sneakers",
+"colorway": "Black",
+"style_code": "LD2EE394FG000013F0632"
+},
+{
+"key": "it:asics-sneakers-white-9337685131",
+"brand": "Asics",
+"model": "Gel-Quantum Kinetic Sneakers",
+"colorway": "White",
+"style_code": "LD1203A270103"
+},
+{
+"key": "it:hogan-sneakers-brown-8579633291",
+"brand": "Hogan",
+"model": "H705 Sneakers",
+"colorway": "Brown",
+"style_code": "HXM7050GF10UHT0R1L-AI26"
+},
+{
+"key": "it:comme-des-garons-homme-sneaker-white-9776907403",
+"brand": "Comme Des Gar\u04abons Homme",
+"model": "Abzorb 2010 Sneaker",
+"colorway": "White",
+"style_code": "LDHQK1021"
+},
+{
+"key": "it:autry-windscape-sneaker-brown-9774613643",
+"brand": "Autry WINDSCAPE",
+"model": "Sneaker",
+"colorway": "Brown",
+"style_code": "SCLMKQ02-AI26"
+},
+{
+"key": "it:dolce-gabbana-sneaker-cream-6210991243",
+"brand": "Dolce & Gabbana",
+"model": "Sneaker",
+"colorway": "Cream",
+"style_code": "LDCS2243AR75689697"
+},
+{
+"key": "it:fendi-sneaker-black-5913162891",
+"brand": "Fendi",
+"model": "Match Sneaker",
+"colorway": "Black",
+"style_code": "LD7E1971B17YF1XJT"
+},
+{
+"key": "it:emporio-armani-sneaker-black-9890123915",
+"brand": "Emporio Armani",
+"model": "Leather Sneaker",
+"colorway": "Black",
+"style_code": "EM003663AF18212MC105-AI26"
+},
+{
+"key": "it:kiton-sneaker-black-8396937355",
+"brand": "Kiton",
+"model": "Fits Sneaker",
+"colorway": "Black",
+"style_code": "LDUSSFITBN00809030"
+},
+{
+"key": "it:brunello-cucinelli-wallet-brown-7667481739",
+"brand": "Brunello Cucinelli",
+"model": "Smooth Calf Leather Wallet",
+"colorway": "Brown",
+"style_code": "LDMWZNBU440C8034"
+},
+{
+"key": "it:autry-windscape-sneaker-grey-9737192587",
+"brand": "Autry WINDSCAPE",
+"model": "Sneaker",
+"colorway": "Grey",
+"style_code": "SCLMKQ04-AI26"
+},
+{
+"key": "it:jil-sander-wallet-black-6599860363",
+"brand": "Jil Sander",
+"model": "Nappa Leather Wallet",
+"colorway": "Black",
+"style_code": "LDJ25UI0004P5995001"
+},
+{
+"key": "it:tod-s-sneaker-black-8281943179",
+"brand": "Tod's",
+"model": "Merino Wool Knit Sneaker",
+"colorway": "Black",
+"style_code": "LDXXM63K0KO70VKKS815"
+},
+{
+"key": "it:ferragamo-sneakers-white-5787872395",
+"brand": "Ferragamo",
+"model": "Perforated Leather Sneakers",
+"colorway": "White",
+"style_code": "02A945795659001-AI26"
+},
+{
+"key": "it:amiri-sneakers-black-9941693579",
+"brand": "Amiri",
+"model": "MA-1 Sneakers",
+"colorway": "Black",
+"style_code": "LDAMFOSR1048001"
+},
+{
+"key": "it:amiri-sneakers-black-and-white-9941660811",
+"brand": "Amiri",
+"model": "MA-1 Sneakers",
+"colorway": "Black and White",
+"style_code": "LDAMFOSR1048087"
+},
+{
+"key": "it:amiri-sneakers-white-9941628043",
+"brand": "Amiri",
+"model": "MA-1 Sneakers",
+"colorway": "White",
+"style_code": "LDAMFOSR1048111"
+},
+{
+"key": "it:amiri-sneakers-white-9941595275",
+"brand": "Amiri",
+"model": "Leather & Technical Fabric Sneakers",
+"colorway": "White",
+"style_code": "LDPS24MFS018111"
+},
+{
+"key": "it:porter-backpack-navy-9443966091",
+"brand": "Porter",
+"model": "Double Pack Backpack",
+"colorway": "Navy",
+"style_code": "3821980350-AI26"
+},
+{
+"key": "it:off-white-sneakers-black-7830331531",
+"brand": "Off White",
+"model": "Mesh and Rubber Trail Sneakers",
+"colorway": "Black",
+"style_code": "OF05800001BLK-AI26"
+},
+{
+"key": "it:emporio-armani-sneaker-black-7739990155",
+"brand": "Emporio Armani",
+"model": "Leather Low-Top Sneaker",
+"colorway": "Black",
+"style_code": "EM007301AF29401S6320-AI26"
+},
+{
+"key": "it:emporio-armani-sneakers-black-7739891851",
+"brand": "Emporio Armani",
+"model": "Logo-Print Sneakers",
+"colorway": "Black",
+"style_code": "EM003062AF29544UC001-AI26"
+},
+{
+"key": "it:fendi-sneakers-white-7700766859",
+"brand": "Fendi",
+"model": "Match Sneakers",
+"colorway": "White",
+"style_code": "LD7E1971B17VF1XJV"
+},
+{
+"key": "it:emporio-armani-sneakers-grey-0805469323",
+"brand": "Emporio Armani",
+"model": "Logo Mesh and Suede Sneakers",
+"colorway": "Grey",
+"style_code": "EM003739AF19724M8478-AI26"
+},
+{
+"key": "it:brunello-cucinelli-sneaker-gray-3330957451",
+"brand": "Brunello Cucinelli",
+"model": "Leather and Suede Sneaker",
+"colorway": "Gray",
+"style_code": "LDMZULDGJ336CSH27"
+},
+{
+"key": "it:fendi-belt-black-1703417995",
+"brand": "Fendi",
+"model": "Logo Buckle Belt",
+"colorway": "Black",
+"style_code": "LD7C0563B12KF0QA1"
+},
+{
+"key": "it:jil-sander-wallet-black-0003020939",
+"brand": "Jil Sander",
+"model": "Origami Wallet",
+"colorway": "Black",
+"style_code": "LDJ25UI0005P5995001"
+},
+{
+"key": "it:autry-sneakers-beige-9712747659",
+"brand": "Autry",
+"model": "Malga Sneakers",
+"colorway": "Beige",
+"style_code": "HBMMEU02-AI25"
+},
+{
+"key": "it:prada-sneaker-cream-9712551051",
+"brand": "Prada",
+"model": "Montecarlo Sneaker",
+"colorway": "Cream",
+"style_code": "LD4E1165FG001EFXF0K74"
+},
+{
+"key": "it:asics-sneaker-white-9706062987",
+"brand": "Asics",
+"model": "Sneaker",
+"colorway": "White",
+"style_code": "LD1203A270102"
+},
+{
+"key": "it:prada-sneaker-white-9705931915",
+"brand": "Prada",
+"model": "Prax 2.0 Sneaker",
+"colorway": "White",
+"style_code": "LD2EE436FG000D7CF0424"
+},
+{
+"key": "it:prada-sneaker-green-9705866379",
+"brand": "Prada",
+"model": "Collapse Sneaker",
+"colorway": "Green",
+"style_code": "LD2EG479FG001D7CF0334"
+},
+{
+"key": "it:prada-sneaker-white-9673917579",
+"brand": "Prada",
+"model": "Nappa Leather Sneaker",
+"colorway": "White",
+"style_code": "LD2EE364FD001038F0304"
+},
+{
+"key": "it:prada-sneaker-beige-9671197835",
+"brand": "Prada",
+"model": "Montecarlo Sneaker",
+"colorway": "Beige",
+"style_code": "LD4E1165FG001008F0314"
+},
+{
+"key": "it:prada-sneaker-black-9670968459",
+"brand": "Prada",
+"model": "Cotton Drill Sneaker",
+"colorway": "Black",
+"style_code": "LD2EE467FG0003LKEF0632"
+},
+{
+"key": "it:autry-sneaker-black-9670640779",
+"brand": "Autry",
+"model": "Malga Mid Sneaker",
+"colorway": "Black",
+"style_code": "HBMMHF02-AI25"
+},
+{
+"key": "it:prada-sneaker-olive-9655764107",
+"brand": "Prada",
+"model": "Speedrock Sneaker",
+"colorway": "Olive",
+"style_code": "LD2EE468FG0003ZM0F0161"
+},
+{
+"key": "it:prada-sneakers-navy-9554936971",
+"brand": "Prada",
+"model": "Cotton Sneakers",
+"colorway": "Navy",
+"style_code": "LD2EE427FD0013T0AF0124"
+},
+{
+"key": "it:prada-sneaker-black-9552643211",
+"brand": "Prada",
+"model": "Prax 2.0 Sneaker",
+"colorway": "Black",
+"style_code": "LD2EE436FG000D7CF0002"
+},
+{
+"key": "it:prada-sneaker-brown-9497101451",
+"brand": "Prada",
+"model": "Downtown Sneaker",
+"colorway": "Brown",
+"style_code": "LD2EE364FA0003AZBF0003"
+},
+{
+"key": "it:asics-sneakers-white-9494578315",
+"brand": "Asics",
+"model": "Gel-Quantum Kinetic Sneakers",
+"colorway": "White",
+"style_code": "LD1203A270254"
+},
+{
+"key": "it:prada-sneaker-white-9367700619",
+"brand": "Prada",
+"model": "Cotton Sneaker",
+"colorway": "White",
+"style_code": "LD2EE427FD0013T0AF0009"
+},
+{
+"key": "it:prada-sneakers-black-9367045259",
+"brand": "Prada",
+"model": "Sneakers",
+"colorway": "Black",
+"style_code": "LD2EE429FG000038F0632"
+},
+{
+"key": "it:brunello-cucinelli-wallet-brown-3939965067",
+"brand": "Brunello Cucinelli",
+"model": "Smooth Leather Wallet",
+"colorway": "Brown",
+"style_code": "LDMWZNBU006C8763"
+},
+{
+"key": "it:amiri-sneaker-black-3939932299",
+"brand": "Amiri",
+"model": "Ma-1 Sneaker",
+"colorway": "Black",
+"style_code": "LDPF23MFS010111"
+}
+]

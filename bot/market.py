@@ -156,9 +156,35 @@ def product_market(p: dict) -> dict:
             "cheapest": comp[0]["price"] if comp else None}
 
 
+def scan_requests() -> int:
+    """Read-only comps for products we may list (requests/scan.json: [{key, brand, model, colorway, style_code}]).
+    Writes data/scan_results.json {key: {n, median, cheapest, p25}}; used by the daily below-market scan."""
+    src = ROOT / "requests" / "scan.json"
+    if not src.exists():
+        return 0
+    tok, res = app_token(), {}
+    for p in json.loads(src.read_text()):
+        try:
+            comp = competitors(p, tok)
+        except Exception as e:
+            res[p["key"]] = {"error": str(e)[:120]}
+            continue
+        px = [c["price"] for c in comp]
+        res[p["key"]] = {"n": len(px), "median": round(statistics.median(px), 2) if px else None,
+                         "cheapest": px[0] if px else None, "p25": px[len(px) // 4] if px else None,
+                         "top": [c["title"] for c in comp[:2]]}
+    (ROOT / "data" / "scan_results.json").write_text(json.dumps(
+        {"checked": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "items": res}, indent=1))
+    return len(res)
+
+
 def run() -> list[str]:
     from bot.ebay.auth import access_token
     from bot.ebay.trading import get_active_item_ids, get_item
+    try:
+        print("scan:", scan_requests())
+    except Exception as e:
+        print("scan failed:", e)
     cfg = load_config()
     ignore = set(map(str, cfg.get("sync", {}).get("ignore_items", [])))
     prods, tok, token = products(), app_token(), access_token()
