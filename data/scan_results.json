@@ -1,676 +1,706 @@
 {
- "checked": "2026-10-20T17:01:31Z",
+ "checked": "2026-10-20T17:13:41Z",
  "items": {
-  "nug:alexander-mcqueen-mocassino-in-pelle-nero-778158wies4-_1081": {
-   "n": 2,
-   "median": 294.5,
-   "cheapest": 249.99,
-   "p25": 249.99,
-   "top": [
-    "$485 Alexander McQueen Men's Black Leather Loafer with Silver Skull 389537 1000",
-    "Alexander McQueen Grey Brand New Shoe with Box Size 39 (Wander Leather Loafer)!"
-   ]
-  },
-  "nug:givenchy-sneakers-in-nabuk-e-fibra-sintetica-beige-bh009kh1p": {
+  "biffi:scarpe-yard-court-bh00b5h1x2-100": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:givenchy-sneakers-in-nabuk-e-fibra-sintetica-nero-bh009kh1qa": {
+  "biffi:scarpe-in-suede-e-nylon-jacq-ff-7e1842-awcuf0b0z": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:moncler_monaco2_blue_09a4m00180m6070-74u": {
-   "n": 3,
-   "median": 412.98,
-   "cheapest": 349.0,
-   "p25": 349.0,
-   "top": [
-    "Moncler Unisex Low Top Sneakers Leather White Black Grey US Size 9 EU 40 New Box",
-    "Moncler Black Leather New Monaco Sneakers 9 39 Low Top Logo Stripe"
-   ]
-  },
-  "nug:doucals-mocassino-in-pelle-marrone-du3260mariuf159-_tm29": {
+  "biffi:scarpe-in-suede-e-nylon-jacq-ff-7e1842-awcuf1v8n": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:moncler-trailgrip-sneakers-in-technical-fabric-and-mesh-with": {
+  "biffi:scarpe-yard-court-sneakers-bh00b5h1x4-100": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:churchs-mocassino-in-pelle-blu-edb1479ahz-_f0abm": {
-   "n": 2,
-   "median": 590.0,
-   "cheapest": 450.0,
-   "p25": 450.0,
-   "top": [
-    "Church's Diplomat IV Custom Grade Black Tasseled Brogue Leather Loafer Men's9.5",
-    "New with Box/Miu Miu Black Leather Church's Limited Lace-up Loafer Black EU36"
-   ]
-  },
-  "nug:maison-margiela-replica-leather-sneakers-red-s57ws0517-p7644": {
+  "biffi:scarpe-running-calzino-mid-volume-63k-xxm63k0ie40uyx-9997": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:ferragamo-sneakers-in-nylon-con-iconica-suola-gancini-bianco": {
+  "antonioli:man-thom-browne-shoes-lace-ups-mfd205a00003-001": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:dolce-gabbana-ariosto-suede-loafers-black-a50734-at44180999-": {
+  "baseblu:shanghai-laser-loafer-1": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:churchs_nocton_brown_eeg0819vj-f0axo": {
+  "baseblu:shanghai-laser-loafer": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:gucci-leather-lace-up-black-865172-aagbv1000-000036138": {
-   "n": 30,
-   "median": 597.0,
-   "cheapest": 269.99,
-   "p25": 476.0,
-   "top": [
-    "New Gucci Men's Dark Brown Suede Leather Lace-up Sneakers 5G/US 5.5 317052 2145",
-    "New Gucci Mens Neon Green Leather Lace-up Running Sneakers 369088 3707"
-   ]
-  },
-  "nug:dolce-gabbana-mocassini-pantofola-in-suede-marrone-a50739-as": {
+  "antonioli:man-giorgio-armani-shoes-loafers-flats-gm003215af24814-uc001": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:rick-owens-minimal-nylon-and-suede-sneakers-grey-ru01f2889-n": {
-   "n": 1,
-   "median": 852.0,
-   "cheapest": 852.0,
-   "p25": 852.0,
-   "top": [
-    "Rick Owens Dolmias Nylon and Suede Leather Minimal Sneakers in Black BNWB 42"
-   ]
-  },
-  "nug:fendi-mocassini-in-pelle-missina-nero-7d1838-aoshf0qa1": {
+  "antonioli:man-lardini-shoes-loafers-flats-pagustave-999": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:dolce-gabbana-mocassini-in-suede-con-inserti-in-pelle-marron": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:gucci-mocassini-in-pelle-nero-851396-aadeo1000": {
-   "n": 48,
-   "median": 490.38,
-   "cheapest": 214.0,
-   "p25": 385.0,
-   "top": [
-    "New Gucci Black Nappa Charlotte Moccasin Leather US 4 Loafers Size 34 IT ",
-    "GUCCI Horsebit Mens Loafers Black Leather Size 10 / 45 EUR Made In Italy"
-   ]
-  },
-  "nug:fendi-leather-loafers-with-metal-ff-logo-black-7d1894-asaif0": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:dolce-gabbana-leather-belt-black-bc4943-ag6518b956-000046611": {
+  "biffi:givenchy-sneakers-br-bh00b3h1wy-001": {
    "n": 49,
-   "median": 296.98,
-   "cheapest": 146.48,
-   "p25": 225.0,
+   "median": 499.99,
+   "cheapest": 248.0,
+   "p25": 489.99,
    "top": [
-    "VGT Dolce & Gabbana Belt Men 42 Brown Leather Pebbled Texture Y2K 105 CM NEW",
-    "DOLCE & GABBANA Patent Leather Wrap Around Belt 90 cm 36in Made in Italy NWT"
+    "New! Givenchy 'City 4G' Low Top Sneakers Gray Denim Mens 13 US 46 Eur. MSRP $750",
+    "New Givenchy Men's City Urban Sneakers Gray Size 43 Shoes Leather Logo $895"
    ]
   },
-  "nug:dolce-gabbana-leather-belt-black-bc4942-ag6518b956-000050066": {
-   "n": 49,
-   "median": 296.98,
-   "cheapest": 146.48,
-   "p25": 225.0,
-   "top": [
-    "VGT Dolce & Gabbana Belt Men 42 Brown Leather Pebbled Texture Y2K 105 CM NEW",
-    "DOLCE & GABBANA Patent Leather Wrap Around Belt 90 cm 36in Made in Italy NWT"
-   ]
-  },
-  "nug:tods-sneakers-in-suede-marrone-xxm04l0jf40re0-s818": {
-   "n": 16,
-   "median": 292.92,
-   "cheapest": 150.0,
-   "p25": 259.0,
-   "top": [
-    "Tod's Sneakers in Suede and Technical Fabric In Red Color Sz 34.5 /4.5",
-    "HOGAN BY TOD\u2019S SUEDE LEATHER FLATS DONNA SNEAKERS PINK 39 /9 NIB ITALY"
-   ]
-  },
-  "nug:givenchy-leather-sneakers-black-bh00b4h1x1-001-000028466": {
-   "n": 37,
-   "median": 455.0,
-   "cheapest": 250.0,
-   "p25": 328.99,
-   "top": [
-    "Givenchy Urban Street Low Leather Sneakers Red Size 46EU 13US",
-    "Givenchy Black Leather and Elastic Band Slip On Sneakers Size 42 - New With Box"
-   ]
-  },
-  "nug:gucci-sneakers-in-tessuto-gg-bicolor-blue-857889-fafen4446": {
-   "n": 1,
-   "median": 600.0,
-   "cheapest": 600.0,
-   "p25": 600.0,
-   "top": [
-    "GUCCI Screener $1060 GG Canvas Sneakers Size 11 (US 11.5) 857889 FAFEN 4446"
-   ]
-  },
-  "nug:fendi-sneakers-fendi-match-in-pelle-bianca-e-suede-marrone-b": {
+  "slamjam:mm6-maison-margiela-footwear-mocassin-beige-j348328": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:adidas-y-3-sneakers-y-3-stan-smith-lo-pro-in-pelle-bianco-kj": {
+  "slamjam:undercover-footwear-sneakers-green-j299164": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:adidas-y-3-y-3-gazelle-suede-sneakers-with-engraved-logo-on-": {
+  "biffi:minimal-runner-nylon-suede-5242-7547": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:doucals-daino-leather-loafers-brown-du3520taoruz054-tm00-000": {
+  "biffi:minimal-runner-nylon-suede-5242-3621": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:adidas-y-3-canvas-sneakers-with-logo-on-the-side-white-ki085": {
+  "antonioli:man-junya-watanabe-shoes-lace-ups-wqk1060014-beige": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:adidas-y-3-canvas-sneakers-with-logo-on-the-ide-black-kk3709": {
+  "slamjam:random-identities-footwear-kicker-shoes-black-j298078": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:adidas-x-wales-bonner-sneakers-low-top-wb-karintha-sequin-ma": {
+  "slamjam:our-legacy-accessories-vortex-belt-black-j337886": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "nug:paraboot-leather-loafers-brown-093658-mielcerfwhisky-0000378": {
-   "n": 1,
-   "median": 460.0,
-   "cheapest": 460.0,
-   "p25": 460.0,
-   "top": [
-    "Paraboot Reims Horsebit Loafers - Size US 13 - Black Leather - Made in France"
-   ]
-  },
-  "nug:alexander-mcqueen-portacarte-in-pelle-con-stampa-logo-nero-7": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:dolce-gabbana-dg-cushion-canvas-with-side-logo-sneakers-brow": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:semelle-leather-loafers-brown-524350-cuoio-000037654": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:semelle-leather-loafers-purple-524350-bordeaux-000037655": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:semelle-leather-loafers-black-524350-nero-000037656": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:adidas-x-wales-bonner-wb-gazelle-pony-pony-skin-sneakers-wit": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:represent-suede-and-nubuck-sneakers-brown-mlm100535-16-00002": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:represent-leather-and-suede-sneakers-with-engraved-logo-on-t": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "nug:fendi-sneakers-fendi-flow-slip-on-nero-7e1392-ay9wf1ex4": {
-   "n": 4,
-   "median": 756.99,
-   "cheapest": 420.75,
-   "p25": 714.98,
-   "top": [
-    "Fendi Flow Slip-On Mesh Sneakers Size 11 US New",
-    "Fendi Men's \"FLOW\" Beige Slip On Fashion Sneakers Shoes US 9 IT 8 EU 42"
-   ]
-  },
-  "it:prada-sneakers-black-9337717899": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:asics-sneakers-white-9337685131": {
-   "n": 1,
-   "median": 400.9,
-   "cheapest": 400.9,
-   "p25": 400.9,
-   "top": [
-    "Asics Gel-Quantum Kinetic White Light Dust 1203A270-101 Authentic Men Sneakers"
-   ]
-  },
-  "it:hogan-sneakers-brown-8579633291": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:comme-des-garons-homme-sneaker-white-9776907403": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:autry-windscape-sneaker-brown-9774613643": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:dolce-gabbana-sneaker-cream-6210991243": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:fendi-sneaker-black-5913162891": {
+  "antonioli:man-maison-margiela-shoes-sneakers-s97ws0092-h0966": {
    "n": 2,
-   "median": 445.0,
-   "cheapest": 400.0,
-   "p25": 400.0,
+   "median": 858.5,
+   "cheapest": 730.0,
+   "p25": 730.0,
    "top": [
-    "Fendi Match FF Vertigo Wave High Top Sneaker Black White Men's 6/ US 7.5 -7E1434",
-    "Fendi Match FF Vertigo Wave High Top Sneaker Black White Men's 7.5 uk"
+    "Maison Margiela Sprinter Low Top Sneakers - Size 44 - Yellow White - NEW",
+    "Maison Margiela Sprinter Low-Top Sneakers in Black / White / Tonal Grey BNWB 45"
    ]
   },
-  "it:emporio-armani-sneaker-black-9890123915": {
-   "n": 2,
-   "median": 260.07,
-   "cheapest": 142.14,
-   "p25": 142.14,
-   "top": [
-    "EMPORIO ARMANI X34X104 HO010 SNEAKER ACTION LEATHER Black+Black Size EU 37 US 6M",
-    "Emporio Armani Boots Sneaker Size 10 US Leather Black"
-   ]
-  },
-  "it:kiton-sneaker-black-8396937355": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:brunello-cucinelli-wallet-brown-7667481739": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:autry-windscape-sneaker-grey-9737192587": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:jil-sander-wallet-black-6599860363": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:tod-s-sneaker-black-8281943179": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:ferragamo-sneakers-white-5787872395": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:amiri-sneakers-black-9941693579": {
-   "n": 19,
-   "median": 852.0,
-   "cheapest": 395.0,
-   "p25": 700.0,
-   "top": [
-    "Amiri MA-1 Blue Black Skate Sneakers Mens Size 9/42 New",
-    "Amiri Black Crystal MA-1 Sneakers Size 8/41 EU"
-   ]
-  },
-  "it:amiri-sneakers-black-and-white-9941660811": {
-   "n": 5,
-   "median": 550.0,
-   "cheapest": 345.0,
-   "p25": 524.91,
-   "top": [
-    "AMIRI MA-1 Colorblock Low Top Sneakers Black/White/Gray PS24MFS016-001",
-    "amiri ma 1 sneakers. NWB Size 41 & 44. White, Black. Retail $850 Us Sz 8 & 11"
-   ]
-  },
-  "it:amiri-sneakers-white-9941628043": {
-   "n": 33,
-   "median": 852.0,
-   "cheapest": 400.0,
-   "p25": 725.0,
-   "top": [
-    "AMIRI MA-1 Men\u2019s Low Top Lace Up Sneakers Red/White Colorblock New Box",
-    "AMIRI MA-1 Low Top Lace-Up Nubuck Sneakers White/Gray Unisex Adults US 7"
-   ]
-  },
-  "it:amiri-sneakers-white-9941595275": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:porter-backpack-navy-9443966091": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:off-white-sneakers-black-7830331531": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:emporio-armani-sneaker-black-7739990155": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:emporio-armani-sneakers-black-7739891851": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:fendi-sneakers-white-7700766859": {
+  "biffi:mm6-sneakers-sh3ws0012-p6435t1003": {
    "n": 13,
-   "median": 559.0,
-   "cheapest": 407.99,
-   "p25": 559.0,
+   "median": 400.0,
+   "cheapest": 220.0,
+   "p25": 329.99,
    "top": [
-    "Fendi FF Match Leather White/Green Sneakers 12 US (11 Fendi) 7E1643 IT NIB $970",
-    "New sz 9 / 8 Fendi FF Logo Match Green & White Leather Low Top Sneakers Men Shoe"
+    "Maison Margiela MM6 \u00d7 Salomon Spectur 2 Sneakers US 11 Brand New",
+    "MSRP $620 Maison Margiela MM6 Men's Leather Low-Top Sneakers, Size 8US (41 EUR)"
    ]
   },
-  "it:emporio-armani-sneakers-grey-0805469323": {
+  "slamjam:undercover-footwear-sneakers-white-j299162": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:brunello-cucinelli-sneaker-gray-3330957451": {
+  "antonioli:man-yohji-yamamoto-shoes-sneakers-hke04-861": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:fendi-belt-black-1703417995": {
-   "n": 6,
-   "median": 258.05,
-   "cheapest": 176.7,
-   "p25": 247.0,
-   "top": [
-    "Fendi Men's Black Belt Silver FF Logo Buckle Classic Adjustable Designer 35mm",
-    "FENDI Men's Black Belt Silver FF Logo Buckle Adjustable Casual Waist Belt 30mm"
-   ]
-  },
-  "it:jil-sander-wallet-black-0003020939": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:autry-sneakers-beige-9712747659": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:prada-sneaker-cream-9712551051": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "it:asics-sneaker-white-9706062987": {
-   "n": 27,
-   "median": 99.98,
-   "cheapest": 55.0,
-   "p25": 74.98,
-   "top": [
-    "ASICS Gel-Zaraca 5 B Low Top Running Sneaker White/Red 1011B137-100 (10M)",
-    "ASICS Gel-Kinetic Fluent Men's White/Truffle Grey Low Top Lace-Up Sneaker NIB"
-   ]
-  },
-  "it:prada-sneaker-white-9705931915": {
+  "antonioli:man-balenciaga-shoes-boots-820327wbfc1-1000": {
    "n": 2,
-   "median": 703.0,
-   "cheapest": 530.0,
-   "p25": 530.0,
+   "median": 764.25,
+   "cheapest": 763.5,
+   "p25": 763.5,
    "top": [
-    "PRADA Prax 01 Sneaker * Shoe * White w/ Black * Size    5/ 38",
-    "Prada Mens Prax Triangle Logo White Leather Flat Low Trainer Sneaker UK 10 US 11"
+    "Balenciaga NIB Alaska Soft Shearling-Lined Suede Ankle Booties ORIG ($995) SZ 9",
+    "Balenciaga NIB Alaska Soft Shearling-Lined Suede Ankle Booties ORIG ($995) SZ 8"
    ]
   },
-  "it:prada-sneaker-green-9705866379": {
+  "slamjam:adidas-footwear-wales-bonner-karintha-basketry-brown-j345803": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:prada-sneaker-white-9673917579": {
+  "biffi:cintura-ff-reversibile-7c0556-aqwhf0gwb": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:prada-sneaker-beige-9671197835": {
+  "biffi:sneakers-86er-suede-br-hxm7010fz80uho-0caj": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:prada-sneaker-black-9670968459": {
+  "biffi:sneakers-86er-suede-hxm7010fz80uho-419l": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:autry-sneaker-black-9670640779": {
+  "biffi:h701-allacciato-h-hxm7010fz80uho-0zgt": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:prada-sneaker-olive-9655764107": {
+  "slamjam:demon-footwear-poyana-white-leather-white-j260331": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:prada-sneakers-navy-9554936971": {
+  "slamjam:mm6-maison-margiela-footwear-sneakers-black-j348330": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:prada-sneaker-black-9552643211": {
+  "biffi:springa-art-couture-sneaker-br-bacl1sultha3-tobacco": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:george-cox-footwear-undercover-x-george-cox-laced-shoes-oran": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:cav-empt-footwear-cav-shoes-1-black-j355901": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:portacarte-a-due-lati-in-pelle-uaw090a-00198025": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:portacarte-a-due-lati-in-pelle-uaw090a-00198001": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baseblu:sandal-20": {
+   "n": 28,
+   "median": 375.5,
+   "cheapest": 185.0,
+   "p25": 299.0,
+   "top": [
+    "Dolce & Gabbana EUR 36/US 6 Calf Leather Bejeweled Flower Sandals l NIB",
+    "DOLCE & GABBANA BRONZE TEXTURE LEATHER BOW PVC ANKLE STRAP SANDALS PUMPS 38.5"
+   ]
+  },
+  "slamjam:roa-footwear-hida-multicolor-j318391": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:ranra-footwear-skor-ranra-brown-j271663": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:george-cox-footwear-undercover-x-george-cox-laced-shoes-blac": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:sneakes-area-lo-label-f3903002-beigeyellow": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-superstar-lux-mil-brown-j346828": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:area-lo-sneakers-f3902003-lightgrey": {
    "n": 2,
-   "median": 615.0,
-   "cheapest": 530.0,
-   "p25": 530.0,
+   "median": 203.52,
+   "cheapest": 144.16,
+   "p25": 144.16,
    "top": [
-    "PRADA Prax 01 Sneaker * Shoe * White w/ Black * Size    5/ 38",
-    "Prada Prax 01 Black Re-Nylon Spazzolato Sneaker 2EE443 Men's Size 11 / UK 10 NEW"
+    "Axel Arigato Area Low-Top Leather Sneakers, Brand Size 35 ( US Size 5 )",
+    "Axel Arigato Area Patchwork Paneled Sneakers"
    ]
   },
-  "it:prada-sneaker-brown-9497101451": {
+  "slamjam:adidas-footwear-y-3-nbhd-nizza-star-black-j341046": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:asics-sneakers-white-9494578315": {
+  "slamjam:adidas-footwear-wales-bonner-karintha-sequin-wales-bonner-mu": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-our-legacy-accessories-belts-a2268gv-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:y-3-footwear-y-3-regu-mule-black-j352895": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-emporio-armani-shoes-sneakers-em004829af23185-m0360": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:roa-footwear-neal-multicolor-j330177": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:y-3-footwear-y3-feroza-mer-lo-black-j355517": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-italia-60s-made-in-italy-white-j335313": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "biffi:porta-carte-in-pelle-ff-7m0371-avv6f0gxn": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:asics-footwear-gel-kinetic-2-0-white-j356296": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-mm6-maison-margiela-shoes-sneakers-sh1ws0020p6303-hb420": {
+   "n": 10,
+   "median": 425.11,
+   "cheapest": 220.0,
+   "p25": 329.99,
+   "top": [
+    "Maison Margiela MM6 \u00d7 Salomon Spectur 2 Sneakers US 11 Brand New",
+    "MM6 Maison Margiela x Salomon Cross Low Textured Sneakers"
+   ]
+  },
+  "slamjam:new-balance-footwear-u1300wt-black-j322720": {
    "n": 1,
-   "median": 400.9,
-   "cheapest": 400.9,
-   "p25": 400.9,
+   "median": 384.9,
+   "cheapest": 384.9,
+   "p25": 384.9,
    "top": [
-    "Asics Gel-Quantum Kinetic White Light Dust 1203A270-101 Authentic Men Sneakers"
+    "New Balance x WTAPS 1300 Made in USA Black White U1300WT Authentic Men Sneakers"
    ]
   },
-  "it:prada-sneaker-white-9367700619": {
+  "slamjam:roa-footwear-sella-lite-white-j330182": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:prada-sneakers-black-9367045259": {
-   "n": 58,
-   "median": 494.91,
-   "cheapest": 230.74,
-   "p25": 355.25,
-   "top": [
-    "PRADA Black Patent Leather Mesh Logo Men's Sneakers Lace Up Rubber Sole",
-    "PRADA Leather Mens black Colorblock Low Top Lace-Up Logo Sneakers NWB"
-   ]
-  },
-  "it:brunello-cucinelli-wallet-brown-3939965067": {
+  "antonioli:man-y-3-shoes-sneakers-kk1837": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "it:amiri-sneaker-black-3939932299": {
-   "n": 4,
-   "median": 375.31,
-   "cheapest": 199.0,
-   "p25": 250.62,
+  "slamjam:new-balance-footwear-msnb17uq-blue-j353264": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:y-3-footwear-y3-f50-tunit-white-j355518": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:salomon-footwear-tepiaz-advanced-black-j350586": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:on-footwear-cloudboom-volt-paf-white-j341109": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-wales-bonner-adizero-adios-mesh-multicolor-j": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:unisex-vivienne-westwood-accessories-belts-8201007xul00bk-d4": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-m991tw1-brown-j353145": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "antonioli:man-gh-bass-shoes-loafers-flats-ba11610a-001": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:mizuno-footwear-shoe-s-l-wave-prophecy-ls-multicolor-j345488": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:oakley-factory-team-footwear-oakley-factory-team-suede-edge-": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-la-trainer-og-made-c-multicolor-j346819": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-u991rb2-pink-j353206": {
+   "n": 1,
+   "median": 51.6,
+   "cheapest": 51.6,
+   "p25": 51.6,
    "top": [
-    "NEW AMIRI Stadium Low Men's Black Leather Low Top Lace-Up Sneaker",
-    "AMIRI Crystal MA-1 Skeleton Top Sneaker White/Black Low Top Lace Up"
+    "1/2 SHK DIAMOND WHEEL DRESSER 2CT ITEM NO. J353206 (FL)"
    ]
+  },
+  "slamjam:new-balance-footwear-uadwlwo-grey-j353219": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-wales-bonner-gazelle-snake-multicolor-j34675": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-wmns-adidas-f50-adiframe-w-pink-j345860": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-wales-bonner-karintha-lo-sati-wales-bonner-m": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-wales-bonner-japan-wales-bonner-white-j32811": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-u990mo4-grey-j353198": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-u9935ya-purple-j353132": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-u9935cx-red-j353131": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:asics-footwear-gel-kinetic-2-0-grey-j340220": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-u99076b-orange-j353136": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-u99278l-white-j353138": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-hyperboost-edge-m-white-j346678": {
+   "n": 1,
+   "median": 306.9,
+   "cheapest": 306.9,
+   "p25": 306.9,
+   "top": [
+    "Adidas Hyperboost Edge Cloud White Equipment Blue KI1911 Authentic Men Sneakers"
+   ]
+  },
+  "slamjam:adidas-footwear-hyperboost-edge-m-white-j346679": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:hoka-one-one-footwear-u-tor-summit-multicolor-j356413": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:asics-footwear-gel-kinetic-2-0-grey-j340224": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:asics-footwear-gel-quantum-360-grey-j340246": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-wales-bonner-gazelle-pony-brown-j346749": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-u20004jq-grey-j353171": {
+   "n": 1,
+   "median": 111.99,
+   "cheapest": 111.99,
+   "p25": 111.99,
+   "top": [
+    "New Balance ABZORB 2000 Grey Matter Timberwolf U20004JQ Men 11 Sneakers NIB"
+   ]
+  },
+  "slamjam:new-balance-footwear-u20002t8-red-j353168": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-u20003oz-grey-j353169": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:hoka-one-one-footwear-u-mach-x-caged-black-j350176": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-wales-bonner-karintha-og-black-j346702": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:hoka-one-one-footwear-u-mafate-three2-wordmark-black-j350187": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:asics-footwear-gel-quantum-360-blue-j340247": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:adidas-footwear-handball-spezial-mig-black-j345821": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:magliano-footwear-panenka-veja-x-magliano-pink-j352910": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:magliano-footwear-panenka-veja-x-magliano-white-j352908": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "slamjam:new-balance-footwear-u200227r-grey-j353174": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
   }
  }
 }
