@@ -306,3 +306,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Result: 0 viable. Store sale prices sit at or above the eBay median (e.g. Givenchy leather sneaker $420 vs eBay median $455; D&G belt $357 vs $297; Gucci loafers $588 vs $490). Best was a Moncler sneaker at ~$46 net, 1 size.
 - Lesson: only deeper-than-retail-sale sources (Farfetch/SSENSE/Cettire 50%+ off, browser needed) clear $100. New tool: `requests/scan.json` + `requests/market` push -> `data/scan_results.json` (see docs/research_routine.md Part D).
 - Selling room is not the limit (13,673 items); candidates are.
+
+## Oct 20 evening: wider scan (Rafael: "go for the best opportunities")
+- Screened 469 more men's luxury shoes/belts from Slam Jam, Antonioli (US page = USD, duties included), Biffi, Baseblu against live eBay comps. 129 had >=3 comps.
+- Only hit: Margiela Sprinters white/grey (S97WS0092H0966), Antonioli US $530, eBay comps ~$800 (n=2, other colorways). Listed as item 820259478300, price $799.99, source rows added to data/source_prices.csv (bot had hidden it for lack of rows). Thin comps: watch it.
+- Near-misses: MM6 sneaker SH3WS0012P6435T1003 at Biffi $192 (~$93-110 net, duty at checkout unknown, cheap competition from $220); Givenchy New City 1 size.
+- Blocked: SSENSE (Cloudflare), Farfetch (blank page in Mac browser), Mytheresa sale (JS). Do not bypass.
+- Takeaway: discount boutiques are priced at or above eBay. Better leverage may be price/market side (listing items we already source) or new categories, not more boutique scanning.
