@@ -335,6 +335,8 @@ def run() -> list[str]:
         res[iid] = row
         print(f"market {iid}: ours {ours} vs cheapest {comp[0]['price'] if comp else '-'} ({len(comp)} others)"
               f" · {lst.title[:50]}")
+    if not res and OUT.exists():     # every lookup failed (e.g. eBay daily quota): keep the last good numbers
+        return ["Price check skipped: eBay returned no data (quota?). Kept the previous numbers."]
     OUT.write_text(json.dumps({"checked": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                                "items": res}, indent=1))
     try:
