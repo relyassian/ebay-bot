@@ -325,3 +325,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - eBay fee page: 8% (no per-order fee) only for Athletic Shoes category at >= $150; 52 listings are in Athletic Shoes (not verified against a sale); Ace Crystal listings are Casual Shoes so they pay 13.6%. Do not move categories just for fees.
 - Older cancelled order 13-15032-44930 (Ferragamo Rolo, Aug 16, refunded Aug 25): the cancellation history Rafael wanted to avoid.
 - Demand scan (competitor sold quantities via Browse API) failed with HTTP 429: eBay daily Browse quota used up by today's scans. It reruns automatically in tomorrow's daily-sync (after reset ~3am ET); results -> data/demand_results.json. requests/scan.json cleared to save quota.
+
+## Oct 20 night: $80 market floor applied
+- Rafael: "willing to bring it down to $80". Config `pricing.market_floor_net: 80` (bot/sync.py market_drops): market matching may go to $80 net on every listing; new listings and weekly decay keep their old floors ($100 / 1.5x).
+- Daily-sync applied it: 30 listings / ~125 sizes repriced (most Gucci Basket, MAC80, Tennis 1977, Run, Horsebit; typically $20-100 lower). No listing delisted (underwater ones stay at their floor, above market).
+- Incident: my scans exhausted eBay's daily Browse quota, so market.json was overwritten with 0 items twice; restored from commit 1c73a09 and added guards (bot/market.py keeps last good data if all lookups fail; demand/scan skip when fresh). If market.json shows 0 items, restore it.
+- Pending: demand scan (data/demand_results.json) reruns in tomorrow's daily-sync; review which products/categories actually sell, then decide keep/delist/add. Store name still open (pick: Corso Luxe). First proper Part D run Oct 21 6:40am ET.
