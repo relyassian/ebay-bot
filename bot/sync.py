@@ -160,6 +160,10 @@ def market_drops(listing: Listing, sources: dict, cfg: dict, auto: list, discoun
     # Rafael (Oct 8) test: on a few listings, matching the market may go down to the $100 minimum (1x), not 1.5x
     if str(listing.item_id) in set(map(str, cfg.get("pricing", {}).get("floor100_items", []))):
         mult = 1.0
+    base = item_min_net(cfg, listing.item_id)
+    mf = cfg.get("pricing", {}).get("market_floor_net")
+    if mf:       # Rafael, Oct 20: "willing to bring it down to $80" to get sales: market matching may go to $80 net
+        base, mult = min(base, float(mf)), 1.0
     max_age = cfg.get("sync", {}).get("max_source_age_hours", 36)
     touched = {c.size for c in auto}
     rows = ([(v.size, v.price, v.available) for v in listing.variations] if listing.variations
@@ -174,7 +178,7 @@ def market_drops(listing: Listing, sources: dict, cfg: dict, auto: list, discoun
             continue
         landed = landed_cost(src.cost, cfg, overseas=src.overseas, taxable=is_taxable(cfg, listing.item_id),
                              shipping=store_shipping(cfg, src.source))
-        floor = floor_price(landed, cfg, base=item_min_net(cfg, listing.item_id), mult=mult)
+        floor = floor_price(landed, cfg, base=base, mult=mult)
         new = max(target_mkt, floor)
         if new < price - 0.5:
             out.append(Change(listing.item_id, size, new_price=new))

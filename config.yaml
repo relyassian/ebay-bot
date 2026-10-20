@@ -55,6 +55,7 @@ pricing:
   decay_after_days: 7
   decay_step: 0.03
   decay_floor_mult: 1.5       # Rafael, Oct 5: drops never go below 1.5× the required profit ($150; LV $300); listing minimum stays $100
+  market_floor_net: 80        # Rafael, Oct 20: "willing to bring it down to $80" - market matching (not new listings) may go to $80 net
   match_market: true          # Oct 11: ON while building the account with near-market sales; above-market products stay "uncompetitive" and get listed at planned prices once this is turned off. Rafael, Oct 7: "match market wherever you can" — drop to just under the eBay median of other new listings, never below the 1.5× floor (sync.market_drops)
   floor100_items:             # Rafael, Oct 8: TEST (review Oct 15) - market matching may go down to $100 profit on these
     - "820204075737"          # Gucci Rhyton Ivory: $100 floor $568 vs market $599 (fully matches)
