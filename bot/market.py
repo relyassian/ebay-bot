@@ -279,6 +279,16 @@ def order_fees() -> int:
                                  "price": t.findtext("e:TransactionPrice", namespaces=NS),
                                  "fvf": t.findtext("e:FinalValueFee", namespaces=NS)})
         out.append(row)
+    for row in out:     # Fulfillment API carries the real marketplace fee
+        try:
+            r = requests.get("https://api.ebay.com/sell/fulfillment/v1/order/" + row["order"], timeout=30,
+                             headers={"Authorization": f"Bearer {token}"})
+            b = r.json() if r.status_code == 200 else {"error": r.status_code, "body": r.text[:200]}
+            row["fulfillment"] = {k: b.get(k) for k in ("totalMarketplaceFee", "pricingSummary", "paymentSummary", "error", "body") if k in b}
+            row["fulfillment"]["lineItems"] = [{k: li.get(k) for k in ("title", "total", "lineItemCost", "taxes", "legacyItemId") if k in li}
+                                                for li in b.get("lineItems", [])]
+        except Exception as e:
+            row["fulfillment"] = {"error": str(e)[:100]}
     (ROOT / "data" / "order_fees.json").write_text(json.dumps({"checked": now.isoformat(), "orders": out}, indent=1))
     return len(out)
 
