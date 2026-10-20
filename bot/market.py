@@ -198,8 +198,16 @@ def demand_requests() -> int:
     listings and read eBay's estimated sold quantity + listing age. Writes data/demand_results.json:
     {key: {listings, sold_total, sold_per_30d, median_price, top: [...]}}. Entries may carry `q` (free search)."""
     src = ROOT / "requests" / "demand.json"
+    out = ROOT / "data" / "demand_results.json"
     if not src.exists():
         return 0
+    if out.exists():     # don't redo a fresh result (the workflow can run several times a day)
+        try:
+            age = (datetime.now(timezone.utc) - datetime.fromisoformat(json.loads(out.read_text())["checked"].replace("Z", "+00:00"))).total_seconds()
+            if age < 6 * 3600:
+                return -1
+        except Exception:
+            pass
     tok, res, now = app_token(), {}, datetime.now(timezone.utc)
     for p in json.loads(src.read_text()):
         try:
@@ -243,6 +251,38 @@ def demand_requests() -> int:
     return len(res)
 
 
+def order_fees() -> int:
+    """Read-only: dump every fee eBay charged on recent orders (Trading GetOrders, last 90 days) to
+    data/order_fees.json so the real final-value-fee rate per category/price can be checked."""
+    from datetime import timedelta
+    from bot.ebay.auth import access_token
+    from bot.ebay.trading import _call, NS
+    token = access_token()
+    now = datetime.now(timezone.utc)
+    frm = (now - timedelta(days=89)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    to = now.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    root = _call("GetOrders", f"<CreateTimeFrom>{frm}</CreateTimeFrom><CreateTimeTo>{to}</CreateTimeTo>"
+                              "<OrderRole>Seller</OrderRole><OrderStatus>All</OrderStatus>"
+                              "<DetailLevel>ReturnAll</DetailLevel>", token)
+    out = []
+    for o in root.iter("{urn:ebay:apis:eBLBaseComponents}Order"):
+        row = {"order": o.findtext("e:OrderID", namespaces=NS), "total": o.findtext("e:Total", namespaces=NS),
+               "status": o.findtext("e:OrderStatus", namespaces=NS), "fees": {}, "items": []}
+        for el in o.iter():
+            tag = el.tag.split("}")[-1]
+            if "Fee" in tag and (el.text or "").strip():
+                row["fees"].setdefault(tag, []).append(el.text.strip())
+        for t in o.iter("{urn:ebay:apis:eBLBaseComponents}Transaction"):
+            row["items"].append({"item": t.findtext("e:Item/e:ItemID", namespaces=NS),
+                                 "title": (t.findtext("e:Item/e:Title", namespaces=NS) or "")[:80],
+                                 "category": t.findtext("e:Item/e:PrimaryCategory/e:CategoryName", namespaces=NS),
+                                 "price": t.findtext("e:TransactionPrice", namespaces=NS),
+                                 "fvf": t.findtext("e:FinalValueFee", namespaces=NS)})
+        out.append(row)
+    (ROOT / "data" / "order_fees.json").write_text(json.dumps({"checked": now.isoformat(), "orders": out}, indent=1))
+    return len(out)
+
+
 def run() -> list[str]:
     from bot.ebay.auth import access_token
     from bot.ebay.trading import get_active_item_ids, get_item
@@ -250,7 +290,11 @@ def run() -> list[str]:
         print("scan:", scan_requests())
         print("demand:", demand_requests())
     except Exception as e:
-        print("scan failed:", e)
+        print("demand failed:", e)
+    try:
+        print("order fees:", order_fees())
+    except Exception as e:
+        print("order fees failed:", e)
     cfg = load_config()
     ignore = set(map(str, cfg.get("sync", {}).get("ignore_items", [])))
     prods, tok, token = products(), app_token(), access_token()
