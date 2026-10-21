@@ -157,11 +157,14 @@ def cfg_for(cfg: dict, item_id: str) -> dict:
     return c
 
 
-def best_rate(listing, sources: dict, cfg: dict, rates: list[float], discount: float = 0.0, mult: float | None = None) -> float | None:
+def best_rate(listing, sources: dict, cfg: dict, rates: list[float], discount: float = 0.0, mult: float | None = None,
+              floor_net: float | None = None) -> float | None:
     """Highest rate in `rates` at which every live size keeps mult × the required profit; None if no rate fits."""
     from bot.profit import is_taxable, item_min_net, landed_cost, net_profit, required_net, store_shipping
     mult = mult if mult is not None else cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
     base = item_min_net(cfg, listing.item_id)
+    if floor_net is not None:      # Rafael, Oct 21: ad boosts may use up margin down to this net
+        base, mult = min(base, floor_net), 1.0
     rows = ([(v.size, v.price, v.available) for v in listing.variations] if listing.variations
             else [(None, listing.price, (listing.quantity or 0) - (listing.sold or 0))])
     live = [(s, p) for s, p, a in rows if a > 0]
@@ -219,7 +222,9 @@ def tune(live: bool) -> list[str]:
         except Exception as e:
             print("ads tune: can't read", iid, e)
             continue
-        r = best_rate(lst, sources, cfg, steps, discount_for(iid), top_mult if iid in top else None) or base
+        ffn = a.get("boost_floor_net")
+        r = best_rate(lst, sources, cfg, steps, discount_for(iid), top_mult if iid in top else None,
+                      float(ffn) if ffn else None) or base
         if abs(r - float(cur.get(iid, base))) > 1e-9:
             want[iid] = r
     if not want:

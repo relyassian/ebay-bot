@@ -37,7 +37,8 @@ ads:
   rate: 0.08                  # Promoted Listings ad rate on every shoe listing (Rafael, Oct 2); prices raised once to cover it
   top_viewed_n: 10            # Rafael, Oct 15: the 10 most-viewed listings (7-day views) may take a higher ad rate down to the $100 profit floor
   top_viewed_mult: 1.0
-  boost_steps: [0.10, 0.12, 0.15]   # Rafael, Oct 7: higher rate per listing only while every live size keeps 1.5x the required profit (bot/ads.py tune)
+  boost_floor_net: 75         # Rafael, Oct 21: "just raise ad rates" - every listing takes the highest ad step that keeps net >= $75 at its current price
+  boost_steps: [0.10, 0.12, 0.15, 0.18, 0.20]   # Rafael, Oct 7: higher rate per listing only while every live size keeps 1.5x the required profit (bot/ads.py tune)
 
 exclude:                      # Rafael, Oct 4: nothing connected to idol worship. Only brands HE confirmed; ask him before adding any.
   brands: [Dior, Christian Dior, Hermes, Hermès, Christian Louboutin, Louboutin, Versace, Nike,
@@ -47,7 +48,8 @@ exclude:                      # Rafael, Oct 4: nothing connected to idol worship
 markdown:                     # Rafael, Oct 5: eBay sale badges ("X% off", crossed-out price) — bot/markdown.py
   enabled: true
   days: 14
-  steps: [20, 15, 10, 5]      # biggest step where every live size still makes 1.5× the required profit
+  floor_net: 75               # Rafael, Oct 21: sale badges may go down to $75 net
+  steps: [25, 20, 15, 10, 5]      # biggest step where every live size still makes 1.5× the required profit
   tagline: Authentic designer shoes on sale
 
 pricing:
@@ -55,7 +57,7 @@ pricing:
   decay_after_days: 7
   decay_step: 0.03
   decay_floor_mult: 1.5       # Rafael, Oct 5: drops never go below 1.5× the required profit ($150; LV $300); listing minimum stays $100
-  market_floor_net: 80        # Rafael, Oct 20: "willing to bring it down to $80" - market matching (not new listings) may go to $80 net
+  market_floor_net: 75        # Rafael, Oct 21: "anything at 75 now" (was 80, Oct 20): "willing to bring it down to $80" - market matching (not new listings) may go to $80 net
   match_market: true          # Oct 11: ON while building the account with near-market sales; above-market products stay "uncompetitive" and get listed at planned prices once this is turned off. Rafael, Oct 7: "match market wherever you can" — drop to just under the eBay median of other new listings, never below the 1.5× floor (sync.market_drops)
   floor100_items:             # Rafael, Oct 8: TEST (review Oct 15) - market matching may go down to $100 profit on these
     - "820204075737"          # Gucci Rhyton Ivory: $100 floor $568 vs market $599 (fully matches)

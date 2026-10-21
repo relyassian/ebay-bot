@@ -49,6 +49,9 @@ def best_step(listing, sources: dict, cfg: dict, steps: list[int]) -> int:
     from bot.profit import is_taxable, item_min_net, landed_cost, net_profit, required_net, store_shipping
     mult = cfg.get("pricing", {}).get("decay_floor_mult", 1.0)
     base = item_min_net(cfg, listing.item_id)
+    fl = (cfg.get("markdown") or {}).get("floor_net")
+    if fl:      # Rafael, Oct 21: sale badges may use margin down to this net
+        base, mult = min(base, float(fl)), 1.0
     rows = ([(v.size, v.price, v.available) for v in listing.variations] if listing.variations
             else [(None, listing.price, (listing.quantity or 0) - (listing.sold or 0))])
     live = [(s, p) for s, p, a in rows if a > 0]
