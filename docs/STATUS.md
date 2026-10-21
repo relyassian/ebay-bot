@@ -346,3 +346,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Cufflinks (356084785661): left at $599.99; floor for $80 net is ~$480; no comps. No change made.
 
 - Rule (Rafael, Oct 21): never tell GOAT or any store/third party an order is for resale. Added to CLAUDE.md Fulfillment.
+
+## Oct 21 evening: demand ranking + sunglasses scan (Rafael: "scan for whatever works, we need sales")
+- Demand (competitor sold/30d, top-10 listings): Gucci sunglasses ~43, Prada sunglasses ~21, Ferragamo belts ~17, Ferragamo ties ~7, Prada wallets ~3; nearly every shoe model 0-1.3/30d (48 of 70 products with competitors show 0 sold). (Earlier note "demand has only 2 entries" was my parsing error; file has 117 entries.)
+- But volume is cheap gray-market: Gucci sunglasses sell ~$140-210, Ferragamo belts ~$95, Prada sunglasses ~$160.
+- Scanned 94 in-stock sunglasses models (Italist, Slam Jam, Browns; Gucci, Prada, Ferragamo, Tom Ford, Ray-Ban, Oakley, Burberry) vs live eBay comps (74 had comps): 0 clear $80 net at 95% of median (assumes $20 ship, 10% duty on Italist, 5% ad rate). Best was Ferragamo SF1061S at about -$16.
+- Conclusion: boutique prices >= eBay for everything scanned. Sales need either cheaper sources (Farfetch/SSENSE sale, not reachable from shell) or accepting lower margin.
