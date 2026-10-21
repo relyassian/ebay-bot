@@ -89,6 +89,9 @@ def decide(listing: Listing, sources: dict, cfg: dict, now: datetime | None = No
         landed = landed_cost(src.cost, cfg, overseas=src.overseas, taxable=is_taxable(cfg, listing.item_id),
                              shipping=store_shipping(cfg, src.source))
         base = item_min_net(cfg, listing.item_id)
+        mfn = cfg.get("pricing", {}).get("market_floor_net")
+        if mfn:      # Rafael, Oct 21: the $75 floor applies here too, or this raise undoes every market drop
+            base = min(base, float(mfn))
         need = floor_price(landed, cfg, base=base)
         # in an eBay sale (bot/markdown.py) the buyer pays price × (1 − discount): check profit at THAT price.
         # A raise takes the listing out of the sale (eBay rule), so `need` stays a full-price figure.
