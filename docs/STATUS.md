@@ -352,3 +352,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - But volume is cheap gray-market: Gucci sunglasses sell ~$140-210, Ferragamo belts ~$95, Prada sunglasses ~$160.
 - Scanned 94 in-stock sunglasses models (Italist, Slam Jam, Browns; Gucci, Prada, Ferragamo, Tom Ford, Ray-Ban, Oakley, Burberry) vs live eBay comps (74 had comps): 0 clear $80 net at 95% of median (assumes $20 ship, 10% duty on Italist, 5% ad rate). Best was Ferragamo SF1061S at about -$16.
 - Conclusion: boutique prices >= eBay for everything scanned. Sales need either cheaper sources (Farfetch/SSENSE sale, not reachable from shell) or accepting lower margin.
+
+## Oct 21 night: $75 floor, higher ad rates, bigger sale badges (Rafael: "anything at 75 now just to make sales")
+- Config: pricing.market_floor_net 75 (was 80); ads.boost_floor_net 75 + boost_steps up to 20% (each listing gets the highest ad step that keeps net >= $75 at its current price); markdown.floor_net 75 and steps [25,20,15,10,5] (sale badges where every live size nets >= $75 after the discount).
+- Bug found and fixed: sync's raise check (bot/sync.py) still used the $100 floor, so the Oct 21 daily-sync raised ~25 listings back up and undid last night's market drops. It now uses min(base, market_floor_net). Not covered by a new test (53 existing pass).
+- After fix: 2 more daily-sync runs; no further market drops fired, so the remaining above-market listings are at their $75 cost floor (cost too high to compete). Ad rates now: 44 listings at 12%, 13 at 20%, 8 at 15%, 3 at 18%, 1 at 10%.
+- Sunglasses: even at the cheapest eBay comp, best model nets about -$22. Nothing viable at $50 either.
+- New listings still use the $100 floor (listing.py); not changed.
