@@ -337,3 +337,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - NOT refreshed: Farfetch (10 products: Gancini, D&G x2, Bally x2, Cucinelli, Givenchy x2, Lanvin, Margiela). Page renders blank in the Mac browser; not bypassed. Their rows (checked Oct 20 ~11:00Z) expire ~Oct 21 23:00Z and those sizes go off sale unless a later run reads them.
 - Part C: Gmail promo search (21 days, 12 stores) empty; promos.yaml unchanged.
 - Part B and Part D: NOT run this time (the full price refresh used the session; prior Part D runs found 0 viable at boutique prices). Next run should do Part D first if time is short.
+
+## Oct 21 check-in (7:20am ET)
+- Research ran (Oct 21 6:40 run; 540 source rows, newest checked_at 11:35Z). Farfetch not refreshed (blank page); its 10 products' rows expire ~Oct 21 23:00Z and those sizes will hide. Part B/D skipped.
+- Bot healthy: daily-sync success 10:56Z; sale-alerts chain running (last 10 runs success).
+- Sales: still 1 total ($899.99). Selling-limit room 13,667 items / $177,134. No notices.
+- Demand scan: data/demand_results.json has only 2 entries (1 ok) after 11:12Z sync; Browse quota/limit likely still short. Re-dispatch market workflow later today and check.
+- Cufflinks (356084785661): left at $599.99; floor for $80 net is ~$480; no comps. No change made.
