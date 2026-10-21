@@ -36,6 +36,7 @@
 6. **Fuller titles** (Rafael, Oct 5; `bot/titles.py`, `listing.fuller_titles`): the sync fills titles toward 80 characters with true keywords only (Men's, material from item specifics, Low/High Top Sneakers / Loafers / Driving Shoes, Authentic, Made in Italy only if the listing says so). Never style codes.
 
 ## Fulfillment
+- **Never say it's a resale order (Rafael, Oct 21)**: never tell GOAT, or any store or third party, that an order is for resale (no order notes, support messages, emails or drafts that mention resale/reselling/eBay). Buy-alerts and drafts written for stores say nothing about why he is buying.
 - All luxury shoes on Rafael's account go through **eBay Authenticity Guarantee** (sneakers and loafers). Ship to the authenticator address with the **eVTN on address line 2**. Accessories (e.g. cufflinks) don't.
 - GOAT's checkout truncates line 2 (`evtn:l227ktv` → `# L227`). Rafael's decision: ship direct from GOAT anyway (no forwarding, no reship cost).
 - Sale alert: order #, US + native size to buy, cheapest in-stock store + link, best promo code, exact address to paste, eVTN warning if needed.

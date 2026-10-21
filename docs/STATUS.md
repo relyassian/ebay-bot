@@ -344,3 +344,5 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Sales: still 1 total ($899.99). Selling-limit room 13,667 items / $177,134. No notices.
 - Demand scan: data/demand_results.json has only 2 entries (1 ok) after 11:12Z sync; Browse quota/limit likely still short. Re-dispatch market workflow later today and check.
 - Cufflinks (356084785661): left at $599.99; floor for $80 net is ~$480; no comps. No change made.
+
+- Rule (Rafael, Oct 21): never tell GOAT or any store/third party an order is for resale. Added to CLAUDE.md Fulfillment.
