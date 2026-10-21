@@ -1,1 +1,660 @@
-[]
+[
+ {
+  "key": "sun|Ferragamo:SF875S|112.18|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF875S Square-Frame Sunglasses",
+  "colorway": "",
+  "style_code": "SF875S"
+ },
+ {
+  "key": "sun|Ferragamo:SF2846S|119.58|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF2846S Keyhole Square Sunglasses",
+  "colorway": "",
+  "style_code": "SF2846S"
+ },
+ {
+  "key": "sun|Ferragamo:SF930SCP|119.58|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF930SCP Cat-Eye Tortoiseshell Sunglasses",
+  "colorway": "",
+  "style_code": "SF930SCP"
+ },
+ {
+  "key": "sun|Ferragamo:SF930S|119.58|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF930S Cat-Eye Script Logo Sunglasses",
+  "colorway": "",
+  "style_code": "SF930S"
+ },
+ {
+  "key": "sun|Ferragamo:SF1111SCP|119.58|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF1111SCP Soft Square Acetate Sunglasses",
+  "colorway": "",
+  "style_code": "SF1111SCP"
+ },
+ {
+  "key": "sun|Ferragamo:SF2846SCP|119.58|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF2846SCP Keyhole Square Sunglasses",
+  "colorway": "",
+  "style_code": "SF2846SCP"
+ },
+ {
+  "key": "sun|Ferragamo:SF1073S|119.58|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF1073S Classic Logo Cat-Eye Sunglasses",
+  "colorway": "",
+  "style_code": "SF1073S"
+ },
+ {
+  "key": "sun|Ferragamo:SF1111S|119.58|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF1111S Soft Square Acetate Sunglasses",
+  "colorway": "",
+  "style_code": "SF1111S"
+ },
+ {
+  "key": "sun|Ferragamo:SF180S|120.14|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF180S Brow Line Metal Sunglasses",
+  "colorway": "",
+  "style_code": "SF180S"
+ },
+ {
+  "key": "sun|Ferragamo:SF910S|120.14|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF910S Metal Bridge Square Sunglasses",
+  "colorway": "",
+  "style_code": "SF910S"
+ },
+ {
+  "key": "sun|Ferragamo:SF2870SCP|127.94|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF2870SCP Sunglasses",
+  "colorway": "",
+  "style_code": "SF2870SCP"
+ },
+ {
+  "key": "sun|Ferragamo:SF2870S|127.94|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF2870S Gancini Cat-Eye Sunglasses",
+  "colorway": "",
+  "style_code": "SF2870S"
+ },
+ {
+  "key": "sun|Ferragamo:SF996SCP|127.94|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF996SCP Bold Rectangular Sunglasses",
+  "colorway": "",
+  "style_code": "SF996SCP"
+ },
+ {
+  "key": "sun|Ferragamo:SF1061S|127.94|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF1061S Sculpted Cat-Eye Sunglasses",
+  "colorway": "",
+  "style_code": "SF1061S"
+ },
+ {
+  "key": "sun|Ferragamo:SF1023S|128.97|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF1023S Gancini All-Over Cat-Eye Sunglasses",
+  "colorway": "",
+  "style_code": "SF1023S"
+ },
+ {
+  "key": "sun|Ferragamo:SF1086S|128.97|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF1086S Classic Logo Sunglasses",
+  "colorway": "",
+  "style_code": "SF1086S"
+ },
+ {
+  "key": "sun|Oakley:Neoforma Sunglasses Prizm Grey Matte Bla|131.0|slamjam",
+  "brand": "Oakley",
+  "model": "Neoforma Sunglasses Prizm Grey / Matte Black",
+  "colorway": "",
+  "style_code": "Neoforma Sunglasses Prizm Grey Matte Bla"
+ },
+ {
+  "key": "sun|Ferragamo:SF998S|131.57|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF998S038 Matte Grey Sunglasses",
+  "colorway": "",
+  "style_code": "SF998S"
+ },
+ {
+  "key": "sun|Oakley:Eye Jacket Redux oval frame sunglasses|144.0|brownsfashion",
+  "brand": "Oakley",
+  "model": "Eye Jacket Redux oval-frame sunglasses",
+  "colorway": "",
+  "style_code": "Eye Jacket Redux oval frame sunglasses"
+ },
+ {
+  "key": "sun|Ray-Ban:original Wayfarer change transitions sun|155.0|brownsfashion",
+  "brand": "Ray-Ban",
+  "model": "original Wayfarer change transitions\u00ae sunglasses",
+  "colorway": "",
+  "style_code": "original Wayfarer change transitions sun"
+ },
+ {
+  "key": "sun|Oakley:Eye Jacket Redux Sunglasses Prizm Grey M|162.0|slamjam",
+  "brand": "Oakley",
+  "model": "Eye Jacket Redux Sunglasses Prizm Grey / Matte Black",
+  "colorway": "",
+  "style_code": "Eye Jacket Redux Sunglasses Prizm Grey M"
+ },
+ {
+  "key": "sun|Oakley:Cage Jacket Sunglasses Prizm Ruby Matte |164.0|slamjam",
+  "brand": "Oakley",
+  "model": "Cage Jacket Sunglasses Prizm Ruby / Matte Mist",
+  "colorway": "",
+  "style_code": "Cage Jacket Sunglasses Prizm Ruby Matte "
+ },
+ {
+  "key": "sun|Ray-Ban:Aviator Classic sunglasses|165.0|brownsfashion",
+  "brand": "Ray-Ban",
+  "model": "Aviator Classic sunglasses",
+  "colorway": "",
+  "style_code": "Aviator Classic sunglasses"
+ },
+ {
+  "key": "sun|Ray-Ban:Mega Wayfarer sunglasses|165.0|brownsfashion",
+  "brand": "Ray-Ban",
+  "model": "Mega Wayfarer sunglasses",
+  "colorway": "",
+  "style_code": "Mega Wayfarer sunglasses"
+ },
+ {
+  "key": "sun|Ray-Ban:Clubmaster Classic Sunglasses Polished B|169.0|slamjam",
+  "brand": "Ray-Ban",
+  "model": "Clubmaster Classic Sunglasses Polished Black / Gold / G-15 Green",
+  "colorway": "",
+  "style_code": "Clubmaster Classic Sunglasses Polished B"
+ },
+ {
+  "key": "sun|Ray-Ban:Caravan Sunglasses Polished Arista Gold |169.0|slamjam",
+  "brand": "Ray-Ban",
+  "model": "Caravan Sunglasses Polished Arista Gold / G-15 Green",
+  "colorway": "",
+  "style_code": "Caravan Sunglasses Polished Arista Gold "
+ },
+ {
+  "key": "sun|Ray-Ban:Men s Bill Sunglasses Polished Black Yel|169.0|slamjam",
+  "brand": "Ray-Ban",
+  "model": "Men's Bill Sunglasses Polished Black / Yellow",
+  "colorway": "",
+  "style_code": "Men s Bill Sunglasses Polished Black Yel"
+ },
+ {
+  "key": "sun|Ray-Ban:Wayfarer Sunglasses Polished Black G 15 |169.0|slamjam",
+  "brand": "Ray-Ban",
+  "model": "Wayfarer Sunglasses Polished Black / G-15 Green",
+  "colorway": "",
+  "style_code": "Wayfarer Sunglasses Polished Black G 15 "
+ },
+ {
+  "key": "sun|Ray-Ban:Aviator Sunglasses Polished Silver Orang|169.0|slamjam",
+  "brand": "Ray-Ban",
+  "model": "Aviator Sunglasses Polished Silver / Orange Photocromic",
+  "colorway": "",
+  "style_code": "Aviator Sunglasses Polished Silver Orang"
+ },
+ {
+  "key": "sun|Oakley:Highland Sunglasses Prizm Black Black|171.0|slamjam",
+  "brand": "Oakley",
+  "model": "Highland Sunglasses Prizm Black / Black",
+  "colorway": "",
+  "style_code": "Highland Sunglasses Prizm Black Black"
+ },
+ {
+  "key": "sun|Oakley:Radar EV Path Sunglasses Matte Grey Priz|171.0|slamjam",
+  "brand": "Oakley",
+  "model": "Radar EV Path Sunglasses Matte Grey / Prizm Trail Torch",
+  "colorway": "",
+  "style_code": "Radar EV Path Sunglasses Matte Grey Priz"
+ },
+ {
+  "key": "sun|Oakley:Suture Jacket Sunglasses Prizm Black Mat|178.0|slamjam",
+  "brand": "Oakley",
+  "model": "Suture Jacket Sunglasses Prizm Black / Matte Black",
+  "colorway": "",
+  "style_code": "Suture Jacket Sunglasses Prizm Black Mat"
+ },
+ {
+  "key": "sun|Oakley:Eye Jacket Redux Sunglasses Prizm Ruby P|179.0|slamjam",
+  "brand": "Oakley",
+  "model": "Eye Jacket Redux Sunglasses Prizm Ruby Polarized / Matte Black",
+  "colorway": "",
+  "style_code": "Eye Jacket Redux Sunglasses Prizm Ruby P"
+ },
+ {
+  "key": "sun|Ferragamo:SF2011S|190.36|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF2011S Rectangular Rivet Acetate Sunglasses",
+  "colorway": "",
+  "style_code": "SF2011S"
+ },
+ {
+  "key": "sun|Gucci:GG2106S|196.33|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG2106S Sunglasses",
+  "colorway": "",
+  "style_code": "GG2106S"
+ },
+ {
+  "key": "sun|Ferragamo:SF1103S|212.71|it",
+  "brand": "Ferragamo",
+  "model": "Salvatore Ferragamo Sunglasses Cat Eye Full Rim, Transparent Brown Fra",
+  "colorway": "",
+  "style_code": "SF1103S"
+ },
+ {
+  "key": "sun|Ferragamo:SF318SP|216.93|it",
+  "brand": "Ferragamo",
+  "model": "Ferragamo SF318SP021 Rectangle Full Rim Sunglasses",
+  "colorway": "",
+  "style_code": "SF318SP"
+ },
+ {
+  "key": "sun|Burberry: Frame And Lens Havana Eyeglasses|233.84|it",
+  "brand": "Burberry",
+  "model": ", Frame And Lens Havana Eyeglasses",
+  "colorway": "",
+  "style_code": " Frame And Lens Havana Eyeglasses"
+ },
+ {
+  "key": "sun|Tom Ford:FT6169|240.64|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford Eyewear FT6169B Sunglasses",
+  "colorway": "",
+  "style_code": "FT6169"
+ },
+ {
+  "key": "sun|Tom Ford:TF1211|252.55|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford TF1211 Sunglasses",
+  "colorway": "",
+  "style_code": "TF1211"
+ },
+ {
+  "key": "sun|Tom Ford:FT1480|255.17|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford Eyewear FT1480 Tortoiseshell Rectangular Sunglasses",
+  "colorway": "",
+  "style_code": "FT1480"
+ },
+ {
+  "key": "sun|Tom Ford:FT1037|256.73|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford FT103701B Sunglasses",
+  "colorway": "",
+  "style_code": "FT1037"
+ },
+ {
+  "key": "sun|Gucci:Rectangular frame sunglasses|258.0|antonioli",
+  "brand": "Gucci",
+  "model": "Rectangular frame sunglasses",
+  "colorway": "",
+  "style_code": "Rectangular frame sunglasses"
+ },
+ {
+  "key": "sun|Tom Ford:FT1406|260.01|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford Eyewear FT1406 Tortoiseshell Aviator Sunglasses",
+  "colorway": "",
+  "style_code": "FT1406"
+ },
+ {
+  "key": "sun|Gucci:Interlocking G cat eye sunglasses|265.0|brownsfashion",
+  "brand": "Gucci",
+  "model": "Interlocking G cat-eye sunglasses",
+  "colorway": "",
+  "style_code": "Interlocking G cat eye sunglasses"
+ },
+ {
+  "key": "sun|Gucci:cat eye sunglasses|265.0|brownsfashion",
+  "brand": "Gucci",
+  "model": "cat-eye sunglasses",
+  "colorway": "",
+  "style_code": "cat eye sunglasses"
+ },
+ {
+  "key": "sun|Tom Ford:TF1246K|267.29|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford TF1246K Sunglasses",
+  "colorway": "",
+  "style_code": "TF1246K"
+ },
+ {
+  "key": "sun|Gucci:GG1041S|268.78|it",
+  "brand": "Gucci",
+  "model": "Gucci GG1041S 80s Square Sunglasses",
+  "colorway": "",
+  "style_code": "GG1041S"
+ },
+ {
+  "key": "sun|Gucci:tortoiseshell effect pilot sunglasses|270.0|brownsfashion",
+  "brand": "Gucci",
+  "model": "tortoiseshell-effect pilot sunglasses",
+  "colorway": "",
+  "style_code": "tortoiseshell effect pilot sunglasses"
+ },
+ {
+  "key": "sun|Tom Ford:FT0783|271.87|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford FT078328B Gradient Lens Aviator Sunglasses",
+  "colorway": "",
+  "style_code": "FT0783"
+ },
+ {
+  "key": "sun|Gucci:GG1325S|272.59|it",
+  "brand": "Gucci",
+  "model": "Gucci GG1325S Sunglasses",
+  "colorway": "",
+  "style_code": "GG1325S"
+ },
+ {
+  "key": "sun|Gucci:Metal sunglasses|273.0|n",
+  "brand": "Gucci",
+  "model": "Metal sunglasses",
+  "colorway": "",
+  "style_code": "Metal sunglasses"
+ },
+ {
+  "key": "sun|Gucci:GG0654S|277.86|it",
+  "brand": "Gucci",
+  "model": "Gucci GG0654S Sunglasses",
+  "colorway": "",
+  "style_code": "GG0654S"
+ },
+ {
+  "key": "sun|Gucci:GG0565S|277.86|it",
+  "brand": "Gucci",
+  "model": "Gucci GG0565S Oval Sunglasses",
+  "colorway": "",
+  "style_code": "GG0565S"
+ },
+ {
+  "key": "sun|Tom Ford:TF1274DN|277.86|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford TF1274DN Rectangular Alternative Fit Sunglasses",
+  "colorway": "",
+  "style_code": "TF1274DN"
+ },
+ {
+  "key": "sun|Gucci:GG2270S|278.21|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG2270S Sunglasses",
+  "colorway": "",
+  "style_code": "GG2270S"
+ },
+ {
+  "key": "sun|Gucci:GG0076S|279.4|it",
+  "brand": "Gucci",
+  "model": "Gucci GG0076S Sunglasses",
+  "colorway": "",
+  "style_code": "GG0076S"
+ },
+ {
+  "key": "sun|Gucci:GG2215S|283.25|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG2215S Oval Frame Sunglasses",
+  "colorway": "",
+  "style_code": "GG2215S"
+ },
+ {
+  "key": "sun|Prada:Symbole sunglasses|285.0|brownsfashion",
+  "brand": "Prada",
+  "model": "Symbole sunglasses",
+  "colorway": "",
+  "style_code": "Symbole sunglasses"
+ },
+ {
+  "key": "sun|Gucci:GG2128S|288.72|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG2128S002 Tortoiseshell Acetate Sunglasses",
+  "colorway": "",
+  "style_code": "GG2128S"
+ },
+ {
+  "key": "sun|Gucci:GG1944S|288.72|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG1944S001 Cat-Eye Recycled Acetate Sunglasses",
+  "colorway": "",
+  "style_code": "GG1944S"
+ },
+ {
+  "key": "sun|Gucci:GG1660S|290.0|antonioli",
+  "brand": "Gucci",
+  "model": "GG1660S Sunglasses",
+  "colorway": "",
+  "style_code": "GG1660S"
+ },
+ {
+  "key": "sun|Tom Ford:FT1363|293.0|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford FT1363 Rectangle Full Rim Sunglasses",
+  "colorway": "",
+  "style_code": "FT1363"
+ },
+ {
+  "key": "sun|Tom Ford:FT1338|293.91|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford Eyewear FT1338 Sunglasses",
+  "colorway": "",
+  "style_code": "FT1338"
+ },
+ {
+  "key": "sun|Gucci:GG1754S|298.99|it",
+  "brand": "Gucci",
+  "model": "Gucci GG1754S Tapered Oval Sunglasses",
+  "colorway": "",
+  "style_code": "GG1754S"
+ },
+ {
+  "key": "sun|Gucci:GG1695S|298.99|it",
+  "brand": "Gucci",
+  "model": "Gucci GG1695S Rectangular Oversized Sunglasses",
+  "colorway": "",
+  "style_code": "GG1695S"
+ },
+ {
+  "key": "sun|Gucci:GG2170S|300.65|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG2170S Sunglasses",
+  "colorway": "",
+  "style_code": "GG2170S"
+ },
+ {
+  "key": "sun|Burberry:BE4431|301.26|it",
+  "brand": "Burberry",
+  "model": "Burberry BE4431U300287 Square Full-Rim Havana Sunglasses",
+  "colorway": "",
+  "style_code": "BE4431"
+ },
+ {
+  "key": "sun|Burberry:BE4434|302.65|it",
+  "brand": "Burberry",
+  "model": "Burberry BE4434412187 Sunglasses",
+  "colorway": "",
+  "style_code": "BE4434"
+ },
+ {
+  "key": "sun|Gucci:GG2259S|303.4|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG2259S Sunglasses",
+  "colorway": "",
+  "style_code": "GG2259S"
+ },
+ {
+  "key": "sun|Prada:Prada Eyewear PRB54S5AK40K Gold Metal Fr|304.12|it",
+  "brand": "Prada",
+  "model": "Prada Eyewear PRB54S5AK40K Gold Metal Frame Sunglasses",
+  "colorway": "",
+  "style_code": "Prada Eyewear PRB54S5AK40K Gold Metal Fr"
+ },
+ {
+  "key": "sun|Tom Ford:FT1420|308.42|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford Eyewear FT1420 Sunglasses",
+  "colorway": "",
+  "style_code": "FT1420"
+ },
+ {
+  "key": "sun|Tom Ford:TF711|310.25|it",
+  "brand": "Tom Ford",
+  "model": "Tom Ford TF711 Flat Top Acetate Sunglasses",
+  "colorway": "",
+  "style_code": "TF711"
+ },
+ {
+  "key": "sun|Prada:Prada Eyewear PRD59S Gold Tone Metal Fra|313.46|it",
+  "brand": "Prada",
+  "model": "Prada Eyewear PRD59S Gold-Tone Metal Frame Sunglasses",
+  "colorway": "",
+  "style_code": "Prada Eyewear PRD59S Gold Tone Metal Fra"
+ },
+ {
+  "key": "sun|Gucci:GG0765SA|315.54|it",
+  "brand": "Gucci",
+  "model": "Gucci GG0765SA002 Sunglasses",
+  "colorway": "",
+  "style_code": "GG0765SA"
+ },
+ {
+  "key": "sun|Gucci:GG1941S|316.13|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG1941S003 Rimless Metal Sunglasses",
+  "colorway": "",
+  "style_code": "GG1941S"
+ },
+ {
+  "key": "sun|Gucci:GG2274S|318.51|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG2274S Tortoiseshell Shield Sunglasses",
+  "colorway": "",
+  "style_code": "GG2274S"
+ },
+ {
+  "key": "sun|Gucci:Cat Eye Frame Sunglasses|320.0|antonioli",
+  "brand": "Gucci",
+  "model": "Cat-Eye Frame Sunglasses",
+  "colorway": "",
+  "style_code": "Cat Eye Frame Sunglasses"
+ },
+ {
+  "key": "sun|Gucci:GG1335S|320.12|it",
+  "brand": "Gucci",
+  "model": "Gucci GG1335S Geometric Sunglasses",
+  "colorway": "",
+  "style_code": "GG1335S"
+ },
+ {
+  "key": "sun|Gucci:3D Block Logo oval sunglasses|330.0|brownsfashion",
+  "brand": "Gucci",
+  "model": "3D Block Logo oval sunglasses",
+  "colorway": "",
+  "style_code": "3D Block Logo oval sunglasses"
+ },
+ {
+  "key": "sun|Gucci:GG2051S|331.61|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG2051S Rimless Metal Sunglasses",
+  "colorway": "",
+  "style_code": "GG2051S"
+ },
+ {
+  "key": "sun|Gucci:GG1363S|334.78|it",
+  "brand": "Gucci",
+  "model": "Gucci GG1363S Semi-Rimless Browline Sunglasses",
+  "colorway": "",
+  "style_code": "GG1363S"
+ },
+ {
+  "key": "sun|Gucci:GG0595S|343.14|it",
+  "brand": "Gucci",
+  "model": "Gucci GG0595S Round Oversize Sunglasses",
+  "colorway": "",
+  "style_code": "GG0595S"
+ },
+ {
+  "key": "sun|Gucci:GG0036SN|343.85|it",
+  "brand": "Gucci",
+  "model": "Gucci GG0036SN Square Acetate Sunglasses",
+  "colorway": "",
+  "style_code": "GG0036SN"
+ },
+ {
+  "key": "sun|Gucci:GG2165S|345.18|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG2165S Sunglasses",
+  "colorway": "",
+  "style_code": "GG2165S"
+ },
+ {
+  "key": "sun|Gucci:GG1802S|367.74|it",
+  "brand": "Gucci",
+  "model": "Gucci Eyewear GG1802S Sunglasses",
+  "colorway": "",
+  "style_code": "GG1802S"
+ },
+ {
+  "key": "sun|Gucci:GG0956S|373.64|it",
+  "brand": "Gucci",
+  "model": "Gucci GG0956S Geometric Sunglasses",
+  "colorway": "",
+  "style_code": "GG0956S"
+ },
+ {
+  "key": "sun|Gucci:GG0962S|374.51|it",
+  "brand": "Gucci",
+  "model": "Gucci Gg0962s Sunglasses Black",
+  "colorway": "",
+  "style_code": "GG0962S"
+ },
+ {
+  "key": "sun|Gucci:Double G butterfly frame sunglasses|375.0|brownsfashion",
+  "brand": "Gucci",
+  "model": "Double G butterfly-frame sunglasses",
+  "colorway": "",
+  "style_code": "Double G butterfly frame sunglasses"
+ },
+ {
+  "key": "sun|Gucci:Round Frame Sunglasses|400.0|antonioli",
+  "brand": "Gucci",
+  "model": "Round Frame Sunglasses",
+  "colorway": "",
+  "style_code": "Round Frame Sunglasses"
+ },
+ {
+  "key": "sun|Gucci:tortoiseshell effect square frame sungla|405.0|brownsfashion",
+  "brand": "Gucci",
+  "model": "tortoiseshell-effect square-frame sunglasses",
+  "colorway": "",
+  "style_code": "tortoiseshell effect square frame sungla"
+ },
+ {
+  "key": "sun|Gucci:Frameless Mask Sunglasses|440.0|antonioli",
+  "brand": "Gucci",
+  "model": "Frameless Mask Sunglasses",
+  "colorway": "",
+  "style_code": "Frameless Mask Sunglasses"
+ },
+ {
+  "key": "sun|Gucci:Mask Frame Sunglasses|440.0|antonioli",
+  "brand": "Gucci",
+  "model": "Mask Frame Sunglasses",
+  "colorway": "",
+  "style_code": "Mask Frame Sunglasses"
+ },
+ {
+  "key": "sun|Gucci:Gucci Square Full Rim Sunglasses Brown|454.99|it",
+  "brand": "Gucci",
+  "model": "Gucci Square Full Rim Sunglasses",
+  "colorway": "",
+  "style_code": "Gucci Square Full Rim Sunglasses Brown"
+ }
+]
