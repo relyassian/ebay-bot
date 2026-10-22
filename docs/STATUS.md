@@ -380,3 +380,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - eBay NEW Tod's Gommino loafers, last 90 days (Seller Hub, 22 sold): avg $186, range $76–$399. Yoox's $398 would lose about $200 per pair. The "discount" is against an inflated list price, so Yoox is NOT a source for Tod's.
 - Not checked (assumed same pattern, unverified): Bally, Santoni, Doucal's, Thom Browne. eBay Browse API was rate-limited (429) until ~3am ET, so the explore run returned errors; requests/explore.json is cleared.
 - Conclusion: no off-price store found that beats eBay sold prices. No listings changed.
+
+## Oct 22: daily research (11:07Z run, Mac browser linked)
+- Part A: refreshed all GOAT (60 pages), StockX (26), Farfetch (10 products), Italist, Nugnes1920, Antonioli and the Cettire cufflinks (all read live Oct 22 ~10:40-11:07Z). 513 of 540 rows rewritten with checked_at 11:07Z (46 legacy no-source rows left as is). 5 sizes went out of stock (e.g. D&G Saint Tropez EU 40, Givenchy FR 41); 63 prices changed, 16 by more than 10% (mostly StockX/GOAT asks moving). Sizes in the CSV only; no "sizes to add" proposed. Prices go stale at ~23:00Z Oct 23 if not refreshed.
+- Part B skipped (no confirmed selling-limit room check; file says 177k remaining, stale Oct 20).
+- Part C: Gmail (21 days, 12 stores) empty again; promos.yaml unchanged (header note added).
+- Part D: scanned Nugnes1920 men's sneakers (58 in stock, 11 at >=35% off). Best: Givenchy black $426, Margiela Replica red $537, Moncler Trailgrip $330, Rick Owens Minimal $417. Requested eBay comps for 4 of them via requests/scan.json; the `market` workflow was still queued when this run ended (data/scan_results.json not updated). 0 candidates written. Earlier days' finding stands: boutique sale prices are mostly above eBay sold prices. Check data/scan_results.json next run before writing any candidate.
+- Scheduled task this chat owns: "eBay daily research" (daily, ~6-7am ET): follows docs/research_routine.md Parts A-D, commits `research: YYYY-MM-DD`, pushes, updates this file.
