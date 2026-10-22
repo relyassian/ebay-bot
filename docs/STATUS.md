@@ -387,3 +387,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part C: Gmail (21 days, 12 stores) empty again; promos.yaml unchanged (header note added).
 - Part D: scanned Nugnes1920 men's sneakers (58 in stock, 11 at >=35% off). Best: Givenchy black $426, Margiela Replica red $537, Moncler Trailgrip $330, Rick Owens Minimal $417. Requested eBay comps for 4 of them via requests/scan.json; the `market` workflow was still queued when this run ended (data/scan_results.json not updated). 0 candidates written. Earlier days' finding stands: boutique sale prices are mostly above eBay sold prices. Check data/scan_results.json next run before writing any candidate.
 - Scheduled task this chat owns: "eBay daily research" (daily, ~6-7am ET): follows docs/research_routine.md Parts A-D, commits `research: YYYY-MM-DD`, pushes, updates this file.
+
+## Oct 22 7:24am ET: daily check-in
+- Research ran today (newest checked_at 11:07Z). daily-sync success 11:08Z; sale-alerts chain running (last completed success 10:56Z). market workflow was still in progress. No notices (data/notices.json empty). Selling limit room: 13,667 items / $177,134.
+- Sales this month per eBay limits: 1 sold, $899.99 (no new sale detected since the last check).
+- Scheduled: 12 more check-ins queued (this chat), 7:20am ET Sun–Fri Oct 23 to Nov 5 (Oct 23, 25-30, Nov 1-5). The Nov 5 one re-queues the next two weeks. Oct 28 check-in also reviews the $75 floor / ad rates / sale badges.
+- Mac STATUS.md not updated (copy is stale; repo docs/STATUS.md is the source of truth).
