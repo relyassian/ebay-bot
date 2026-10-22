@@ -374,3 +374,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Our asking prices are well above those sold averages (Ferragamo loafers ~$1,090, Gucci Horsebit ~$790, Margiela $799.99) -> no sales. At sold averages we LOSE money because costs are $650+ (Gucci), $500+ (Farfetch sale Givenchy/Lanvin/Margiela), Jomashop Ferragamo loafers $450-680.
 - Farfetch men's sale now loads in the built-in browser (up to 70% off; search with discount shows Final price). Gucci/Ferragamo/Tod's/Bally not on sale there. Final Sale items are non-returnable (avoid as a source). Margiela Sprinters Farfetch $508 vs Antonioli $530.
 - Conclusion: eBay sold prices for new luxury shoes sit near 40-60% of retail = what off-price/outlet buyers pay. Boutique/sale prices don't beat that. Real fix = off-price sources (Saks Off 5th liquidation, Nordstrom Rack, outlets) or accept small loss-leaders for feedback. Decision pending with Rafael.
+
+## Oct 22 early: Yoox check (no-loss source hunt)
+- Yoox US men's shoes are 30–70% off its "reference" price (Tod's loafers $398 vs $795, Santoni loafers $364, Bally loafers $282, Ferragamo loafers $566, Gucci not carried in that search). Read from the live page in the Mac browser; sizes are thin (2–4 sizes per item).
+- eBay NEW Tod's Gommino loafers, last 90 days (Seller Hub, 22 sold): avg $186, range $76–$399. Yoox's $398 would lose about $200 per pair. The "discount" is against an inflated list price, so Yoox is NOT a source for Tod's.
+- Not checked (assumed same pattern, unverified): Bally, Santoni, Doucal's, Thom Browne. eBay Browse API was rate-limited (429) until ~3am ET, so the explore run returned errors; requests/explore.json is cleared.
+- Conclusion: no off-price store found that beats eBay sold prices. No listings changed.
