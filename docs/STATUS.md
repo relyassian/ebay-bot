@@ -400,3 +400,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Only real markups: sealed TCG. Pokemon ETB median $130 (MSRP ~$55-60, but stock only at restocks), One Piece boxes median $197, MTG collector boxes median $445, Lorcana $202. All stock-first (buy before listing) and retailers cancel resale-looking orders. Retail/MSRP figures not verified this run (web search only returned snippets).
 - Watches (Tissot PRX $421, Hamilton Khaki $715, Seiko 5 $319 medians) are the one source-on-demand candidate: Jomashop/Ashford price below MSRP. NOT verified; needs a Jomashop vs eBay-sold check per model (Seller Hub Research).
 - Arc'teryx (median $320, ~83 sold/30d) worth a sale-price check at Arc'teryx outlet/REI/Backcountry. Unverified.
+
+## Oct 22 afternoon: watch check (Jomashop vs eBay SOLD) + "no holding stock" (Rafael)
+- Rafael: no holding stock -> trading-card test is OFF. Only buy-after-sale ideas qualify.
+- Jomashop prices (search snippets, Oct 22): Tissot PRX quartz 40mm $324-333 (retail $450); PRX Powermatic 80 $612-620 (retail $850); Hamilton Khaki Field H69439931 $526.50; Seiko 5 SRPD51 $219; Casio GA-2100-1A1 $84.99 (out of stock).
+- eBay NEW sold, 90 days (Seller Hub): Tissot PRX quartz T137.410.11.041.00 avg $206 (range $70-382; keyword may include other items); Seiko SRPD51 avg $198; Hamilton H69439931 avg $553 (9 sellers). Powermatic query returned nothing.
+- Result: Jomashop >= eBay sold on all three, so watches lose money after fees. Dead end.
+- Also: cologne (YSL Y EDP Jomashop $99.99 vs eBay ~$106) loses. Conclusion across 100+ products: no buy-after-sale category beats eBay sold prices at boutique/discount-site prices. Remaining plan: Oct 28 review, Black Friday re-scan.
