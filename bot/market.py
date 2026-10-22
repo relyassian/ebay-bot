@@ -254,6 +254,44 @@ def demand_requests() -> int:
     return len(res)
 
 
+def explore_requests() -> int:
+    """Category exploration (read-only): requests/explore.json [{key, q, must?}] -> data/explore_results.json
+    {key: {n, median_price, p25, sold_total, sold_per_30d, top}}. New fixed-price US listings only."""
+    src = ROOT / "requests" / "explore.json"
+    if not src.exists():
+        return 0
+    tok, res, now = app_token(), {}, datetime.now(timezone.utc)
+    for p in json.loads(src.read_text()):
+        try:
+            hits = [it for it in search(p["q"], tok) if (it.get("seller") or {}).get("username", "").lower() != SELLER]
+            if p.get("must"):
+                hits = [it for it in hits if all(w in it.get("title", "").lower() for w in p["must"])]
+            px = sorted(float((it.get("price") or {}).get("value") or 0) for it in hits)
+            px = [x for x in px if x > 0]
+            rows = []
+            for it in hits[:10]:
+                info = _sold_info(it.get("itemId"), tok)
+                time.sleep(0.2)
+                if info:
+                    rows.append(info)
+            rate = 0.0
+            for r in rows:
+                try:
+                    age = max(7, (now - datetime.fromisoformat(r["created"].replace("Z", "+00:00"))).days)
+                except Exception:
+                    age = 90
+                rate += int(r["sold"] or 0) * 30 / age
+            res[p["key"]] = {"n": len(px), "median_price": round(statistics.median(px), 2) if px else None,
+                             "p25": px[len(px) // 4] if px else None,
+                             "sold_total": sum(int(r["sold"] or 0) for r in rows), "sold_per_30d": round(rate, 1),
+                             "top": [{k: r[k] for k in ("title", "price", "sold", "seller")} for r in rows[:4]]}
+        except Exception as e:
+            res[p["key"]] = {"error": str(e)[:120]}
+    (ROOT / "data" / "explore_results.json").write_text(json.dumps(
+        {"checked": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "items": res}, indent=1))
+    return len(res)
+
+
 def order_fees() -> int:
     """Read-only: dump every fee eBay charged on recent orders (Trading GetOrders, last 90 days) to
     data/order_fees.json so the real final-value-fee rate per category/price can be checked."""
@@ -304,6 +342,10 @@ def run() -> list[str]:
         print("demand:", demand_requests())
     except Exception as e:
         print("demand failed:", e)
+    try:
+        print("explore:", explore_requests())
+    except Exception as e:
+        print("explore failed:", e)
     try:
         print("order fees:", order_fees())
     except Exception as e:
