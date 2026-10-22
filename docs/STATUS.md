@@ -393,3 +393,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Sales this month per eBay limits: 1 sold, $899.99 (no new sale detected since the last check).
 - Scheduled: 12 more check-ins queued (this chat), 7:20am ET Sun–Fri Oct 23 to Nov 5 (Oct 23, 25-30, Nov 1-5). The Nov 5 one re-queues the next two weeks. Oct 28 check-in also reviews the $75 floor / ad rates / sale badges.
 - Mac STATUS.md not updated (copy is stale; repo docs/STATUS.md is the source of truth).
+
+## Oct 22 afternoon: 97-query eBay sweep (Rafael: "another item that sells very well with decent profit")
+- Ran explore on 97 brands/products (shoes: Hoka, On, Salomon, NB, Asics, Adidas, UGG, Birkenstock; outerwear: Patagonia, Arc'teryx, North Face, Canada Goose, Carhartt; electronics: AirPods, Sony, Bose, DJI, GoPro, Dyson, Garmin; cologne; watches; kitchen; TCG; Lego; Funko; bags). Results in data/explore_results.json (live listing medians + sold counts; single-qty sold counts unreliable).
+- Almost everything has an eBay median at or below retail (cologne Creed Aventus $300 vs ~$365 retail, Dyson, AirPods, Oakley, Ray-Ban, UGG, Hoka, Salomon, North Face, Lululemon, Le Creuset). No source-on-demand category shows a >$75 margin from this data alone.
+- Only real markups: sealed TCG. Pokemon ETB median $130 (MSRP ~$55-60, but stock only at restocks), One Piece boxes median $197, MTG collector boxes median $445, Lorcana $202. All stock-first (buy before listing) and retailers cancel resale-looking orders. Retail/MSRP figures not verified this run (web search only returned snippets).
+- Watches (Tissot PRX $421, Hamilton Khaki $715, Seiko 5 $319 medians) are the one source-on-demand candidate: Jomashop/Ashford price below MSRP. NOT verified; needs a Jomashop vs eBay-sold check per model (Seller Hub Research).
+- Arc'teryx (median $320, ~83 sold/30d) worth a sale-price check at Arc'teryx outlet/REI/Backcountry. Unverified.
