@@ -1,5 +1,6 @@
 scan: 0
-demand: -1
+demand: 117
+explore: 0
 order fees: 2
 market 355066429434: ours 1099.99 vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
@@ -25,7 +26,7 @@ market 820204075398: ours None vs cheapest 565.0 (2 others) · Gucci Ace Sneaker
 market 820204075433: ours 734.99 vs cheapest 430.95 (3 others) · Gucci x adidas Gazelle GG Monogram Sneaker Black M
 market 820204075474: ours 863.99 vs cheapest - (0 others) · Gucci x adidas Gazelle Suede Sneaker Light Blue Me
 market 820204075517: ours 844.99 vs cheapest - (0 others) · Gucci Horsebit Driver Loafer with Web Black/Green/
-market 820204075592: ours 794.99 vs cheapest 487.0 (4 others) · Gucci Horsebit Driver Loafer Black Men's Leather D
+market 820204075592: ours 794.99 vs cheapest 499.99 (3 others) · Gucci Horsebit Driver Loafer Black Men's Leather D
 market 820204075633: ours 1149.99 vs cheapest 950.0 (1 others) · Gucci Re-Web GG Canvas Sneaker White/Beige Men's L
 market 820204075737: ours 604.99 vs cheapest 499.0 (3 others) · Gucci Rhyton Leather Sneaker Ivory Men's Low Top S
 market 820204075830: ours 1099.99 vs cheapest - (0 others) · Gucci Screener GG Canvas Sneaker Black/Green/Red M
@@ -42,8 +43,8 @@ market 820205329783: ours 816.99 vs cheapest - (0 others) · Gucci Tennis 1977 H
 market 820205389034: ours 1981.99 vs cheapest - (0 others) · Louis Vuitton LV Skate Sneaker Beige/White Men's L
 market 820205698211: ours 749.99 vs cheapest 550.0 (3 others) · Gucci Ace GG Embossed Sneaker Black Men's Leather 
 market 820207186160: ours None vs cheapest 749.0 (1 others) · Balenciaga Runner Sneaker Black Matte Men's Mesh L
-market 820207186196: ours 1119.99 vs cheapest 499.0 (10 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
-market 820207186222: ours 699.99 vs cheapest - (0 others) · Gucci Ace GG Embossed - White Men's Leather Low To
+market 820207186196: ours 1119.99 vs cheapest 499.0 (9 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
+market 820207186222: ours 699.99 vs cheapest 619.0 (1 others) · Gucci Ace GG Embossed - White Men's Leather Low To
 market 820207186253: ours 829.99 vs cheapest 375.0 (10 others) · Gucci Basket Black Red Men's Demetra Low Top Sneak
 market 820207186287: ours 634.99 vs cheapest 189.0 (35 others) · Gucci Basket Green Demetra Men's Low Top Sneakers 
 market 820207186315: ours 775.99 vs cheapest - (0 others) · Gucci Basket Grey Yellow Blue Men's Demetra Low To
@@ -51,7 +52,7 @@ market 820207186346: ours 784.99 vs cheapest 350.0 (6 others) · Gucci Basket Hi
 market 820207186379: ours 664.99 vs cheapest 350.0 (7 others) · Gucci Basket High Green Demetra Men's High Top Sne
 market 820207186442: ours 999.99 vs cheapest 499.99 (3 others) · Gucci Basket High White Demetra Red Men's High Top
 market 820207186465: ours 559.99 vs cheapest 295.0 (10 others) · Gucci Basket Low White Demetra Green Men's Low Top
-market 820207186489: ours 599.99 vs cheapest 299.99 (5 others) · Gucci Basket Low White Demetra Red Men's Low Top S
+market 820207186489: ours 599.99 vs cheapest 299.99 (6 others) · Gucci Basket Low White Demetra Red Men's Low Top S
 market 820207186525: ours 619.99 vs cheapest 375.0 (8 others) · Gucci Basket Red Black Demetra Men's Low Top Sneak
 market 820207186550: ours 704.99 vs cheapest 429.9 (3 others) · Gucci Driver Interlocking G - Green Men's Leather 
 market 820207186594: ours 1009.99 vs cheapest - (0 others) · Gucci GG Screener Grey Navy Men's Suede Low Top Sn
@@ -87,10 +88,31 @@ market 820253018968: ours 1159.99 vs cheapest - (0 others) · Lanvin Curb Cut-Ou
 market 820253019164: ours 937.99 vs cheapest - (0 others) · Maison Margiela Sprinters Sneaker Black Men's Leat
 market 820256466735: ours 985.99 vs cheapest - (0 others) · Givenchy Gent Leather Derby Black Men's New
 market 820259478300: ours 864.99 vs cheapest 799.99 (1 others) · Maison Margiela Sprinters Sneaker White/Grey Men's
-Price check: 86 listings compared, 34 priced more than 5% above another seller.
-📋 Daily eBay check · Wed Oct 21
+Price check: 86 listings compared, 35 priced more than 5% above another seller.
+📋 Daily eBay check · Thu Oct 22
 
-What I did: raised the price a little on 2 listings because the store got pricier.
+What I did: took 3 listings (or some sizes) off sale because stores ran out; put 3 listings back on sale; raised the price a little on 10 listings because the store got pricier; lowered the price 3% on 5 listings that hadn't sold in a week.
 Nothing for you to do.
-{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/0BQAAeSwzvtq1qXr/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cosma High-Top Sneaker Black Sneakers…\nSizes: all 2 sizes · now from $599.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649253"}
-{'photo': 'https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/8a0AAeSwY5Zq1S~X/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nBally Logo-Plaque Leather Loafer Grey Loafers…\nSizes: US 11 · now from $484.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820253018257"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/8UkAAOSwo9VluJTu/$_57.PNG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Tennis 1977 Sneaker Beige/Ebony GG Canvas…\nSizes: US 8 · you'd make $133\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/355423513413"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/tCoAAeSwNXxq1qXN/$_1.JPG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Ace Sneaker with Web White/Green/Red Low…\nSizes: US 12.5 · you'd make $163\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820204075398"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/WYQAAeSwn1hq1qXd/$_1.JPG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Ace Sneaker with Perforated Interlocking…\nSizes: US 8 · you'd make $97\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820205329431"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxMjU0/z/eQIAAOSwfXBluClJ/$_57.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nD&G Saint Tropez Sneakers White Calfskin…\nSizes: US 7 · now from $814.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355422763143"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/adEAAOSwcAllueDs/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace GG Supreme Sneaker Black/Grey Leather…\nSizes: US 12 · now from $949.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355426469262"}
+Also changed:
+• Price Raised: Gucci x adidas Gazelle GG Monogram Sneaker… (US 6) https://www.ebay.com/itm/820204075433
+• Price Raised: Gucci Horsebit Driver Loafer with Web… (US 11.5, 12) https://www.ebay.com/itm/820204075517
+• Price Raised: Gucci Interlocking G Driver Moccasin Washed… (US 10) https://www.ebay.com/itm/820205221563
+• Price Raised: Gucci MAC80 Sneaker Off-White Leather Low Top… (US 13.5) https://www.ebay.com/itm/820205329595
+• Price Raised: Gucci Tennis 1977 High-Top Sneaker Beige/Ebony… (US 12) https://www.ebay.com/itm/820205329783
+• Price Raised: Gucci Run Sneaker Beige Ebony Monogram Leather… (US 10) https://www.ebay.com/itm/820207186744
+• Price Raised: Ferragamo Cosma High-Top Sneaker Black Sneakers… (all 2 sizes) https://www.ebay.com/itm/820228649253
+• Price Raised: Bally Logo-Plaque Leather Loafer Grey Loafers… (US 11) https://www.ebay.com/itm/820253018257
+• Price Lowered 3%: Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas… (US 9.5) https://www.ebay.com/itm/355423513413
+• Price Lowered 3%: Gucci Ace Sneaker with Web Beige/Ebony GG… (US 9.5) https://www.ebay.com/itm/355429385763
+• Price Lowered 3%: Gucci Ace GG Embossed Sneaker Black Leather Low… (US 13.5) https://www.ebay.com/itm/820205698211
+• Price Lowered 3%: Balenciaga Runner Sneaker White Mesh Low Top… (all 2 sizes) https://www.ebay.com/itm/820207186196
+• Price Lowered 3%: Gucci Basket Low White Demetra Red Low Top… (US 13) https://www.ebay.com/itm/820207186489
+• Taken Off Sale: Gucci Re-Web GG Canvas Sneaker White/Beige Low… (US 9) https://www.ebay.com/itm/820204075633
+• Taken Off Sale: Gucci Interlocking G Driver Moccasin Washed… (US 9.5) https://www.ebay.com/itm/820205221563
+• Taken Off Sale: Gucci Ace GG Supreme Bees Sneaker Beige/Ebony… (US 14.5) https://www.ebay.com/itm/820205329339
+Ad rates: 1 listings up, 1 back down (1 at 8%, 1 at 18%); eBay accepted 2 of 2
