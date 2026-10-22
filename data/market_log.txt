@@ -1,6 +1,6 @@
 scan: 0
 demand: -1
-explore: 39
+explore: 12
 order fees: 2
 market: 355066429434 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
 market: 355066509978 browse 429: { "errors": [ { "errorId": 2001, "domain": "ACCESS", "category": "REQUEST", "message": "Too many requests.", "longMessage": "The request limit has been reached for the resource." } ] }
