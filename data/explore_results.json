@@ -1,4 +1,3206 @@
 {
- "checked": "2026-10-22T15:59:45Z",
- "items": {}
+ "checked": "2026-10-22T17:25:05Z",
+ "items": {
+  "hoka_clifton": {
+   "n": 100,
+   "median_price": 128.5,
+   "p25": 109.99,
+   "sold_total": 2,
+   "sold_per_30d": 2.4,
+   "top": [
+    {
+     "title": "HOKA Clifton 10 Men's Running Shoes Black/Black 1162030-BBLC New with Box",
+     "price": 145.51,
+     "sold": 1,
+     "seller": "3jigshoes"
+    },
+    {
+     "title": "Hoka One One Clifton 11 White Black 1176572-WBLC Men's Size New",
+     "price": 132.99,
+     "sold": 0,
+     "seller": "wise_sneakers"
+    },
+    {
+     "title": "Hoka Clifton 9 GTX Men's Size 9 Black Black Running Sneakers Shoes New",
+     "price": 258.74,
+     "sold": 0,
+     "seller": "solex_2026"
+    },
+    {
+     "title": "HOKA Clifton One9 Frost Cosmic Grey Men's 9 1155370-FCG New With Box",
+     "price": 89.99,
+     "sold": 0,
+     "seller": "avotradingco"
+    }
+   ]
+  },
+  "hoka_bondi": {
+   "n": 100,
+   "median_price": 140.0,
+   "p25": 132.45,
+   "sold_total": 9,
+   "sold_per_30d": 4.2,
+   "top": [
+    {
+     "title": "HOKA Men's Bondi 8 Athletic Shoes [1123202], Various Colors, NEW",
+     "price": 119.95,
+     "sold": 1,
+     "seller": "qnmt-trading"
+    },
+    {
+     "title": "Hoka One One Bondi Mary Jane 'Black' 1171546-BBLC Men's Sizes New",
+     "price": 198.98,
+     "sold": 0,
+     "seller": "rdm6"
+    },
+    {
+     "title": "Hoka One One Bondi Mary Jane Black 1171546-BBLC Men's Sizes",
+     "price": 199.76,
+     "sold": 0,
+     "seller": "starsneakers"
+    },
+    {
+     "title": "HOKA Bondi 9 Road-Running Shoes - Men's, Stucco/Grout, New",
+     "price": 125.79,
+     "sold": 0,
+     "seller": "elaaberc0"
+    }
+   ]
+  },
+  "on_cloud": {
+   "n": 100,
+   "median_price": 129.97,
+   "p25": 98.0,
+   "sold_total": 56,
+   "sold_per_30d": 6.0,
+   "top": [
+    {
+     "title": "On Cloud X 5 Men's Black/Black Training Shoes 3MG30081043 New with Box",
+     "price": 142.51,
+     "sold": 0,
+     "seller": "3jigshoes"
+    },
+    {
+     "title": "On Cloud X  Men's Sneaker Running Shoes Aloe/White & Orange/Sea New with Box",
+     "price": 194.9,
+     "sold": 1,
+     "seller": "newyorkers2018"
+    },
+    {
+     "title": "On Cloud 6 Triple\u00a0Black Mens Running 3MF10071043 Men's New",
+     "price": 129.71,
+     "sold": 53,
+     "seller": "evans.sneakers"
+    },
+    {
+     "title": "On Cloud Men's Low Top Mesh Lace Up Athletic Sneaker White New with Box",
+     "price": 130.0,
+     "sold": 0,
+     "seller": "shah_3824"
+    }
+   ]
+  },
+  "on_cloudmonster": {
+   "n": 100,
+   "median_price": 147.55,
+   "p25": 138.79,
+   "sold_total": 3,
+   "sold_per_30d": 0.6,
+   "top": [
+    {
+     "title": "On Cloudmonster 3 Running Shoes Black ",
+     "price": 129.99,
+     "sold": 0,
+     "seller": "connieshe_57"
+    },
+    {
+     "title": "On Running Cloudmonster 3 White 3MG10051200 Men's New",
+     "price": 148.51,
+     "sold": 1,
+     "seller": "evans.sneakers"
+    },
+    {
+     "title": "ON Cloudmonster 3 Black / Black Men's Medium / D",
+     "price": 152.66,
+     "sold": 0,
+     "seller": "fr652567"
+    },
+    {
+     "title": "On Running Cloudmonster 3 Olive Eclipse 3MG10050656 Men's New",
+     "price": 148.51,
+     "sold": 2,
+     "seller": "evans.sneakers"
+    }
+   ]
+  },
+  "salomon_xt6": {
+   "n": 100,
+   "median_price": 199.99,
+   "p25": 180.0,
+   "sold_total": 5,
+   "sold_per_30d": 1.8,
+   "top": [
+    {
+     "title": "Salomon XT-6 GTX Black Phantom Trail Running men\u2019s size Shoes L47450600",
+     "price": 188.99,
+     "sold": 0,
+     "seller": "arekpro"
+    },
+    {
+     "title": "Size 10 - Salomon XT-6 Ghost Grey L47444800 (BRAND NEW WITH BOX READY TO SHIP!)",
+     "price": 179.95,
+     "sold": 0,
+     "seller": "lotus_ny"
+    },
+    {
+     "title": "Salomon XT-6 Coffee French Roast L47866100",
+     "price": 229.99,
+     "sold": 0,
+     "seller": "courtstylesofficial"
+    },
+    {
+     "title": "Salomon XT-6 Ghost Grey L47444800 Men's New",
+     "price": 148.51,
+     "sold": 0,
+     "seller": "evans.sneakers"
+    }
+   ]
+  },
+  "salomon_speedcross": {
+   "n": 100,
+   "median_price": 119.25,
+   "p25": 109.95,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "Authentic SALOMON SPEEDCROSS 6 for MEN, Quiet Shade/Black/Pearl Blue - Brand New",
+     "price": 109.95,
+     "sold": 0,
+     "seller": "on1095"
+    },
+    {
+     "title": "Salomon SPEEDCROSS 6 Men's Trail Running Shoes Authentic Brand New - Natural",
+     "price": 112.5,
+     "sold": 0,
+     "seller": "rachou_220"
+    },
+    {
+     "title": "Salomon SPEEDCROSS 6 Men's Trail Running Shoes Authentic Brand New - Black",
+     "price": 112.5,
+     "sold": 0,
+     "seller": "rachou_220"
+    },
+    {
+     "title": "Salomon Speedcross 6 GTX Public Lands Mens Sz 12 Almond Milk/Ponderosa Pine NEW",
+     "price": 124.99,
+     "sold": 0,
+     "seller": "theunriivaled"
+    }
+   ]
+  },
+  "newbalance_990": {
+   "n": 100,
+   "median_price": 140.0,
+   "p25": 99.99,
+   "sold_total": 5,
+   "sold_per_30d": 1.1,
+   "top": [
+    {
+     "title": "New Balance 990v6 MiUSA WTAPS - M990WT6 - (New with box) Size 10.5",
+     "price": 325.51,
+     "sold": 0,
+     "seller": "grailnation"
+    },
+    {
+     "title": "New Balance 990v5 Made in USA 'White Carbon Red' Brand New with Box Men\u2019s size 9",
+     "price": 148.5,
+     "sold": 0,
+     "seller": "dealzwitthebeard"
+    },
+    {
+     "title": "NEW BALANCE 990SR6 SALMON MEN'S SHOES/SNEAKERS SIZE 9 D NEW IN BOX",
+     "price": 75.0,
+     "sold": 0,
+     "seller": "nancysfancypants"
+    },
+    {
+     "title": "New Balance 990v6 W990NV6 Womens Size 8 B Navy White Made in USA New With Box",
+     "price": 127.5,
+     "sold": 0,
+     "seller": "orxsaa"
+    }
+   ]
+  },
+  "newbalance_2002r": {
+   "n": 100,
+   "median_price": 99.5,
+   "p25": 75.0,
+   "sold_total": 9,
+   "sold_per_30d": 0.7,
+   "top": [
+    {
+     "title": "Mens Size 11 New Balance 2002R Running Shoes Olive Dark Moss Sneakers M2002RZD",
+     "price": 70.0,
+     "sold": 0,
+     "seller": "nyc4shoes"
+    },
+    {
+     "title": "Size 10- New Balance  2002R Protection Pack Sea Moss Raincloud",
+     "price": 99.99,
+     "sold": 0,
+     "seller": "sneaker_cat"
+    },
+    {
+     "title": "New Balance 2002R Grey/Grey Sneakers Running Shoes Men Size New",
+     "price": 69.99,
+     "sold": 0,
+     "seller": "queennanno"
+    },
+    {
+     "title": "New Balance 2002R Gray Black U2002RM Men's Sizes NEW",
+     "price": 100.0,
+     "sold": 1,
+     "seller": "namebrandshoedeals"
+    }
+   ]
+  },
+  "asics_kayano": {
+   "n": 100,
+   "median_price": 144.39,
+   "p25": 115.0,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "ASICS Gel-Kayano 14 1203A537-110 White Graphite Grey Mens Sneakers ",
+     "price": 169.0,
+     "sold": 0,
+     "seller": "cahc8347"
+    },
+    {
+     "title": "NEW ASICS GEL-Kayano 28 Lite-Show Flash Red 2022 1011B341-700 9 US 42.5 EUR",
+     "price": 179.95,
+     "sold": 0,
+     "seller": "hype_stock"
+    },
+    {
+     "title": "ASICS Gel-Kayano 14 Black Cream 1203A537-002 Men's Size New",
+     "price": 144.39,
+     "sold": 0,
+     "seller": "wise_sneakers"
+    },
+    {
+     "title": "Asics GEL-KAYANO 27 PLATINUM Men's NEW Running Shoe Pure Silver US Size 12",
+     "price": 89.99,
+     "sold": 0,
+     "seller": "lucky_soles"
+    }
+   ]
+  },
+  "asics_nimbus": {
+   "n": 70,
+   "median_price": 136.85,
+   "p25": 114.95,
+   "sold_total": 6,
+   "sold_per_30d": 0.3,
+   "top": [
+    {
+     "title": "NEW Asics Gel Nimbus 26 Running Shoe Size 13-12.5/47-48/30.5cm Max Cushioning",
+     "price": 109.0,
+     "sold": 0,
+     "seller": "theychargefeesonshippingnowtoo"
+    },
+    {
+     "title": "Asics Gel-Nimbus 26 Women's Black/White Athletic Running Shoes Size 13",
+     "price": 90.0,
+     "sold": 0,
+     "seller": "best2sell"
+    },
+    {
+     "title": "ASICS Gel-Nimbus 26 Women's Wide D Athletic Shoes Size 6 New",
+     "price": 98.0,
+     "sold": 0,
+     "seller": "krod279"
+    },
+    {
+     "title": "ASICS\u00ae Gel Nimbus 26 Running Shoes Feather Gray Black/White Men's Size 8-13",
+     "price": 99.99,
+     "sold": 6,
+     "seller": "miasports"
+    }
+   ]
+  },
+  "brooks_ghost": {
+   "n": 100,
+   "median_price": 114.39,
+   "p25": 99.95,
+   "sold_total": 47,
+   "sold_per_30d": 3.6,
+   "top": [
+    {
+     "title": "Women's Brooks Ghost 16 Haze/ Blueprint/ Peach 120407-1B-182 Running Shoes",
+     "price": 94.99,
+     "sold": 36,
+     "seller": "poofyo101jumpmansneakers"
+    },
+    {
+     "title": "Brooks Ghost 16 Mens Size 9.5 Running Shoes White/Peacoat/Orange NEW",
+     "price": 113.9,
+     "sold": 0,
+     "seller": "wal-2855"
+    },
+    {
+     "title": "Brooks Ghost 16 Coconut Chateau Forged Iron Men's Sz 8-13 New Running Shoes",
+     "price": 99.99,
+     "sold": 4,
+     "seller": "buybuyme"
+    },
+    {
+     "title": "Brooks Ghost 16 Men's Size 10.5 2E WIDE Black Ebony Lace-Up Running Sneakers NEW",
+     "price": 104.0,
+     "sold": 0,
+     "seller": "2011raisa1991"
+    }
+   ]
+  },
+  "altra": {
+   "n": 100,
+   "median_price": 116.0,
+   "p25": 100.0,
+   "sold_total": 13,
+   "sold_per_30d": 3.6,
+   "top": [
+    {
+     "title": "Altra Women's Lone Peak 9 Athletic Shoes [AL0A85PR], Various Colors, NEW",
+     "price": 99.95,
+     "sold": 8,
+     "seller": "qnmt-trading"
+    },
+    {
+     "title": "Altra Lone Peak 9 Trail Running Shoes Mens  7.5- Taupe - New",
+     "price": 108.99,
+     "sold": 0,
+     "seller": "carl.loy"
+    },
+    {
+     "title": "Altra Women's Lone Peak 9+ [AL0A85RH], Maroon, NEW",
+     "price": 89.95,
+     "sold": 1,
+     "seller": "qnmt-trading"
+    },
+    {
+     "title": "ALTRA LONE PEAK 9 Men's NEW 2E Wide Width",
+     "price": 104.99,
+     "sold": 0,
+     "seller": "fresh-sneaks"
+    }
+   ]
+  },
+  "birkenstock_boston": {
+   "n": 100,
+   "median_price": 79.73,
+   "p25": 78.75,
+   "sold_total": 67,
+   "sold_per_30d": 48.1,
+   "top": [
+    {
+     "title": "Birkenstock Boston Taupe Suede Leather Soft Footbed Clogs Unisex New",
+     "price": 78.5,
+     "sold": 1,
+     "seller": "hat5789"
+    },
+    {
+     "title": "Birkenstock Boston Soft Footbed Suede Leather Mocha Clog Unisex Shoes New",
+     "price": 88.96,
+     "sold": 13,
+     "seller": "pegstr35"
+    },
+    {
+     "title": "Birkenstock Boston Soft Footbed Suede Leather Taupe Clog New",
+     "price": 82.25,
+     "sold": 1,
+     "seller": "255ra10"
+    },
+    {
+     "title": "Birkenstock Boston Soft Footbed Taupe Suede Leather Clog Shoes Narrow/Wide",
+     "price": 83.7,
+     "sold": 8,
+     "seller": "latoy19"
+    }
+   ]
+  },
+  "ugg_tasman": {
+   "n": 100,
+   "median_price": 95.0,
+   "p25": 79.99,
+   "sold_total": 1084,
+   "sold_per_30d": 37.6,
+   "top": [
+    {
+     "title": "New in Box Women's 100% UGG Brand Tasman II Chestnut Shoes Slippers Sandals",
+     "price": 106.25,
+     "sold": 1018,
+     "seller": "trustee_seller"
+    },
+    {
+     "title": "New in Box Women's 100% UGG Brand Tasman II Black Soft Shoes Slippers Sandals",
+     "price": 106.25,
+     "sold": 24,
+     "seller": "trustee_seller"
+    },
+    {
+     "title": "NEW 100% Authentic UGG Women or Big Kids' Tasman II braid Slipper Shoes Chestnut",
+     "price": 76.5,
+     "sold": 22,
+     "seller": "authentic_shop2000"
+    },
+    {
+     "title": "UGG Tasman Slipper Sand Dark Cherry Suede Sheepskin Women\u2019s Size 7",
+     "price": 49.0,
+     "sold": 1,
+     "seller": "luna6611"
+    }
+   ]
+  },
+  "ugg_classic": {
+   "n": 100,
+   "median_price": 120.0,
+   "p25": 104.95,
+   "sold_total": 436,
+   "sold_per_30d": 18.9,
+   "top": [
+    {
+     "title": "NEW UGG Women's Classic Ultra Mini Boots Chestnut Style 1116109 Size US 5-11",
+     "price": 125.99,
+     "sold": 1,
+     "seller": "goodstuffdeals_4"
+    },
+    {
+     "title": "BRAND NEW! UGG Women's Classic Ultra Mini Boots Chestnut Style 1116109 Size US 8",
+     "price": 119.99,
+     "sold": 0,
+     "seller": "beetleboot"
+    },
+    {
+     "title": "UGG Women's Classic Ultra Mini Boots Chestnut 1116109 CHE Size US 7-9 New",
+     "price": 124.0,
+     "sold": 1,
+     "seller": "verifiedbynick"
+    },
+    {
+     "title": "UGG Mens Classic Ultra Mini Mini Boots | Black | 1137391-BLK | Authentic New",
+     "price": 148.95,
+     "sold": 0,
+     "seller": "shopsmart500"
+    }
+   ]
+  },
+  "crocs": {
+   "n": 100,
+   "median_price": 35.0,
+   "p25": 27.99,
+   "sold_total": 43,
+   "sold_per_30d": 50.7,
+   "top": [
+    {
+     "title": "Crocs x Ghostbusters Classic Clog 211414-90H NEW TAGS Rare Size M5 /W7",
+     "price": 56.49,
+     "sold": 0,
+     "seller": "hexagoods29"
+    },
+    {
+     "title": "Crocs Adult Baya Clogs",
+     "price": 34.99,
+     "sold": 3,
+     "seller": "crocsoutlet"
+    },
+    {
+     "title": "NEW Crocs Lightning McQueen Clog Adult Shoe Limited Classic with Tags No Lightup",
+     "price": 29.99,
+     "sold": 36,
+     "seller": "stickerhqstore"
+    },
+    {
+     "title": "Crocs Adult Unisex Baya Clog Black M6/W8",
+     "price": 25.0,
+     "sold": 0,
+     "seller": "javbamb-0"
+    }
+   ]
+  },
+  "adidas_samba": {
+   "n": 100,
+   "median_price": 74.99,
+   "p25": 59.99,
+   "sold_total": 2,
+   "sold_per_30d": 2.7,
+   "top": [
+    {
+     "title": "Adidas Samba OG Collegiate Green Gum Sneakers ID2054 Mens Size 8 New",
+     "price": 53.98,
+     "sold": 0,
+     "seller": "bsislbrosales"
+    },
+    {
+     "title": "Adidas Samba OG Putty Grey/Maroon Shoes MENS 10 - ID1482 - NEW IN BOX",
+     "price": 55.0,
+     "sold": 0,
+     "seller": "jpb2149"
+    },
+    {
+     "title": "Adidas Samba OG Men's Preloved Brown Suede Sneakers NIB",
+     "price": 69.0,
+     "sold": 0,
+     "seller": "greentreeproj"
+    },
+    {
+     "title": "Adidas Samba OG W Rhinestone Black Silver (Women's) IH9052 size 6-8.5",
+     "price": 102.0,
+     "sold": 0,
+     "seller": "volcan_zapatos"
+    }
+   ]
+  },
+  "adidas_gazelle": {
+   "n": 100,
+   "median_price": 59.99,
+   "p25": 54.0,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "adidas Gazelle BB5476 Men's Black White Gold Suede Sneakers Laceup Size 10.5 NWB",
+     "price": 57.99,
+     "sold": 0,
+     "seller": "peddlerdan"
+    },
+    {
+     "title": "adidas Gazelle Indoor Collegiate Green Cloud White Gum JI2062 Men's New",
+     "price": 51.69,
+     "sold": 0,
+     "seller": "evans.sneakers"
+    },
+    {
+     "title": "adidas Gazelle Indoor Shadow Fig IH5483 Women's New",
+     "price": 46.05,
+     "sold": 0,
+     "seller": "evans.sneakers"
+    },
+    {
+     "title": "Adidas Originals Gazelle Indoor Bluebird White Gum JI2061 Mens 7.5 NEW",
+     "price": 65.0,
+     "sold": 0,
+     "seller": "cmo1971"
+    }
+   ]
+  },
+  "adidas_campus": {
+   "n": 100,
+   "median_price": 57.99,
+   "p25": 48.95,
+   "sold_total": 5,
+   "sold_per_30d": 1.1,
+   "top": [
+    {
+     "title": "NEW Adidas Campus 00s  J Wonder Beige White Gum2 JI4461 Size 7 NWT EU 40 UK 6.5",
+     "price": 39.95,
+     "sold": 0,
+     "seller": "bubbakingston"
+    },
+    {
+     "title": "adidas Campus 00s Core Black Crystal White ID1364 Men\u2019s New",
+     "price": 60.15,
+     "sold": 0,
+     "seller": "evans.sneakers"
+    },
+    {
+     "title": "Adidas Originals Campus 00s Men's Shoes IH6738 (G2AL)",
+     "price": 59.99,
+     "sold": 0,
+     "seller": "mes.global"
+    },
+    {
+     "title": "New Adidas Campus 00s Men's Shoes - Yellow / Black - JI3308",
+     "price": 56.95,
+     "sold": 1,
+     "seller": "piotbartsevic-0"
+    }
+   ]
+  },
+  "puma_speedcat": {
+   "n": 100,
+   "median_price": 76.65,
+   "p25": 69.15,
+   "sold_total": 32,
+   "sold_per_30d": 7.2,
+   "top": [
+    {
+     "title": "PUMA Speedcat OG Men's Black Sneakers Low Top Motors New, Authentic, Free Ship!",
+     "price": 70.55,
+     "sold": 0,
+     "seller": "alwisec_0"
+    },
+    {
+     "title": "Puma Speedcat OG Haute Coffee 398846-31 Men's New",
+     "price": 90.23,
+     "sold": 2,
+     "seller": "evans.sneakers"
+    },
+    {
+     "title": "Puma Speedcat Brand New Never Used / Women / Side 8 / Black",
+     "price": 65.99,
+     "sold": 3,
+     "seller": "everythingyouneedit"
+    },
+    {
+     "title": "PUMA Speedcat OG Black white 39884601 Men's Size 8-13 Brand New Width: D Medium",
+     "price": 89.96,
+     "sold": 3,
+     "seller": "ftl_sports"
+    }
+   ]
+  },
+  "converse_chuck": {
+   "n": 100,
+   "median_price": 67.94,
+   "p25": 50.0,
+   "sold_total": 1,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "New with Box Converse Chuck 70 High Top Sneakers Free People Sz 7 (retails $120)",
+     "price": 60.0,
+     "sold": 0,
+     "seller": "shopmichellesmarket"
+    },
+    {
+     "title": "Mens Converse Chuck 70 Low Ox Shoes Dark Moss Green Egret New A20049C",
+     "price": 102.32,
+     "sold": 0,
+     "seller": "volcan_zapatos"
+    },
+    {
+     "title": "Mens Converse Chuck 70 Hi High Top Shoes Washed Black Egret New A20047C",
+     "price": 107.32,
+     "sold": 0,
+     "seller": "volcan_zapatos"
+    },
+    {
+     "title": "CONVERSE  Chuck 70 Sherpa Lined Colorblock Canvas Suede Sneaker Khaki Men's New",
+     "price": 67.99,
+     "sold": 1,
+     "seller": "shopnearyou"
+    }
+   ]
+  },
+  "vans_oldskool": {
+   "n": 100,
+   "median_price": 50.29,
+   "p25": 45.0,
+   "sold_total": 30,
+   "sold_per_30d": 5.3,
+   "top": [
+    {
+     "title": "Vans Men\u2019s Checkerboard Old Skool Sneakers - Black and Gray",
+     "price": 57.96,
+     "sold": 0,
+     "seller": "gumpx5"
+    },
+    {
+     "title": "Vans Old Skool 36 LX Pearlized Fuchsia Red VN000E8VHLE Men 7.5 Women 9 NEW",
+     "price": 350.0,
+     "sold": 0,
+     "seller": "oneszeros5oles"
+    },
+    {
+     "title": "Vans Old Skool Men's Skate Shoes Black/Black VN000D3HBKA New with Box",
+     "price": 50.58,
+     "sold": 0,
+     "seller": "3jigshoes"
+    },
+    {
+     "title": "Vans Old Skool Men's Skate Shoes Black/White VN000D3HY28 New with Box",
+     "price": 50.58,
+     "sold": 0,
+     "seller": "3jigshoes"
+    }
+   ]
+  },
+  "timberland_boot": {
+   "n": 100,
+   "median_price": 149.99,
+   "p25": 125.0,
+   "sold_total": 121,
+   "sold_per_30d": 15.4,
+   "top": [
+    {
+     "title": "NEW Timberland 6 Inch Boot Wheat Nubuck Premium TB010061-713 Men's Sz 6-13",
+     "price": 139.99,
+     "sold": 98,
+     "seller": "spiffny"
+    },
+    {
+     "title": "Men's TimberlandPremium 6-Inch Lace Waterproof Boot New",
+     "price": 129.0,
+     "sold": 15,
+     "seller": "leon0916"
+    },
+    {
+     "title": "NEW Timberland 6 Inch Boot Wheat Nubuck Premium TB010061-713 Men's Sz 6-13",
+     "price": 134.99,
+     "sold": 0,
+     "seller": "ninjespooky"
+    },
+    {
+     "title": "NEW Timberland 6 Inch Boot Wheat Nubuck Premium TB010061-713 Men's",
+     "price": 180.0,
+     "sold": 2,
+     "seller": "edicodollc"
+    }
+   ]
+  },
+  "redwing": {
+   "n": 100,
+   "median_price": 302.5,
+   "p25": 289.0,
+   "sold_total": 44,
+   "sold_per_30d": 2.2,
+   "top": [
+    {
+     "title": "Red Wing Iron Ranger 8085 Copper Rough and Tough",
+     "price": 229.0,
+     "sold": 0,
+     "seller": "skywa_4210"
+    },
+    {
+     "title": "[8111] Mens RED WING IRON RANGER",
+     "price": 297.99,
+     "sold": 16,
+     "seller": "sneakar"
+    },
+    {
+     "title": "Red Wing Iron Ranger Boots Men's Size 10.5 D Slate Muleskinner 8087",
+     "price": 289.0,
+     "sold": 0,
+     "seller": "jaqueh"
+    },
+    {
+     "title": "RED WING IRON RANGER MEN'S 6-INCH Copper Rough & Tough Leather 8085 NEW IN BOX",
+     "price": 300.0,
+     "sold": 1,
+     "seller": "dreweysstuff"
+    }
+   ]
+  },
+  "carhartt_jacket": {
+   "n": 100,
+   "median_price": 99.4,
+   "p25": 84.95,
+   "sold_total": 27,
+   "sold_per_30d": 28.9,
+   "top": [
+    {
+     "title": "Men\u2019s M Carhartt 104050 Washed Duck Active Insulated Jacket Navy Medium",
+     "price": 79.99,
+     "sold": 27,
+     "seller": "vectorcapital"
+    },
+    {
+     "title": "Carhartt 6QLJT New With Tags Red Quilt Lining",
+     "price": 225.0,
+     "sold": 0,
+     "seller": "thegarmentcycle*"
+    },
+    {
+     "title": "New w Tags RW Rugged Wear Carhartt Style Men's Brown Hooded Work Jacket Sz XL",
+     "price": 49.99,
+     "sold": 0,
+     "seller": "vhstrader"
+    },
+    {
+     "title": "Carhartt Rain Defender XL Loose  Heavyweight Quilted Snap Shirt Jac Black NWT",
+     "price": 69.95,
+     "sold": 0,
+     "seller": "shlante"
+    }
+   ]
+  },
+  "patagonia_better": {
+   "n": 100,
+   "median_price": 93.47,
+   "p25": 72.0,
+   "sold_total": 1,
+   "sold_per_30d": 4.3,
+   "top": [
+    {
+     "title": "Patagonia Women\u2019s Better Sweater Jacket Slim Fit XXL Black New With Tags",
+     "price": 92.0,
+     "sold": 0,
+     "seller": "kellyldrn"
+    },
+    {
+     "title": "Patagonia Men's Better Sweater Fleece Jacket 25528 NEW FREESHIP",
+     "price": 127.0,
+     "sold": 0,
+     "seller": "leshy_6298"
+    },
+    {
+     "title": "Patagonia Women's Better Sweater 1/4-Zip Slim Fit XXL Birch White ~New With Tags",
+     "price": 94.94,
+     "sold": 0,
+     "seller": "geckopeck"
+    },
+    {
+     "title": "Patagonia Better Sweater Jacket Men's M Nickel Forge Grey 25527 SP18 NWT NOS",
+     "price": 48.0,
+     "sold": 0,
+     "seller": "deniseluvpeace"
+    }
+   ]
+  },
+  "patagonia_nanopuff": {
+   "n": 100,
+   "median_price": 159.98,
+   "p25": 139.99,
+   "sold_total": 10,
+   "sold_per_30d": 23.5,
+   "top": [
+    {
+     "title": "Patagonia Nano Puff Hoody Men's XXL Forge Gray Full-Zip Insulated Puffer",
+     "price": 179.99,
+     "sold": 0,
+     "seller": "dcsports13"
+    },
+    {
+     "title": "Patagonia Nano Puff Jacket Women's XS Burl Red PrimaLoft Packable NWT 84217",
+     "price": 129.99,
+     "sold": 0,
+     "seller": "bksdealsdepot"
+    },
+    {
+     "title": "Patagonia Men's Nano Puff Jacket DRBN 84213 Lightweight Warm Free Shipping",
+     "price": 165.5,
+     "sold": 1,
+     "seller": "ca4788"
+    },
+    {
+     "title": "Patagonia Men's Nano Puff Jacket Sizzle Red Size M Medium NEW NWT ($229 Retail)",
+     "price": 149.95,
+     "sold": 0,
+     "seller": "andresyen"
+    }
+   ]
+  },
+  "northface_nuptse": {
+   "n": 100,
+   "median_price": 187.0,
+   "p25": 149.99,
+   "sold_total": 6,
+   "sold_per_30d": 6.4,
+   "top": [
+    {
+     "title": "The North Face Mens 1996 Retro Nuptse Jacket Red L New With Tags 700 Down",
+     "price": 200.0,
+     "sold": 0,
+     "seller": "shaqjiang"
+    },
+    {
+     "title": "North Face 96 Retro Nuptse Jacket  Men\u2019s Size small new with tags 700",
+     "price": 300.0,
+     "sold": 0,
+     "seller": "treasurehunter1"
+    },
+    {
+     "title": "North Face 96 Retro Nuptse Jacket  Men\u2019s Size M medium new with tags 700",
+     "price": 300.0,
+     "sold": 0,
+     "seller": "treasurehunter1"
+    },
+    {
+     "title": "The North Face 1996 Retro Nuptse 700 Fill Packable Jacket Yellow Medium. New",
+     "price": 119.0,
+     "sold": 0,
+     "seller": "brandsforless-57"
+    }
+   ]
+  },
+  "northface_denali": {
+   "n": 100,
+   "median_price": 114.62,
+   "p25": 79.99,
+   "sold_total": 40,
+   "sold_per_30d": 1.0,
+   "top": [
+    {
+     "title": "The North Face (TNF) Men\u2019s Denali Sherpa Fleece Jacket (Purple And Gray)",
+     "price": 150.0,
+     "sold": 0,
+     "seller": "adirv86"
+    },
+    {
+     "title": "The North Face Mens Denali Jacket Acoustic Blue Polartec Fleece NF0A7URZ Size M",
+     "price": 120.0,
+     "sold": 0,
+     "seller": "bashunica"
+    },
+    {
+     "title": "THE NORTH FACE MENS DENALI 2  FLEECE JACKET- S - TNF BLACK- NEW",
+     "price": 79.99,
+     "sold": 1,
+     "seller": "jatkowa39"
+    },
+    {
+     "title": "Mens The North Face Denali Fleece Jacket Coat Red Orange Grey Blue NF New",
+     "price": 70.47,
+     "sold": 39,
+     "seller": "fashion-up"
+    }
+   ]
+  },
+  "canadagoose": {
+   "n": 100,
+   "median_price": 840.0,
+   "p25": 499.99,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "New with tags small Canada Goose RossClair Parka- Color North Star White",
+     "price": 750.0,
+     "sold": 0,
+     "seller": "woodrow9663"
+    },
+    {
+     "title": "Canada Goose Mystique Parka Women's Brand New With Tags Satin - Black XS - $1695",
+     "price": 1249.0,
+     "sold": 0,
+     "seller": "makeupvendor"
+    },
+    {
+     "title": "Canada Goose Junction Parka Navy XL New with tags",
+     "price": 550.0,
+     "sold": 0,
+     "seller": "newyorkcitymanhattan"
+    },
+    {
+     "title": "Canada Goose Men\u2019s Expedition Parka Size XXL Black! Brand New With Tags!",
+     "price": 699.99,
+     "sold": 0,
+     "seller": "1716diane"
+    }
+   ]
+  },
+  "arcteryx": {
+   "n": 100,
+   "median_price": 320.18,
+   "p25": 189.5,
+   "sold_total": 33,
+   "sold_per_30d": 83.0,
+   "top": [
+    {
+     "title": "Arc'teryx Rush Jacket W Women's L Black GORETEX PRO Ski Jacket- New With Tags",
+     "price": 600.0,
+     "sold": 0,
+     "seller": "nichmo-8900"
+    },
+    {
+     "title": "Brand New With Tags (BNWT)Arc'teryx Cold WX Jacket LT Men's (Gen 2)",
+     "price": 440.0,
+     "sold": 0,
+     "seller": "mj_truckz"
+    },
+    {
+     "title": "Arc'teryx Gamma MX Jacket Men's MARS Red Fortius Softshell Fleece New With Tags",
+     "price": 380.0,
+     "sold": 0,
+     "seller": "shenta_86"
+    },
+    {
+     "title": "Arcteryx Beta LT Black Large New",
+     "price": 169.99,
+     "sold": 13,
+     "seller": "fitsstore"
+    }
+   ]
+  },
+  "lululemon_abc": {
+   "n": 100,
+   "median_price": 85.0,
+   "p25": 78.0,
+   "sold_total": 3,
+   "sold_per_30d": 0.2,
+   "top": [
+    {
+     "title": "Lululemon ABC Jogger Regular Mens Medium Oil Gray/Blue Warpstreme Pants NWT",
+     "price": 90.24,
+     "sold": 0,
+     "seller": "chuck_yo_closet"
+    },
+    {
+     "title": "lululemon ABC Jogger Brushed Warpstreme Pull-On Pant | Size S",
+     "price": 49.99,
+     "sold": 0,
+     "seller": "klit7182"
+    },
+    {
+     "title": "Lululemon ABC Jogger Pants Mens 2XL Melanite Blue Warpstreme  LM5AMZS Gym NWT",
+     "price": 79.0,
+     "sold": 0,
+     "seller": "samaki-2197"
+    },
+    {
+     "title": "NEW lululemon ABC Jogger Regular, Army Green. Choose Your Size. NWT",
+     "price": 72.0,
+     "sold": 3,
+     "seller": "bh-hope"
+    }
+   ]
+  },
+  "lululemon_align": {
+   "n": 100,
+   "median_price": 65.5,
+   "p25": 55.0,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "lululemon align leggings 28\" diamond dye pitch grey NWT** retired color",
+     "price": 93.0,
+     "sold": 0,
+     "seller": "keekos"
+    },
+    {
+     "title": "Lululemon Align 25\" Leggings in LavenderBrand new with tags",
+     "price": 69.9,
+     "sold": 0,
+     "seller": "jmslaaa"
+    },
+    {
+     "title": "NWT Lululemon Align Pant Leggings W Pockets Sz2/25\u201d Pink Flare $128 Buttery Soft",
+     "price": 69.0,
+     "sold": 0,
+     "seller": "clublajolla"
+    },
+    {
+     "title": "Brand New With Tag Lululemon Black Align HR Pant 25\u201d Leggings ",
+     "price": 80.0,
+     "sold": 0,
+     "seller": "broosea-30"
+    }
+   ]
+  },
+  "barbour": {
+   "n": 46,
+   "median_price": 377.4,
+   "p25": 244.99,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "Barbour Beaufort Wax Jacket Olive Size 40 NWT",
+     "price": 450.0,
+     "sold": 0,
+     "seller": "eluxeauctions"
+    },
+    {
+     "title": "BARBOUR - A155 BEAUFORT WAX COTTON JACKET & HOOD- NEW OLD STOCK W/ TAGS -NAVY-48",
+     "price": 575.0,
+     "sold": 0,
+     "seller": "bethzl*"
+    },
+    {
+     "title": "BARBOUR -A190 BEAUFORT WAX COTTON JACKET- BROWN - MADE @ UK- NOS  WITH TAG  - 50",
+     "price": 449.1,
+     "sold": 0,
+     "seller": "bethzl*"
+    },
+    {
+     "title": "Barbour Mens Winter Bedale Jacket Waterproof M Navy Classic Waterproof Corduroy",
+     "price": 243.75,
+     "sold": 0,
+     "seller": "mama_goose"
+    }
+   ]
+  },
+  "ralph_polo": {
+   "n": 100,
+   "median_price": 179.5,
+   "p25": 129.95,
+   "sold_total": 93,
+   "sold_per_30d": 3.6,
+   "top": [
+    {
+     "title": "Polo Ralph Lauren Men\u2019s NY State Champs Red Coach Jacket Size M New With Tags",
+     "price": 179.99,
+     "sold": 0,
+     "seller": "oli2-6830"
+    },
+    {
+     "title": "Polo Ralph Lauren Men's Down Packable Puffer Vest Jacket New With Tags",
+     "price": 66.27,
+     "sold": 22,
+     "seller": "fashion-up"
+    },
+    {
+     "title": "Mens Polo Ralph Lauren Hoody Hooded Fleece Lined Sweatshirt Jacket New With Tags",
+     "price": 64.99,
+     "sold": 61,
+     "seller": "fashion-up"
+    },
+    {
+     "title": "Polo Ralph Lauren Men\u2019s The Gorham Down Jacket LT New With Tags Retail $398",
+     "price": 150.0,
+     "sold": 0,
+     "seller": "wv_liquidation"
+    }
+   ]
+  },
+  "carhartt_beanie": {
+   "n": 100,
+   "median_price": 15.97,
+   "p25": 12.15,
+   "sold_total": 340,
+   "sold_per_30d": 62.0,
+   "top": [
+    {
+     "title": "Carhartt Model A18 Royal Blue Color Acrylic Knit Cuffed Beanie NEW NWT",
+     "price": 18.95,
+     "sold": 0,
+     "seller": "roman45075"
+    },
+    {
+     "title": "Carhartt A18 Knit Cuffed Beanie Navy Blue NEW One Size OS Adult",
+     "price": 9.0,
+     "sold": 6,
+     "seller": "wiskicks"
+    },
+    {
+     "title": "Carhartt Unisex Navy Blue Knit Cuffed Beanie Hat Classic",
+     "price": 17.0,
+     "sold": 0,
+     "seller": "fairprices512"
+    },
+    {
+     "title": "Carhartt Mens Beanie One Size A18 Brown Adult Beanie Fast Shipping NEW With Tags",
+     "price": 18.98,
+     "sold": 0,
+     "seller": "kathysfinds4sale"
+    }
+   ]
+  },
+  "stanley_quencher": {
+   "n": 100,
+   "median_price": 48.44,
+   "p25": 32.99,
+   "sold_total": 22,
+   "sold_per_30d": 43.7,
+   "top": [
+    {
+     "title": "Stanley Quencher H2.0 40oz Flowstate Orange Tumbler Hot Cold Beverages Brand New",
+     "price": 29.5,
+     "sold": 0,
+     "seller": "midasking"
+    },
+    {
+     "title": "Stanley CHOCOLATE GOLD 40oz FACTORY SEALED Limited Quencher Tumbler NEW",
+     "price": 51.9,
+     "sold": 2,
+     "seller": "ascension369"
+    },
+    {
+     "title": "The Stanley 1913 x KAROL G 40oz Quencher H2.O FlowState Tumbler New Sealed",
+     "price": 45.99,
+     "sold": 3,
+     "seller": "rizqhalal"
+    },
+    {
+     "title": "Stanley 40oz Quencher Exclusive Color Mauve Shimmer Tumbler Target New",
+     "price": 64.99,
+     "sold": 0,
+     "seller": "mcintoshmishmashmarket"
+    }
+   ]
+  },
+  "yeti_rambler": {
+   "n": 100,
+   "median_price": 39.96,
+   "p25": 32.99,
+   "sold_total": 537,
+   "sold_per_30d": 41.9,
+   "top": [
+    {
+     "title": "NEW LIMITED EDITION Yeti Rambler 30 oz Stackable BIG SKY BLUE",
+     "price": 36.95,
+     "sold": 18,
+     "seller": "with-love-from-iowa"
+    },
+    {
+     "title": "PRICE CUT! LOT OF 2! NEW! YETI Rambler 30 oz Mug w/ HANDLE + TWIST MagSlider Lid",
+     "price": 59.0,
+     "sold": 0,
+     "seller": "businessphoneexperts"
+    },
+    {
+     "title": "YETI Rambler 30 oz Tumbler MagSlider Lid Blue/Gray Camo (RARE) ",
+     "price": 59.99,
+     "sold": 1,
+     "seller": "jucas-7787"
+    },
+    {
+     "title": "Yeti Rambler 30oz Tumbler Chartreuse - New, Never Used",
+     "price": 67.0,
+     "sold": 3,
+     "seller": "lonestardeals"
+    }
+   ]
+  },
+  "dyson_airwrap": {
+   "n": 100,
+   "median_price": 425.0,
+   "p25": 350.0,
+   "sold_total": 1,
+   "sold_per_30d": 0.2,
+   "top": [
+    {
+     "title": "Dyson Airwrap Co-anda2x Multi-Styler And Dryer Straight + Wavy Ceramic pink *New",
+     "price": 450.0,
+     "sold": 0,
+     "seller": "mark42069"
+    },
+    {
+     "title": "Dyson Airwrap i.d Multi-Styler for curly+coily  Amber Silk -New Sealed",
+     "price": 449.99,
+     "sold": 1,
+     "seller": "crabwarehouse"
+    },
+    {
+     "title": "dyson airwrap i.d. multi-styler",
+     "price": 399.2,
+     "sold": 0,
+     "seller": "thedailydealdepot2"
+    },
+    {
+     "title": "Dyson Airwrap i.d. Set Straight/Wavy No Heat Damage w/ Barrels & Brushes",
+     "price": 400.0,
+     "sold": 0,
+     "seller": "nextlevelfinds1"
+    }
+   ]
+  },
+  "dyson_v15": {
+   "n": 100,
+   "median_price": 277.4,
+   "p25": 79.9,
+   "sold_total": 38,
+   "sold_per_30d": 28.4,
+   "top": [
+    {
+     "title": "Dyson V15 Detect Absolute (SV47 YNKL) Cordless Vacuum + Car Kit NEW",
+     "price": 529.0,
+     "sold": 0,
+     "seller": "ms-online-store-us"
+    },
+    {
+     "title": "\ud83d\udd25 NEW Dyson V15 Detect Total Clean Extra Cordless Stick Vacuum Cleaner (DBB)",
+     "price": 569.95,
+     "sold": 18,
+     "seller": "sl1mthechosen1"
+    },
+    {
+     "title": "Dyson V15 Detect Cordless Vacuum with 6 accessories Yellow/Nickel New",
+     "price": 625.0,
+     "sold": 2,
+     "seller": "yumelectronics"
+    },
+    {
+     "title": "Dyson V15s Detect Absolute Cordless Stick Vacuum w/ Charger, Wand,Rep",
+     "price": 490.0,
+     "sold": 1,
+     "seller": "412hs_resll2"
+    }
+   ]
+  },
+  "dyson_supersonic": {
+   "n": 100,
+   "median_price": 250.0,
+   "p25": 140.0,
+   "sold_total": 95,
+   "sold_per_30d": 19.9,
+   "top": [
+    {
+     "title": "Dyson Supersonic HD08 Hair Dryer Fuchsia/Iron 1600W NEW SEALED w/ Accessories",
+     "price": 210.0,
+     "sold": 0,
+     "seller": "disan_9034"
+    },
+    {
+     "title": "Dyson Supersonic Professional Hair Dryer Blue w/ Diffuser, Attachments & Case",
+     "price": 199.99,
+     "sold": 0,
+     "seller": "officialtayko"
+    },
+    {
+     "title": "Dyson Supersonic Travel Hair Dryer (HD19) - Brand New / Latest Model / Authentic",
+     "price": 249.0,
+     "sold": 94,
+     "seller": "bec83"
+    },
+    {
+     "title": "Dyson Supersonic Hair Dryer with Diffuser Attachment Pink/Gray Boxed",
+     "price": 140.0,
+     "sold": 0,
+     "seller": "bruno_rivera15"
+    }
+   ]
+  },
+  "ghd": {
+   "n": 44,
+   "median_price": 197.47,
+   "p25": 155.76,
+   "sold_total": 3,
+   "sold_per_30d": 8.4,
+   "top": [
+    {
+     "title": "BLACK Smart Styler For Hair Straightener Ghd Platinum+ Professional Performance",
+     "price": 73.6,
+     "sold": 1,
+     "seller": "speedybuy-us"
+    },
+    {
+     "title": "GHD STYLERS PLATINUM + WHITE 1 STYLER ~ NEW ~ FREE SHIPPING",
+     "price": 219.91,
+     "sold": 0,
+     "seller": "beautycarepro360"
+    },
+    {
+     "title": "BLACK Smart Styler For Hair Straightener Ghd Platinum+ Professional Performance",
+     "price": 74.6,
+     "sold": 1,
+     "seller": "startrade-us"
+    },
+    {
+     "title": "BLACK Smart Styler For Hair Straightener Ghd Platinum+ Professional Performance",
+     "price": 69.6,
+     "sold": 0,
+     "seller": "quickex"
+    }
+   ]
+  },
+  "airpods_pro": {
+   "n": 100,
+   "median_price": 152.5,
+   "p25": 100.0,
+   "sold_total": 23,
+   "sold_per_30d": 73.3,
+   "top": [
+    {
+     "title": "Apple AirPods Pro (2nd Gen.) USB-C White - New & Sealed",
+     "price": 169.99,
+     "sold": 3,
+     "seller": "itsworthmore"
+    },
+    {
+     "title": "Air Pods Pro 2 Ear buds/Charging Case/Cable new / open box",
+     "price": 37.0,
+     "sold": 17,
+     "seller": "bkallon"
+    },
+    {
+     "title": "\u200bApple AirPods Pro 2nd Gen USB-C MagSafe Charging Case MTJV3AM Brand New Sealed",
+     "price": 179.99,
+     "sold": 0,
+     "seller": "orlmad_71"
+    },
+    {
+     "title": "Apple AirPods Pro (2nd Gen) White In-Ear Bluetooth Earbuds with Case Sealed",
+     "price": 125.0,
+     "sold": 2,
+     "seller": "jasonc_1709"
+    }
+   ]
+  },
+  "airpods_max": {
+   "n": 100,
+   "median_price": 400.0,
+   "p25": 350.0,
+   "sold_total": 1,
+   "sold_per_30d": 2.1,
+   "top": [
+    {
+     "title": "Apple AirPods Max 2 Wireless Headphones (MHWL4AM/A) BRAND NEW FACTORY SEALED!",
+     "price": 344.0,
+     "sold": 0,
+     "seller": "thanossnaps"
+    },
+    {
+     "title": "Apple AirPods Max 2 Over-Ear Headphones, Active Noise Cancellation, Adaptive",
+     "price": 350.0,
+     "sold": 0,
+     "seller": "wens58store"
+    },
+    {
+     "title": "Apple AirPods Max 2 - 2026 - blue - Headphones NEW & SEALED",
+     "price": 400.0,
+     "sold": 0,
+     "seller": "ha-45301"
+    },
+    {
+     "title": "New and sealed Apple AirPods Max Over-Ear Headphones USB-C Black w/ Smart Case,",
+     "price": 300.0,
+     "sold": 0,
+     "seller": "ludy.o81"
+    }
+   ]
+  },
+  "sony_xm5": {
+   "n": 100,
+   "median_price": 212.46,
+   "p25": 195.0,
+   "sold_total": 14,
+   "sold_per_30d": 3.9,
+   "top": [
+    {
+     "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones Midnight Blue NEW",
+     "price": 199.0,
+     "sold": 1,
+     "seller": "kammclau28"
+    },
+    {
+     "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones Earphones ( New Open Box )",
+     "price": 195.0,
+     "sold": 0,
+     "seller": "best*buys*here"
+    },
+    {
+     "title": "New Sealed Sony WH-1000XM5 Wireless Noise Canceling Headphones - Silver",
+     "price": 187.0,
+     "sold": 1,
+     "seller": "ezauctions2u"
+    },
+    {
+     "title": "Sony WH\u20111000XM5SA Wireless Bluetooth Over\u2011Ear Headphones \u2013 ANC\u2013Mic\u2013Black \u2013 NEW",
+     "price": 190.0,
+     "sold": 0,
+     "seller": "primetech365"
+    }
+   ]
+  },
+  "bose_qc": {
+   "n": 100,
+   "median_price": 249.99,
+   "p25": 175.0,
+   "sold_total": 131,
+   "sold_per_30d": 29.1,
+   "top": [
+    {
+     "title": "Bose New QuietComfort Ultra Bluetooth Earbuds (2nd Gen), White Smoke",
+     "price": 156.0,
+     "sold": 123,
+     "seller": "vipoutlet"
+    },
+    {
+     "title": "US Bose Ultra Open Ear-Clip Bluetooth Earbuds White New Sealed Comfort Open Ear",
+     "price": 51.99,
+     "sold": 1,
+     "seller": "zebirajput.72"
+    },
+    {
+     "title": "NEW Bose QuietComfort Ultra Wireless Noise Cancelling Headphones Diamond 60th",
+     "price": 279.99,
+     "sold": 1,
+     "seller": "speedy-circuits"
+    },
+    {
+     "title": "Bose QuietComfort Ultra Over-Ear Headphones - White Smoke",
+     "price": 260.0,
+     "sold": 0,
+     "seller": "stfharris"
+    }
+   ]
+  },
+  "apple_watch": {
+   "n": 58,
+   "median_price": 29.99,
+   "p25": 17.99,
+   "sold_total": 6,
+   "sold_per_30d": 12.9,
+   "top": [
+    {
+     "title": "Apple Watch Series 10 42mm GPS Jet Black Aluminum S/M - NEW FACTORY SEALED",
+     "price": 279.0,
+     "sold": 0,
+     "seller": "zodvaus6393"
+    },
+    {
+     "title": "BRAND NEW Apple Watch Series 10 46mm GPS Cell Silver Case Sport Loop MWY23LW/A",
+     "price": 299.95,
+     "sold": 0,
+     "seller": "cojones15"
+    },
+    {
+     "title": "Apple Watch Series 10 46mm Golden color (GPS + Cellular) Aluminum Case - Sealed",
+     "price": 359.0,
+     "sold": 0,
+     "seller": "pride_savers"
+    },
+    {
+     "title": "Apple Watch Series 10 11 42MM Sport Band - Black - Small/Medium",
+     "price": 19.99,
+     "sold": 0,
+     "seller": "starcityessentials"
+    }
+   ]
+  },
+  "ipad": {
+   "n": 19,
+   "median_price": 189.95,
+   "p25": 64.95,
+   "sold_total": 1,
+   "sold_per_30d": 4.3,
+   "top": [
+    {
+     "title": "New Apple iPad 10th Gen. 64GB, Wi-Fi, 10.9in - Silver - SEALED",
+     "price": 369.0,
+     "sold": 1,
+     "seller": "cell_smart_sells"
+    },
+    {
+     "title": "Apple iPad 10th Gen 11\" 128GB 8GB RAM Wi\u2011Fi/Wi\u2011Fi+5G Silver/Yellow",
+     "price": 470.0,
+     "sold": 0,
+     "seller": "ma-85997"
+    },
+    {
+     "title": "Logitech Slim Folio Keyboard Case for iPad 10th Gen & A16 920-011368 New Sealed ",
+     "price": 44.95,
+     "sold": 0,
+     "seller": "erej0ta"
+    },
+    {
+     "title": "Apple iPad (10th Generation) with A14 Bionic chip 10.9-inch Liquid Retina",
+     "price": 678.38,
+     "sold": 0,
+     "seller": "velourivashop"
+    }
+   ]
+  },
+  "switch_oled": {
+   "n": 100,
+   "median_price": 42.47,
+   "p25": 19.99,
+   "sold_total": 220,
+   "sold_per_30d": 9.9,
+   "top": [
+    {
+     "title": "NEW SEALED Nintendo Switch OLED \u2013 Legend of Zelda: Tears of the Kingdom Edition",
+     "price": 359.99,
+     "sold": 0,
+     "seller": "novasales"
+    },
+    {
+     "title": "NEW Nintendo Switch OLED 64GB Neon Red Blue Joy-Con",
+     "price": 350.99,
+     "sold": 219,
+     "seller": "bestsellerssince1977"
+    },
+    {
+     "title": "NEW in Box-Nintendo Switch OLED model with Case and Memory",
+     "price": 400.0,
+     "sold": 0,
+     "seller": "eroomg"
+    },
+    {
+     "title": "Nintendo Switch 7\" OLED Model \u2022 White Joycons HEG-001 64GB Storage \u2022 NEW",
+     "price": 299.0,
+     "sold": 0,
+     "seller": "goroostr"
+    }
+   ]
+  },
+  "ps5_game": {
+   "n": 100,
+   "median_price": 29.99,
+   "p25": 24.48,
+   "sold_total": 1147,
+   "sold_per_30d": 665.1,
+   "top": [
+    {
+     "title": "Resident Evil Requiem Deluxe Edition Steel Book PlayStation 5 PS5 *NEW SEALED*",
+     "price": 101.01,
+     "sold": 75,
+     "seller": "all4homeusa"
+    },
+    {
+     "title": "Kitaria Fables - PlayStation 5 (PS5) - Brand New & Sealed - Free Shipping!",
+     "price": 18.99,
+     "sold": 3,
+     "seller": "ravics_digital_solutions"
+    },
+    {
+     "title": "Halloween: The Game PlayStation 5 PS5 Brand New Sealed In Hand",
+     "price": 59.95,
+     "sold": 10,
+     "seller": "kristyskollectibles-76"
+    },
+    {
+     "title": "Resident Evil Requiem Deluxe Edition Steel Book PlayStation 5 PS5 *NEW SEALED*",
+     "price": 100.99,
+     "sold": 30,
+     "seller": "bestdeal-estore"
+    }
+   ]
+  },
+  "lego_retired": {
+   "n": 100,
+   "median_price": 49.31,
+   "p25": 26.98,
+   "sold_total": 70,
+   "sold_per_30d": 48.3,
+   "top": [
+    {
+     "title": "Lego Box Sets Retired Rare Limited Edition GWP Promotional New Sealed You Pick!",
+     "price": 42.9,
+     "sold": 9,
+     "seller": "minifigures"
+    },
+    {
+     "title": "LEGO Star Wars Inquisitor Transport  Scythe (75336) New Sealed Retired Set",
+     "price": 124.99,
+     "sold": 4,
+     "seller": "bjspec-88"
+    },
+    {
+     "title": "2023 LEGO Friends 41757 Botanical Garden 1072 Piece Retired Set New Sealed",
+     "price": 94.49,
+     "sold": 1,
+     "seller": "all_time_toy_store"
+    },
+    {
+     "title": "2023 LEGO Promotional 40596 Magic Maze Retired Set 332 Pieces New Sealed",
+     "price": 26.99,
+     "sold": 4,
+     "seller": "all_time_toy_store"
+    }
+   ]
+  },
+  "lego_starwars_ucs": {
+   "n": 100,
+   "median_price": 649.0,
+   "p25": 249.99,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "NEW  LEGO Star Wars UCS TIE Fighter 75095 Retired - Factiry Sealed",
+     "price": 385.0,
+     "sold": 0,
+     "seller": "studbee-store"
+    },
+    {
+     "title": "LEGO 75313, Star Wars UCS AT-AT, New Sealed Box! in Hand Ready to Ship!",
+     "price": 681.0,
+     "sold": 0,
+     "seller": "aquacaresolutionsllc"
+    },
+    {
+     "title": "LEGO Star Wars: TIE Fighter UCS (75095) Brand New Factory Sealed Retired Set",
+     "price": 369.95,
+     "sold": 0,
+     "seller": "wefmarket"
+    },
+    {
+     "title": "BRAND NEW SEALED Lego STAR WARS UCS Luke Skywalker's Landspeeder (75341) RETIRED",
+     "price": 199.0,
+     "sold": 0,
+     "seller": "sneake_1621"
+    }
+   ]
+  },
+  "lego_technic": {
+   "n": 100,
+   "median_price": 117.5,
+   "p25": 39.99,
+   "sold_total": 4,
+   "sold_per_30d": 14.3,
+   "top": [
+    {
+     "title": "*NEW/SEALED*LEGO TECHNIC: Volvo Fmx Truck & Ec230 Electric Excavator (42175)",
+     "price": 140.0,
+     "sold": 0,
+     "seller": "kt_brickworx"
+    },
+    {
+     "title": "LEGO Technic 42000 - Grand Prix Racer/Race Truck Brand New Sealed",
+     "price": 165.0,
+     "sold": 0,
+     "seller": "babidotdot"
+    },
+    {
+     "title": "LEGO Technic 41999 4x4 Crawler Exclusive Edition Limited 1585 pcs New Sealed",
+     "price": 414.25,
+     "sold": 0,
+     "seller": "mrattilio"
+    },
+    {
+     "title": "LEGO Technic 42172 McLaren P1 Hypercar 3893 Pcs New Factory Sealed NIB",
+     "price": 399.0,
+     "sold": 3,
+     "seller": "youreverdaydealer"
+    }
+   ]
+  },
+  "lego_icons": {
+   "n": 100,
+   "median_price": 42.23,
+   "p25": 32.99,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "LEGO Icons Wildflower Bouquet 10313 Botanical Collection 939 Pieces Sealed NEW",
+     "price": 44.99,
+     "sold": 0,
+     "seller": "resellutions"
+    },
+    {
+     "title": "LEGO Icons 10328 Bouquet of Roses Botanical Collection 822pc NEW SEALED",
+     "price": 30.95,
+     "sold": 0,
+     "seller": "michell04"
+    },
+    {
+     "title": "LEGO Icons 10328 Bouquet of Roses Botanical Collection NEW Sealed 822pc",
+     "price": 29.99,
+     "sold": 0,
+     "seller": "scalperfree"
+    },
+    {
+     "title": "Lego Icons 10314 Dried Flower Centerpiece Botanical Collection New Sealed",
+     "price": 38.95,
+     "sold": 0,
+     "seller": "rcastromagic"
+    }
+   ]
+  },
+  "funko_chase": {
+   "n": 100,
+   "median_price": 30.0,
+   "p25": 18.99,
+   "sold_total": 12,
+   "sold_per_30d": 27.2,
+   "top": [
+    {
+     "title": "Funko Pop! New in Box X-Men Sentinel w/Wolverine Jumbo 10\" Chase Black Light",
+     "price": 49.99,
+     "sold": 1,
+     "seller": "unlimitedcommerce313"
+    },
+    {
+     "title": "Funko Pop! Fairy Tail Gray #2287 Chase Vinyl Figure Anime Collectible New",
+     "price": 60.0,
+     "sold": 0,
+     "seller": "bigtoydealz"
+    },
+    {
+     "title": "Funko Pop! Movies Horror The Curse of La Llorona La Llorona Chase #2061",
+     "price": 145.0,
+     "sold": 0,
+     "seller": "tyarse_0"
+    },
+    {
+     "title": "Funko Pop! Leatherface Pretty Woman Mask Exclusive Hot Topic Chase #623",
+     "price": 110.0,
+     "sold": 0,
+     "seller": "etno456"
+    }
+   ]
+  },
+  "hotwheels_rlc": {
+   "n": 100,
+   "median_price": 83.98,
+   "p25": 45.0,
+   "sold_total": 177,
+   "sold_per_30d": 651.5,
+   "top": [
+    {
+     "title": "Hot Wheels RLC Exclusive Ferrari F40 JJY72 Brand New Sealed SHIPS NOW FREE",
+     "price": 134.99,
+     "sold": 6,
+     "seller": "focuscollectibles"
+    },
+    {
+     "title": "NEW SEALED Mattel Hot Wheels RLC Exclusive Ferrari F40 1:64 \u2705SHIPS IN 1 DAY\u2705",
+     "price": 137.99,
+     "sold": 2,
+     "seller": "dako-8157"
+    },
+    {
+     "title": "Hot Wheels RLC Exclusive Ferrari F40 2026 1:64 Diecast - JJY72 - IN HAND NEW",
+     "price": 129.69,
+     "sold": 3,
+     "seller": "collectizzles"
+    },
+    {
+     "title": "Hot Wheels RLC Exclusive RWB Porsche 930 Orange PRESALE \u2705 Trusted Seller",
+     "price": 89.99,
+     "sold": 39,
+     "seller": "tg_resalehub"
+    }
+   ]
+  },
+  "pokemon_etb": {
+   "n": 100,
+   "median_price": 130.0,
+   "p25": 120.0,
+   "sold_total": 14997,
+   "sold_per_30d": 4885.9,
+   "top": [
+    {
+     "title": "POKEMON TCG 30TH ANNIVERSARY ETB ELITE TRAINER BOX FACTORY SEALED NEW",
+     "price": 129.99,
+     "sold": 301,
+     "seller": "bigboydsportscards3"
+    },
+    {
+     "title": "Pokemon TCG: S&V Prismatic Evolutions Factory Sealed Elite Trainer Box",
+     "price": 124.88,
+     "sold": 3541,
+     "seller": "pfootballpete4dhx"
+    },
+    {
+     "title": "POKEMON TCG PRISMATIC EVOLUTIONS ETB ELITE TRAINER BOX FACTORY SEALED NEW",
+     "price": 129.99,
+     "sold": 469,
+     "seller": "bigboydsportscards3"
+    },
+    {
+     "title": "Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box ETB Sealed",
+     "price": 149.88,
+     "sold": 10179,
+     "seller": "pfootballpete4dhx"
+    }
+   ]
+  },
+  "pokemon_151": {
+   "n": 100,
+   "median_price": 180.0,
+   "p25": 169.99,
+   "sold_total": 128,
+   "sold_per_30d": 45.9,
+   "top": [
+    {
+     "title": "151 Booster Bundle Box 6 Packs Scarlet and Violet S&V Pokemon TCG **SEALED/NEW**",
+     "price": 164.99,
+     "sold": 0,
+     "seller": "mrpikafan"
+    },
+    {
+     "title": "POKEMON TCG SCARLET & VIOLET 151 BOOSTER BUNDLE BOX FACTORY SEALED NEW 6 PACKS",
+     "price": 159.99,
+     "sold": 6,
+     "seller": "maverold_cards"
+    },
+    {
+     "title": "1x Pok\u00e9mon Pokemon 151 Scarlet Violet Booster Bundle English TCG - SEALED",
+     "price": 179.99,
+     "sold": 116,
+     "seller": "probablynotbroken"
+    },
+    {
+     "title": "1 Pok\u00e9mon 151 Booster Bundle Box -6 Packs- New, Sealed -",
+     "price": 169.0,
+     "sold": 0,
+     "seller": "eljo_6302"
+    }
+   ]
+  },
+  "onepiece_box": {
+   "n": 100,
+   "median_price": 197.0,
+   "p25": 89.99,
+   "sold_total": 428,
+   "sold_per_30d": 207.8,
+   "top": [
+    {
+     "title": "One Piece Trading Card 36 Pack Deluxe Booster Box Anime TCG OPFI06-01 NEW Sealed",
+     "price": 14.99,
+     "sold": 2,
+     "seller": "fatimatech"
+    },
+    {
+     "title": "One Piece Trading Card 36 Pack Deluxe Booster Box Anime TCG OPFI06-01 NEW Sealed",
+     "price": 23.99,
+     "sold": 66,
+     "seller": "shero-4170"
+    },
+    {
+     "title": "One Piece Card Game OP-09 Emperors In The New World Booster Box Sealed w/acrylic",
+     "price": 540.0,
+     "sold": 0,
+     "seller": "dochux"
+    },
+    {
+     "title": "One Piece Card Game OP-05 Awakening Of The New Era Booster Box Sealed w/acrylic",
+     "price": 1025.0,
+     "sold": 0,
+     "seller": "dochux"
+    }
+   ]
+  },
+  "lorcana": {
+   "n": 100,
+   "median_price": 202.5,
+   "p25": 174.88,
+   "sold_total": 37,
+   "sold_per_30d": 140.9,
+   "top": [
+    {
+     "title": "Sealed Hyperia City Booster Box Case PRESALE 10/23 Disney Lorcana -Kid Icarus-",
+     "price": 699.99,
+     "sold": 16,
+     "seller": "kidicarus2000"
+    },
+    {
+     "title": "Disney Lorcana Wilds Unknown Booster Box Sealed English",
+     "price": 229.0,
+     "sold": 7,
+     "seller": "geoform"
+    },
+    {
+     "title": "Sealed Disney Lorcana Hyperia City Booster Box",
+     "price": 180.0,
+     "sold": 0,
+     "seller": "turlock_comics"
+    },
+    {
+     "title": "NEW Disney Lorcana TCG: Attack of the Vine Booster Box SEALED (24 packs)",
+     "price": 184.99,
+     "sold": 3,
+     "seller": "metalgoblingms"
+    }
+   ]
+  },
+  "mtg_collector": {
+   "n": 100,
+   "median_price": 445.0,
+   "p25": 399.99,
+   "sold_total": 107,
+   "sold_per_30d": 130.2,
+   "top": [
+    {
+     "title": "MTG Magic The Gathering Star Trek Collector Booster Box PRESALE 11/13 Sealed",
+     "price": 588.88,
+     "sold": 23,
+     "seller": "pfootballpete4dhx"
+    },
+    {
+     "title": "Magic: The Gathering | The Hobbit - Collector Booster Box - NEW SEALED",
+     "price": 690.0,
+     "sold": 0,
+     "seller": "pokeballmart"
+    },
+    {
+     "title": "Secrets of Strixhaven Collector Booster Box Magic the Gathering Sealed English",
+     "price": 529.88,
+     "sold": 52,
+     "seller": "arcanearchive"
+    },
+    {
+     "title": "Magic The Gathering Lorwyn Eclipsed Collector Booster Box Factory Sealed MTG",
+     "price": 429.88,
+     "sold": 14,
+     "seller": "arcanearchive"
+    }
+   ]
+  },
+  "yugioh": {
+   "n": 100,
+   "median_price": 106.88,
+   "p25": 59.95,
+   "sold_total": 2032,
+   "sold_per_30d": 1351.8,
+   "top": [
+    {
+     "title": "Yu-Gi-Oh Beyond the Brave Booster Box New Sealed yugioh",
+     "price": 59.44,
+     "sold": 143,
+     "seller": "pfootballpete4dhx"
+    },
+    {
+     "title": "Yu-Gi-Oh Cyberdark Impact Sealed Booster Box 1st Edition",
+     "price": 800.0,
+     "sold": 0,
+     "seller": "shivans_lair"
+    },
+    {
+     "title": "Yugioh Beyond the Brave (BETB) Booster Box 1st Edition Factory Sealed",
+     "price": 59.99,
+     "sold": 531,
+     "seller": "sassyotto"
+    },
+    {
+     "title": "Yu-Gi-Oh Enemy of Justice Sealed Booster Box 1st Edition",
+     "price": 1500.0,
+     "sold": 0,
+     "seller": "shivans_lair"
+    }
+   ]
+  },
+  "seiko5": {
+   "n": 100,
+   "median_price": 319.48,
+   "p25": 285.0,
+   "sold_total": 25,
+   "sold_per_30d": 10.7,
+   "top": [
+    {
+     "title": "Seiko 5 Sports SRPJ89K1 Green Dial Automatic Watch size 36 mm-New in Box",
+     "price": 260.0,
+     "sold": 4,
+     "seller": "uruk-watches"
+    },
+    {
+     "title": "Seiko 5 Sports SRPE63K1 Blue Automatic 40mm Blue Watch New",
+     "price": 315.0,
+     "sold": 1,
+     "seller": "uruk-watches"
+    },
+    {
+     "title": "Seiko 5 Sports SRPE65K1 Olive Green Dial Automatic Watch Brand New in Box 40 mm",
+     "price": 295.0,
+     "sold": 2,
+     "seller": "uruk-watches"
+    },
+    {
+     "title": "*BRAND NEW* Seiko 5 Sports Auto Black Dial All Black 42.5mm Men's Watch SRPD65",
+     "price": 335.75,
+     "sold": 0,
+     "seller": "cronosjewelryandwatches"
+    }
+   ]
+  },
+  "gshock": {
+   "n": 100,
+   "median_price": 111.79,
+   "p25": 93.8,
+   "sold_total": 116,
+   "sold_per_30d": 10.5,
+   "top": [
+    {
+     "title": "Casio G-Shock GA-2100 CasiOak Analog Digital Sport Watch Shock Resistant",
+     "price": 99.0,
+     "sold": 0,
+     "seller": "iraarfna"
+    },
+    {
+     "title": "New Casio G-Shock GA2100 Rainbow Black or White Carbon Digital Watch Limited MOD",
+     "price": 175.0,
+     "sold": 1,
+     "seller": "alohadeals808"
+    },
+    {
+     "title": "Casio G-Shock GA-2100RL-1A CasiOak Carbon Guard Analog-Digital Watch Black New",
+     "price": 99.0,
+     "sold": 7,
+     "seller": "cdgtrading2"
+    },
+    {
+     "title": "New Casio G-Shock GA2100 Rainbow Black Carbon Digital Watch Limited EditionMOD",
+     "price": 175.0,
+     "sold": 22,
+     "seller": "alohadeals808"
+    }
+   ]
+  },
+  "tissot": {
+   "n": 100,
+   "median_price": 421.0,
+   "p25": 299.0,
+   "sold_total": 804,
+   "sold_per_30d": 73.8,
+   "top": [
+    {
+     "title": "Tissot PRX Powermatic 80 \u2013 35mm \u2013 Mother of Pearl Dial \u2013 Automatic",
+     "price": 840.0,
+     "sold": 0,
+     "seller": "jangeljr_1235"
+    },
+    {
+     "title": "Tissot PRX 40mm Champagne Stainless Steel Quartz Men's Watch T137.410.33.021.00",
+     "price": 235.08,
+     "sold": 9,
+     "seller": "tads-86"
+    },
+    {
+     "title": "Tissot PRX Blue Men's Watch  40 MM - T137.410.11.041.00",
+     "price": 319.5,
+     "sold": 105,
+     "seller": "discountluxecalifornia"
+    },
+    {
+     "title": "Tissot PRX 35mm Light Blue Dial Quartz Watch T137.210.11.351.00",
+     "price": 319.5,
+     "sold": 91,
+     "seller": "discountluxecalifornia"
+    }
+   ]
+  },
+  "hamilton": {
+   "n": 100,
+   "median_price": 715.0,
+   "p25": 629.95,
+   "sold_total": 88,
+   "sold_per_30d": 36.2,
+   "top": [
+    {
+     "title": "New Hamilton Khaki Field King Day-Date 40mm Blue Dial Men's Watch H64475540",
+     "price": 660.0,
+     "sold": 9,
+     "seller": "incmaxx"
+    },
+    {
+     "title": "Hamilton Khaki Field 250th USA Anniversary Limited Edition Watch 36mm - NEW",
+     "price": 799.99,
+     "sold": 1,
+     "seller": "bigbuckssales"
+    },
+    {
+     "title": "Hamilton Khaki Field King Day-Date Automatic \u2013 40mm \u2013 Green Dial \u2013 Brand New",
+     "price": 600.0,
+     "sold": 0,
+     "seller": "firstohio"
+    },
+    {
+     "title": "New Hamilton Khaki Field Mechanical 42mm Black Dial Men's Watch H69529933",
+     "price": 692.0,
+     "sold": 21,
+     "seller": "watchmaxx"
+    }
+   ]
+  },
+  "oakley_holbrook": {
+   "n": 100,
+   "median_price": 74.49,
+   "p25": 40.39,
+   "sold_total": 351,
+   "sold_per_30d": 222.5,
+   "top": [
+    {
+     "title": "NEW Oakley Holbrook Sunglasses Grey Smoke Clear Frame Blue Mirror Polarized Lens",
+     "price": 40.39,
+     "sold": 66,
+     "seller": "vibe-4837"
+    },
+    {
+     "title": "NEW Oakley Holbrook Polarized Prizm P 9102 XL 57mm Smoke Gray Sunglasses TREND",
+     "price": 40.29,
+     "sold": 9,
+     "seller": "boat7441"
+    },
+    {
+     "title": "Oakley Holbrook Matte Black  Black Polarized Sunglasses OO9102 With Case",
+     "price": 40.39,
+     "sold": 68,
+     "seller": "maharg1950"
+    },
+    {
+     "title": "Oakley Holbrook OO9102 Sunglasses Matte Black /Blue Polarized Sunglasses",
+     "price": 48.0,
+     "sold": 8,
+     "seller": "jusin_39"
+    }
+   ]
+  },
+  "raybans": {
+   "n": 100,
+   "median_price": 76.83,
+   "p25": 53.99,
+   "sold_total": 414,
+   "sold_per_30d": 86.5,
+   "top": [
+    {
+     "title": "Ray-Ban New Wayfarer RB2132 Sunglasses Matte Black Frame G-15 Green Lens 55mm",
+     "price": 35.86,
+     "sold": 134,
+     "seller": "cryhun_88"
+    },
+    {
+     "title": "Ray-Ban New Wayfarer 55mm Square Unisex Sunglasses - Polarized Green Lens RB2132",
+     "price": 69.74,
+     "sold": 0,
+     "seller": "gayan_silva"
+    },
+    {
+     "title": "Ray-Ban New Wayfarer RB2132F 865/78 Gray  Polarized Sunglasses Matte Havana 55mm",
+     "price": 36.0,
+     "sold": 22,
+     "seller": "elsner48"
+    },
+    {
+     "title": "Ray-Ban Sunglasses RB2132 New Wayfarer Classic Black Frame Green Lenses 55mm",
+     "price": 56.99,
+     "sold": 29,
+     "seller": "pyny_57"
+    }
+   ]
+  },
+  "cologne_creed": {
+   "n": 92,
+   "median_price": 299.5,
+   "p25": 150.0,
+   "sold_total": 79,
+   "sold_per_30d": 201.3,
+   "top": [
+    {
+     "title": "Creed Aventus Men's Eau de Parfum Spray 3.3 oz Tester, New Sealed 100ml",
+     "price": 90.0,
+     "sold": 1,
+     "seller": "gldrresells"
+    },
+    {
+     "title": "Creed Aventus Men's Eau de Parfum Spray 3.3 oz Tester, New Sealed 100ml",
+     "price": 175.0,
+     "sold": 5,
+     "seller": "vaultlyy"
+    },
+    {
+     "title": "Creed Aventus Eau de Parfum 3.3oz/ 100ml Tester Sealed / New /Sealed In Box",
+     "price": 69.99,
+     "sold": 11,
+     "seller": "colonge_discounter99"
+    },
+    {
+     "title": "Creed Aventus Eau de Parfum Spray 100ml/3.3 oz New Sealed Tester",
+     "price": 120.0,
+     "sold": 0,
+     "seller": "trusc-84"
+    }
+   ]
+  },
+  "cologne_dior_sauvage": {
+   "n": 100,
+   "median_price": 125.5,
+   "p25": 100.0,
+   "sold_total": 7,
+   "sold_per_30d": 16.8,
+   "top": [
+    {
+     "title": "The Dior Sauvage Eau De Parfum Spray 100ml",
+     "price": 60.0,
+     "sold": 0,
+     "seller": "lucasshop2"
+    },
+    {
+     "title": "Dior Sauvage Eau de Toilette Spray 3.4 oz (100 Ml) New and Sealed",
+     "price": 45.99,
+     "sold": 2,
+     "seller": "kllurecollections"
+    },
+    {
+     "title": "Dior Sauvage Eau de Toilette EDT Spray for Men 3.4 oz 100ml Brand New Sealed",
+     "price": 94.95,
+     "sold": 2,
+     "seller": "quicklysales"
+    },
+    {
+     "title": "Sauvage by Christian Dior 6.8 oz 200 ml Eau de parfum Brand New Sealed Box",
+     "price": 259.99,
+     "sold": 0,
+     "seller": "elaman_loveu"
+    }
+   ]
+  },
+  "cologne_ysl": {
+   "n": 100,
+   "median_price": 106.45,
+   "p25": 89.99,
+   "sold_total": 43,
+   "sold_per_30d": 61.0,
+   "top": [
+    {
+     "title": "YSL Y Le Parfum (3.3 Oz) New/Sealed 2021 Version",
+     "price": 265.0,
+     "sold": 0,
+     "seller": "jlmartinez88"
+    },
+    {
+     "title": "Y by Yves Saint Laurent cologne for men EDP 3.3 / 3.4 oz New in Box",
+     "price": 49.99,
+     "sold": 6,
+     "seller": "limcn-3916"
+    },
+    {
+     "title": "Yves Saint Laurent Y Eau de Parfum 3.3 oz 100ml Men\u2019s Cologne",
+     "price": 89.99,
+     "sold": 32,
+     "seller": "frankg37"
+    },
+    {
+     "title": "Yves Saint Laurent Men's Y Le Parfum 3.3 oz Men  Spray New Sealed",
+     "price": 109.5,
+     "sold": 4,
+     "seller": "javicosmetics"
+    }
+   ]
+  },
+  "cologne_tomford": {
+   "n": 76,
+   "median_price": 240.0,
+   "p25": 170.0,
+   "sold_total": 7,
+   "sold_per_30d": 5.6,
+   "top": [
+    {
+     "title": "Oud Wood by Tom Ford 3.4 oz EDP for Unisex Perfume Women Men New in Box Sealed",
+     "price": 199.99,
+     "sold": 2,
+     "seller": "thegreencheck"
+    },
+    {
+     "title": "Tom Ford Oud Wood Eau de Parfum EDP 3.4 oz 100 ml Private Blend Cologne Sealed",
+     "price": 179.0,
+     "sold": 0,
+     "seller": "kandiclaws11"
+    },
+    {
+     "title": "Tom Ford Oud Wood EDP 1 oz 30ml NIB Sealed Authentic Luxury Fragrance",
+     "price": 163.88,
+     "sold": 0,
+     "seller": "sublimecosmetics"
+    },
+    {
+     "title": "OUD WOOD EDP  1.7oz/50ml TOM FORD SEALED",
+     "price": 299.99,
+     "sold": 0,
+     "seller": "dashoekollektor"
+    }
+   ]
+  },
+  "cologne_mfk": {
+   "n": 100,
+   "median_price": 222.5,
+   "p25": 160.0,
+   "sold_total": 58,
+   "sold_per_30d": 189.7,
+   "top": [
+    {
+     "title": "Baccarat Rouge 540 Extrait De Parfum 3.4 Oz New Sealed Box",
+     "price": 30.29,
+     "sold": 14,
+     "seller": "mbonlinedeals2021"
+    },
+    {
+     "title": "Baccarat Rouge 540 Extrait 2.4oz / 70ml \ud83d\udd25 New Sealed Box \u2728 Fast Shipping \ud83d\ude80",
+     "price": 139.99,
+     "sold": 0,
+     "seller": "latinpart"
+    },
+    {
+     "title": "Baccarat Rouge 540 Extrait de Parfum (100% SEALED & AUTHENTIC) With Box",
+     "price": 89.99,
+     "sold": 1,
+     "seller": "crossroadsc0"
+    },
+    {
+     "title": "Baccarat Rouge 540 Extrait de Parfum (100% SEALED & AUTHENTIC) With Box",
+     "price": 79.99,
+     "sold": 4,
+     "seller": "anu_328880"
+    }
+   ]
+  },
+  "ninja_creami": {
+   "n": 100,
+   "median_price": 154.0,
+   "p25": 110.0,
+   "sold_total": 28,
+   "sold_per_30d": 47.5,
+   "top": [
+    {
+     "title": "Ninja CREAMi XL 11-in-1 Ice Cream & Frozen Treat Maker with 3 XL Tubs (NC601)",
+     "price": 189.99,
+     "sold": 19,
+     "seller": "taoh-everydaybetterdeals"
+    },
+    {
+     "title": "Ninja CREAMi XL Deluxe 11-in-1 Ice Cream & Frozen Treat Maker NC501 NEW",
+     "price": 161.49,
+     "sold": 0,
+     "seller": "wach_3972"
+    },
+    {
+     "title": "NEW IN BOX Ninja CREAMi 7-in-1 Ice Cream Maker NC301 Grey",
+     "price": 164.99,
+     "sold": 0,
+     "seller": "dealsproutstore"
+    },
+    {
+     "title": "Ninja Swirl by CREAMi Soft Serve Maker 13 Programs 850W w/2x16oz Pints",
+     "price": 150.0,
+     "sold": 0,
+     "seller": "johnmon2"
+    }
+   ]
+  },
+  "kitchenaid": {
+   "n": 100,
+   "median_price": 379.99,
+   "p25": 319.95,
+   "sold_total": 20,
+   "sold_per_30d": 5.1,
+   "top": [
+    {
+     "title": "*New* KitchenAid Artisan KSM150PSTPP 5 Qt Tilt-Head Stand Mixer - Pebbled Palm",
+     "price": 399.0,
+     "sold": 0,
+     "seller": "jerr-wolfs"
+    },
+    {
+     "title": "*Brand New* KitchenAid Artisan KSM150PSFG 5 Qt Tilt-Head Stand Mixer-Matt Grey",
+     "price": 379.99,
+     "sold": 0,
+     "seller": "jerr-wolfs"
+    },
+    {
+     "title": "*New* KitchenAid 5-Quart Artisan Tilt-Head Stand Mixer-KSM150PSJP - Juniper",
+     "price": 379.99,
+     "sold": 0,
+     "seller": "jerr-wolfs"
+    },
+    {
+     "title": "KitchenAid Artisan Design Series 5 Quart Stand Mixer Evergreen KSM180WSEG",
+     "price": 650.0,
+     "sold": 1,
+     "seller": "thecurioussofa"
+    }
+   ]
+  },
+  "vitamix": {
+   "n": 100,
+   "median_price": 89.51,
+   "p25": 70.0,
+   "sold_total": 78,
+   "sold_per_30d": 14.1,
+   "top": [
+    {
+     "title": "New Vitamix Explorian E310, Professional-Grade Blender, 48Oz Container - Black",
+     "price": 299.99,
+     "sold": 0,
+     "seller": "truethentic"
+    },
+    {
+     "title": "NEW 64oz Blender Pitcher for Vitamix BPA Free Replacement Jar",
+     "price": 167.4,
+     "sold": 4,
+     "seller": "broaubu-0"
+    },
+    {
+     "title": "Vitamix Propel 510 High Perforamce Blender Black 48 oz VM0197A",
+     "price": 229.99,
+     "sold": 0,
+     "seller": "roguerobyn"
+    },
+    {
+     "title": "Blender Pitcher 64oz Low-Profile Fits Vitamix Container  Explorian E310 E320",
+     "price": 49.95,
+     "sold": 8,
+     "seller": "mrx-solutions"
+    }
+   ]
+  },
+  "breville": {
+   "n": 100,
+   "median_price": 46.97,
+   "p25": 21.95,
+   "sold_total": 7,
+   "sold_per_30d": 5.2,
+   "top": [
+    {
+     "title": "New Breville Barista Express Impress Espresso Machine Olive Tapenade BES876OLT",
+     "price": 578.98,
+     "sold": 0,
+     "seller": "ready2call"
+    },
+    {
+     "title": "Breville Barista Touch BES880 Espresso Machine, Whole Bean, Silver",
+     "price": 720.0,
+     "sold": 0,
+     "seller": "elvizunig-0"
+    },
+    {
+     "title": "Breville the Barista Express Impress Espresso Machine, Brushed Stainless Steel",
+     "price": 629.95,
+     "sold": 1,
+     "seller": "portugaliasales"
+    },
+    {
+     "title": "Breville Barista Pro Espresso Machine BES878BSS Brushed Stainless Steel NEW SHIP",
+     "price": 650.0,
+     "sold": 0,
+     "seller": "deiwh9298"
+    }
+   ]
+  },
+  "le_creuset": {
+   "n": 100,
+   "median_price": 369.95,
+   "p25": 289.95,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "~Le Creuset *NEW* 5.5Qt Round Dutch Oven - Enameled Cast Iron -*Foret*Exclusive",
+     "price": 369.95,
+     "sold": 0,
+     "seller": "cherylm10s303"
+    },
+    {
+     "title": "Signature Enameled  Cast Iron Round   Dutch Oven, 5.5 Qt.  In Thyme,  Le Creuset",
+     "price": 295.0,
+     "sold": 0,
+     "seller": "milohome"
+    },
+    {
+     "title": "Le Creuset Signature Cast Iron 5 1/2-Qt Round Dutch Oven",
+     "price": 249.99,
+     "sold": 0,
+     "seller": "chips5kids"
+    },
+    {
+     "title": "Signature Round Dutch  Oven, Size 5.5 Qt. In Color Marseille, By:     Le Creuset",
+     "price": 295.0,
+     "sold": 0,
+     "seller": "milohome"
+    }
+   ]
+  },
+  "staub": {
+   "n": 100,
+   "median_price": 49.99,
+   "p25": 30.0,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "STAUB Mini Cocotte 0.25 Qt 0.2L New in Box Choice of 5 Colors - You Choose",
+     "price": 34.99,
+     "sold": 0,
+     "seller": "madi010"
+    },
+    {
+     "title": "Staub Ceramique Mini Cocotte Brand New In Box Green",
+     "price": 31.0,
+     "sold": 0,
+     "seller": "marg7684"
+    },
+    {
+     "title": "Staub Enameled Cast Iron Round Cocotte Dutch Oven Black 7 Qt w/ Lid Handles",
+     "price": 200.0,
+     "sold": 0,
+     "seller": "luvhe_a_eykbrzfb"
+    },
+    {
+     "title": "Staub Enameled Cast Iron Tomato Cocotte, 3-Qt, New",
+     "price": 219.95,
+     "sold": 0,
+     "seller": "jmiller8916"
+    }
+   ]
+  },
+  "fellow_stagg": {
+   "n": 42,
+   "median_price": 172.5,
+   "p25": 130.0,
+   "sold_total": 178,
+   "sold_per_30d": 104.8,
+   "top": [
+    {
+     "title": "Fellow Stagg EKG Pro Electric Pour-Over Kettle - Black  With Walnut Handle",
+     "price": 129.9,
+     "sold": 49,
+     "seller": "skgeneral"
+    },
+    {
+     "title": "Fellow Stagg EKG Pro Electric Pour-Over Kettle",
+     "price": 87.5,
+     "sold": 0,
+     "seller": "apexpulseh_0"
+    },
+    {
+     "title": "Fellow Corvo EKG Pro Electric Kettle Matte Black - Brand New",
+     "price": 149.99,
+     "sold": 0,
+     "seller": "crabwarehouse"
+    },
+    {
+     "title": "STAGG Pour-Over Kettle, 1 Litre, Matte Black by Fellow",
+     "price": 85.0,
+     "sold": 0,
+     "seller": "21centurymarket"
+    }
+   ]
+  },
+  "weber": {
+   "n": 100,
+   "median_price": 29.99,
+   "p25": 20.82,
+   "sold_total": 211,
+   "sold_per_30d": 10.7,
+   "top": [
+    {
+     "title": "Weber Smokey Mountain Cooker 22/22.5in Grill Charcoal Grate (18 3/16in) New",
+     "price": 29.99,
+     "sold": 0,
+     "seller": "a.e.energy"
+    },
+    {
+     "title": "Weber Smokey Mountain Cooker Grill 22/22.5in Cooking Grate (21.5in) New",
+     "price": 29.99,
+     "sold": 0,
+     "seller": "a.e.energy"
+    },
+    {
+     "title": "Weber 30173599 Smoker Cover 22\" Smokey Mountain",
+     "price": 19.98,
+     "sold": 1,
+     "seller": "pamfit48"
+    },
+    {
+     "title": "Weber 30173599 Smoker Cover 22\" Smokey Mountain",
+     "price": 27.5,
+     "sold": 98,
+     "seller": "egheri6"
+    }
+   ]
+  },
+  "traeger": {
+   "n": 100,
+   "median_price": 39.64,
+   "p25": 26.9,
+   "sold_total": 776,
+   "sold_per_30d": 35.3,
+   "top": [
+    {
+     "title": "Traeger Steel Front Folding Shelf Pro 34 Pellet Grill Smoker BAC363 New",
+     "price": 72.0,
+     "sold": 9,
+     "seller": "browndogretail"
+    },
+    {
+     "title": "Traeger Grills Woodridge Wood Pellet Grill and Smoker TFB86MLH, Wi-Fi - NEW",
+     "price": 634.99,
+     "sold": 1,
+     "seller": "medianet.etc"
+    },
+    {
+     "title": "TRAEGER TIMBERLINE XL FULL LENGTH GRILL COVER - BAC603",
+     "price": 154.99,
+     "sold": 1,
+     "seller": "silver_boomer"
+    },
+    {
+     "title": "Digital Thermostat Controller Kit Replacement for Traeger Wood Pellet Grill New",
+     "price": 41.75,
+     "sold": 15,
+     "seller": "qingdaijie-3"
+    }
+   ]
+  },
+  "garmin_forerunner": {
+   "n": 100,
+   "median_price": 449.99,
+   "p25": 349.0,
+   "sold_total": 94,
+   "sold_per_30d": 2.4,
+   "top": [
+    {
+     "title": "Garmin Forerunner\u00ae 265, Running Smartwatch, 46mm, Black/Powder Gray",
+     "price": 300.0,
+     "sold": 0,
+     "seller": "kar_25068"
+    },
+    {
+     "title": "Garmin Forerunner 265 AMOLED GPS Smartwatch 13-Day Battery 1.3\" Black",
+     "price": 335.0,
+     "sold": 0,
+     "seller": "bestdeal513wkh"
+    },
+    {
+     "title": "Garmin Forerunner 265 AMOLED GPS Running Smartwatch in Whitestone 010-02810-01",
+     "price": 329.95,
+     "sold": 0,
+     "seller": "luxuryontime"
+    },
+    {
+     "title": "Garmin Forerunner 265s, Black Bezel with Whitestone Case and Whitestone/Neo Trop",
+     "price": 350.0,
+     "sold": 0,
+     "seller": "tdxbg34"
+    }
+   ]
+  },
+  "gopro": {
+   "n": 100,
+   "median_price": 50.0,
+   "p25": 33.58,
+   "sold_total": 240,
+   "sold_per_30d": 48.6,
+   "top": [
+    {
+     "title": "New - GoPro HERO13 Dual Battery Charger Rechargeable Camera Device",
+     "price": 43.88,
+     "sold": 15,
+     "seller": "360_deal_drop"
+    },
+    {
+     "title": "GoPro HERO13 Waterproof Action Camera 64GB Card 50 Piece Kit",
+     "price": 524.95,
+     "sold": 72,
+     "seller": "6ave"
+    },
+    {
+     "title": "GoPro HERO13 Black - Waterproof Action Camera with 5.3K60 Video, 27MP Photo",
+     "price": 434.49,
+     "sold": 29,
+     "seller": "6ave"
+    },
+    {
+     "title": "GoPro HERO 13 Black Waterproof Action Camera + 128GB Card & 50 Piece Accessory",
+     "price": 499.0,
+     "sold": 45,
+     "seller": "pixel_park"
+    }
+   ]
+  },
+  "dji_mini": {
+   "n": 100,
+   "median_price": 720.0,
+   "p25": 99.99,
+   "sold_total": 775,
+   "sold_per_30d": 139.1,
+   "top": [
+    {
+     "title": "DJI Mini 4 Pro Fly More Combo Plus (DJI RC 2, Three Batteries Plus) Camera Drone",
+     "price": 878.9,
+     "sold": 30,
+     "seller": "hkcamerastore"
+    },
+    {
+     "title": "DJI Mini 4 Pro Fly More Combo Plus RC2 100% Authentic Fast Shipping Camera Drone",
+     "price": 878.9,
+     "sold": 14,
+     "seller": "sharpvision1"
+    },
+    {
+     "title": "3X New 3850mAh DJI Mini 3 series, Mini 4 Pro High Capacity  Replacement Battery",
+     "price": 176.99,
+     "sold": 17,
+     "seller": "imax_expert"
+    },
+    {
+     "title": "DJI Mini 4 Pro Fly More Combo Plus Drone +RC2 + 3Batteries Plus US",
+     "price": 878.9,
+     "sold": 32,
+     "seller": "sharpvision1"
+    }
+   ]
+  },
+  "kindle": {
+   "n": 100,
+   "median_price": 109.99,
+   "p25": 13.09,
+   "sold_total": 21,
+   "sold_per_30d": 32.6,
+   "top": [
+    {
+     "title": "Amazon Kindle Paperwhite 12th Gen 16GB Black 7\" Wi-Fi - New Sealed",
+     "price": 149.99,
+     "sold": 4,
+     "seller": "newtech_world"
+    },
+    {
+     "title": "Amazon Kindle Paperwhite Signature Edition 32GB 7\" 12th Gen - Metallic Black",
+     "price": 209.0,
+     "sold": 1,
+     "seller": "chads_26"
+    },
+    {
+     "title": "Kindle Paperwhite Kids Gen 12 16GB, 7 in - Star fish",
+     "price": 130.0,
+     "sold": 0,
+     "seller": "discountlandwho-0"
+    },
+    {
+     "title": "Kindle Paperwhite Signature Edition 12th Gen 32GB Metallic Raspberry New SEALED",
+     "price": 215.0,
+     "sold": 0,
+     "seller": "swflgoodz"
+    }
+   ]
+  },
+  "ring_cam": {
+   "n": 100,
+   "median_price": 60.0,
+   "p25": 45.0,
+   "sold_total": 305,
+   "sold_per_30d": 165.3,
+   "top": [
+    {
+     "title": "NEW SEALED Ring Battery Doorbell Plus 1536p WiFi Video Satin Nickel LATEST MODEL",
+     "price": 77.98,
+     "sold": 28,
+     "seller": "minipcsnmore"
+    },
+    {
+     "title": "Ring Video Doorbell 4 - Satin Nickel new in sealed box",
+     "price": 100.0,
+     "sold": 1,
+     "seller": "oneestoppshopp93"
+    },
+    {
+     "title": "Ring Wireless Battery Doorbell Pro (2nd Gen) 4K 3D Motion Deep Silver NEW",
+     "price": 129.99,
+     "sold": 0,
+     "seller": "sac1001"
+    },
+    {
+     "title": "Ring Battery Doorbell and Indoor Cam 2nd Gen Starter Set - New Sealed",
+     "price": 65.0,
+     "sold": 0,
+     "seller": "liquidationsa"
+    }
+   ]
+  },
+  "tempur": {
+   "n": 100,
+   "median_price": 74.5,
+   "p25": 50.0,
+   "sold_total": 56,
+   "sold_per_30d": 18.7,
+   "top": [
+    {
+     "title": "Tempur-Pedic TEMPUR-Cloud Dual Cooling Pillow, Queen, White 27\u201d x 19\u201d x 6.4\u201d",
+     "price": 105.99,
+     "sold": 24,
+     "seller": "huynhk76"
+    },
+    {
+     "title": "Brand New Tempur-Pedic Lumbar Cushion 15\"\u00d715\"\u00d74\" Medium-Firm for Chairs Car etc",
+     "price": 74.99,
+     "sold": 2,
+     "seller": "ssmsupply"
+    },
+    {
+     "title": "NEW Tempur-Pedic FIRM Cooling Bed Pillow Queen 2 Pack New in Box! Ready to Ship!",
+     "price": 94.99,
+     "sold": 2,
+     "seller": "kscasual"
+    },
+    {
+     "title": " Tempur-Pedic ( 2- Pack) Firm Cooling Bed Pillow - Queen Sized \"NEW IN BOX\"",
+     "price": 89.99,
+     "sold": 0,
+     "seller": "trshi_65"
+    }
+   ]
+  },
+  "uggs_women": {
+   "n": 100,
+   "median_price": 119.72,
+   "p25": 89.0,
+   "sold_total": 317,
+   "sold_per_30d": 9.5,
+   "top": [
+    {
+     "title": "NEW UGG Women's Classic Ultra Mini Boots Chestnut Style 1116109 Size US 5-11",
+     "price": 125.99,
+     "sold": 1,
+     "seller": "goodstuffdeals_4"
+    },
+    {
+     "title": "BRAND NEW! UGG Women's Classic Ultra Mini Boots Chestnut Style 1116109 Size US 8",
+     "price": 119.99,
+     "sold": 0,
+     "seller": "beetleboot"
+    },
+    {
+     "title": "New  100% UGG Brand  1016501  Mini Bailey Bow II Women's Boots Shoes Chestnut",
+     "price": 153.0,
+     "sold": 123,
+     "seller": "trustee_seller"
+    },
+    {
+     "title": "UGG SIENNA MATTE BLACK WATERPROOF RUBBER WOMEN'S BOOTS SIZE US 9/UK 7/EU 40 NEW",
+     "price": 44.99,
+     "sold": 192,
+     "seller": "mycozyboots"
+    }
+   ]
+  },
+  "samsonite": {
+   "n": 100,
+   "median_price": 349.99,
+   "p25": 265.0,
+   "sold_total": 5,
+   "sold_per_30d": 19.3,
+   "top": [
+    {
+     "title": "New! Genuine TUMI ALPHA Bravo 3 Brief Pack / Backpack FXT Ballistic Nylon",
+     "price": 299.11,
+     "sold": 0,
+     "seller": "olympicworld"
+    },
+    {
+     "title": "Tumi Alpha Bravo Navigation Men's Backpack - 0232793",
+     "price": 297.46,
+     "sold": 1,
+     "seller": "elsoutlet"
+    },
+    {
+     "title": "TUMI Black Leather Backpack  Men Business Laptop Travel Bag",
+     "price": 450.0,
+     "sold": 4,
+     "seller": "972tenniswoman"
+    },
+    {
+     "title": "Tumi Nellis Exclusive Ballistic Nylon Backpack NWT $425 Gray",
+     "price": 379.9,
+     "sold": 0,
+     "seller": "ecommstore"
+    }
+   ]
+  },
+  "coach_bag": {
+   "n": 100,
+   "median_price": 142.5,
+   "p25": 118.99,
+   "sold_total": 94,
+   "sold_per_30d": 98.7,
+   "top": [
+    {
+     "title": "Coach Heart Crossbody Handbag Black Pebbled Leather Gold Hardware Zip Strap",
+     "price": 250.0,
+     "sold": 0,
+     "seller": "leaca_76"
+    },
+    {
+     "title": "COACH Chelsea Shoulder Bag 30 Leather Crossbody Handbag NWT CDS58 Hobo New",
+     "price": 129.99,
+     "sold": 8,
+     "seller": "to-936174"
+    },
+    {
+     "title": "NWT Coach CV933 Teri Shoulder Bag In Signature Canvas Pink Outlet Free Shipping",
+     "price": 109.99,
+     "sold": 22,
+     "seller": "ga-393238"
+    },
+    {
+     "title": "Coach Rowan Satchel Bag Signature Canvas With Charms Gold/Powder Pink CEA18 New",
+     "price": 149.0,
+     "sold": 57,
+     "seller": "loannm-67"
+    }
+   ]
+  },
+  "kate_spade": {
+   "n": 100,
+   "median_price": 122.12,
+   "p25": 79.99,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "Kate Spade Lena Black Pebbled Leather Satchel Purse Bag Medium NWT New $429 MSRP",
+     "price": 200.0,
+     "sold": 0,
+     "seller": "prettypimpin"
+    },
+    {
+     "title": "Kate Spade New York Shoulder Bag Pink KM471. New With Tags",
+     "price": 175.0,
+     "sold": 0,
+     "seller": "odieluna"
+    },
+    {
+     "title": "Kate Spade ~ Page ~  Black Tote Bag ~ New With Tags!",
+     "price": 105.99,
+     "sold": 0,
+     "seller": "summerzoff89"
+    },
+    {
+     "title": "NEW WITH TAGS! Kate Spade Bag Black Cameron Saffiano Leather Hilli- K5994",
+     "price": 75.0,
+     "sold": 0,
+     "seller": "knobbydamus"
+    }
+   ]
+  },
+  "michael_kors": {
+   "n": 100,
+   "median_price": 104.28,
+   "p25": 88.0,
+   "sold_total": 2,
+   "sold_per_30d": 4.4,
+   "top": [
+    {
+     "title": "Michael Kors Marilyn Medium Tote Orange Leather Handbag New With Tags.",
+     "price": 199.99,
+     "sold": 0,
+     "seller": "thebama-19"
+    },
+    {
+     "title": "Michael Kors Preston Shoulder  Bag NEW WITH TAGS",
+     "price": 169.0,
+     "sold": 0,
+     "seller": "minnesota-55"
+    },
+    {
+     "title": "MICHAEL KORS Med Logo Crossbody Bag Unique Brown/Powder Blush Mix New With Tags",
+     "price": 83.0,
+     "sold": 0,
+     "seller": "beckbeck"
+    },
+    {
+     "title": "MICHAEL KORS MK VANNA Shoulder Bag Burgundy Brand New with Tags 198$ MSRP",
+     "price": 88.0,
+     "sold": 0,
+     "seller": "itsinthebag317"
+    }
+   ]
+  },
+  "longchamp": {
+   "n": 100,
+   "median_price": 138.5,
+   "p25": 99.99,
+   "sold_total": 8,
+   "sold_per_30d": 17.3,
+   "top": [
+    {
+     "title": "Longchamp Le Pliage Energy Large Handbag Black With Strap",
+     "price": 139.95,
+     "sold": 3,
+     "seller": "nick_g33"
+    },
+    {
+     "title": "NWT Longchamp Le Pliage Pouch Nylon Leather Crossbody Bag with Strap GRAY",
+     "price": 125.0,
+     "sold": 0,
+     "seller": "kawaiila"
+    },
+    {
+     "title": "NWT Longchamp Le Pliage XTRA M Backpack Bag Black",
+     "price": 138.0,
+     "sold": 5,
+     "seller": "brum-554"
+    },
+    {
+     "title": "Longchamp Le Pliage large Beige Nylon Tote Bag Black Leather Trim Silver",
+     "price": 150.0,
+     "sold": 0,
+     "seller": "marcelltrindad0"
+    }
+   ]
+  },
+  "hydroflask": {
+   "n": 100,
+   "median_price": 26.87,
+   "p25": 19.99,
+   "sold_total": 206,
+   "sold_per_30d": 120.8,
+   "top": [
+    {
+     "title": "Hydro Flask 24 oz Water Bottle With Flex Straw Cap Color Is Dew Brand New In Box",
+     "price": 13.0,
+     "sold": 36,
+     "seller": "digboy"
+    },
+    {
+     "title": "Hydro Flask 12 oz Cooler Cup Multiple Colors Brand New !",
+     "price": 19.99,
+     "sold": 2,
+     "seller": "shoeguru4u"
+    },
+    {
+     "title": "X2 Hydro Flask Vans Collection 32 oz Wide Mouth Limited Edition-Brand New In Box",
+     "price": 450.0,
+     "sold": 0,
+     "seller": "res4711"
+    },
+    {
+     "title": "Hydro Flask 40 oz All Around Travel Tumbler DEW New",
+     "price": 23.0,
+     "sold": 3,
+     "seller": "shoeguru4u"
+    }
+   ]
+  },
+  "trading_psa": {
+   "n": 100,
+   "median_price": 182.5,
+   "p25": 141.75,
+   "sold_total": 93,
+   "sold_per_30d": 23.9,
+   "top": [
+    {
+     "title": "Legendary Pokemon PSA 10 Graded Card Mystery Box Trading Card Game",
+     "price": 149.99,
+     "sold": 5,
+     "seller": "shophofsm"
+    },
+    {
+     "title": "(1x) Pokemon PSA 10-8 Graded Mystery Slab Pack CGC 10-8 Pokemon Card Mystery Box",
+     "price": 24.99,
+     "sold": 71,
+     "seller": "shinywonders"
+    },
+    {
+     "title": "PSA 10 2023 Pokemon TCG Crown Zenith 3-Card Lot: Entei V Raikou V Suicine V",
+     "price": 626.0,
+     "sold": 0,
+     "seller": "marg_77148"
+    },
+    {
+     "title": "PSA Graded Japanese Pokemon VMAX Battle Triple  Holo 4-Card Lot Lugia PSA 10",
+     "price": 600.0,
+     "sold": 0,
+     "seller": "almyher88"
+    }
+   ]
+  },
+  "carhartt_wip": {
+   "n": 100,
+   "median_price": 236.5,
+   "p25": 160.0,
+   "sold_total": 0,
+   "sold_per_30d": 0.0,
+   "top": [
+    {
+     "title": "Carhartt WIP Detroit jacket large New With Tags",
+     "price": 185.0,
+     "sold": 0,
+     "seller": "fashion-minded"
+    },
+    {
+     "title": "Carhartt WIP Active Jacket Small Tarragon Green Winter (Rigid) Quilt Lined",
+     "price": 150.0,
+     "sold": 0,
+     "seller": "etnies"
+    },
+    {
+     "title": "Carhartt WIP unity jacket black military field cargo work coat  M mens NEW",
+     "price": 108.5,
+     "sold": 0,
+     "seller": "lagostalobster"
+    },
+    {
+     "title": "Carhartt WIP Puffer Jacket in Teal Green (New With Tags)",
+     "price": 99.0,
+     "sold": 0,
+     "seller": "netgains26"
+    }
+   ]
+  }
+ }
 }

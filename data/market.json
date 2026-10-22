@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-22T16:04:19Z",
+ "checked": "2026-10-22T17:41:20Z",
  "items": {
   "355066429434": {
    "title": "Salvatore Ferragamo Grandioso Moccasin with Gancini Ornament Black Men's New",
@@ -242,7 +242,7 @@
     {
      "price": 700.0,
      "title": "Gucci Ace 'White Green Red' 757892 AACAG 9055 Men's White ",
-     "url": "https://www.ebay.com/itm/146809772830?_skw=757892+AACAG+9055&hash=item222e8b5b1e:g:77gAAeSwnPpot7Ph&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mMAWvH6uR1d0qJoJdDP9m2PInXbDwJDw7Gp4jqkJoyE6kJGActNS95V9Hv7q2rNYLn02oETns1YR7WavJCZZwwSapBVhG6SRY3oSeAjoe350rJjG04n4RXLuJll%2FOqUC0rAmM6t6htezztSuk0lmm2ANVkirGeNFbmkKrC6y6xI6ldHvPZ3zNpucU6rdLxEyh4o%2By768njSDbaA4SeWBwBX3juYwRIe2YmbED1WuzuAUf7o1y0Hk365d%2Bs30Te3TZjoxiJ1CfQBobANaWqyz8cVYiTcyeydncGTYKESvbF8Q%3D%3D",
+     "url": "https://www.ebay.com/itm/146809772830?_skw=757892+AACAG+9055&hash=item222e8b5b1e:g:77gAAeSwnPpot7Ph&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mMAWvH6uR1d0qJoJdDP9m2PInXbDwJDw7Gp4jqkJoyE6kJGActNS95V9Hv7q2rNYLn02oETns1YR7WavJCZZwwSapBVhG6SRY3oSeAjoe350rJjG04n4RXLuJll%2FOqUC0G5WoY1uPOPgtQTizHQwjwEbo1XeTOsERN9vEDLH6ZalP2lX2ecQP5%2BtWenKjPkonEl3ou%2BL6liTBC8%2FPTm7ojZR98goClQI4r2HkI54sBYruO0ti5amaopSM5iF8NS3BTFSRppZciIwwDhHLfOiXgp%2FnzkOMsop3clT7rmt3qNQ%3D%3D",
      "seller": "us2014_gumru"
     }
    ],
@@ -271,7 +271,7 @@
     {
      "price": 575.95,
      "title": "adidas Gucci x Gazelle Black GG Monogram IE2264 Available Now",
-     "url": "https://www.ebay.com/itm/128066969063?_skw=IE2264&hash=item1dd162dde7:g:qgQAAeSwE~FqnprX&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mpQTJ%2FLLRq6OcV36rgr7SRfYBWZ9sdtzioIgzoGbGP%2FHc%2BxOf2Z8cMYoWA16ix53EL6keyoAR1n2DUXooXAHZQGsNWP10X7GmVHdxvrVqg01ST1ZUQoCvlzW7KKbzu5D6LOy896DfShwxLUX0VDSl57UX01YOAAbVYD6jORmBdc%2BeAGNvTnV%2B2RomoUJPwwG4CoFJQ3tp9rtzYpXM99uKS8zITstAb6V8tkCrEfbx9UKQt6kAXkPbKi4UyqOM2ev1mp5KWlrVrMr9PhIonTxAL",
+     "url": "https://www.ebay.com/itm/128066969063?_skw=IE2264&hash=item1dd162dde7:g:qgQAAeSwE~FqnprX&amdata=enc%3AAQALAAAA4Of5zIIojhOf%2BkQK%2Bxzjn7mpQTJ%2FLLRq6OcV36rgr7SRfYBWZ9sdtzioIgzoGbGP%2FHc%2BxOf2Z8cMYoWA16ix53EL6keyoAR1n2DUXooXAHZQGsNWP10X7GmVHdxvrVqg01ST1ZUQoCvlzW7KKbzu5D7yEduASplUn3mOpHpAUF9--2sJDDkTE%2B7Zb%2Fp11X3eyL4l3FKPTgWJQmrclYQAgYj5fBf3HYR1K4iPyjTRs2f2Dpn%2BXWuJFUovUUGJgV%2FGwFoaj0Y7No7AZS%2B%2FlxFirswfout931lTmzcUH1%2Fbr2Zq",
      "seller": "mad-goods"
     }
    ],
@@ -327,8 +327,8 @@
   },
   "820204075633": {
    "title": "Gucci Re-Web GG Canvas Sneaker White/Beige Men's Low Top Sneakers Authentic New",
-   "ours_min": null,
-   "live_sizes": 0,
+   "ours_min": 1229.99,
+   "live_sizes": 1,
    "n": 1,
    "cheapest": {
     "price": 950.0,
@@ -337,7 +337,9 @@
     "seller": "pre_1367"
    },
    "median": 950.0,
-   "others": []
+   "others": [],
+   "gap_pct": 29.5,
+   "flag": true
   },
   "820204075737": {
    "title": "Gucci Rhyton Leather Sneaker Ivory Men's Low Top Sneakers Authentic Men's New",
@@ -412,7 +414,7 @@
    "cheapest": {
     "price": 490.0,
     "title": "$980 Brand New Gucci MAC80 Men's Sneaker Off White Black Sz G 11.5 US 12.5",
-    "url": "https://www.ebay.com/itm/800680553528?_skw=Gucci+MAC80+Sneaker+Black%2FOff-White&hash=itemba6c47ac38:g:YgUAAeSwUlNpCrS7&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7klSs%2BtOej4itfbY5XDAPzVYXlSC7H%2BBorpjtEr1KMVO4aXaMuCLl43MySCrDoI9voio4DGeWB5bdF6dWfqrYWQj4lgA5WAuUhI3csElCVnjEy1x1NzIneBxlTjEU9H2FUqThvyrltGqrghbY9dlppb8TSYb6aiSrY5YMQCMQRXQvGeNYowzfTLlAzfyVaI%2BDSKl9LuA1iBAECzBNgzMLPGrKxCACmmN%2BZ4v2X52TOBTQv5vmonHa4SJiQt%2B18%2BSZDMNq1f--0Ub%2BpzRqXZgIz2aevILS4tq%2F8zDZ0PrS5zCDNlvPkh%2F8zFMJ5mK7NAPeI%3D",
+    "url": "https://www.ebay.com/itm/800680553528?_skw=Gucci+MAC80+Sneaker+Black%2FOff-White&hash=itemba6c47ac38:g:YgUAAeSwUlNpCrS7&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7klSs%2BtOej4itfbY5XDAPzVYXlSC7H%2BBorpjtEr1KMVO4aXaMuCLl43MySCrDoI9voio4DGeWB5bdF6dWfqrYWQj4lgA5WAuUhI3csElCVnjEy1x1NzIneBxlTjEU9H2FUf6PhGF3kOpBlyXTreiMh7sqZ97zkNePcqDavlaKcHn8dIxra2I3GfOWERZxRGbm2TXlo0p%2FPnKg1Za%2BjvYeSNaH1VI4UJgb8IRr6gQpmNJvmqvv5jf%2FgyGU%2BhstAzDHu3PsAQLQRWrIAcncU8UuouBinlvsdTLPA%2FAvLqP6r2qoRktVtHtgEG%2BA6MVOUcfHA%3D",
     "seller": "anyas_boutique"
    },
    "median": 525.0,
@@ -420,19 +422,19 @@
     {
      "price": 490.0,
      "title": "$980 Brand New Gucci MAC80 Men's Sneaker Off White Black Sz G 12 US 13",
-     "url": "https://www.ebay.com/itm/227527222120?_skw=Gucci+MAC80+Sneaker+Black%2FOff-White&hash=item34f9ade368:g:WP0AAeSwdstpHzP~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lwwxxoolKx25A%2FVEJZSp%2FvSpSHaIk4BG6mq2oSUcz8yi4EFyU5YZqDY8DkOgMEf76O53aC4pY39eN3ZsZPTvgRwxVdo0Ivi20IMRiqw2ui6D0O54LRZhvT0ROah9SMymCwaQMLoF3sX3j%2FZH6QHMp98knfVqR1fvadgWyMo5G3aQjw0PZWFFWmp0gSFWGAYwHNwirqlYuGK%2BcOVr09WLUt%2BMbkuEFQy7sdPigvFMzSKH9dsyjDen2oRiA%2B5Hy%2BMZdcJi2d58y%2BsWU2VKBKcmpdkz3J1Bx%2BZR8I7jhq8Wil3rMRoZ3G5GMSG%2FCPdgQFkoE%3D",
+     "url": "https://www.ebay.com/itm/227527222120?_skw=Gucci+MAC80+Sneaker+Black%2FOff-White&hash=item34f9ade368:g:WP0AAeSwdstpHzP~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lwwxxoolKx25A%2FVEJZSp%2FvSpSHaIk4BG6mq2oSUcz8yi4EFyU5YZqDY8DkOgMEf76O53aC4pY39eN3ZsZPTvgRwxVdo0Ivi20IMRiqw2ui6D0O54LRZhvT0ROah9SMymBuwnWP6T0ze7ItqlCkBSyiw6uphTcUTXECOWa6uOCursRqyF8TY8Z5nUWmUAfVxIypBwFJkbxsYZ%2FRuvFAfVf%2BF6wF6uwVbRydhhfgCH80EMiFl%2Fuq3F1oP4FeS5ohEHiMe9ZaxmQ6s7SEReC5sAxzAavBuWdrh99sTUBJKq19mE4M7zV4G6iUIB%2BvoX1jQNw%3D",
      "seller": "anyas_boutique"
     },
     {
      "price": 525.0,
      "title": "Gucci MAC80 Sneaker 'Off White Black' MEN",
-     "url": "https://www.ebay.com/itm/116711307101?_skw=Gucci+MAC80+Sneaker+Black%2FOff-White&hash=item1b2c89375d:g:DkoAAeSw95loiTxK&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n135Pp71pF0r6x44SlK2e97gZrmZ5LTmSLJBSw3OrL9aup0ppu8tlvuOLtINtpQFXfJqFGgKPA8X7RwhlJ24%2F%2B2YTKx4F65JtTfCGMOnovVpps9OB%2BSnYJy2XiTB1MsWj%2FIcRqTeoFf0NqVokU4Zl6MFazky5gOWo0x--Unj9EdoEUHsoAKc4L7xeu%2BYKpuPoyvY44S%2BsYm%2BBV6p6%2F1SQ5llCtEDNjCPvj1QrMK5JnqjD%2FbdYEIdsPQe39eZZ7CoIaVVmQksCE2iaFi6xiCpLwrZOaUr9vmsW0iZfHg2lKFWCIpX69oC7XF9kbPViD6kE%3D",
+     "url": "https://www.ebay.com/itm/116711307101?_skw=Gucci+MAC80+Sneaker+Black%2FOff-White&hash=item1b2c89375d:g:DkoAAeSw95loiTxK&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n135Pp71pF0r6x44SlK2e97gZrmZ5LTmSLJBSw3OrL9aup0ppu8tlvuOLtINtpQFXfJqFGgKPA8X7RwhlJ24%2F%2B2YTKx4F65JtTfCGMOnovVpps9OB%2BSnYJy2XiTB1MsWh9bhbDKrWarE8LVrj8CqBUOtxdCKPX%2BPsLzFzM7w7TdUZOrOF4t%2FV%2B1eEm6hzXHg4lXBC%2BiRoawhot89T0LcXE4QDKipaQ6GQFQ8U4Pn3cTWyJXsngX09J5urABLxWgFmhYBELMZZ%2F81r9Mhl9e8FvltdybUKR5SpEo5DXmNzjpwD0KV7u9VRUI2HjJaQ4wR0%3D",
      "seller": "yanchuns123"
     },
     {
      "price": 525.0,
      "title": "Gucci MAC80 Sneaker 'Off White Black' MEN",
-     "url": "https://www.ebay.com/itm/116711304299?_skw=Gucci+MAC80+Sneaker+Black%2FOff-White&hash=item1b2c892c6b:g:AJQAAeSw-D5oiTsF&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n5WoUghRi1sIWo3fJg%2Bc2h1FePBwrm%2BYkDhhWwRq%2B4cGlgZiDV9NblyA2%2BjEh8aJvrgXztUSAvEdbXwwYfVQSyVsoXwu9ShzAri%2FQ6uqZEcBl4ZurO2xYY%2BZo%2Bfif1pLn7fYmX63taxHvd7AlC7JYJ5lvu13wuOsIIhE4y9w0spr%2FMg--C0gK0qNFO0VQ9MJIrR3o8nAYQaPbojU0XF7v%2FXbId2GFblhijSN5Mt%2B3fV6o5cl7YYOk3cHYiB053S8Q972CkYbzMmL%2B5y1D8xoN%2BEzDN%2BGbHTA0ErMQ5B5nWSBAahSRgoINAG0bYguGB7mk%3D",
+     "url": "https://www.ebay.com/itm/116711304299?_skw=Gucci+MAC80+Sneaker+Black%2FOff-White&hash=item1b2c892c6b:g:AJQAAeSw-D5oiTsF&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n5WoUghRi1sIWo3fJg%2Bc2h1FePBwrm%2BYkDhhWwRq%2B4cGlgZiDV9NblyA2%2BjEh8aJvrgXztUSAvEdbXwwYfVQSyVsoXwu9ShzAri%2FQ6uqZEcBl4ZurO2xYY%2BZo%2Bfif1pLkIo4L2Tat%2BN0%2BNWlp%2BXsYPZAh7H5JdsB8SShH6URuMOTfh%2FAFt90xCUDZe9D2JD5d%2FpBgsVIDSpncLF3XbK0tIm6wdamD5zNCuArMW%2BRItRWQkd7K6maVcEQom3FmJrDarfBsU9lquc8EHll71jTEdZ6i7YrRLGg%2BMBWJbxvwyqnCKEeMCREhzASAIP%2BeVrNA%3D",
      "seller": "yanchuns123"
     }
    ],
@@ -491,19 +493,19 @@
     {
      "price": 450.0,
      "title": "Authentic Gucci MAC80 Off-White/Blue Mens Sneaker/Trainers US11.5 EU45 UK11",
-     "url": "https://www.ebay.com/itm/137475285844?_skw=Gucci+MAC80+Sneaker+Off-White&hash=item20022a6354:g:1U4AAeSw9zVqRopw&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7koaItfW%2FqwmIcQBfKu5HuFYpm3EOhsoBblb7TYMYr4fc%2FwfiCzOiNdl3P82kx3Kr7yIaQFL538eDtTWKzONYBbyDoYJdp6F8uhOekBaHbMf%2BpUs%2BidFFt4oCGkVdR8hhV%2Ba8wON6aUfDwRXRFROgbBEtWRwn4pNR%2FF9c17%2FJ95sDzfT5tLlvpxxh6CGTeXTovI8qd8mnnCneWyKPXqdOrEpI%2B%2B1tMBSFfd15YhHjV2vG6xyPhsn8ENpAjCJwFk44kvSKU6JnMP8NR3dU5TsKZpx340AEC0%2B0uXzyYr%2B11RXRh2aYqOIYRPPent7J3ZThs%3D",
+     "url": "https://www.ebay.com/itm/137475285844?_skw=Gucci+MAC80+Sneaker+Off-White&hash=item20022a6354:g:1U4AAeSw9zVqRopw&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7koaItfW%2FqwmIcQBfKu5HuFYpm3EOhsoBblb7TYMYr4fc%2FwfiCzOiNdl3P82kx3Kr7yIaQFL538eDtTWKzONYBbyDoYJdp6F8uhOekBaHbMf%2BpUs%2BidFFt4oCGkVdR8hhV65W5HZHQ17iGD5Do50Os5zohsFeIGTS1qhFBWE%2Bcg0WN%2FPy0eWo9C9DYTIUzd7XeY7rDE4Eu1MS60knK0J09iarOkF4q%2B9vTy%2FyEfTijRp5xlZdxFfQ%2BPhgKmHS%2BxlDPlu1aOYZnTneLj1AO4jcvPmaxmaUdWQ4dk%2BwSXovCGNBDeX5gZAjEVNY0hK7rGb5E%3D",
      "seller": "vluxstyle"
     },
     {
      "price": 490.0,
      "title": "$980 Brand New Gucci MAC80 Men's Sneaker Off White Black Sz G 11.5 US 12.5",
-     "url": "https://www.ebay.com/itm/800680553528?_skw=Gucci+MAC80+Sneaker+Off-White&hash=itemba6c47ac38:g:YgUAAeSwUlNpCrS7&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7klSs%2BtOej4itfbY5XDAPzVYXlSC7H%2BBorpjtEr1KMVO4aXaMuCLl43MySCrDoI9voio4DGeWB5bdF6dWfqrYWQj4lgA5WAuUhI3csElCVnjEy1x1NzIneBxlTjEU9H2FVT6X7AbnJRFldxhrqojE8WIzA9MRAMewAmvO90I3GMlgQe%2BqpMCp6hg%2FiYq5AhmErLNFT2Jklv5djurV1QbLta86sN13D0TZBPoYOCBZAIwx3J9AdPqv0TG%2F5rLVdc%2F9m4FvuVf7bltvxuNvwbAqYoTbC3o9iH1AT3hmlUbvr%2FNarMnkORHlF5wr5rQSkJ9Zg%3D",
+     "url": "https://www.ebay.com/itm/800680553528?_skw=Gucci+MAC80+Sneaker+Off-White&hash=itemba6c47ac38:g:YgUAAeSwUlNpCrS7&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7klSs%2BtOej4itfbY5XDAPzVYXlSC7H%2BBorpjtEr1KMVO4aXaMuCLl43MySCrDoI9voio4DGeWB5bdF6dWfqrYWQj4lgA5WAuUhI3csElCVnjEy1x1NzIneBxlTjEU9H2FUAcJrYqO9%2Fjxg0UKSKJLBRbT7ew8JCCLkcfm9Vgx%2FSA25MVgyTnYnN9J4C7cps6IOnhIGqe96nd%2Bb4Lsm%2FNnKXt4HxI0YKA7L--jtHmdm6yK4hNIJWGCWe98HeauzWIgbPWJCDoxp1jCEZzlPGDOEyhqQHZST4G9AD1GY%2BshxkSMen5CkwxKSo8d%2F0TQ2YU2U%3D",
      "seller": "anyas_boutique"
     },
     {
      "price": 490.0,
      "title": "$980 Brand New Gucci MAC80 Men's Sneaker Off White Black Sz G 12 US 13",
-     "url": "https://www.ebay.com/itm/227527222120?_skw=Gucci+MAC80+Sneaker+Off-White&hash=item34f9ade368:g:WP0AAeSwdstpHzP~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lwwxxoolKx25A%2FVEJZSp%2FvSpSHaIk4BG6mq2oSUcz8yi4EFyU5YZqDY8DkOgMEf76O53aC4pY39eN3ZsZPTvgRwxVdo0Ivi20IMRiqw2ui6D0O54LRZhvT0ROah9SMymDP2Q543w2kckGovbYmhVtZ9lCzlM9522ykNIBW5oJ3kS5XaTfw1ZsaZr4qEZR%2Bzys2uLjwu4PcKy6x4d%2BmgiuV3RFgkhbLo9L38JIPglbFT6MUe5lqRGlSNmYUoLfcRjlAYRj6UIjhmJSG5CI2b80dOhQcPbl6uKeUj4AZ2D93gWvhtfx5dTHZQXn8O98nhKA%3D",
+     "url": "https://www.ebay.com/itm/227527222120?_skw=Gucci+MAC80+Sneaker+Off-White&hash=item34f9ade368:g:WP0AAeSwdstpHzP~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lwwxxoolKx25A%2FVEJZSp%2FvSpSHaIk4BG6mq2oSUcz8yi4EFyU5YZqDY8DkOgMEf76O53aC4pY39eN3ZsZPTvgRwxVdo0Ivi20IMRiqw2ui6D0O54LRZhvT0ROah9SMymB63aWvuZ3GLfek2knejQgE21C1phiRBBtIBowdLsorsBXCfWDiB%2Br%2BZBchp2A54xthAjPzxoQGXwwc51kTGbzIN6zYEw1SKQEXEXCWPVWeL%2F5U0sq09sHzSRPGMYl8ljXFPeXAQdth4ilvpUUUGvmkpVNCDqYfExafdleZ2ZzzuanM45vbGxmruKP8SSfN6rI%3D",
      "seller": "anyas_boutique"
     }
    ],
@@ -579,7 +581,7 @@
    "cheapest": {
     "price": 499.0,
     "title": "Size 12 NEW Balenciaga Runner Sneaker High Black White - Super Clean (45)",
-    "url": "https://www.ebay.com/itm/168550215308?_skw=Balenciaga+Runner+Sneaker+White&hash=item273e602e8c:g:wt4AAeSw2~5qXmBK&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kORNEU9W%2BCJSY8B1MgZv9TW7ZJzabS%2B%2BPWQq0%2FXTis%2FHTy%2BBBHhfq7JpnlHDUDYLKQPDRD%2FeBPKJbaz0dxnd5n6hJf9KJc%2Bt%2Bg%2BeCnlMiaIC0zw9LhbiM%2FDDEIe8qCa6LlNGfX4GfA%2FKnT8WOeO3D1O%2BJ1BlEbXGZ4dFkQxUvoCZchH5573EalAbJzmjQkiN8d5XLIFnbHi7pwHaqS8jfK5%2BWPdSK1Tl1N23OQY2qwk1Z93wuC3S8PqXMVQyziciZanu8ZJ1ZRmykPYzfK6rkJkRB1KISyflZE3iIWwtpoVak2bVrASFYUYFrflXiX3wI%3D",
+    "url": "https://www.ebay.com/itm/168550215308?_skw=Balenciaga+Runner+Sneaker+White&hash=item273e602e8c:g:wt4AAeSw2~5qXmBK&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kORNEU9W%2BCJSY8B1MgZv9TW7ZJzabS%2B%2BPWQq0%2FXTis%2FHTy%2BBBHhfq7JpnlHDUDYLKQPDRD%2FeBPKJbaz0dxnd5n6hJf9KJc%2Bt%2Bg%2BeCnlMiaIC0zw9LhbiM%2FDDEIe8qCa6K61d52usx6iC2KiBY6NyrPhHiONd7jlV5LEdEqjCcVd0mBYkjj%2FRzC2UIh3tRgj0k1Kj9OVq6%2BRgZ%2BK60TSnil0jwv565HfN8cIZTz4MneDNtphQ0P22CtUvb1ML%2FnBzsoj8oVhR9EP6M7Bky4N%2Bf7TRxVWYE87pdi7iiEM%2BizsaVk0a4BwZZAi1w43a7I5XA%3D",
     "seller": "alexzh76"
    },
    "median": 975.75,
@@ -587,13 +589,13 @@
     {
      "price": 499.0,
      "title": "Balenciaga Runner Sneaker White Size 37 US 7. Brand New with Box and Dust Bag",
-     "url": "https://www.ebay.com/itm/406505509534?_skw=Balenciaga+Runner+Sneaker+White&hash=item5ea59dd29e:g:fZsAAeSwd4NpSDGN&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mqWqAS4yTN0%2Bdom%2BLhEyUMjXGaJOiVrHB21BGDkwFGk0zgaqOpNuEdqRhuk3%2FpTyqK%2BZEaF%2FzglBHvEAuehAE1yrS8KnY4As7fRoRtK6Ww5HMyNbynmaI5NGGQEfojrGY1OdU2LoO%2BypYiouXYiXmqyCUdLzoTyi8p%2FFus%2Fosl8uLyhY90QYmyZaJT7lNZ1KWmO7GTEuayDM%2B5hHJExrWu8TtzRp32vt91wjeW64zUkAOLY7UIVEwAl%2FwbVeIVGynOBVGvCKHLwyhigW6MkEM8dDp%2FNkOkKcXu9Q3G%2BD2Imu8s33ZV4Wpr5TPHlS7lGb0%3D",
+     "url": "https://www.ebay.com/itm/406505509534?_skw=Balenciaga+Runner+Sneaker+White&hash=item5ea59dd29e:g:fZsAAeSwd4NpSDGN&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mqWqAS4yTN0%2Bdom%2BLhEyUMjXGaJOiVrHB21BGDkwFGk0zgaqOpNuEdqRhuk3%2FpTyqK%2BZEaF%2FzglBHvEAuehAE1yrS8KnY4As7fRoRtK6Ww5HMyNbynmaI5NGGQEfojrGYXzEb9jqunGXhQ5XqUFLHaSD%2FmggWbD%2BdQFmD2J5M39ZiBKPJNAtV1RbJ5b8nZcNN5VQEQ%2BRWp96uDAakT0HoprBU3LQy6%2FB7bWGxNhNxS%2BzJnabILzkgfoviVtR6VDyUDmgOpCaQuh2TKYQ3C9rGPeuqsIrgz0SqyEb5Jo9KuGU%2Bp6CiE%2FttgCoW1nRvb2OQ%3D",
      "seller": "thegangeriarchive"
     },
     {
      "price": 709.98,
      "title": "Size 10/43 - Balenciaga Runner Sneaker High Triple White - Brand New",
-     "url": "https://www.ebay.com/itm/307040763085?_skw=Balenciaga+Runner+Sneaker+White&hash=item477d0e3ccd:g:Rp8AAeSwTQpqR~Uq&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7l5vT2j8K8VZsYjrY59Jhyi8ev9mUQEYCm56xdpDBWGbU2N9FvbqgiyBiz3ipx%2BgSASc%2BRP87E4OX7aAnHT4s9pw4J%2B8VFUIH%2BmLY6baZacTVOD6wl1%2FdPDmRNfvxKGfDsaROB3tNKMvWE08Tg6Q019Pj1y6lyqAdfll3J6KRqaEhYoPxqiCwZNTgl46acdI%2BB70h%2BB9NkK%2FESRai1qP%2FfbuDuipgT9STM11QSm6sNi%2FOvcZs1MXpPRv1XaReTVHBKNR%2FaVN2deryqqGyrzwV8Li9gPBcvUuoOnGKobyG9epcmAU2ia7sYO7RXQAEQkpTk%3D",
+     "url": "https://www.ebay.com/itm/307040763085?_skw=Balenciaga+Runner+Sneaker+White&hash=item477d0e3ccd:g:Rp8AAeSwTQpqR~Uq&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7l5vT2j8K8VZsYjrY59Jhyi8ev9mUQEYCm56xdpDBWGbU2N9FvbqgiyBiz3ipx%2BgSASc%2BRP87E4OX7aAnHT4s9pw4J%2B8VFUIH%2BmLY6baZacTVOD6wl1%2FdPDmRNfvxKGfDu%2BqLxDVYJgyO8AW4hHf%2Ffd4zEgKFms14S0Rl%2BwpjOeOoDSbsI4IJTZpqT7hvRQ3P8YBWccZ9RAjvLPrqvJT1yekp1aQb3QW044morG2evnNDdaHiH0%2B3AZnaMUOiI7Et0TMuREJPPyDBpj4ZETTaU52AAuOArDLzBc2%2Fu8pABDLf3jEx8ExP77UHwJzcHzk1c%3D",
      "seller": "dstar.mrkt"
     },
     {
@@ -729,7 +731,7 @@
     {
      "price": 600.0,
      "title": "Size 9 - Gucci Basket High Black Demetra Red",
-     "url": "https://www.ebay.com/itm/317143752260?_skw=Gucci+Basket+High+Black&hash=item49d73d9e44:g:~FsAAeSwLVNoPS8x&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lWj%2FaV68GEe8SBzvr%2BSm%2BZ0I%2F%2BIDiYKae34sHCOpB%2BewQhADbQPS6BvOsXbOTFpFNyAsPrEwIpf5x2q7bWo0rgvQdPNDxQbFfz8hxSGZclJbl7hCNPCArCPtEVBenLgT3CQx3aor4fiA4xzgddsm9xj%2FgqmxT5CUFTqbh7vaibdWGmx75KmVmbaE%2Bi13uF2D7ugTxJxJovvHp5%2BPVZV5oT5dAjFsoFCykZsUoPnPsEkFaX9oUXXS4XjhvX8RdqwDqyZMZ6MoXbaSPUsIXztEhDlsBcnMu0HD--VQzjPCUqbQ%3D%3D",
+     "url": "https://www.ebay.com/itm/317143752260?_skw=Gucci+Basket+High+Black&hash=item49d73d9e44:g:~FsAAeSwLVNoPS8x&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lWj%2FaV68GEe8SBzvr%2BSm%2BZ0I%2F%2BIDiYKae34sHCOpB%2BewQhADbQPS6BvOsXbOTFpFNyAsPrEwIpf5x2q7bWo0rgvQdPNDxQbFfz8hxSGZclJbl7hCNPCArCPtEVBenLgT3AZHF6SY75NxjQdSB0IPX%2FhwSBG6dN7TfRFdU4meZvpu0OWKVb8C2DHwtNyK8p5xjOpeB5%2FOLxpk5g9k%2BIauna8mewYGe%2Fa4qk4jv7691GALkG3zCfpdnI1qQ31vzjwaw6Vhultliw3gHyWAa8iZjVJOg6SZSotBCNyd7ri6fyJw%3D%3D",
      "seller": "platinumtradingcards"
     }
    ],
@@ -764,7 +766,7 @@
     {
      "price": 450.0,
      "title": "Size 11 - Gucci Basket High Green Demetra",
-     "url": "https://www.ebay.com/itm/147508148277?_skw=Gucci+Basket+High+Green&hash=item22582bb835:g:6oEAAeSwEG1qgWey&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ljsGLp8UVP6DXBQImxUcVkYoDLCmoY8YSi2APewSi%2BjSGEQDtL6LyUyiTCY%2BtocHo8pgT87Z2CtNokev77P%2BHKfHiCczen8b8QvqfBwz2duqrGfxX3NLrOGF2dG%2Bu5Om%2BBxDC911QtEfzHqKk4IPut6ZKVa9WIJx3HEkeb3a9cr8KBjkqdhps4gGA2tFYz2VHWYBcbCbHuZDUpLJxhgYUsYQmsOAKSP48XJ%2B%2BYIROVgFdQz15VtJMh6JDNdkrDAKw5brfnD2eoQ6h3FXfEbNFTl1Gc%2Fwg5bxiste2HqhW2MQ%3D%3D",
+     "url": "https://www.ebay.com/itm/147508148277?_skw=Gucci+Basket+High+Green&hash=item22582bb835:g:6oEAAeSwEG1qgWey&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ljsGLp8UVP6DXBQImxUcVkYoDLCmoY8YSi2APewSi%2BjSGEQDtL6LyUyiTCY%2BtocHo8pgT87Z2CtNokev77P%2BHKfHiCczen8b8QvqfBwz2duqrGfxX3NLrOGF2dG%2Bu5Om%2FDiDYmg5E7mL6Gm%2BxoxlZCFyCPUHriaM3GUNLPDzJ0Ldbl%2BH3CJ9Zvhk%2F12cOJ%2FjMldgG%2BPECShhuxtz5m1iy6bN5aDodpN8JQhWOh3bHdv4M8by5Y%2Fnp1UmDs7NFrK1wa4n4gD4TChTCoJ2RI245yuLcoE8xubCFzfWHiNcsqvQ%3D%3D",
      "seller": "ld624"
     }
    ],
@@ -843,7 +845,7 @@
    "cheapest": {
     "price": 299.99,
     "title": "GUCCI Basket Low White Demetra Red Low-Top Men's Sneakers 12UK 12.5US MSRP  $950",
-    "url": "https://www.ebay.com/itm/236706080039?_skw=Gucci+Basket+Low+White&hash=item371cc82527:g:ct4AAeSwM29pwEIx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ksxVIFY6gAKZJpV0qZNjRFXRYc%2Ffzcist8%2BqYdWb%2Fq%2FyyQ%2FmjKjy%2BDlgxegtNApc8qQytV6Rm5Vrf%2FkNV7LqXl%2B61OV5PeBWvSXHewL5XNjEhA67nemDjnHGv%2BpJS%2FACzrCVN26AkDH5aGTrsoj92LhuTSjxJM5dWercKNq%2BbUKu8RuGgGmavI7R0ET8XUigKgzaO4a4gTTVDTUQbl--Cc2m0BEduAXXlQ10QXlW5RRKbQHmtjjRVPL8qvP6YS4KVJZMgUSvyaE0Gqbn9nCwFBfAgGadMF0kidPU4oLzPimQ%3D%3D",
+    "url": "https://www.ebay.com/itm/236706080039?_skw=Gucci+Basket+Low+White&hash=item371cc82527:g:ct4AAeSwM29pwEIx&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ksxVIFY6gAKZJpV0qZNjRFXRYc%2Ffzcist8%2BqYdWb%2Fq%2FyyQ%2FmjKjy%2BDlgxegtNApc8qQytV6Rm5Vrf%2FkNV7LqXl%2B61OV5PeBWvSXHewL5XNjEhA67nemDjnHGv%2BpJS%2FACzGZqZxZ1X8Lsg%2FXsmUiFPFBqr5SJRQh%2BBNSzwKgf7LwrRpyB6jUNWGo1ZN%2Bsacr8AhWdbFrcPY3a6kBM5gp0KO5b59CbOfKrLHxdyWT5V%2BRl8opmj33jCZsHMCtCrJV%2BBB%2Fh9n2QaYWiRMAfVmhGCIzRlNsyw3q%2F51cPJfDuEfqw%3D%3D",
     "seller": "pit_10"
    },
    "median": 409.5,
@@ -965,7 +967,7 @@
     {
      "price": 525.0,
      "title": "Gucci MAC80 Sneaker White Blue",
-     "url": "https://www.ebay.com/itm/116729150007?_skw=749896+AAB79+9149&hash=item1b2d997a37:g:nrMAAeSw759omRUc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nVo3qrfacOLVmKXnOOCQUmlvWP%2Bdng77ragtHr7VjUswSGLdNv9h%2B9sAMBEjD1g6WTiac4Xx1lSaPp4dfNdaaDLfnwsUiZfoJZsGyveiDtA3AL8%2FMVPaHlzbVcjDJkdtETU0JpdRr6%2F7NjOn0NYvab5h4hX0iADbayis7zj7zYBgqcElCq93QIrdo97W1l5Cw1OpiolxZGbjQLVD9YHwryJ85xeT6cHtnpksEC0sjVRx78lW32AMJ%2BVD6IdlmJHyiQWlNIBQe%2BiV2%2BQjQSZPB24tJIFTpYuo5mhmpyTEv4Xg%3D%3D",
+     "url": "https://www.ebay.com/itm/116729150007?_skw=749896+AAB79+9149&hash=item1b2d997a37:g:nrMAAeSw759omRUc&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nVo3qrfacOLVmKXnOOCQUmlvWP%2Bdng77ragtHr7VjUswSGLdNv9h%2B9sAMBEjD1g6WTiac4Xx1lSaPp4dfNdaaDLfnwsUiZfoJZsGyveiDtA3AL8%2FMVPaHlzbVcjDJkdtFHgyQi5IHQxmZ9lLYI5rEWWQd%2FdYw9Jro2LlzyCXhKISDen7tQDUkvmYWBmMKkcEsVFUXM4Fo8Thytsl5cHhGpkK7ZsQtuXdGCZkmLvJZNqkb1MIrGmquLivpHv3Y3v4MRsl8Sh8lH5hsQw1V2wim54MjtzvGI98SDNlB1RW7uLA%3D%3D",
      "seller": "yanchuns123"
     },
     {
@@ -1025,7 +1027,7 @@
     {
      "price": 550.0,
      "title": "Size 8.5G Gucci Rhyton Epilogue White Green Red 643491 Sneaker",
-     "url": "https://www.ebay.com/itm/206330906033?_skw=Gucci+Rhyton+White&hash=item300a47c5b1:g:VhgAAeSwDe5qJpOs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nsc%2BlJzuQRxtydvUz6RwCI2br696RbaDppJIG4juwgLBSiDPWO3YDQYY0pZjNK0FobwEITCjaIUmff7W9gm%2BvR56ABb%2BzKvU%2B9yc5kNOuBlqC5AVAOc2OuGwZv5tV1MfbyBCnb2f5tziYo2d2tJtbrRnb3EyrXKY8hgFo30nrF%2Fwclcs3ZSs9DhhsBysy7S%2FQTb2vkuqdRN86VRRuGnMihkD%2BLskAtdZglEb3IlxpMLJ7DXVEQu3PUM9xKRR3%2B6DhhZL3FI9xExbecdqq6MlVAaBVT9tGOF4tqVyW8O6%2BHqA%3D%3D",
+     "url": "https://www.ebay.com/itm/206330906033?_skw=Gucci+Rhyton+White&hash=item300a47c5b1:g:VhgAAeSwDe5qJpOs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nsc%2BlJzuQRxtydvUz6RwCI2br696RbaDppJIG4juwgLBSiDPWO3YDQYY0pZjNK0FobwEITCjaIUmff7W9gm%2BvR56ABb%2BzKvU%2B9yc5kNOuBlqC5AVAOc2OuGwZv5tV1MfYpDt47qrfPDUQfjPVO2tdtdq9ynQ0oDB2y3%2BLGSHZcnlZ4%2BoREAOc6HWKpSVPRJSQVEIXPBqHCHYZ1%2Ft2hYQw%2FTs1mIOVR1bOrso8U56DWhMx%2BtyzwfmcMIQJhSy9SthcoOZxmUTbzU66q6C8RmOrAgx4xrkPD0R3%2FWMQTi48ZfQ%3D%3D",
      "seller": "allrealstuf"
     }
    ],
@@ -1056,7 +1058,7 @@
    "cheapest": {
     "price": 300.0,
     "title": "Gucci Run Sneaker Black Yellow ",
-    "url": "https://www.ebay.com/itm/820120170328?_skw=Gucci+Run+Sneaker+Black&hash=itembef2f8af58:g:q4AAAeSwe5tp5MVg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k4Rsze15qMALBDnLIwRSFFikQ5kWiHw48lDPnZIK1mOTi6HFCxOiGD6z0s9WgGvjZxkfyKLloOBTyGerizuaWNTSW6zdCMbgxWS67cYlKhRVP4SzJcqWsppjl4bj9h70Tb2SazLFVPOzyBnN3WK9u6CgekuyOLpzgwpZbd%2B%2FCE9OxBx4FkQ%2BkqL8dxaR8nlyH91wd7pFz9TdoZ7ePx%2BWI0bI19uWEBKgyh0m8grQzQirlSupnD9IYJLuFZebnVkIyhC%2FDHTG%2FOi1kVY0QudN80pWxSavmVrsseyGnRVdBPiA%3D%3D",
+    "url": "https://www.ebay.com/itm/820120170328?_skw=Gucci+Run+Sneaker+Black&hash=itembef2f8af58:g:q4AAAeSwe5tp5MVg&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k4Rsze15qMALBDnLIwRSFFikQ5kWiHw48lDPnZIK1mOTi6HFCxOiGD6z0s9WgGvjZxkfyKLloOBTyGerizuaWNTSW6zdCMbgxWS67cYlKhRVP4SzJcqWsppjl4bj9h70TNNZjO4%2FthXQ0ExWxKLgYX4QMofw%2FdV9cap6%2FDZiWfRflQO1d8FeUQl%2F9vzCAmYgI4V37QEEMTte%2Bt%2BKq9RkYOPY1YuszDNkcNhhz39o0is6anX0yotwiLcA4fmOsk9NthKCB8mLxrECYuwLHU%2FRDG72crJPuqlyeju6uByah8Lw%3D%3D",
     "seller": "k.3_58"
    },
    "median": 499.0,
@@ -1064,7 +1066,7 @@
     {
      "price": 325.0,
      "title": "Gucci Run Sneaker Black Yellow Technical Mesh 680938 Men's Size GG 13 US 13.5",
-     "url": "https://www.ebay.com/itm/327278231949?_skw=Gucci+Run+Sneaker+Black&hash=item4c334d818d:g:EV0AAeSwrBNqZSxm&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgYpZ9Wmqf3bqYhiFm%2F05wGpiL7rJI9OgBAT%2FSw5Wq5gpVBYTp5W45BGOccHLS6t5HEslPhxPTrzWVndFFJhOAE9TnBHxd8ZarPJpK1fonS6wKI0PsWuG9RbQFkhqSOuonoX7LlpluTHWwx%2BAa9zwoCGESz%2F1GJku%2F2yg3N35d%2FicDXb7kaP1BqCCqL3gBUl3hBYQVYim4Gwp%2FwoWHU10DiX%2FgUBmXuKkZ4ruqZ7ZJeAQSTYp3kzT9T5eNJJH0nUntj3gEeqKBgLwUwNmCtjYk6xnWoKGakwcTA5dvwSWsXGqPv7BFciPILkbRA6FChY4%3D",
+     "url": "https://www.ebay.com/itm/327278231949?_skw=Gucci+Run+Sneaker+Black&hash=item4c334d818d:g:EV0AAeSwrBNqZSxm&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kgYpZ9Wmqf3bqYhiFm%2F05wGpiL7rJI9OgBAT%2FSw5Wq5gpVBYTp5W45BGOccHLS6t5HEslPhxPTrzWVndFFJhOAE9TnBHxd8ZarPJpK1fonS6wKI0PsWuG9RbQFkhqSOuq6LIT5vT68B6H5Wj7Vm2gWlpWOmX%2FhlzP0SSZ8Q8RgqCXCHd9RoPA5K5BmYs7u2yCzb%2FyR9bZEQXXyLSylkmG1ZJLEvh9Br4s434RuvbQeJqtjaYvkncr64%2FiWX2DxxIEcDK%2B%2FD5dmn0pCLXkrkpoMY3D8Ad2LLrqVu6GujByMze9s%2Bv7hql64UsOHINKVl9U%3D",
      "seller": "notablenotions"
     },
     {
@@ -1091,7 +1093,7 @@
    "cheapest": {
     "price": 330.0,
     "title": "Gucci Run Sneaker Low Top Lace-Up Knit White/Black/Red 2022 680902",
-    "url": "https://www.ebay.com/itm/178320428637?_skw=Gucci+Run+Sneaker+White&hash=item2984b9ce5d:g:Fk0AAeSw4oNqWsnb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l1saNpzAU0hMqij%2BwTuLdxqSuIjBT5yZ0ivMUkPN4UvMJZ89b2ratxhf7ZBR1E3LZJGNNF2PiLwg9l%2FtYAwLFm3AOKXk%2BB8PvIBH80ySFoh%2F7C14B6jjepA%2BM3UIZ4vhM9ky2eU%2F5cqfl8v0TGhxoAXx1GLHwDrYLWuMpmz9L4CoaWRbP4uzE55HT3%2BnhGIaTqmWEnQjkxUbMuGs7puVl6xKrffuePBdk5ieEHJhSICOmt8uR2f9mLTorPEQp5CTzQlw8RuilHqRFtw2b4DfRAPZL%2Bx%2BjUFzLHjFiJK5di9Q%3D%3D",
+    "url": "https://www.ebay.com/itm/178320428637?_skw=Gucci+Run+Sneaker+White&hash=item2984b9ce5d:g:Fk0AAeSw4oNqWsnb&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l1saNpzAU0hMqij%2BwTuLdxqSuIjBT5yZ0ivMUkPN4UvMJZ89b2ratxhf7ZBR1E3LZJGNNF2PiLwg9l%2FtYAwLFm3AOKXk%2BB8PvIBH80ySFoh%2F7C14B6jjepA%2BM3UIZ4vhPUJBZKgSDDnZ1VDyESHcz31fOBOc29o1irIUj3qL%2FiIkj8awZaw%2FL4Xr4DywunmWzqbTnR4nxWMCwQq9%2BuobG5GcipAvvKyDfxBkDLRpQHjvrX9mUO85yQcYlBtVFXp4U6gzQux%2BYEV9zVsbJX%2BJHDDoswA3Nx02PVe1i7zJCsuQ%3D%3D",
     "seller": "ignacioaldrich"
    },
    "median": 349.0,
@@ -1138,7 +1140,7 @@
    "cheapest": {
     "price": 325.0,
     "title": "Size 4.5 - Gucci Tennis 1977 Black Ivory",
-    "url": "https://www.ebay.com/itm/286628711126?_skw=606111+UN320+1291&hash=item42bc670ad6:g:8m4AAeSwW-xntnWk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k%2FInvFYn3URBOegr5yZLPmrxNFZP0oyPXyg77Uyo55Ak895fayQVyfsMIwD0jJP9nezgxxBwAWf6XXbqmXQxgLKcLxvAp6Qh%2FrB5spJ%2BiCoVicH7%2FCP4lvkJgtj2wdOvYoJFo6ebpIvopFv70aYMqeziZQG%2FtoyTuifusEY%2BdMRCq79rs91%2F6jDy%2FEa1LyPQs8EmefcS71Y27Xz5mhM20MuQnRAGN%2BEfiIvDrDWvYPKC%2FfVJvy4K1N2D%2BJ1oi%2BnyJnvci7wLozcV5sD53ZlNBKutjXyfL8w5NI6QZNRiZadg%3D%3D",
+    "url": "https://www.ebay.com/itm/286628711126?_skw=606111+UN320+1291&hash=item42bc670ad6:g:8m4AAeSwW-xntnWk&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7k%2FInvFYn3URBOegr5yZLPmrxNFZP0oyPXyg77Uyo55Ak895fayQVyfsMIwD0jJP9nezgxxBwAWf6XXbqmXQxgLKcLxvAp6Qh%2FrB5spJ%2BiCoVicH7%2FCP4lvkJgtj2wdOvbkjpG5K1PdrjQjD0h0m8YQ4JeJTWJyvAjXywGrPZpETOdQaPX0vrwJo0nAMID3jpk2phhueDlKpAOc36jogIRRhvnO%2B%2B8rdg3vUmwDeKtRttQJQf2NaHImmsJ5PWhlSR5NSsCmbBqeikyHtjKCjBe7dI8dGg%2BpnzIy7EQ8vs97cA%3D%3D",
     "seller": "teddyprice24"
    },
    "median": 412.0,
@@ -1205,7 +1207,7 @@
    "cheapest": {
     "price": 399.97,
     "title": "Gucci Supreme GG Interlocking Loafer Driving Shoes Mens Brown UK 8.5 US 9",
-    "url": "https://www.ebay.com/itm/278321512986?_skw=Gucci+Loafer+with+Interlocking+G+Brown&hash=item40cd41421a:g:kLwAAeSwLb9owLdV&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mukHs9vCO1PFyN28K4qUUpCpLw%2B78XJnLwvDZZc7%2BCYmSlrpe1EecOYUUxu6J2gDPfufvJeZ%2FPJyq3BcbLfnjBZ%2FkVkmZJ2GEv%2FvfxTaKm9YpASu9U5yCiNbvv1JerwC1dNWM8cTtPZ%2BxOXHmVZ6BVdSr9BaLT7%2BqGti7RhcwXVltZcprnPhCZXPtxGHlMrpgDPWkHpJBRJc1Ai1HLEh%2Fbd8RoxCbeUqAwn%2B4%2B0CHAciTjz52JWrzk2WxbT%2FDCmSh3nv1kw3egCxGcSo1Ta65PJU60Lhk4QDlGC%2FS%2FzUE4s4tG2Iszys3Iy46xHww%2FufA%3D",
+    "url": "https://www.ebay.com/itm/278321512986?_skw=Gucci+Loafer+with+Interlocking+G+Brown&hash=item40cd41421a:g:kLwAAeSwLb9owLdV&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mukHs9vCO1PFyN28K4qUUpCpLw%2B78XJnLwvDZZc7%2BCYmSlrpe1EecOYUUxu6J2gDPfufvJeZ%2FPJyq3BcbLfnjBZ%2FkVkmZJ2GEv%2FvfxTaKm9YpASu9U5yCiNbvv1JerwC2igDS055rm6u7Ne7a7WIIEFxpPSuSL1XXDpPLUDyDqBAqwMfgJuVE%2BPISUWRQoquBciJdzgurmZelkQOZBFfHUSTk1e9AZAyAuRthyMUbEMMxtzzOZLsYKxyMRw87OTIaRaFwRiV1yv2m%2FaLdLQ7TX9uStqT%2BRaLl2BWb1qnBp%2B2jFgsL6yLY2eavKzmosf8w%3D",
     "seller": "greatdealsa2c"
    },
    "median": 507.0,
@@ -1219,7 +1221,7 @@
     {
      "price": 464.0,
      "title": "GUCCI Interlocking G Horsebit Logo Supreme Loafer Brown Leather Mens UK 7 US 7.5",
-     "url": "https://www.ebay.com/itm/287600447882?_skw=Gucci+Loafer+with+Interlocking+G+Brown&hash=item42f652918a:g:6c0AAeSwc9FoDFPe&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lCVTOSDD5br%2FzXKcXDPZ1u5nIeJw%2Fk21sRVW%2BU%2FHPObPEG9Kzqc7yYXn1KlihVLttkVZxawlVgCLtfGHagqIP%2F6Qu7C0OLLNAwNVIUykx9xRQRsb268KaAgoEUJcF1vQXIzaNVTuPa7k80ao9sfg4aG%2BooRRsLBSTldPwJ9z8hrkffh092XPmhiQ3hGBuhaTGQftSNw5xRtJr7GrW9V6U9ZY1eF89FMuwBg2jYLcRAPsqUjecEcDUjB7OEl5uxCBmH4JnA5O%2FVVUbrUjM4wFbFzUuhxR%2FRgzeHkCGQXRuKZ9gfh9PE2vQj28dszutA2Ws%3D",
+     "url": "https://www.ebay.com/itm/287600447882?_skw=Gucci+Loafer+with+Interlocking+G+Brown&hash=item42f652918a:g:6c0AAeSwc9FoDFPe&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lCVTOSDD5br%2FzXKcXDPZ1u5nIeJw%2Fk21sRVW%2BU%2FHPObPEG9Kzqc7yYXn1KlihVLttkVZxawlVgCLtfGHagqIP%2F6Qu7C0OLLNAwNVIUykx9xRQRsb268KaAgoEUJcF1vQUs%2FHePxiuy2dKeZoF8hlvA4WEkuC92mALdRVgPT%2FB9umtxl104LVKRAlRUOEyZ9bX%2F%2B9FwtT%2ByXrprdQ1OHpjrIReihlWT2VOMAFJ5U1i%2FemEh1I1CZ0qkLCNB11i%2F2xp76qFE7WxEHuaco0HP6ajLExBcmmGU3HTrnPjAwPVRoyMM397VSg0UwLOOpwfqfac%3D",
      "seller": "greatdealsa2c"
     },
     {
@@ -1254,7 +1256,7 @@
     {
      "price": 525.0,
      "title": "Gucci MAC80 Sneaker White Blue",
-     "url": "https://www.ebay.com/itm/116729150007?_skw=Gucci+MAC80+Sneaker+Blue&hash=item1b2d997a37:g:nrMAAeSw759omRUc&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nVo3qrfacOLVmKXnOOCQUmlvWP%2Bdng77ragtHr7VjUswSGLdNv9h%2B9sAMBEjD1g6WTiac4Xx1lSaPp4dfNdaaDLfnwsUiZfoJZsGyveiDtA3AL8%2FMVPaHlzbVcjDJkdtFy647xyIcLBkK1ZDTy8fdU%2FXrrVEx2EUo1lz3jwsPMZxxvpsgP2wPZzM2hUiR%2FK8nOV4ZN2D4QakFBT6JxR5ZzktNJW6CoQCnS5Lv8db%2FzJL8ymhdls15irm0QseJEAOM%2FWxhx1OvuPCLJeEBJ4I3HVdTHF3vMqz%2FOiNlCsB80sXCS3R%2B1q66tP4xVyab0VjY%3D",
+     "url": "https://www.ebay.com/itm/116729150007?_skw=Gucci+MAC80+Sneaker+Blue&hash=item1b2d997a37:g:nrMAAeSw759omRUc&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nVo3qrfacOLVmKXnOOCQUmlvWP%2Bdng77ragtHr7VjUswSGLdNv9h%2B9sAMBEjD1g6WTiac4Xx1lSaPp4dfNdaaDLfnwsUiZfoJZsGyveiDtA3AL8%2FMVPaHlzbVcjDJkdtHj%2Ft9aDSQ%2FW9Acuzvwmc4ELQvDuk18RDuKj3Ay2ov4v59LTGt7yzYnNWrCazEyuWk9rFbtbncKcfluowH92juExu2V6lQ%2BM9aUfq9FMmYBJ%2BisxP4J4s95RzHonKYiEagkE26rVnPWeoFN6qqTVHRbRoAe7eTzeKO54NTfuhoWJiZj8lK6%2BqYfGjDCxoysEzc%3D",
      "seller": "yanchuns123"
     },
     {
