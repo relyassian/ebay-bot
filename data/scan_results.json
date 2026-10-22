@@ -1,4 +1,38 @@
 {
- "checked": "2026-10-22T11:08:12Z",
- "items": {}
+ "checked": "2026-10-22T11:22:02Z",
+ "items": {
+  "givenchy-bh00b4h1x1-001": {
+   "n": 24,
+   "median": 447.38,
+   "cheapest": 260.35,
+   "p25": 325.0,
+   "top": [
+    "Givenchy Black Leather and Elastic Band Slip On Sneakers Size 42 - New With Box",
+    "Givenchy G Move Low-Top Leather Sneakers White/Black 46"
+   ]
+  },
+  "margiela-replica-red": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "moncler-trailgrip-white": {
+   "n": 1,
+   "median": 499.0,
+   "cheapest": 499.0,
+   "p25": 499.0,
+   "top": [
+    "Moncler Trailgrip GTX Sneakers Navy White Red Men\u2019s Size 11"
+   ]
+  },
+  "rickowens-minimal-grey": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  }
+ }
 }
