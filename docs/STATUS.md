@@ -418,3 +418,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part B skipped: selling_limits.json still stale (Oct 20, shows $177k room); snapshot refresh requested (requests/snapshot) but file had not updated when this run ended.
 - Part C: Gmail (21 days, 12 stores) empty again. promos.yaml: added Cettire OCT5 (extra 5%, ends Oct 23 ~19:07Z, seen on banner).
 - Part D: no new scan (reviewed Oct 22 scan_results: Givenchy slip-on median $447, Moncler 1 comp $499; Nugnes prices lose money after fees/duty). 0 candidates written.
+
+## Oct 23 7:22am ET: daily check-in
+- Research ran (newest checked_at 10:52Z today). daily-sync and snapshot succeeded 10:52Z; sale-alerts chain healthy (all recent runs success). notices.json empty. Selling-limit room: 13,666 items / $170,146.
+- Sales: eBay limits still show 1 sold ($899.99); no new sale detected. No listing changes made by me.
+- Rafael's open question: BrandsGateway free-account catalog check (needs him to create account). No reply yet.
