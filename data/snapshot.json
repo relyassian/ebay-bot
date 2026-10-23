@@ -123,17 +123,17 @@
   "sizes": [
    {
     "US Shoe Size": "6",
-    "price": 1087.99,
+    "price": 1099.99,
     "available": 1
    },
    {
     "US Shoe Size": "7",
-    "price": 1087.99,
+    "price": 1099.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 1087.99,
+    "price": 1099.99,
     "available": 1
    },
    {
@@ -148,7 +148,7 @@
    },
    {
     "US Shoe Size": "6.5",
-    "price": 1087.99,
+    "price": 1099.99,
     "available": 1
    },
    {
@@ -173,7 +173,7 @@
    },
    {
     "US Shoe Size": "5.5",
-    "price": 1087.99,
+    "price": 1099.99,
     "available": 1
    }
   ],
@@ -518,22 +518,22 @@
    },
    {
     "US Shoe Size": "6",
-    "price": 1136.99,
+    "price": 1154.99,
     "available": 1
    },
    {
     "US Shoe Size": "6.5",
-    "price": 1136.99,
+    "price": 1154.99,
     "available": 1
    },
    {
     "US Shoe Size": "7",
-    "price": 1136.99,
+    "price": 1154.99,
     "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 1136.99,
+    "price": 1154.99,
     "available": 1
    },
    {
@@ -1369,7 +1369,7 @@
   "sizes": [
    {
     "US Shoe Size": "6",
-    "price": 772.99,
+    "price": 794.99,
     "available": 1
    },
    {
@@ -1379,7 +1379,7 @@
    },
    {
     "US Shoe Size": "7",
-    "price": 772.99,
+    "price": 814.99,
     "available": 1
    },
    {
@@ -1394,7 +1394,7 @@
    },
    {
     "US Shoe Size": "8.5",
-    "price": 772.99,
+    "price": 779.99,
     "available": 1
    },
    {
@@ -1467,7 +1467,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Casual Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "809.99",
+  "price": "828.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -1520,7 +1520,7 @@
   "sizes": [
    {
     "US Shoe Size": "5.5",
-    "price": 999.99,
+    "price": 1049.99,
     "available": 1
    },
    {
@@ -1530,37 +1530,37 @@
    },
    {
     "US Shoe Size": "7",
-    "price": 999.99,
+    "price": 1049.99,
     "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 1014.99,
+    "price": 1064.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 1041.99,
-    "available": 0
+    "price": 964.99,
+    "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 994.99,
+    "price": 1029.99,
     "available": 1
    },
    {
     "US Shoe Size": "9.5",
-    "price": 934.99,
+    "price": 974.99,
     "available": 1
    },
    {
     "US Shoe Size": "10.5",
-    "price": 809.99,
+    "price": 844.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 1024.99,
+    "price": 1074.99,
     "available": 1
    },
    {
@@ -1570,7 +1570,7 @@
    },
    {
     "US Shoe Size": "12.5",
-    "price": 924.99,
+    "price": 969.99,
     "available": 1
    }
   ],
@@ -1855,7 +1855,7 @@
    },
    {
     "US Shoe Size": "9",
-    "price": 1156.99,
+    "price": 1189.99,
     "available": 1
    },
    {
@@ -1880,7 +1880,7 @@
    },
    {
     "US Shoe Size": "12",
-    "price": 946.99,
+    "price": 949.99,
     "available": 1
    },
    {
@@ -1924,7 +1924,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Casual Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "934.99",
+  "price": "944.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -2000,37 +2000,37 @@
    },
    {
     "US Shoe Size": "8",
-    "price": 1029.99,
+    "price": 1024.99,
     "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 1116.99,
+    "price": 1134.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 1114.99,
+    "price": 1134.99,
     "available": 1
    },
    {
     "US Shoe Size": "9.5",
-    "price": 1077.99,
+    "price": 1109.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 934.99,
+    "price": 964.99,
     "available": 1
    },
    {
     "US Shoe Size": "10.5",
-    "price": 1104.99,
+    "price": 1119.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 1108.99,
+    "price": 1124.99,
     "available": 1
    },
    {
@@ -2050,7 +2050,7 @@
    },
    {
     "US Shoe Size": "13",
-    "price": 993.99,
+    "price": 999.99,
     "available": 1
    }
   ],
@@ -2164,7 +2164,7 @@
    },
    {
     "US Shoe Size": "8",
-    "price": 1039.99,
+    "price": 1069.99,
     "available": 1
    },
    {
@@ -2179,12 +2179,12 @@
    },
    {
     "US Shoe Size": "11",
-    "price": 1022.99,
-    "available": 0
+    "price": 1029.99,
+    "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 997.99,
+    "price": 1024.99,
     "available": 1
    },
    {
@@ -2285,7 +2285,7 @@
   "sizes": [
    {
     "US Shoe Size": "6.5",
-    "price": 967.99,
+    "price": 994.99,
     "available": 1
    },
    {
@@ -2300,7 +2300,7 @@
    },
    {
     "US Shoe Size": "9",
-    "price": 1063.99,
+    "price": 1094.99,
     "available": 1
    },
    {
@@ -2696,12 +2696,12 @@
    },
    {
     "US Shoe Size": "8",
-    "price": 1103.99,
+    "price": 1134.99,
     "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 1156.99,
+    "price": 1189.99,
     "available": 1
    },
    {
@@ -2711,7 +2711,7 @@
    },
    {
     "US Shoe Size": "9.5",
-    "price": 1081.99,
+    "price": 1079.99,
     "available": 1
    },
    {
@@ -2810,7 +2810,7 @@
    },
    {
     "US Shoe Size": "7.5",
-    "price": 949.99,
+    "price": 954.99,
     "available": 1
    },
    {
@@ -2881,7 +2881,7 @@
    {
     "US Shoe Size": "12.5",
     "price": 803.99,
-    "available": 0
+    "available": 1
    }
   ],
   "photos": [
@@ -2913,7 +2913,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "699.99",
+  "price": "734.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -2940,12 +2940,12 @@
   "sizes": [
    {
     "US Shoe Size": "6.5",
-    "price": 699.99,
+    "price": 734.99,
     "available": 1
    },
    {
     "US Shoe Size": "6",
-    "price": 819.99,
+    "price": 859.99,
     "available": 1
    }
   ],
@@ -3081,18 +3081,18 @@
    },
    {
     "US Shoe Size": "8",
-    "price": 844.99,
+    "price": 849.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 870.99,
+    "price": 894.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 885.99,
-    "available": 0
+    "price": 904.99,
+    "available": 1
    },
    {
     "US Shoe Size": "12.5",
@@ -3101,7 +3101,7 @@
    },
    {
     "US Shoe Size": "8.5",
-    "price": 884.99,
+    "price": 904.99,
     "available": 1
    }
   ],
@@ -3135,7 +3135,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "759.99",
+  "price": "794.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -3162,22 +3162,22 @@
   "sizes": [
    {
     "US Shoe Size": "6.5",
-    "price": 759.99,
+    "price": 794.99,
     "available": 1
    },
    {
     "US Shoe Size": "7",
-    "price": 759.99,
+    "price": 794.99,
     "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 759.99,
+    "price": 794.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 809.99,
+    "price": 844.99,
     "available": 1
    }
   ],
@@ -3211,7 +3211,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "1149.99",
+  "price": "1229.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -3238,7 +3238,7 @@
   "sizes": [
    {
     "US Shoe Size": "9",
-    "price": 1149.99,
+    "price": 1229.99,
     "available": 1
    }
   ],
@@ -3274,7 +3274,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "578.99",
+  "price": "604.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -3301,12 +3301,12 @@
   "sizes": [
    {
     "US Shoe Size": "12.5",
-    "price": 669.99,
+    "price": 729.99,
     "available": 1
    },
    {
     "US Shoe Size": "13.5",
-    "price": 578.99,
+    "price": 604.99,
     "available": 1
    }
   ],
@@ -3413,7 +3413,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "759.99",
+  "price": "769.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -3440,27 +3440,27 @@
   "sizes": [
    {
     "US Shoe Size": "5.5",
-    "price": 796.99,
+    "price": 769.99,
     "available": 1
    },
    {
     "US Shoe Size": "6",
-    "price": 818.99,
+    "price": 789.99,
     "available": 1
    },
    {
     "US Shoe Size": "6.5",
-    "price": 759.99,
+    "price": 769.99,
     "available": 1
    },
    {
     "US Shoe Size": "7",
-    "price": 759.99,
+    "price": 769.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 759.99,
+    "price": 784.99,
     "available": 1
    }
   ],
@@ -3521,12 +3521,12 @@
   "sizes": [
    {
     "US Shoe Size": "9.5",
-    "price": 824.99,
-    "available": 1
+    "price": 859.99,
+    "available": 0
    },
    {
     "US Shoe Size": "10",
-    "price": 824.99,
+    "price": 864.99,
     "available": 1
    },
    {
@@ -3564,7 +3564,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "934.99",
+  "price": "954.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -3591,7 +3591,7 @@
   "sizes": [
    {
     "US Shoe Size": "12",
-    "price": 934.99,
+    "price": 954.99,
     "available": 1
    }
   ],
@@ -3624,7 +3624,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "654.99",
+  "price": "679.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -3654,22 +3654,22 @@
   "sizes": [
    {
     "US Shoe Size": "7.5",
-    "price": 1119.99,
+    "price": 1174.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 654.99,
+    "price": 679.99,
     "available": 1
    },
    {
     "US Shoe Size": "12.5",
-    "price": 809.99,
+    "price": 844.99,
     "available": 1
    },
    {
     "US Shoe Size": "13.5",
-    "price": 779.99,
+    "price": 814.99,
     "available": 1
    }
   ],
@@ -3833,7 +3833,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "702.99",
+  "price": "714.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -3868,13 +3868,13 @@
    },
    {
     "US Shoe Size": "14",
-    "price": 712.99,
+    "price": 744.99,
     "available": 1
    },
    {
     "US Shoe Size": "14.5",
-    "price": 702.99,
-    "available": 1
+    "price": 734.99,
+    "available": 0
    }
   ],
   "photos": [
@@ -3955,7 +3955,7 @@
    {
     "US Shoe Size": "8",
     "price": 749.99,
-    "available": 0
+    "available": 1
    },
    {
     "US Shoe Size": "9",
@@ -3964,7 +3964,7 @@
    },
    {
     "US Shoe Size": "10.5",
-    "price": 856.99,
+    "price": 879.99,
     "available": 1
    }
   ],
@@ -3998,7 +3998,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "794.99",
+  "price": "834.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -4028,7 +4028,7 @@
   "sizes": [
    {
     "US Shoe Size": "13.5",
-    "price": 794.99,
+    "price": 834.99,
     "available": 1
    }
   ],
@@ -4094,27 +4094,27 @@
   "sizes": [
    {
     "US Shoe Size": "7",
-    "price": 829.99,
+    "price": 844.99,
     "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 869.99,
+    "price": 894.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 816.99,
+    "price": 829.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 816.99,
+    "price": 824.99,
     "available": 1
    },
    {
     "US Shoe Size": "12.5",
-    "price": 822.99,
+    "price": 834.99,
     "available": 1
    },
    {
@@ -4225,7 +4225,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "682.99",
+  "price": "649.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -4252,17 +4252,17 @@
   "sizes": [
    {
     "US Shoe Size": "11.5",
-    "price": 839.99,
+    "price": 874.99,
     "available": 1
    },
    {
     "US Shoe Size": "13",
-    "price": 744.99,
+    "price": 779.99,
     "available": 1
    },
    {
     "US Shoe Size": "13.5",
-    "price": 714.99,
+    "price": 649.99,
     "available": 1
    },
    {
@@ -4272,7 +4272,7 @@
    },
    {
     "US Shoe Size": "15.5",
-    "price": 764.99,
+    "price": 799.99,
     "available": 1
    }
   ],
@@ -4371,7 +4371,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "1115.99",
+  "price": "1079.99",
   "specifics": {
    "Brand": [
     "Balenciaga"
@@ -4398,12 +4398,12 @@
   "sizes": [
    {
     "US Shoe Size": "6",
-    "price": 1115.99,
+    "price": 1114.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 1120.99,
+    "price": 1079.99,
     "available": 1
    }
   ],
@@ -4466,7 +4466,7 @@
   "sizes": [
    {
     "US Shoe Size": "12",
-    "price": 680.99,
+    "price": 699.99,
     "available": 1
    },
    {
@@ -4504,7 +4504,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "789.99",
+  "price": "829.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -4531,12 +4531,12 @@
   "sizes": [
    {
     "US Shoe Size": "7",
-    "price": 789.99,
+    "price": 829.99,
     "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 829.99,
+    "price": 869.99,
     "available": 1
    },
    {
@@ -4609,62 +4609,62 @@
   "sizes": [
    {
     "US Shoe Size": "6.5",
-    "price": 669.99,
+    "price": 679.99,
     "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 689.99,
+    "price": 704.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 719.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "8.5",
-    "price": 694.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "9",
-    "price": 719.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "9.5",
-    "price": 789.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "10",
     "price": 734.99,
     "available": 1
    },
    {
+    "US Shoe Size": "8.5",
+    "price": 704.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "9",
+    "price": 734.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "9.5",
+    "price": 804.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "10",
+    "price": 749.99,
+    "available": 1
+   },
+   {
     "US Shoe Size": "10.5",
-    "price": 754.99,
+    "price": 764.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 759.99,
+    "price": 774.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
     "price": 529.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12.5",
-    "price": 624.99,
+    "price": 634.99,
     "available": 1
    },
    {
     "US Shoe Size": "13",
-    "price": 649.99,
+    "price": 659.99,
     "available": 1
    }
   ],
@@ -4730,7 +4730,7 @@
    },
    {
     "US Shoe Size": "10",
-    "price": 983.99,
+    "price": 1004.99,
     "available": 1
    },
    {
@@ -4765,7 +4765,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "754.99",
+  "price": "784.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -4792,37 +4792,37 @@
   "sizes": [
    {
     "US Shoe Size": "6.5",
-    "price": 769.99,
+    "price": 809.99,
     "available": 1
    },
    {
     "US Shoe Size": "7",
-    "price": 799.99,
+    "price": 834.99,
     "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 754.99,
+    "price": 784.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 984.99,
+    "price": 1029.99,
     "available": 1
    },
    {
     "US Shoe Size": "9.5",
-    "price": 954.99,
+    "price": 999.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 1009.99,
+    "price": 1059.99,
     "available": 1
    },
    {
     "US Shoe Size": "13",
-    "price": 839.99,
+    "price": 879.99,
     "available": 1
    }
   ],
@@ -4858,7 +4858,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "649.99",
+  "price": "664.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -4885,17 +4885,17 @@
   "sizes": [
    {
     "US Shoe Size": "8.5",
-    "price": 649.99,
+    "price": 664.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 679.99,
+    "price": 689.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 689.99,
+    "price": 704.99,
     "available": 1
    }
   ],
@@ -4931,7 +4931,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "954.99",
+  "price": "976.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -4963,7 +4963,7 @@
    },
    {
     "US Shoe Size": "12",
-    "price": 954.99,
+    "price": 999.99,
     "available": 1
    }
   ],
@@ -4999,7 +4999,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "539.99",
+  "price": "559.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -5026,12 +5026,12 @@
   "sizes": [
    {
     "US Shoe Size": "7",
-    "price": 854.99,
+    "price": 889.99,
     "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 709.99,
+    "price": 739.99,
     "available": 1
    },
    {
@@ -5041,27 +5041,27 @@
    },
    {
     "US Shoe Size": "10",
-    "price": 734.99,
+    "price": 769.99,
     "available": 1
    },
    {
     "US Shoe Size": "10.5",
-    "price": 809.99,
+    "price": 844.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 644.99,
+    "price": 669.99,
     "available": 1
    },
    {
     "US Shoe Size": "12.5",
-    "price": 599.99,
+    "price": 624.99,
     "available": 1
    },
    {
     "US Shoe Size": "13",
-    "price": 539.99,
+    "price": 559.99,
     "available": 1
    }
   ],
@@ -5097,7 +5097,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "574.99",
+  "price": "504.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -5124,67 +5124,67 @@
   "sizes": [
    {
     "US Shoe Size": "6",
-    "price": 709.99,
+    "price": 739.99,
     "available": 1
    },
    {
     "US Shoe Size": "6.5",
-    "price": 754.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "7",
-    "price": 754.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "7.5",
-    "price": 794.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "8",
-    "price": 674.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "8.5",
-    "price": 789.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "9",
-    "price": 889.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "9.5",
-    "price": 744.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "10",
-    "price": 679.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "10.5",
-    "price": 649.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "11.5",
     "price": 784.99,
     "available": 1
    },
    {
+    "US Shoe Size": "7",
+    "price": 784.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "7.5",
+    "price": 834.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "8",
+    "price": 704.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "8.5",
+    "price": 824.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "9",
+    "price": 934.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "9.5",
+    "price": 774.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "10",
+    "price": 709.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "10.5",
+    "price": 679.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "11.5",
+    "price": 819.99,
+    "available": 1
+   },
+   {
     "US Shoe Size": "12.5",
-    "price": 574.99,
+    "price": 599.99,
     "available": 1
    },
    {
     "US Shoe Size": "13",
-    "price": 604.99,
+    "price": 504.99,
     "available": 1
    }
   ],
@@ -5220,7 +5220,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "594.99",
+  "price": "619.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -5247,37 +5247,37 @@
   "sizes": [
    {
     "US Shoe Size": "6.5",
-    "price": 894.99,
+    "price": 939.99,
     "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 774.99,
+    "price": 809.99,
     "available": 1
    },
    {
     "US Shoe Size": "9.5",
-    "price": 594.99,
+    "price": 619.99,
     "available": 1
    },
    {
     "US Shoe Size": "10.5",
-    "price": 689.99,
+    "price": 724.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 884.99,
+    "price": 929.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 609.99,
+    "price": 634.99,
     "available": 1
    },
    {
     "US Shoe Size": "12.5",
-    "price": 609.99,
+    "price": 634.99,
     "available": 1
    }
   ],
@@ -5340,22 +5340,22 @@
   "sizes": [
    {
     "US Shoe Size": "7",
-    "price": 674.99,
+    "price": 704.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 684.99,
+    "price": 714.99,
     "available": 1
    },
    {
     "US Shoe Size": "8.5",
     "price": 644.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9",
-    "price": 674.99,
+    "price": 704.99,
     "available": 1
    }
   ],
@@ -5389,7 +5389,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "980.99",
+  "price": "1009.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -5416,7 +5416,7 @@
   "sizes": [
    {
     "US Shoe Size": "12.5",
-    "price": 980.99,
+    "price": 1009.99,
     "available": 1
    }
   ],
@@ -5452,7 +5452,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "674.99",
+  "price": "704.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -5479,17 +5479,17 @@
   "sizes": [
    {
     "US Shoe Size": "8",
-    "price": 964.99,
+    "price": 1009.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 674.99,
+    "price": 704.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 804.99,
+    "price": 844.99,
     "available": 1
    }
   ],
@@ -5522,7 +5522,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "819.99",
+  "price": "844.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -5549,7 +5549,7 @@
   "sizes": [
    {
     "US Shoe Size": "7",
-    "price": 819.99,
+    "price": 844.99,
     "available": 1
    }
   ],
@@ -5612,7 +5612,7 @@
   "sizes": [
    {
     "US Shoe Size": "7.5",
-    "price": 870.99,
+    "price": 894.99,
     "available": 1
    },
    {
@@ -5632,22 +5632,22 @@
    },
    {
     "US Shoe Size": "9.5",
-    "price": 873.99,
+    "price": 899.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 873.99,
+    "price": 899.99,
     "available": 1
    },
    {
     "US Shoe Size": "10.5",
-    "price": 879.99,
+    "price": 904.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 879.99,
+    "price": 904.99,
     "available": 1
    }
   ],
@@ -5683,7 +5683,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "800.99",
+  "price": "814.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -5710,12 +5710,12 @@
   "sizes": [
    {
     "US Shoe Size": "7.5",
-    "price": 800.99,
+    "price": 814.99,
     "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 806.99,
+    "price": 819.99,
     "available": 1
    }
   ],
@@ -5783,22 +5783,22 @@
    },
    {
     "US Shoe Size": "9.5",
-    "price": 1003.99,
+    "price": 1034.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 909.99,
+    "price": 964.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 990.99,
+    "price": 1019.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 950.99,
+    "price": 959.99,
     "available": 1
    },
    {
@@ -5842,7 +5842,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "639.99",
+  "price": "664.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -5869,12 +5869,12 @@
   "sizes": [
    {
     "US Shoe Size": "12",
-    "price": 789.99,
+    "price": 824.99,
     "available": 1
    },
    {
     "US Shoe Size": "12.5",
-    "price": 639.99,
+    "price": 664.99,
     "available": 1
    },
    {
@@ -5915,7 +5915,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "529.99",
+  "price": "534.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -5942,32 +5942,32 @@
   "sizes": [
    {
     "US Shoe Size": "10.5",
-    "price": 724.99,
+    "price": 739.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 724.99,
+    "price": 739.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 724.99,
+    "price": 739.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 529.99,
+    "price": 534.99,
     "available": 1
    },
    {
     "US Shoe Size": "12.5",
-    "price": 589.99,
+    "price": 599.99,
     "available": 1
    },
    {
     "US Shoe Size": "13",
-    "price": 589.99,
+    "price": 599.99,
     "available": 1
    }
   ],
@@ -6028,17 +6028,17 @@
   "sizes": [
    {
     "US Shoe Size": "6.5",
-    "price": 1077.99,
+    "price": 1094.99,
     "available": 1
    },
    {
     "US Shoe Size": "7",
-    "price": 1089.99,
+    "price": 1104.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 1135.99,
+    "price": 1159.99,
     "available": 1
    },
    {
@@ -6063,12 +6063,12 @@
    },
    {
     "US Shoe Size": "12.5",
-    "price": 1151.99,
+    "price": 1184.99,
     "available": 1
    },
    {
     "US Shoe Size": "13",
-    "price": 1151.99,
+    "price": 1184.99,
     "available": 1
    }
   ],
@@ -6104,7 +6104,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "965.99",
+  "price": "994.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -6131,22 +6131,22 @@
   "sizes": [
    {
     "US Shoe Size": "7.5",
-    "price": 1021.99,
+    "price": 1039.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 1020.99,
+    "price": 1039.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 965.99,
+    "price": 994.99,
     "available": 1
    },
    {
     "US Shoe Size": "9.5",
-    "price": 976.99,
+    "price": 994.99,
     "available": 1
    }
   ],
@@ -6182,7 +6182,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "719.99",
+  "price": "739.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -6209,7 +6209,7 @@
   "sizes": [
    {
     "US Shoe Size": "13",
-    "price": 719.99,
+    "price": 739.99,
     "available": 1
    }
   ],
@@ -6245,7 +6245,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "649.99",
+  "price": "709.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -6272,7 +6272,7 @@
   "sizes": [
    {
     "US Shoe Size": "13",
-    "price": 649.99,
+    "price": 709.99,
     "available": 1
    }
   ],
@@ -6339,7 +6339,7 @@
    },
    {
     "US Shoe Size": "10",
-    "price": 859.99,
+    "price": 884.99,
     "available": 1
    },
    {
@@ -6380,7 +6380,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "729.99",
+  "price": "704.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -6407,47 +6407,47 @@
   "sizes": [
    {
     "US Shoe Size": "5.5",
-    "price": 999.99,
+    "price": 969.99,
     "available": 1
    },
    {
     "US Shoe Size": "7",
-    "price": 739.99,
+    "price": 714.99,
     "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 749.99,
+    "price": 719.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 779.99,
+    "price": 754.99,
     "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 779.99,
+    "price": 754.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 779.99,
+    "price": 754.99,
     "available": 1
    },
    {
     "US Shoe Size": "9.5",
-    "price": 739.99,
+    "price": 714.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 729.99,
+    "price": 704.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 779.99,
+    "price": 754.99,
     "available": 1
    }
   ],
@@ -6480,7 +6480,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "644.99",
+  "price": "674.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -6507,57 +6507,57 @@
   "sizes": [
    {
     "US Shoe Size": "6",
-    "price": 859.99,
+    "price": 899.99,
     "available": 1
    },
    {
     "US Shoe Size": "6.5",
-    "price": 884.99,
+    "price": 929.99,
     "available": 1
    },
    {
     "US Shoe Size": "7",
-    "price": 849.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "7.5",
-    "price": 884.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "8",
-    "price": 1029.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "9",
-    "price": 859.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "9.5",
-    "price": 979.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "10",
-    "price": 644.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "10.5",
-    "price": 874.99,
-    "available": 1
-   },
-   {
-    "US Shoe Size": "11",
     "price": 889.99,
     "available": 1
    },
    {
+    "US Shoe Size": "7.5",
+    "price": 924.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "8",
+    "price": 1074.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "9",
+    "price": 899.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "9.5",
+    "price": 1029.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "10",
+    "price": 674.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "10.5",
+    "price": 919.99,
+    "available": 1
+   },
+   {
+    "US Shoe Size": "11",
+    "price": 929.99,
+    "available": 1
+   },
+   {
     "US Shoe Size": "11.5",
-    "price": 894.99,
+    "price": 939.99,
     "available": 1
    }
   ],
@@ -6593,7 +6593,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "963.99",
+  "price": "964.99",
   "specifics": {
    "Brand": [
     "Bottega Veneta"
@@ -6617,27 +6617,27 @@
   "sizes": [
    {
     "US Shoe Size": "7",
-    "price": 963.99,
+    "price": 989.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 963.99,
+    "price": 989.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 963.99,
+    "price": 989.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 963.99,
+    "price": 989.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 963.99,
+    "price": 989.99,
     "available": 1
    },
    {
@@ -6677,7 +6677,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "798.94",
+  "price": "764.99",
   "specifics": {
    "Brand": [
     "Ferragamo"
@@ -6701,12 +6701,12 @@
   "sizes": [
    {
     "US Shoe Size": "8",
-    "price": 798.94,
+    "price": 764.99,
     "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 798.94,
+    "price": 764.99,
     "available": 1
    }
   ],
@@ -6740,7 +6740,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "634.99",
+  "price": "599.99",
   "specifics": {
    "Brand": [
     "Ferragamo"
@@ -6764,12 +6764,12 @@
   "sizes": [
    {
     "US Shoe Size": "12",
-    "price": 634.99,
+    "price": 599.99,
     "available": 1
    },
    {
     "US Shoe Size": "13",
-    "price": 634.99,
+    "price": 599.99,
     "available": 1
    }
   ],
@@ -6866,7 +6866,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "790.99",
+  "price": "814.99",
   "specifics": {
    "Brand": [
     "Ferragamo"
@@ -6890,32 +6890,32 @@
   "sizes": [
    {
     "US Shoe Size": "7",
-    "price": 790.99,
+    "price": 814.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 790.99,
+    "price": 814.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 790.99,
+    "price": 814.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 790.99,
+    "price": 814.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 790.99,
+    "price": 814.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 790.99,
+    "price": 814.99,
     "available": 1
    }
   ],
@@ -7032,7 +7032,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "713.99",
+  "price": "727.99",
   "specifics": {
    "Brand": [
     "Ferragamo"
@@ -7056,62 +7056,62 @@
   "sizes": [
    {
     "US Shoe Size": "6",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "6.5",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "7",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "7.5",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "8.5",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "9.5",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "10.5",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
     "US Shoe Size": "11.5",
-    "price": 713.99,
+    "price": 749.99,
     "available": 1
    },
    {
@@ -7187,7 +7187,7 @@
    },
    {
     "US Shoe Size": "11",
-    "price": 937.99,
+    "price": 949.99,
     "available": 1
    },
    {
@@ -7312,7 +7312,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "394.99",
+  "price": "424.99",
   "specifics": {
    "Brand": [
     "Bally"
@@ -7339,12 +7339,12 @@
   "sizes": [
    {
     "US Shoe Size": "8",
-    "price": 394.99,
+    "price": 424.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 394.99,
+    "price": 424.99,
     "available": 1
    }
   ],
@@ -7376,7 +7376,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Dress Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "519.99",
+  "price": "484.99",
   "specifics": {
    "Brand": [
     "Bally"
@@ -7403,7 +7403,7 @@
   "sizes": [
    {
     "US Shoe Size": "11",
-    "price": 519.99,
+    "price": 484.99,
     "available": 1
    }
   ],
@@ -7522,7 +7522,7 @@
   "sizes": [
    {
     "US Shoe Size": "8",
-    "price": 857.99,
+    "price": 884.99,
     "available": 1
    },
    {
@@ -7588,7 +7588,7 @@
   "sizes": [
    {
     "US Shoe Size": "7",
-    "price": 1187.99,
+    "price": 1219.99,
     "available": 1
    },
    {
@@ -7598,31 +7598,31 @@
    },
    {
     "US Shoe Size": "8.5",
-    "price": 1187.99,
+    "price": 1219.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 1187.99,
+    "price": 1219.99,
     "available": 1
    },
    {
     "US Shoe Size": "9.5",
-    "price": 1187.99,
+    "price": 1219.99,
     "available": 1
    },
    {
     "US Shoe Size": "13",
-    "price": 1187.99,
+    "price": 1219.99,
     "available": 1
    }
   ],
   "photos": [
-   "https://cdn-images.farfetch-contents.com/31/02/20/92/31022092_60182434_1000.jpg",
-   "https://cdn-images.farfetch-contents.com/31/02/20/92/31022092_60181933_1000.jpg",
-   "https://cdn-images.farfetch-contents.com/31/02/20/92/31022092_60182544_1000.jpg",
-   "https://cdn-images.farfetch-contents.com/31/02/20/92/31022092_60181970_1000.jpg",
-   "https://cdn-images.farfetch-contents.com/31/02/20/92/31022092_60182469_1000.jpg"
+   "https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/1fsAAeSwioxq2vsz/$_1.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/IPYAAeSwVqtq2vp8/$_1.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/2AAAAeSwc7Rq2vsz/$_1.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/F1cAAeSwCYhq2vp8/$_1.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/J54AAeSwiaxq2vp8/$_1.JPG?set_id=8800005007"
   ],
   "description": "<div style='max-width:760px;margin:0 auto;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;'><p style='font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#777;margin:0 0 4px;'>Givenchy</p><h1 style='font-size:24px;font-weight:600;margin:0 0 6px;'>Padded Nylon and Leather Trainer Sneaker</h1><p style='font-size:15px;color:#555;margin:0 0 20px;'>Black</p><div><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Brand new</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>With original box</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>eBay Authenticity Guarantee</span><span style='display:inline-block;border:1px solid #1a1a1a;padding:4px 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 6px 6px 0;'>Free shipping</span></div><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Highlights</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li style='margin-bottom:4px;'>Padded nylon and calf leather upper</li><li style='margin-bottom:4px;'>Rubber sole</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Details</h2><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Brand</td><td style='padding:8px;border:1px solid #e2e2e2;'>Givenchy</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Model</td><td style='padding:8px;border:1px solid #e2e2e2;'>Padded Nylon and Leather Trainer Sneaker</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Colour</td><td style='padding:8px;border:1px solid #e2e2e2;'>Black</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Material</td><td style='padding:8px;border:1px solid #e2e2e2;'>Nylon</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Made in</td><td style='padding:8px;border:1px solid #e2e2e2;'>Italy</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;width:38%;color:#555;'>Condition</td><td style='padding:8px;border:1px solid #e2e2e2;'>New with original box, never worn</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Size guide</h2><p style='font-size:14px;margin:0 0 10px;'>Choose your <b>US</b> size from the menu. The label inside the shoe shows Givenchy's own FR size:</p><table style='border-collapse:collapse;width:100%;font-size:14px;'><tr><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>US size</th><th style='text-align:left;background:#f4f4f4;padding:8px;border:1px solid #e2e2e2;'>Size on the shoe</th></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 7</td><td style='padding:8px;border:1px solid #e2e2e2;'>FR 40</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 8</td><td style='padding:8px;border:1px solid #e2e2e2;'>FR 41</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 8.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>FR 41.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 9</td><td style='padding:8px;border:1px solid #e2e2e2;'>FR 42</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 9.5</td><td style='padding:8px;border:1px solid #e2e2e2;'>FR 42.5</td></tr><tr><td style='padding:8px;border:1px solid #e2e2e2;'>US 13</td><td style='padding:8px;border:1px solid #e2e2e2;'>FR 46</td></tr></table><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>What's included</h2><ul style='font-size:14px;padding-left:18px;margin:0;'><li>Shoes</li><li>Original box</li></ul><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Shipping</h2><p style='font-size:14px;margin:0 0 10px;'>Free shipping. Ships within 3 business days. Because this is a luxury item, it first goes to eBay's independent authenticators, who inspect it and then send it on to you.</p><h2 style='font-size:13px;letter-spacing:2px;text-transform:uppercase;border-bottom:1px solid #ddd;padding-bottom:6px;margin:26px 0 10px;'>Questions</h2><p style='font-size:14px;margin:0 0 10px;'>Message us any time before you buy: sizing, details, extra photos. We reply quickly.</p><p style='font-size:12px;color:#777;margin-top:26px;'>All sales are final; please check your size before you buy. Thank you for shopping with us.</p></div>",
   "dispatch_days": "3",
@@ -7679,7 +7679,7 @@
    },
    {
     "US Shoe Size": "11",
-    "price": 1129.99,
+    "price": 1159.99,
     "available": 1
    }
   ],
@@ -7933,7 +7933,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "839.99",
+  "price": "864.99",
   "specifics": {
    "Brand": [
     "Maison Margiela"
@@ -7960,32 +7960,32 @@
   "sizes": [
    {
     "US Shoe Size": "7",
-    "price": 839.99,
+    "price": 864.99,
     "available": 1
    },
    {
     "US Shoe Size": "8",
-    "price": 839.99,
+    "price": 864.99,
     "available": 1
    },
    {
     "US Shoe Size": "9",
-    "price": 839.99,
+    "price": 864.99,
     "available": 1
    },
    {
     "US Shoe Size": "10",
-    "price": 839.99,
+    "price": 864.99,
     "available": 1
    },
    {
     "US Shoe Size": "11",
-    "price": 839.99,
+    "price": 864.99,
     "available": 1
    },
    {
     "US Shoe Size": "12",
-    "price": 839.99,
+    "price": 864.99,
     "available": 1
    }
   ],
