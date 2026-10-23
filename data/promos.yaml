@@ -1,4 +1,5 @@
 # Store promo codes, refreshed by the daily research (see bot/promos.py)
+# 2026-10-23: Gmail (last 21 days, 12 stores) empty again; no new codes. Farfetch GET10 banner (up to 10% off selected styles) and Cettire OCT5 flash sale (extra 5%, ends ~19:07 UTC Oct 23) seen on product pages today; entries below unchanged except note.
 # 2026-10-22: Gmail (last 21 days, 12 stores) empty again; no new codes. Entries below unchanged.
 # 2026-10-21: Gmail (last 21 days, 12 stores) empty again; no new codes. Entries below unchanged.
 # 2026-10-19: Gmail (last 21 days, 12 stores) empty; Farfetch GET10 banner ("Selected styles only") seen again on the Gancini product page today.
@@ -7,6 +8,7 @@
 # Site banners read in the Mac browser: Cettire FIRST10 (app only, first purchase only); Farfetch GET10 terms read on a product page Oct 13.
 # GOAT and StockX showed no buyer code. Others not re-read today.
 cettire:
+  - {code: OCT5, discount: "extra 5% off, flash sale, ends Oct 23 ~19:07 UTC (T&Cs apply)", expires: 2026-10-23, source: "Cettire site banner, read Oct 23"}
   - {code: FIRST10, discount: "extra 10% off, first purchase only, Cettire app only", source: "Cettire site banner, read Oct 14"}
 farfetch:
   - {code: GET10, discount: "up to 10% off selected styles only; basket min $300 before promo, max $300 off, once per customer, not with other codes", expires: 2026-10-28, source: "Farfetch product page terms, read Oct 13"}
