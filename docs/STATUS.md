@@ -423,3 +423,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Research ran (newest checked_at 10:52Z today). daily-sync and snapshot succeeded 10:52Z; sale-alerts chain healthy (all recent runs success). notices.json empty. Selling-limit room: 13,666 items / $170,146.
 - Sales: eBay limits still show 1 sold ($899.99); no new sale detected. No listing changes made by me.
 - Rafael's open question: BrandsGateway free-account catalog check (needs him to create account). No reply yet.
+
+## Oct 25 (UTC 01:06-01:40): daily research (scheduled run for Oct 24 10:40Z fired ~14h late)
+- Prices were already >36h old at start (last refresh Oct 23 10:52Z), so every GOAT/StockX/Farfetch size had likely come off sale before this run.
+- Mac linked, but the built-in browser pane's JS tool returns nothing and its StockX page has no viewport; I read GOAT through the Mac's Puppeteer browser instead (works, not signed in). StockX shows a Cloudflare check there (not bypassed); Farfetch/Cettire/Antonioli not readable this run.
+- Part A: refreshed 339 GOAT rows (all 60 pages, buy_bar_data, new/good box only); 12 prices changed. NOT refreshed (expire): 83 StockX rows, Farfetch (32 rows), Antonioli (6), Cettire cufflinks (1). GOAT rows not re-ranked against other stores.
+- Part B skipped (selling_limits.json stale). Part C: Gmail empty; removed expired Cettire OCT5. Part D: not run (no usable browser); no candidates written.
+- Next: fix the built-in browser JS tool / sign-in so StockX and Farfetch can be read; next refresh needed before ~13:00Z Oct 26.
