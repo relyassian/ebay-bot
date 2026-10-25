@@ -1,69 +1,5 @@
 [
  {
-  "item_id": "356084785661",
-  "title": "Salvatore Ferragamo Logo Engraved Cufflinks",
-  "category": "137843",
-  "category_name": "Jewelry & Watches:Men's Jewelry:Cufflinks",
-  "condition": "New with packaging",
-  "sku": null,
-  "price": "599.99",
-  "specifics": {
-   "Materials sourced from": [
-    "Italy"
-   ],
-   "Country of Origin": [
-    "Italy"
-   ],
-   "Brand": [
-    "Salvatore Ferragamo"
-   ],
-   "Type": [
-    "Cufflinks"
-   ],
-   "Department": [
-    "Unisex Adults"
-   ],
-   "Occasion": [
-    "Anniversary",
-    "Birthday",
-    "Christmas",
-    "Engagement",
-    "Father's Day",
-    "Graduation",
-    "Mother's Day",
-    "Valentine's Day",
-    "Wedding"
-   ],
-   "Color": [
-    "Silver"
-   ],
-   "Features": [
-    "Engraved"
-   ]
-  },
-  "sizes": [],
-  "photos": [
-   "https://i.ebayimg.com/00/s/NTMyWDM5OA==/z/7hYAAOSwQaBm85aJ/$_57.JPG?set_id=880000500F",
-   "https://i.ebayimg.com/00/s/NTMyWDM5OA==/z/Mc4AAOSwn0pm85Z9/$_57.JPG?set_id=880000500F",
-   "https://i.ebayimg.com/00/s/NTMyWDM5OA==/z/C4oAAOSwqYtm85aa/$_57.JPG?set_id=880000500F"
-  ],
-  "description": "<font size=\"5\" face=\"Times New Roman\"><b>Salvatore Ferragamo Logo Engraved Cufflinks</b></font><div><font size=\"5\" face=\"Times New Roman\"><b><br></b></font></div><div><span style=\"letter-spacing: 0.2px; background-color: rgb(255, 255, 255);\"><font size=\"4\" style=\"\" face=\"Times New Roman\">Iconic, minimal, pure: the Gancini silhouette is turned into a unique set of cufflinks, with a rounded thread and a glowing finish. Length 22.2 mm, height 17.8 mm.</font></span><font size=\"5\" face=\"Times New Roman\"><b><br></b></font></div>",
-  "dispatch_days": "3",
-  "shipping_type": "Calculated",
-  "ship_costs": [],
-  "free_shipping": [
-   "true"
-  ],
-  "returns": "ReturnsNotAccepted",
-  "profiles": {
-   "ship": null,
-   "ret": null
-  },
-  "best_offer": "true",
-  "product_ref": null,
-  "sold_total": 0
- },
- {
   "item_id": "355066429434",
   "title": "Salvatore Ferragamo Grandioso Moccasin with Gancini Ornament Black Men's New",
   "category": "53120",
@@ -124,17 +60,17 @@
    {
     "US Shoe Size": "6",
     "price": 1099.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7",
     "price": 1099.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8",
     "price": 1099.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9",
@@ -149,7 +85,7 @@
    {
     "US Shoe Size": "6.5",
     "price": 1099.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7.5",
@@ -174,7 +110,7 @@
    {
     "US Shoe Size": "5.5",
     "price": 1099.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -519,22 +455,22 @@
    {
     "US Shoe Size": "6",
     "price": 1154.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "6.5",
     "price": 1154.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7",
     "price": 1154.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7.5",
     "price": 1154.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8",
@@ -1370,7 +1306,7 @@
    {
     "US Shoe Size": "6",
     "price": 794.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "6.5",
@@ -1380,7 +1316,7 @@
    {
     "US Shoe Size": "7",
     "price": 814.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7.5",
@@ -1395,7 +1331,7 @@
    {
     "US Shoe Size": "8.5",
     "price": 779.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9",
@@ -1520,7 +1456,7 @@
   "sizes": [
    {
     "US Shoe Size": "5.5",
-    "price": 1049.99,
+    "price": 1009.99,
     "available": 1
    },
    {
@@ -1550,13 +1486,13 @@
    },
    {
     "US Shoe Size": "9.5",
-    "price": 974.99,
-    "available": 1
+    "price": 964.99,
+    "available": 0
    },
    {
     "US Shoe Size": "10.5",
     "price": 844.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "11",
@@ -1826,7 +1762,7 @@
    {
     "US Shoe Size": "6",
     "price": 982.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "6.5",
@@ -1846,17 +1782,17 @@
    {
     "US Shoe Size": "8",
     "price": 934.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8.5",
     "price": 990.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9",
     "price": 1189.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9.5",
@@ -1866,7 +1802,7 @@
    {
     "US Shoe Size": "10",
     "price": 934.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "10.5",
@@ -2001,7 +1937,7 @@
    {
     "US Shoe Size": "8",
     "price": 1024.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8.5",
@@ -2021,7 +1957,7 @@
    {
     "US Shoe Size": "10",
     "price": 964.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "10.5",
@@ -2031,7 +1967,7 @@
    {
     "US Shoe Size": "11",
     "price": 1124.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "11.5",
@@ -2164,13 +2100,13 @@
    },
    {
     "US Shoe Size": "8",
-    "price": 1069.99,
-    "available": 1
+    "price": 1154.99,
+    "available": 0
    },
    {
     "US Shoe Size": "7.5",
     "price": 934.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8.5",
@@ -2180,17 +2116,17 @@
    {
     "US Shoe Size": "11",
     "price": 1029.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12",
     "price": 1024.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "13",
     "price": 934.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -2301,12 +2237,12 @@
    {
     "US Shoe Size": "9",
     "price": 1094.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8",
     "price": 934.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -2423,7 +2359,7 @@
    {
     "US Shoe Size": "8.5",
     "price": 1029.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9.5",
@@ -2443,7 +2379,7 @@
    {
     "US Shoe Size": "9",
     "price": 934.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "10",
@@ -2554,7 +2490,7 @@
    {
     "US Shoe Size": "7.5",
     "price": 985.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8",
@@ -2687,7 +2623,7 @@
    {
     "US Shoe Size": "7",
     "price": 1103.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7.5",
@@ -2696,7 +2632,7 @@
    },
    {
     "US Shoe Size": "8",
-    "price": 1134.99,
+    "price": 1234.99,
     "available": 1
    },
    {
@@ -2706,7 +2642,7 @@
    },
    {
     "US Shoe Size": "9",
-    "price": 1078.99,
+    "price": 1084.99,
     "available": 1
    },
    {
@@ -2717,7 +2653,7 @@
    {
     "US Shoe Size": "10",
     "price": 1036.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "10.5",
@@ -2727,7 +2663,7 @@
    {
     "US Shoe Size": "11.5",
     "price": 1142.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12.5",
@@ -2742,7 +2678,7 @@
    {
     "US Shoe Size": "13",
     "price": 1036.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -2806,7 +2742,7 @@
    {
     "US Shoe Size": "6.5",
     "price": 949.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7.5",
@@ -2816,7 +2752,7 @@
    {
     "US Shoe Size": "13",
     "price": 949.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -2881,7 +2817,7 @@
    {
     "US Shoe Size": "12.5",
     "price": 803.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -2941,12 +2877,12 @@
    {
     "US Shoe Size": "6.5",
     "price": 734.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "6",
     "price": 859.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -3072,7 +3008,7 @@
    {
     "US Shoe Size": "6",
     "price": 844.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7",
@@ -3087,12 +3023,12 @@
    {
     "US Shoe Size": "11.5",
     "price": 894.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12",
     "price": 904.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12.5",
@@ -3178,7 +3114,7 @@
    {
     "US Shoe Size": "9",
     "price": 844.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -3302,12 +3238,12 @@
    {
     "US Shoe Size": "12.5",
     "price": 729.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "13.5",
     "price": 604.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -3371,17 +3307,17 @@
    {
     "US Shoe Size": "7.5",
     "price": 1099.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8.5",
     "price": 1099.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9",
     "price": 1099.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -3441,27 +3377,27 @@
    {
     "US Shoe Size": "5.5",
     "price": 769.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "6",
     "price": 789.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "6.5",
     "price": 769.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7",
     "price": 769.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "11",
     "price": 784.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -3527,12 +3463,12 @@
    {
     "US Shoe Size": "10",
     "price": 864.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "13",
     "price": 774.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -3660,17 +3596,17 @@
    {
     "US Shoe Size": "12",
     "price": 679.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12.5",
     "price": 844.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "13.5",
     "price": 814.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -3869,7 +3805,7 @@
    {
     "US Shoe Size": "14",
     "price": 744.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "14.5",
@@ -3940,22 +3876,22 @@
    {
     "US Shoe Size": "6.5",
     "price": 749.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7",
     "price": 749.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7.5",
     "price": 749.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8",
     "price": 749.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9",
@@ -3965,7 +3901,7 @@
    {
     "US Shoe Size": "10.5",
     "price": 879.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -3998,7 +3934,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "834.99",
+  "price": "829.99",
   "specifics": {
    "Brand": [
     "Gucci"
@@ -4028,8 +3964,8 @@
   "sizes": [
    {
     "US Shoe Size": "13.5",
-    "price": 834.99,
-    "available": 1
+    "price": 829.99,
+    "available": 0
    }
   ],
   "photos": [
@@ -4095,7 +4031,7 @@
    {
     "US Shoe Size": "7",
     "price": 844.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8.5",
@@ -4105,12 +4041,12 @@
    {
     "US Shoe Size": "11.5",
     "price": 829.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12",
     "price": 824.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12.5",
@@ -4120,12 +4056,12 @@
    {
     "US Shoe Size": "13",
     "price": 816.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "13.5",
     "price": 816.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -4188,12 +4124,12 @@
    {
     "US Shoe Size": "6",
     "price": 2179.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "11",
     "price": 1981.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -4258,12 +4194,12 @@
    {
     "US Shoe Size": "13",
     "price": 779.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "13.5",
     "price": 649.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "14",
@@ -4371,7 +4307,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "1079.99",
+  "price": "1114.99",
   "specifics": {
    "Brand": [
     "Balenciaga"
@@ -4403,7 +4339,7 @@
    },
    {
     "US Shoe Size": "12",
-    "price": 1079.99,
+    "price": 1139.99,
     "available": 1
    }
   ],
@@ -7178,7 +7114,7 @@
    {
     "US Shoe Size": "6.5",
     "price": 871.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "7.5",
@@ -7188,27 +7124,27 @@
    {
     "US Shoe Size": "11",
     "price": 949.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "11.5",
     "price": 884.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12",
     "price": 871.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12.5",
     "price": 871.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "13",
     "price": 871.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -7340,12 +7276,12 @@
    {
     "US Shoe Size": "8",
     "price": 424.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "11",
     "price": 424.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -7404,7 +7340,7 @@
    {
     "US Shoe Size": "11",
     "price": 484.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -7463,7 +7399,7 @@
    {
     "US Shoe Size": "12",
     "price": 1466.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -7523,12 +7459,12 @@
    {
     "US Shoe Size": "8",
     "price": 884.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12",
     "price": 801.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -7589,7 +7525,7 @@
    {
     "US Shoe Size": "7",
     "price": 1219.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8",
@@ -7599,22 +7535,22 @@
    {
     "US Shoe Size": "8.5",
     "price": 1219.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9",
     "price": 1219.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9.5",
     "price": 1219.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "13",
     "price": 1219.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -7647,7 +7583,7 @@
   "category_name": "Clothing, Shoes & Accessories:Men:Men's Shoes:Athletic Shoes",
   "condition": "New with box",
   "sku": null,
-  "price": "970.99",
+  "price": "1019.99",
   "specifics": {
    "Brand": [
     "Lanvin"
@@ -7674,13 +7610,13 @@
   "sizes": [
    {
     "US Shoe Size": "10",
-    "price": 970.99,
+    "price": 1019.99,
     "available": 0
    },
    {
     "US Shoe Size": "11",
     "price": 1159.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -7742,27 +7678,27 @@
    {
     "US Shoe Size": "7",
     "price": 937.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8",
     "price": 937.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9",
     "price": 937.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "10",
     "price": 1052.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12",
     "price": 1421.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -7823,22 +7759,22 @@
    {
     "US Shoe Size": "7",
     "price": 985.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8",
     "price": 985.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "10",
     "price": 985.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "11",
     "price": 985.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -7961,32 +7897,32 @@
    {
     "US Shoe Size": "7",
     "price": 864.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "8",
     "price": 864.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "9",
     "price": 864.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "10",
     "price": 864.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "11",
     "price": 864.99,
-    "available": 1
+    "available": 0
    },
    {
     "US Shoe Size": "12",
     "price": 864.99,
-    "available": 1
+    "available": 0
    }
   ],
   "photos": [
@@ -8010,6 +7946,70 @@
    "ret": null
   },
   "best_offer": null,
+  "product_ref": null,
+  "sold_total": 0
+ },
+ {
+  "item_id": "356084785661",
+  "title": "Salvatore Ferragamo Logo Engraved Cufflinks",
+  "category": "137843",
+  "category_name": "Jewelry & Watches:Men's Jewelry:Cufflinks",
+  "condition": "New with packaging",
+  "sku": null,
+  "price": "599.99",
+  "specifics": {
+   "Materials sourced from": [
+    "Italy"
+   ],
+   "Country of Origin": [
+    "Italy"
+   ],
+   "Brand": [
+    "Salvatore Ferragamo"
+   ],
+   "Type": [
+    "Cufflinks"
+   ],
+   "Department": [
+    "Unisex Adults"
+   ],
+   "Occasion": [
+    "Anniversary",
+    "Birthday",
+    "Christmas",
+    "Engagement",
+    "Father's Day",
+    "Graduation",
+    "Mother's Day",
+    "Valentine's Day",
+    "Wedding"
+   ],
+   "Color": [
+    "Silver"
+   ],
+   "Features": [
+    "Engraved"
+   ]
+  },
+  "sizes": [],
+  "photos": [
+   "https://i.ebayimg.com/00/s/NTMyWDM5OA==/z/7hYAAOSwQaBm85aJ/$_57.JPG?set_id=880000500F",
+   "https://i.ebayimg.com/00/s/NTMyWDM5OA==/z/Mc4AAOSwn0pm85Z9/$_57.JPG?set_id=880000500F",
+   "https://i.ebayimg.com/00/s/NTMyWDM5OA==/z/C4oAAOSwqYtm85aa/$_57.JPG?set_id=880000500F"
+  ],
+  "description": "<font size=\"5\" face=\"Times New Roman\"><b>Salvatore Ferragamo Logo Engraved Cufflinks</b></font><div><font size=\"5\" face=\"Times New Roman\"><b><br></b></font></div><div><span style=\"letter-spacing: 0.2px; background-color: rgb(255, 255, 255);\"><font size=\"4\" style=\"\" face=\"Times New Roman\">Iconic, minimal, pure: the Gancini silhouette is turned into a unique set of cufflinks, with a rounded thread and a glowing finish. Length 22.2 mm, height 17.8 mm.</font></span><font size=\"5\" face=\"Times New Roman\"><b><br></b></font></div>",
+  "dispatch_days": "3",
+  "shipping_type": "Calculated",
+  "ship_costs": [],
+  "free_shipping": [
+   "true"
+  ],
+  "returns": "ReturnsNotAccepted",
+  "profiles": {
+   "ship": null,
+   "ret": null
+  },
+  "best_offer": "true",
   "product_ref": null,
   "sold_total": 0
  }
