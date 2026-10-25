@@ -436,3 +436,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - NOT refreshed (expire ~Oct 26 23:00Z): 8 other Farfetch products (22 rows; the size menu needs a real click, JS click does not open it: use Browser find + computer left_click on the "Select size" ref), Antonioli (6), Cettire cufflinks (1), END (26 rows have no URL). One GOAT size sold out: 820207186346 US 13.5 (left as is, expires).
 - Part B skipped: selling_limits.json is stale (snapshot refresh requested via requests/snapshot at 11:30Z, not yet landed when this run ended). Part C: Gmail only a StockX marketing email, no code; Farfetch GET10 ends ~Oct 28. Part D: not run this time (time spent on StockX page-by-page reads); 0 candidates.
 - Tip: Farfetch "Bally logo-plaque grey" page says "Non-returnable".
+
+## Oct 25 7:21am ET: daily check-in
+- Research ran (newest checked_at 11:25Z today). daily-sync success 10:49Z; sale-alerts healthy; no failures in the last 40 runs. notices.json empty. Selling-limit room: 13,776 items / $274,347.
+- Sales: still 1 sold ($899.99) per eBay limits; no new sale. Watchers 260, 7-day views 471 (up from 428 on Oct 23). No listing changes by me.
+- Open: BrandsGateway free-account catalog check waiting on Rafael. Oct 28 = one-week review of $75 floor / ads / badges.
