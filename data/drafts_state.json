@@ -1,348 +1,293 @@
 {
-  "balenciaga-runner-sneaker-black-matte": {
-    "item_id": "820207186160",
-    "status": "live"
-  },
-  "balenciaga-runner-sneaker-white": {
-    "item_id": "820207186196",
-    "status": "live"
-  },
-  "bally-webby-leather-loafer-blue": {
-    "item_id": "820253018067",
-    "status": "live"
-  },
-  "bally-webby-logo-loafer-grey": {
-    "item_id": "820253018257",
-    "status": "live"
-  },
-  "bottega-veneta-eliot-mid-multicolor": {
-    "item_id": "820228649208",
-    "status": "live"
-  },
-  "brunello-cucinelli-suede-sneaker-beige": {
-    "item_id": "820253018386",
-    "status": "live"
-  },
-  "dg-portofino-lambskin-off-white": {
-    "item_id": "820253018496",
-    "status": "live"
-  },
-  "ferragamo-cassini-low-blue": {
-    "item_id": "820228649230",
-    "status": "live"
-  },
-  "ferragamo-cosma-high-black": {
-    "item_id": "820228649253",
-    "status": "live"
-  },
-  "ferragamo-lunar-paneled-slip-on-sneaker-medium-b": {
-    "item_id": "820229263569",
-    "status": "live"
-  },
-  "ferragamo-lunar-paneled-slip-on-sneaker-red": {
-    "item_id": "820229263683",
-    "status": "live"
-  },
-  "ferragamo-nima-knit-low-top-sneaker-blue": {
-    "item_id": "820229263765",
-    "status": "live"
-  },
-  "givenchy-gent-derby-black": {
-    "item_id": "820256466735",
-    "status": "live"
-  },
-  "givenchy-padded-nylon-trainer-black": {
-    "item_id": "820253018812",
-    "status": "live"
-  },
-  "gucci-ace-gg-embossed-black": {
-    "item_id": "820205698211",
-    "status": "live"
-  },
-  "gucci-ace-gg-embossed-white": {
-    "item_id": "820207186222",
-    "status": "live"
-  },
-  "gucci-ace-gg-supreme-bees": {
-    "item_id": "820205329339",
-    "status": "live"
-  },
-  "gucci-ace-perforated-g-white": {
-    "item_id": "820205329431",
-    "status": "live"
-  },
-  "gucci-ace-web-black": {
-    "item_id": "820204075354",
-    "status": "live"
-  },
-  "gucci-ace-web-white": {
-    "item_id": "820204075398",
-    "status": "live"
-  },
-  "gucci-adidas-gazelle-black-gg": {
-    "item_id": "820204075433",
-    "status": "live"
-  },
-  "gucci-adidas-gazelle-light-blue": {
-    "item_id": "820204075474",
-    "status": "live"
-  },
-  "gucci-basket-black-red": {
-    "item_id": "820207186253",
-    "status": "live"
-  },
-  "gucci-basket-green-demetra": {
-    "item_id": "820207186287",
-    "status": "live"
-  },
-  "gucci-basket-grey-yellow-blue": {
-    "item_id": "820207186315",
-    "status": "live"
-  },
-  "gucci-basket-high-black-demetra": {
-    "item_id": "820207186346",
-    "status": "live"
-  },
-  "gucci-basket-high-green-demetra": {
-    "item_id": "820207186379",
-    "status": "live"
-  },
-  "gucci-basket-high-white-demetra-red": {
-    "item_id": "820207186442",
-    "status": "live"
-  },
-  "gucci-basket-low-white-demetra-green": {
-    "item_id": "820207186465",
-    "status": "live"
-  },
-  "gucci-basket-low-white-demetra-red": {
-    "item_id": "820207186489",
-    "status": "live"
-  },
-  "gucci-basket-red-black-demetra": {
-    "item_id": "820207186525",
-    "status": "live"
-  },
-  "gucci-cordovan-lux-lace-up-black": {
-    "errors": [
-      "Error 21919303: The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again. [The item specific Style\u00a0is missing., The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again., 3, Style]",
-      "Warning 21920406: Authenticity Guarantee [Authenticity Guarantee, Authenticity Guarantee]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-driver-horsebit-black": {
-    "reason": "other eBay sellers ask ~$545 for this shoe (11 listings); we can't get that low and keep 1.5x the profit",
-    "status": "uncompetitive"
-  },
-  "gucci-driver-horsebit-green": {
-    "reason": "other eBay sellers ask ~$395 for this shoe (24 listings); we can't get that low and keep 1.5x the profit",
-    "status": "uncompetitive"
-  },
-  "gucci-driver-interlocking-g-green": {
-    "item_id": "820207186550",
-    "status": "live"
-  },
-  "gucci-driver-web-black": {
-    "item_id": "820204075517",
-    "status": "live"
-  },
-  "gucci-driver-web-brown": {
-    "item_id": "820229263903",
-    "status": "live"
-  },
-  "gucci-gg-screener-grey-navy": {
-    "item_id": "820207186594",
-    "status": "live"
-  },
-  "gucci-horsebit-driver-black": {
-    "item_id": "820204075592",
-    "status": "live"
-  },
-  "gucci-horsebit-loafer-black": {
-    "reason": "other eBay sellers ask ~$612 for this shoe (28 listings); we can't get that low and keep 1.5x the profit",
-    "status": "uncompetitive"
-  },
-  "gucci-horsebit-loafer-ivory-wool": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]",
-      "Warning 21920406: Authenticity Guarantee [Authenticity Guarantee, Authenticity Guarantee]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-interlocking-g-driver-brown": {
-    "item_id": "820205221528",
-    "status": "live"
-  },
-  "gucci-interlocking-g-driver-indigo": {
-    "item_id": "820205221563",
-    "status": "live"
-  },
-  "gucci-kaveh-loafer-web-black": {
-    "item_id": "820205221628",
-    "status": "live"
-  },
-  "gucci-loafer-interlocking-g-brown": {
-    "item_id": "820223864929",
-    "status": "live"
-  },
-  "gucci-mac80-black-offwhite": {
-    "item_id": "820205221669",
-    "status": "live"
-  },
-  "gucci-mac80-blue": {
-    "item_id": "820223865172",
-    "status": "live"
-  },
-  "gucci-mac80-dune": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-mac80-high-black-off-white": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-mac80-off-white": {
-    "item_id": "820205329595",
-    "status": "live"
-  },
-  "gucci-mac80-off-white-black": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-mac80-off-white-green": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-mac80-sneaker-white-blue": {
-    "item_id": "820207186615",
-    "status": "live"
-  },
-  "gucci-noel-driver-black": {
-    "item_id": "820205221755",
-    "status": "live"
-  },
-  "gucci-re-web-black-gg": {
-    "item_id": "820205221855",
-    "status": "live"
-  },
-  "gucci-re-web-leather-black": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-re-web-leather-white": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-re-web-white-beige": {
-    "item_id": "820204075633",
-    "status": "live"
-  },
-  "gucci-rhyton-interlocking-g-star": {
-    "item_id": "820207186641",
-    "status": "live"
-  },
-  "gucci-rhyton-ivory": {
-    "item_id": "820204075737",
-    "status": "live"
-  },
-  "gucci-rhyton-maxi-gg-supreme-black-khaki-beige": {
-    "item_id": "820207186667",
-    "status": "live"
-  },
-  "gucci-rhyton-white-red-green-reflective": {
-    "item_id": "820207186704",
-    "status": "live"
-  },
-  "gucci-run-light-grey-brown": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-run-sneaker-beige-ebony-monogram": {
-    "item_id": "820207186744",
-    "status": "live"
-  },
-  "gucci-run-sneaker-black": {
-    "item_id": "820207186774",
-    "status": "live"
-  },
-  "gucci-run-sneaker-white-black": {
-    "item_id": "820207186802",
-    "status": "live"
-  },
-  "gucci-run-sneaker-white-suede": {
-    "item_id": "820207186833",
-    "status": "live"
-  },
-  "gucci-screener-black-gg": {
-    "item_id": "820204075830",
-    "status": "live"
-  },
-  "gucci-screener-gg-supreme-black-grey": {
-    "item_id": "820207186853",
-    "status": "live"
-  },
-  "gucci-screener-gg-supreme-blue-red": {
-    "errors": [
-      "Error 21919188: This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 . [This listing would cause you to exceed the amount (USD 250,000.00) you can list. , This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or request to list more: https://www.ebay.com/help/selling/listings/selling-limits?id=4107 ., https://www.ebay.com/help/selling/listings/selling-limits?id=4107, https://www.ebay.com/help/selling/listings/selling-limits?id=4107, <div>This listing would cause you to exceed the amount you can list. You can list up to USD 6,294.96 more in total sales this month. Please consider reducing the Buy It Now price or <a target=\"_blank\" href=\"https://www.ebay.com/help/selling/listings/selling-limits?id=4107\">request to list more</a>.</div>]"
-    ],
-    "status": "invalid"
-  },
-  "gucci-tennis-1977-black-ivory": {
-    "item_id": "820207186878",
-    "status": "live"
-  },
-  "gucci-tennis-1977-blue-ivory": {
-    "item_id": "820207186919",
-    "status": "live"
-  },
-  "gucci-tennis-1977-high-beige": {
-    "item_id": "820205329783",
-    "status": "live"
-  },
-  "gucci-tennis-1977-low-gg-monogram-ebony-beige": {
-    "item_id": "820207186962",
-    "status": "live"
-  },
-  "gucci-tennis-1977-white-green-red": {
-    "reason": "other eBay sellers ask ~$476 for this shoe (4 listings); we can't get that low and keep 1.5x the profit",
-    "status": "uncompetitive"
-  },
-  "lanvin-curb-cutout-pink": {
-    "item_id": "820253018968",
-    "status": "live"
-  },
-  "lv-skate-beige": {
-    "item_id": "820205389034",
-    "status": "live"
-  },
-  "margiela-sprinters-black": {
-    "item_id": "820253019164",
-    "status": "live"
-  },
-  "margiela-sprinters-white-grey": {
-    "item_id": "820259478300",
-    "status": "live"
-  },
-  "mcqueen-penny-loafer-black-white-sole": {
-    "item_id": "820229265137",
-    "status": "live"
-  },
-  "prada-monolith-loafer-black": {
-    "item_id": "820228649857",
-    "status": "live"
-  }
+ "balenciaga-runner-sneaker-black-matte": {
+  "item_id": "820207186160",
+  "status": "live"
+ },
+ "balenciaga-runner-sneaker-white": {
+  "item_id": "820207186196",
+  "status": "live"
+ },
+ "bally-webby-leather-loafer-blue": {
+  "item_id": "820253018067",
+  "status": "live"
+ },
+ "bally-webby-logo-loafer-grey": {
+  "item_id": "820253018257",
+  "status": "live"
+ },
+ "bottega-veneta-eliot-mid-multicolor": {
+  "item_id": "820228649208",
+  "status": "live"
+ },
+ "brunello-cucinelli-suede-sneaker-beige": {
+  "item_id": "820253018386",
+  "status": "live"
+ },
+ "dg-portofino-lambskin-off-white": {
+  "item_id": "820253018496",
+  "status": "live"
+ },
+ "ferragamo-cassini-low-blue": {
+  "item_id": "820228649230",
+  "status": "live"
+ },
+ "ferragamo-cosma-high-black": {
+  "item_id": "820228649253",
+  "status": "live"
+ },
+ "ferragamo-lunar-paneled-slip-on-sneaker-medium-b": {
+  "item_id": "820229263569",
+  "status": "live"
+ },
+ "ferragamo-lunar-paneled-slip-on-sneaker-red": {
+  "item_id": "820229263683",
+  "status": "live"
+ },
+ "ferragamo-nima-knit-low-top-sneaker-blue": {
+  "item_id": "820229263765",
+  "status": "live"
+ },
+ "givenchy-gent-derby-black": {
+  "item_id": "820256466735",
+  "status": "live"
+ },
+ "givenchy-padded-nylon-trainer-black": {
+  "item_id": "820253018812",
+  "status": "live"
+ },
+ "gucci-ace-gg-embossed-black": {
+  "item_id": "820205698211",
+  "status": "live"
+ },
+ "gucci-ace-gg-embossed-white": {
+  "item_id": "820207186222",
+  "status": "live"
+ },
+ "gucci-ace-gg-supreme-bees": {
+  "item_id": "820205329339",
+  "status": "live"
+ },
+ "gucci-ace-perforated-g-white": {
+  "item_id": "820205329431",
+  "status": "live"
+ },
+ "gucci-ace-web-black": {
+  "item_id": "820204075354",
+  "status": "live"
+ },
+ "gucci-ace-web-white": {
+  "item_id": "820204075398",
+  "status": "live"
+ },
+ "gucci-adidas-gazelle-black-gg": {
+  "item_id": "820204075433",
+  "status": "live"
+ },
+ "gucci-adidas-gazelle-light-blue": {
+  "item_id": "820204075474",
+  "status": "live"
+ },
+ "gucci-basket-black-red": {
+  "item_id": "820207186253",
+  "status": "live"
+ },
+ "gucci-basket-green-demetra": {
+  "item_id": "820207186287",
+  "status": "live"
+ },
+ "gucci-basket-grey-yellow-blue": {
+  "item_id": "820207186315",
+  "status": "live"
+ },
+ "gucci-basket-high-black-demetra": {
+  "item_id": "820207186346",
+  "status": "live"
+ },
+ "gucci-basket-high-green-demetra": {
+  "item_id": "820207186379",
+  "status": "live"
+ },
+ "gucci-basket-high-white-demetra-red": {
+  "item_id": "820207186442",
+  "status": "live"
+ },
+ "gucci-basket-low-white-demetra-green": {
+  "item_id": "820207186465",
+  "status": "live"
+ },
+ "gucci-basket-low-white-demetra-red": {
+  "item_id": "820207186489",
+  "status": "live"
+ },
+ "gucci-basket-red-black-demetra": {
+  "item_id": "820207186525",
+  "status": "live"
+ },
+ "gucci-cordovan-lux-lace-up-black": {
+  "errors": [
+   "Error 21919303: The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again. [The item specific Style\u00a0is missing., The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again., 3, Style]",
+   "Warning 21920406: Authenticity Guarantee [Authenticity Guarantee, Authenticity Guarantee]"
+  ],
+  "status": "invalid"
+ },
+ "gucci-driver-horsebit-black": {
+  "reason": "other eBay sellers ask ~$545 for this shoe (11 listings); we can't get that low and keep 1.5x the profit",
+  "status": "uncompetitive"
+ },
+ "gucci-driver-horsebit-green": {
+  "reason": "other eBay sellers ask ~$395 for this shoe (24 listings); we can't get that low and keep 1.5x the profit",
+  "status": "uncompetitive"
+ },
+ "gucci-driver-interlocking-g-green": {
+  "item_id": "820207186550",
+  "status": "live"
+ },
+ "gucci-driver-web-black": {
+  "item_id": "820204075517",
+  "status": "live"
+ },
+ "gucci-driver-web-brown": {
+  "item_id": "820229263903",
+  "status": "live"
+ },
+ "gucci-gg-screener-grey-navy": {
+  "item_id": "820207186594",
+  "status": "live"
+ },
+ "gucci-horsebit-driver-black": {
+  "item_id": "820204075592",
+  "status": "live"
+ },
+ "gucci-horsebit-loafer-black": {
+  "reason": "other eBay sellers ask ~$612 for this shoe (28 listings); we can't get that low and keep 1.5x the profit",
+  "status": "uncompetitive"
+ },
+ "gucci-interlocking-g-driver-brown": {
+  "item_id": "820205221528",
+  "status": "live"
+ },
+ "gucci-interlocking-g-driver-indigo": {
+  "item_id": "820205221563",
+  "status": "live"
+ },
+ "gucci-kaveh-loafer-web-black": {
+  "item_id": "820205221628",
+  "status": "live"
+ },
+ "gucci-loafer-interlocking-g-brown": {
+  "item_id": "820223864929",
+  "status": "live"
+ },
+ "gucci-mac80-black-offwhite": {
+  "item_id": "820205221669",
+  "status": "live"
+ },
+ "gucci-mac80-blue": {
+  "item_id": "820223865172",
+  "status": "live"
+ },
+ "gucci-mac80-off-white": {
+  "item_id": "820205329595",
+  "status": "live"
+ },
+ "gucci-mac80-sneaker-white-blue": {
+  "item_id": "820207186615",
+  "status": "live"
+ },
+ "gucci-noel-driver-black": {
+  "item_id": "820205221755",
+  "status": "live"
+ },
+ "gucci-re-web-black-gg": {
+  "item_id": "820205221855",
+  "status": "live"
+ },
+ "gucci-re-web-white-beige": {
+  "item_id": "820204075633",
+  "status": "live"
+ },
+ "gucci-rhyton-interlocking-g-star": {
+  "item_id": "820207186641",
+  "status": "live"
+ },
+ "gucci-rhyton-ivory": {
+  "item_id": "820204075737",
+  "status": "live"
+ },
+ "gucci-rhyton-maxi-gg-supreme-black-khaki-beige": {
+  "item_id": "820207186667",
+  "status": "live"
+ },
+ "gucci-rhyton-white-red-green-reflective": {
+  "item_id": "820207186704",
+  "status": "live"
+ },
+ "gucci-run-sneaker-beige-ebony-monogram": {
+  "item_id": "820207186744",
+  "status": "live"
+ },
+ "gucci-run-sneaker-black": {
+  "item_id": "820207186774",
+  "status": "live"
+ },
+ "gucci-run-sneaker-white-black": {
+  "item_id": "820207186802",
+  "status": "live"
+ },
+ "gucci-run-sneaker-white-suede": {
+  "item_id": "820207186833",
+  "status": "live"
+ },
+ "gucci-screener-black-gg": {
+  "item_id": "820204075830",
+  "status": "live"
+ },
+ "gucci-screener-gg-supreme-black-grey": {
+  "item_id": "820207186853",
+  "status": "live"
+ },
+ "gucci-tennis-1977-black-ivory": {
+  "item_id": "820207186878",
+  "status": "live"
+ },
+ "gucci-tennis-1977-blue-ivory": {
+  "item_id": "820207186919",
+  "status": "live"
+ },
+ "gucci-tennis-1977-high-beige": {
+  "item_id": "820205329783",
+  "status": "live"
+ },
+ "gucci-tennis-1977-low-gg-monogram-ebony-beige": {
+  "item_id": "820207186962",
+  "status": "live"
+ },
+ "gucci-tennis-1977-white-green-red": {
+  "reason": "other eBay sellers ask ~$476 for this shoe (4 listings); we can't get that low and keep 1.5x the profit",
+  "status": "uncompetitive"
+ },
+ "lanvin-curb-cutout-pink": {
+  "item_id": "820253018968",
+  "status": "live"
+ },
+ "lv-skate-beige": {
+  "item_id": "820205389034",
+  "status": "live"
+ },
+ "margiela-sprinters-black": {
+  "item_id": "820253019164",
+  "status": "live"
+ },
+ "margiela-sprinters-white-grey": {
+  "item_id": "820259478300",
+  "status": "live"
+ },
+ "mcqueen-penny-loafer-black-white-sole": {
+  "item_id": "820229265137",
+  "status": "live"
+ },
+ "prada-monolith-loafer-black": {
+  "item_id": "820228649857",
+  "status": "live"
+ }
 }
