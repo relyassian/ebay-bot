@@ -430,3 +430,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part A: refreshed 339 GOAT rows (all 60 pages, buy_bar_data, new/good box only); 12 prices changed. NOT refreshed (expire): 83 StockX rows, Farfetch (32 rows), Antonioli (6), Cettire cufflinks (1). GOAT rows not re-ranked against other stores.
 - Part B skipped (selling_limits.json stale). Part C: Gmail empty; removed expired Cettire OCT5. Part D: not run (no usable browser); no candidates written.
 - Next: fix the built-in browser JS tool / sign-in so StockX and Farfetch can be read; next refresh needed before ~13:00Z Oct 26.
+
+## Oct 25 (10:40-11:35Z): daily research, Mac browser linked (JS tool works again)
+- Part A: refreshed 339 GOAT rows (all 60 pages, buy_bar_data), 83 StockX rows (25 pages, size-menu read; iframes do not work, one page per navigation), Farfetch Ferragamo Gancini (8 rows, all unchanged) and D&G Saint Tropez (EU 39 only left; US 8.5 row switched to GOAT $650). Farfetch Bally blue loafer is now Sold Out (2 rows blanked). Prices moved on ~25 rows (e.g. 355428079713 size 11 StockX $659 -> $1,013; 820205221528 sizes 5.5/6 up ~$70). Not re-ranked across stores (a cheaper other store is not checked).
+- NOT refreshed (expire ~Oct 26 23:00Z): 8 other Farfetch products (22 rows; the size menu needs a real click, JS click does not open it: use Browser find + computer left_click on the "Select size" ref), Antonioli (6), Cettire cufflinks (1), END (26 rows have no URL). One GOAT size sold out: 820207186346 US 13.5 (left as is, expires).
+- Part B skipped: selling_limits.json is stale (snapshot refresh requested via requests/snapshot at 11:30Z, not yet landed when this run ended). Part C: Gmail only a StockX marketing email, no code; Farfetch GET10 ends ~Oct 28. Part D: not run this time (time spent on StockX page-by-page reads); 0 candidates.
+- Tip: Farfetch "Bally logo-plaque grey" page says "Non-returnable".
