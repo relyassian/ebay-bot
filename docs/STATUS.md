@@ -441,3 +441,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Research ran (newest checked_at 11:25Z today). daily-sync success 10:49Z; sale-alerts healthy; no failures in the last 40 runs. notices.json empty. Selling-limit room: 13,776 items / $274,347.
 - Sales: still 1 sold ($899.99) per eBay limits; no new sale. Watchers 260, 7-day views 471 (up from 428 on Oct 23). No listing changes by me.
 - Open: BrandsGateway free-account catalog check waiting on Rafael. Oct 28 = one-week review of $75 floor / ads / badges.
+
+## Oct 25 (evening): 9 stuck Gucci drafts released
+- The 9 drafts that failed on Error 21919188 (old selling limit, now ~$274k) had their "invalid" state cleared; daily-sync rebuilt them and all 9 passed the rules (incl. match_market) -> status "approved"; sale-alerts lists them on its next pass (≤30 min).
+- Still parked: 4 "uncompetitive" Gucci (horsebit drivers x2, horsebit loafer black, tennis 1977; market $395-612 below our floor math). 1 invalid: Gucci Cordovan Lux (missing Style item specific).
+- Photos: eBay catalog gives 1 image per product; extra photos need GOAT/StockX shots of the exact style code (rule 8). Not yet automated.
