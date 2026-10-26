@@ -446,3 +446,10 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - The 9 drafts that failed on Error 21919188 (old selling limit, now ~$274k) had their "invalid" state cleared; daily-sync rebuilt them and all 9 passed the rules (incl. match_market) -> status "approved"; sale-alerts lists them on its next pass (≤30 min).
 - Still parked: 4 "uncompetitive" Gucci (horsebit drivers x2, horsebit loafer black, tennis 1977; market $395-612 below our floor math). 1 invalid: Gucci Cordovan Lux (missing Style item specific).
 - Photos: eBay catalog gives 1 image per product; extra photos need GOAT/StockX shots of the exact style code (rule 8). Not yet automated.
+
+## Oct 26: BrandsGateway test + scraper review
+- Rafael created a free BrandsGateway (BG) account (type: wholesale). Prices visible immediately, no approval wall. BG blocks the Mac built-in browser at login (bot detection) -> we do NOT work around it; Rafael sends phone screenshots or a CSV from BG chat.
+- Gucci Ace white (Bos Taurus) at BG: $514.88 (38% off MSRP $839.48), sizes US 5/6/6.5/9.5 only, 1-2 in stock each. Est. landed ~$590 (assumes $20 ship + 10% duty, unverified). eBay cheapest comp for that style ~$565 -> loses ~$90. Other BG items shown (Aries $615, flip-flops $537, beige GG $470) are all 38-40% off, i.e. same as Cettire sale pricing. Verdict: BG not cheaper unless discounts >=55%.
+- Asked Rafael to: sort BG by discount (top 5 screenshots), ask BG chat for a CSV price list.
+- Ultimate Web Scraper (ultimatewebscraper.com/mcp): paid cloud scraper for Shopify/Woo/Magento/SFCC catalogs; image download is extension-only; not covering Farfetch/SSENSE/GOAT/Cettire. Decision: skip for now; Firecrawl covers needs.
+- Rafael: "keep working the same way and try to find new ways" -> continue autonomous research; next: photo upgrades (GOAT/StockX, exact style code), Cordovan Lux Style fix, Black Friday re-scan.
