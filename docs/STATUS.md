@@ -453,3 +453,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Asked Rafael to: sort BG by discount (top 5 screenshots), ask BG chat for a CSV price list.
 - Ultimate Web Scraper (ultimatewebscraper.com/mcp): paid cloud scraper for Shopify/Woo/Magento/SFCC catalogs; image download is extension-only; not covering Farfetch/SSENSE/GOAT/Cettire. Decision: skip for now; Firecrawl covers needs.
 - Rafael: "keep working the same way and try to find new ways" -> continue autonomous research; next: photo upgrades (GOAT/StockX, exact style code), Cordovan Lux Style fix, Black Friday re-scan.
+
+## Oct 26 (10:41-11:45Z): daily research (scheduled, Mac browser linked)
+- Part A: refreshed 397 GOAT rows (68 pages, buy_bar_data), 70 StockX rows (29 pages; sizes 5.5-11 via iframe reader, larger sizes left unchanged), Farfetch Ferragamo Gancini moccasin (8 rows; size 7.5 sold out -> blanked) and D&G Saint Tropez (EU 39 only). 2 GOAT rows blanked (size no longer offered). Biggest moves: Gucci Basket black-red US 7.5 $546->$1,382, Re-Web white US 10 +18%.
+- NOT refreshed (expire): 8 non-live Farfetch candidates (22 rows), Antonioli (6), END (26, no URL), Cettire cufflinks (1, last read Oct 23 -> already stale, so that listing is likely off sale). Farfetch size menu: JS click on [data-component=DropdownPlaceholder] opens it (works now).
+- Part B: selling_limits.json shows $274k room but I did not write new candidates this run (time went to Part A). Part C: Gmail empty again, promos.yaml note updated.
+- Part D (light): Nugnes1920 *-man collections via products.json, items >=38% off: Gucci GG Bicolor sneaker 857889 $526 (retail $850), Gucci black leather loafer 851396 $588 ($950), Ferragamo Nima 021285 $477 (GOAT is cheaper at $373). 54 hits scanned, 0 candidates written (no comp check / photos yet). Valentino, Saint Laurent hits ignored (excluded brands).
