@@ -459,3 +459,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - NOT refreshed (expire): 8 non-live Farfetch candidates (22 rows), Antonioli (6), END (26, no URL), Cettire cufflinks (1, last read Oct 23 -> already stale, so that listing is likely off sale). Farfetch size menu: JS click on [data-component=DropdownPlaceholder] opens it (works now).
 - Part B: selling_limits.json shows $274k room but I did not write new candidates this run (time went to Part A). Part C: Gmail empty again, promos.yaml note updated.
 - Part D (light): Nugnes1920 *-man collections via products.json, items >=38% off: Gucci GG Bicolor sneaker 857889 $526 (retail $850), Gucci black leather loafer 851396 $588 ($950), Ferragamo Nima 021285 $477 (GOAT is cheaper at $373). 54 hits scanned, 0 candidates written (no comp check / photos yet). Valentino, Saint Laurent hits ignored (excluded brands).
+
+## Oct 26 check-in (7:25am ET)
+- Research ran today (newest source_prices checked_at 2026-10-26 11:25Z). daily-sync + sale-alerts all green. 76 live, 4 uncompetitive, 1 invalid (Cordovan Lux Style). No new sales (total 1, $899.99). Room: 13,776 items / $274k. notices.json empty. No listing changes made.
+- eBay "PHP2Shell" developer email: not applicable (bot is Python/GH Actions); no token rotation.
