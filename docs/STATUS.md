@@ -463,3 +463,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Oct 26 check-in (7:25am ET)
 - Research ran today (newest source_prices checked_at 2026-10-26 11:25Z). daily-sync + sale-alerts all green. 76 live, 4 uncompetitive, 1 invalid (Cordovan Lux Style). No new sales (total 1, $899.99). Room: 13,776 items / $274k. notices.json empty. No listing changes made.
 - eBay "PHP2Shell" developer email: not applicable (bot is Python/GH Actions); no token rotation.
+
+## Oct 26-27: use all the room
+- New config `pricing.list_uncompetitive: true` (match_market stays ON so live-listing market drops continue): above-market new products list at planned prices (>= floor) instead of being parked. The 4 parked Gucci (Horsebit drivers x2, Horsebit loafer black, Tennis 1977) + Cordovan Lux (Style=Oxford, set via candidate `style:`) are now "approved"; sale-alerts lists them on its next pass. Test pinned (tests/test_ads_market.py).
+- Research sweep (subagent, 12 brands at Italist, Nugnes1920 371 products, Mytheresa; 37 eBay comps): 0 new candidates clear $100 net. Need cost <= ~50% of eBay median. Italist "-50..-69%" reference prices are inflated. Not reached: Farfetch, END, SSENSE, Cettire, GOAT/StockX small goods.
+- GOAT closed the ticket (canned reply). Rafael may open a NEW ticket asking for replacement pair/credit (draft given).
+- BrandsGateway: Gucci Ace white $514.88 vs eBay ~$565 -> no. Awaiting CSV / discount screenshots.
