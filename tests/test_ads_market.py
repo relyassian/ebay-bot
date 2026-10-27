@@ -42,6 +42,12 @@ def test_priced_for_market(monkeypatch, tmp_path):
     import bot.newlistings as nl
     monkeypatch.setattr(nl, "MKT_CACHE", tmp_path / "m.json")
     import bot.market as mk
+    _real = nl.load_config
+    def _cfg():
+        c0 = _real()
+        c0["pricing"] = dict(c0.get("pricing", {}), match_market=True, list_uncompetitive=False)
+        return c0
+    monkeypatch.setattr(nl, "load_config", _cfg)
     c = {"brand": "Gucci", "model": "Ace", "category": "sneaker",
          "sizes": [{"us": "9", "cost": 300.0, "price": 900.0, "source": "GOAT"},
                    {"us": "10", "cost": 600.0, "price": 1100.0, "source": "GOAT"}]}
