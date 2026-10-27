@@ -55,7 +55,7 @@ def priced_for_market(cid: str, c: dict) -> tuple[dict, str | None]:
     from datetime import datetime, timezone
     from bot.profit import floor_price, is_taxable, item_min_net, landed_cost, store_shipping
     cfg = load_config()
-    if not cfg.get("pricing", {}).get("match_market", False):
+    if not cfg.get("pricing", {}).get("match_market", False) or cfg.get("pricing", {}).get("list_uncompetitive", False):
         return c, None
     cache = json.loads(MKT_CACHE.read_text()) if MKT_CACHE.exists() else {}
     m = cache.get(cid)
@@ -135,7 +135,7 @@ def drafts() -> list[str]:
     # with auto-publish on, drafts still waiting for Rafael are re-checked under his standing rule too
     # Rafael (Oct 11): build the account with near-market sales first; above-market products are kept (status
     # "uncompetitive") and listed later once pricing.match_market is turned off.
-    retry = ("sent", "waiting_limit") + (() if load_config().get("pricing", {}).get("match_market", False) else ("uncompetitive",))
+    retry = ("sent", "waiting_limit") + (() if load_config().get("pricing", {}).get("match_market", False) and not load_config().get("pricing", {}).get("list_uncompetitive", False) else ("uncompetitive",))
     todo = {k: c for k, c in load_candidates().items()
             if k not in state or k.startswith("test-") or (auto and state[k].get("status") in retry)}
     todo = dict(sorted(todo.items(), key=lambda kv: _market_ratio(kv[0], kv[1])))   # closest to market first (limited listing room)
