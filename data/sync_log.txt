@@ -1,5 +1,5 @@
 scan: 8
-demand: 117
+demand: -1
 explore: 0
 order fees: 2
 market 355066429434: ours None vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
@@ -91,38 +91,26 @@ market 820259478300: ours None vs cheapest 799.99 (1 others) · Maison Margiela 
 market 820277097048: ours 1209.99 vs cheapest - (0 others) · Gucci Horsebit Loafer Ivory Merino Wool Men's Loaf
 market 820277097224: ours 1044.99 vs cheapest - (0 others) · Gucci MAC80 Sneaker Dune Men's Leather Low Top Sne
 market 820277097445: ours 1064.99 vs cheapest - (0 others) · Gucci MAC80 High-Top Sneaker Black/Off-White Men's
-market 820277097634: ours 574.99 vs cheapest 490.0 (5 others) · Gucci MAC80 Sneaker Off-White/Black Men's Leather 
+market 820277097634: ours 804.99 vs cheapest 490.0 (5 others) · Gucci MAC80 Sneaker Off-White/Black Men's Leather 
 market 820277097802: ours 1044.99 vs cheapest - (0 others) · Gucci MAC80 Sneaker Off-White/Green Men's Leather 
 market 820277097979: ours 634.99 vs cheapest 492.0 (3 others) · Gucci Re-Web Sneaker Black Men's Leather Low Top S
 market 820277098190: ours 929.99 vs cheapest 492.0 (16 others) · Gucci Re-Web Sneaker White Men's Leather Low Top S
 market 820277098381: ours 1209.99 vs cheapest 750.0 (1 others) · Gucci Run Sneaker Light Grey/Brown Men's Suede Low
 market 820277098563: ours 1099.99 vs cheapest - (0 others) · Gucci Screener GG Supreme Sneaker Dark Blue/Red Me
-market 820281910101: ours 1309.99 vs cheapest - (0 others) · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
-market 820281910201: ours 749.99 vs cheapest 380.0 (11 others) · Gucci Driver Horsebit - Black Men's New
-market 820281910306: ours 619.99 vs cheapest 276.25 (23 others) · Gucci Driver Horsebit - Green Men's New
-market 820281910460: ours 699.99 vs cheapest 440.0 (23 others) · Gucci Horsebit Loafer Black Men's New
-market 820281910571: ours 719.99 vs cheapest 447.0 (3 others) · Gucci Tennis 1977 White Green Red Men's New
-Price check: 100 listings compared, 38 priced more than 5% above another seller.
-title 820281910201: "Gucci Driver Horsebit - Black Men's New" -> "Gucci Driver Horsebit - Black Men's Leather Driving Shoes Authentic New"
-title 820281910306: "Gucci Driver Horsebit - Green Men's New" -> "Gucci Driver Horsebit - Green Men's Suede Driving Shoes Authentic New"
-title 820281910460: "Gucci Horsebit Loafer Black Men's New" -> "Gucci Horsebit Loafer Black Men's Leather Loafers Authentic New"
-title 820281910571: "Gucci Tennis 1977 White Green Red Men's New" -> "Gucci Tennis 1977 White Green Red Men's Leather Low Top Sneakers Authentic New"
+market 820281910101: ours None vs cheapest - (0 others) · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
+market 820281910201: ours None vs cheapest 380.0 (11 others) · Gucci Driver Horsebit - Black Men's Leather Drivin
+market 820281910306: ours None vs cheapest 276.25 (23 others) · Gucci Driver Horsebit - Green Men's Suede Driving 
+market 820281910460: ours None vs cheapest 440.0 (23 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
+market 820281910571: ours None vs cheapest 447.0 (3 others) · Gucci Tennis 1977 White Green Red Men's Leather Lo
+Price check: 100 listings compared, 34 priced more than 5% above another seller.
+title 820281910201: "Gucci Driver Horsebit - Black Men's Leather Driving Shoes Authentic New" -> "Gucci Driver Horsebit - Black Men's Leather Driving Shoes Authentic Men's New"
+title 820281910306: "Gucci Driver Horsebit - Green Men's Suede Driving Shoes Authentic New" -> "Gucci Driver Horsebit - Green Men's Suede Driving Shoes Authentic Men's New"
+title 820281910460: "Gucci Horsebit Loafer Black Men's Leather Loafers Authentic New" -> "Gucci Horsebit Loafer Black Men's Leather Loafers Authentic Men's Authentic New"
 📋 Daily eBay check · Tue Oct 27
 
-What I did: took 9 listings (or some sizes) off sale because stores ran out; raised the price a little on 2 listings because the store got pricier.
+What I did: raised the price a little on 2 listings because the store got pricier.
 Nothing for you to do.
 
 ⚠️ Store prices haven't been refreshed yet today. Either the morning research is still running (you'll get an updated report when it finishes) or it couldn't reach your Mac. Listings stay as they were, a backup run tries again at 10am, and nothing is relisted until stock is confirmed.
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/0BQAAeSwzvtq1qXr/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cosma High-Top Sneaker Black Sneakers…\nSizes: all 2 sizes · now from $599.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649253"}
 {'photo': 'https://i.ebayimg.com/00/s/MTMzNFgxMDAw/z/8a0AAeSwY5Zq1S~X/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nBally Logo-Plaque Leather Loafer Grey Loafers…\nSizes: US 11 · now from $484.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820253018257"}
-{'photo': 'https://i.ebayimg.com/images/g/29sAAeSwH8tpTqGX/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci MAC80 Sneaker Dune Leather Low Top…\nSizes: US 12.5\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820277097224"}
-{'photo': 'https://i.ebayimg.com/images/g/fgwAAeSw8nNpeVDu/s-l1600.jpg', 'text': "🚫 TAKEN OFF SALE\nGucci MAC80 Sneaker Off-White/Black Leather Low…\nSizes: US 11.5, 12, 12.5, 13, 13.5\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820277097634"}
-{'photo': 'https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/ZXwAAeSwXolq3mJq/$_1.JPG?set_id=8800005007', 'text': "🚫 TAKEN OFF SALE\nGucci MAC80 Sneaker Off-White/Green Leather Low…\nSizes: US 13\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820277097802"}
-Also changed:
-• Taken Off Sale: Gucci Screener GG Supreme Sneaker Dark Blue/Red… (US 11.5, 12, 13, 13.5, 14.5) https://www.ebay.com/itm/820277098563
-• Taken Off Sale: Gucci Cordovan Lux Lace-Up Shoe Black New (all 2 sizes) https://www.ebay.com/itm/820281910101
-• Taken Off Sale: Gucci Driver Horsebit - Black New (all 6 sizes) https://www.ebay.com/itm/820281910201
-• Taken Off Sale: Gucci Driver Horsebit - Green New (all 6 sizes) https://www.ebay.com/itm/820281910306
-• Taken Off Sale: Gucci Horsebit Loafer Black New (all 4 sizes) https://www.ebay.com/itm/820281910460
-• Taken Off Sale: Gucci Tennis 1977 White Green Red New (all 5 sizes) https://www.ebay.com/itm/820281910571
-Ad rates: 2 listings up, 0 back down (2 at 15%); eBay accepted 2 of 2
