@@ -469,3 +469,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Research sweep (subagent, 12 brands at Italist, Nugnes1920 371 products, Mytheresa; 37 eBay comps): 0 new candidates clear $100 net. Need cost <= ~50% of eBay median. Italist "-50..-69%" reference prices are inflated. Not reached: Farfetch, END, SSENSE, Cettire, GOAT/StockX small goods.
 - GOAT closed the ticket (canned reply). Rafael may open a NEW ticket asking for replacement pair/credit (draft given).
 - BrandsGateway: Gucci Ace white $514.88 vs eBay ~$565 -> no. Awaiting CSV / discount screenshots.
+
+## Oct 27 check-in (7:23am ET)
+- 81 live (the 5 released drafts are live). Sales still 1 ($899.99). Room 13,776 items / $274k. notices.json empty. Bots green.
+- WARNING: today's research has NOT run (newest source_prices checked_at = 2026-10-26 11:25Z). Rows expire 36h after that (~Oct 27 23:25Z UTC); without a fresh run the bot takes sizes off sale tonight.
