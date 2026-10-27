@@ -1,38 +1,283 @@
 {
- "checked": "2026-10-26T17:35:26Z",
+ "checked": "2026-10-27T03:21:33Z",
  "items": {
-  "givenchy-bh00b4h1x1-001": {
-   "n": 24,
-   "median": 447.38,
-   "cheapest": 260.35,
-   "p25": 326.7,
+  "dg-cs2399-beige": {
+   "n": 5,
+   "median": 430.24,
+   "cheapest": 295.0,
+   "p25": 399.27,
    "top": [
-    "Givenchy Black Leather and Elastic Band Slip On Sneakers Size 42 - New With Box",
-    "Givenchy G Move Low-Top Leather Sneakers White/Black 46"
+    "Dolce & Gabbana Men's Beige Suede Low-Top Sneakers with Logo Plaque-EU41",
+    "Dolce Gabbana Strobel Portofino Men's Light Beige Sneakers UK8 EU42 US9 $845"
    ]
   },
-  "margiela-replica-red": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
+  "dg-cs2399-textured-beige": {
+   "n": 5,
+   "median": 430.24,
+   "cheapest": 295.0,
+   "p25": 399.27,
+   "top": [
+    "Dolce & Gabbana Men's Beige Suede Low-Top Sneakers with Logo Plaque-EU41",
+    "Dolce Gabbana Strobel Portofino Men's Light Beige Sneakers UK8 EU42 US9 $845"
+   ]
   },
-  "moncler-trailgrip-white": {
+  "dg-cs2392-white": {
+   "n": 45,
+   "median": 349.0,
+   "cheapest": 191.25,
+   "p25": 295.0,
+   "top": [
+    "Dolce&Gabbana Logo Accent Sneakers White Black Leather Men's Casual Shoes",
+    "Dolce & Gabbana Men\u2019s Slip-On Logo Low Top Sneakers Black White Gray EU 43"
+   ]
+  },
+  "dg-cs2384-white": {
+   "n": 45,
+   "median": 349.0,
+   "cheapest": 191.25,
+   "p25": 295.0,
+   "top": [
+    "Dolce&Gabbana Logo Accent Sneakers White Black Leather Men's Casual Shoes",
+    "Dolce & Gabbana Men\u2019s Slip-On Logo Low Top Sneakers Black White Gray EU 43"
+   ]
+  },
+  "dg-cs2332-white": {
+   "n": 45,
+   "median": 349.0,
+   "cheapest": 191.25,
+   "p25": 295.0,
+   "top": [
+    "Dolce&Gabbana Logo Accent Sneakers White Black Leather Men's Casual Shoes",
+    "Dolce & Gabbana Men\u2019s Slip-On Logo Low Top Sneakers Black White Gray EU 43"
+   ]
+  },
+  "dg-cs2378-white": {
+   "n": 45,
+   "median": 349.0,
+   "cheapest": 191.25,
+   "p25": 295.0,
+   "top": [
+    "Dolce&Gabbana Logo Accent Sneakers White Black Leather Men's Casual Shoes",
+    "Dolce & Gabbana Men\u2019s Slip-On Logo Low Top Sneakers Black White Gray EU 43"
+   ]
+  },
+  "dg-a20206-oxford": {
+   "n": 11,
+   "median": 394.97,
+   "cheapest": 295.0,
+   "p25": 325.0,
+   "top": [
+    "Dolce & Gabbana Men's Black Patent Leather Formal Oxford Dress Shoes-EU40",
+    "Dolce & Gabbana Men Black Leather Cap Toe Oxford Shoes IT 10 US 11 CA2153 NEW"
+   ]
+  },
+  "dg-cs2473-vitello": {
+   "n": 45,
+   "median": 349.0,
+   "cheapest": 191.25,
+   "p25": 295.0,
+   "top": [
+    "Dolce&Gabbana Logo Accent Sneakers White Black Leather Men's Casual Shoes",
+    "Dolce & Gabbana Men\u2019s Slip-On Logo Low Top Sneakers Black White Gray EU 43"
+   ]
+  },
+  "dg-a50739-slipper": {
+   "n": 4,
+   "median": 347.0,
+   "cheapest": 191.98,
+   "p25": 295.0,
+   "top": [
+    "Dolce & Gabbana Men's Brown Suede Leather Loafers Slip On Shoes US 6 IT 39",
+    "Dolce & Gabbana Men's Brown Suede Loafers Slip-On Dress Shoes-EU42"
+   ]
+  },
+  "dg-cs2288-cushion": {
+   "n": 3,
+   "median": 480.0,
+   "cheapest": 330.0,
+   "p25": 330.0,
+   "top": [
+    "Dolce Gabbana Sleek White/Brown Leather Mens Sneakers EU44.5 US11.5 $625",
+    "Dolce&Gabbana Houndstooth Black Brown White Men's Sneakers Low Top"
+   ]
+  },
+  "mcq-705660": {
+   "n": 17,
+   "median": 224.2,
+   "cheapest": 185.5,
+   "p25": 210.0,
+   "top": [
+    "Alexander McQueen Oversized Sneaker Black Leather Platform Casual Shoes",
+    "Alexander McQueen Oversized Sneaker Black Leather Heel Zip Mens 45/12 New in Box"
+   ]
+  },
+  "mcq-868496": {
    "n": 1,
-   "median": 499.0,
-   "cheapest": 499.0,
-   "p25": 499.0,
+   "median": 600.0,
+   "cheapest": 600.0,
+   "p25": 600.0,
    "top": [
-    "Moncler Trailgrip GTX Sneakers Navy White Red Men\u2019s Size 11"
+    "Alexander McQueen Unisex  M8.5 Wo\u2019s 10.5 Oversized  Sneaker Multicolor plastic"
    ]
   },
-  "rickowens-minimal-grey": {
+  "tomford-j1368": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
+  },
+  "loewe-m526284": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "tods-xxm24l": {
+   "n": 10,
+   "median": 294.99,
+   "cheapest": 199.0,
+   "p25": 246.05,
+   "top": [
+    "Tod's Gommino Black Patent Leather Driving Loafer Gold Double-T EU 36.5",
+    "TOD'S for Ferrari Men's Black Suede Slip-On Loafer Logo US 6 EU 39 w/ Box"
+   ]
+  },
+  "tods-xxm59k": {
+   "n": 35,
+   "median": 328.0,
+   "cheapest": 164.49,
+   "p25": 281.99,
+   "top": [
+    "NEW SZ US 11 Tod\u2019s Polacco Brown Suede Ankle Chukka Boot Italian Designer",
+    "Tod\u2019S Gommino Suede Loafer Men's Brown 6.5"
+   ]
+  },
+  "prada-4e1165-black": {
+   "n": 1,
+   "median": 699.0,
+   "cheapest": 699.0,
+   "p25": 699.0,
+   "top": [
+    "NEW Size 8 - Prada Montecarlo Re-Edition 2005 - Black"
+   ]
+  },
+  "prada-4e1165-brown": {
+   "n": 1,
+   "median": 695.0,
+   "cheapest": 695.0,
+   "p25": 695.0,
+   "top": [
+    "sz 8  / 7 UK PRADA Trail Brown Suede Lace up Logo Low top Sneaker Men Shoes"
+   ]
+  },
+  "prada-2ee427": {
+   "n": 15,
+   "median": 850.0,
+   "cheapest": 599.99,
+   "p25": 795.0,
+   "top": [
+    "NIB PRADA CALZATURE DONNA 1E505M Men's White Sneaker Made in ITALY EU/Sz 38.5",
+    "Prada DOWNTOWN Patent Leather White/Bianco Sneaker Wmn ~8B, Insole ~9 3/4\""
+   ]
+  },
+  "prada-2df090": {
+   "n": 19,
+   "median": 500.5,
+   "cheapest": 250.0,
+   "p25": 294.99,
+   "top": [
+    "PRADA Men's Brown Leather Loafer Slip-On Round Toe Comfort US 9 UK 8 2DD179",
+    "NIB MIU MIU PRADA 5S483D BEIGE BROWN JACQUARD LOGO SLIP LOAFER SNEAKERS 38 ITALY"
+   ]
+  },
+  "bv-837855": {
+   "n": 18,
+   "median": 987.0,
+   "cheapest": 494.99,
+   "p25": 852.0,
+   "top": [
+    "Bottega Veneta Men\u2019s Leather Shore Loafer Shoes Black 9 US (42) 786809 NIB $990",
+    "Bottega Veneta Black Leather Quilted Loafer Sneaker Unisex NIB 40.5 M 7.5 W 10.5"
+   ]
+  },
+  "bv-867921": {
+   "n": 5,
+   "median": 299.99,
+   "cheapest": 180.0,
+   "p25": 200.0,
+   "top": [
+    "Bottega Veneta Orbit Sneaker Gold/White/Brown Low Top Lace-Up 755915V2X40",
+    "Bottega Veneta Orbit Sneaker Suede, Brown, Size 46"
+   ]
+  },
+  "ferragamo-02a0007969": {
+   "n": 13,
+   "median": 400.0,
+   "cheapest": 364.49,
+   "p25": 389.49,
+   "top": [
+    "New Salvatore Ferragamo Fort Ricam Coco Brown Suede Loafer Slip On Mens Sz 8 E",
+    "New Salvatore Ferragamo Fort Ricam Coco Brown Suede Loafer Slip On Mens Sz 9.5 E"
+   ]
+  },
+  "ferragamo-02a0007971": {
+   "n": 13,
+   "median": 400.0,
+   "cheapest": 364.49,
+   "p25": 389.49,
+   "top": [
+    "New Salvatore Ferragamo Fort Ricam Coco Brown Suede Loafer Slip On Mens Sz 8 E",
+    "New Salvatore Ferragamo Fort Ricam Coco Brown Suede Loafer Slip On Mens Sz 9.5 E"
+   ]
+  },
+  "churchs-edc136": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "fendi-7d1996": {
+   "n": 5,
+   "median": 500.0,
+   "cheapest": 340.16,
+   "p25": 341.7,
+   "top": [
+    "Vag Horn Slip Ring With Spring For Volkswagen Transporter 7D 1996 2004 Genuine 7",
+    "Vag Horn Slip Ring With Spring For Volkswagen Transporter 7D 1996 2004 Genuine 7"
+   ]
+  },
+  "fendi-7e1971": {
+   "n": 15,
+   "median": 795.0,
+   "cheapest": 400.0,
+   "p25": 695.0,
+   "top": [
+    "Fendi Match FF Vertigo Wave High Top Sneaker Black White Men's 6/ US 7.5 -7E1434",
+    "Fendi Mens Sneaker Sughero Crosta Zucca P Nero Black Size 9 EU / 10 US DS 271334"
+   ]
+  },
+  "gucci-832461": {
+   "n": 18,
+   "median": 462.47,
+   "cheapest": 227.47,
+   "p25": 399.98,
+   "top": [
+    "Gucci Interlocking G Leather Sneaker Men's White 17",
+    "New Authentic Gucci Mens Leather Lace-up Sneaker White 342038 9022"
+   ]
+  },
+  "gucci-851396": {
+   "n": 28,
+   "median": 565.0,
+   "cheapest": 350.0,
+   "p25": 485.0,
+   "top": [
+    "Brand New Gucci Microguccissima Black Leather Loafer- Silde on- UK 7.5-US Size 8",
+    "Gucci Signature Driver Supreme GG Black Debossed Leather Loafer Mens UK 7 US 7.5"
+   ]
   }
  }
 }
