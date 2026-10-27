@@ -1,5 +1,5 @@
-scan: 29
-demand: 117
+scan: 8
+demand: -1
 explore: 0
 order fees: 2
 market 355066429434: ours None vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
