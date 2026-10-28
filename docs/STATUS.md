@@ -473,3 +473,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Oct 27 check-in (7:23am ET)
 - 81 live (the 5 released drafts are live). Sales still 1 ($899.99). Room 13,776 items / $274k. notices.json empty. Bots green.
 - WARNING: today's research has NOT run (newest source_prices checked_at = 2026-10-26 11:25Z). Rows expire 36h after that (~Oct 27 23:25Z UTC); without a fresh run the bot takes sizes off sale tonight.
+
+## Oct 28 (00:20 ET) — research outage
+- Root cause: "eBay daily research (recurring)" (trig_01KccF1saAhBjHmECjbhgdVJ) last run Oct 27 10:41Z FAILED: USAGE_LIMIT_REACHED. The backup "eBay Research" (trig_01QV4pywhVAgf7BvHcDb4Q8k, 11:09Z) ran 43s and wrote nothing. Newest source_prices checked_at = 2026-10-26T11:25Z (>36h).
+- Effect: bot/sync.py decide() hides every live size with no row <36h old at the next daily-sync. Not yet seen to fire (last daily-sync 2026-10-27 16:49Z). Next scheduled research: 10:40Z (6:40 ET) Oct 28.
+- I tried to fire the research task now; the permission classifier denied it. Left for Rafael to run it / approve. No config loosened (max_source_age_hours stays 36).
+- 81 live, 1 sale total, watchers 262, views_7d 599. Room 13,776 items / $274k unused (limit is profitable candidates, not eBay room).
