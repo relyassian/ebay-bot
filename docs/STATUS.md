@@ -502,3 +502,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - ~1,100 men's apparel items screened (Italist, Nugnes1920, END, SSENSE, Mytheresa) vs eBay active asks (not sold data). 1 formal survivor (Rhude Split Petrol LS tee, END $214 M/L/XL, comps n=3 all $566.51 = likely one seller, weak). Better leads (comps n=1-2): Rick Owens x Moncler Jumbo tee (END $231, comps $632), Rick Owens x Moncler jogger ($342 vs $852), DRKSHDW Double Cargo jeans ($399 vs $1000+), AMI zipped jacket ($387 vs $1100).
 - Re-check at 16:xx ET: END page for the Rick Owens x Moncler tee returns 404 (gone/sold out/URL changed) -> leads decay fast; NOT building apparel support in bot/listing.py (only sneaker/loafer/dress_shoe/belt/tie today) until a lead is confirmed live with per-size stock.
 - If built later: CATEGORY_IDS tshirt 15687, pants 57989, jeans 11483, jacket 57988, sweater 11484, hoodie 155183; size name "Size"; clothing is NJ tax exempt; eBay Verify will reveal required specifics.
+
+## Oct 28, 5:3x pm ET: Cettire + Farfetch re-check (Rafael: "check cettire and everywhere else")
+- Cettire men's shoe sale read in the Mac browser (66 items, prices duties-included). Deepest: Salomon ACS Pro $141 (-56%), CDG Play x Converse $91, Veja $126-154, Axel Arigato Dice $210, Isabel Marant $286, Golden Goose Super-Star $413. None reaches 2x its eBay price, so none clears $100 net. 0 candidates.
+- Farfetch men's sale (browser, signed in): deepest loaded -60% (Etudes Studio jacket $189, XS/S only). Typical -10% to -40%. 0 candidates.
+- Listing room is not the limit (13.7k items / $274k free). Limit is cost vs eBay price.
+- Still open: Givenchy New City black (SSENSE $299, eBay median $530) needs Rafael go-ahead after duty/shipping check; Black Friday (Nov 27) re-scan.
