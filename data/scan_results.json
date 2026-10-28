@@ -1,215 +1,224 @@
 {
- "checked": "2026-10-28T16:09:42Z",
+ "checked": "2026-10-28T16:16:32Z",
  "items": {
-  "lanvin-lnv1-silver": {
+  "lanvin-lnv1-a": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "lanvin-lnv1-black": {
+  "lanvin-lnv1-b": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "lanvin-jla-gray": {
+  "lanvin-jla": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "lanvin-curb-offwhite": {
-   "n": 34,
-   "median": 549.0,
-   "cheapest": 263.0,
-   "p25": 400.1,
+  "jilsander-moon-a": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "jilsander-moon-b": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "sf-striped-sneaker": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "sf-hammered-loafer": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "sf-gancini-buckle-loafer": {
+   "n": 15,
+   "median": 398.0,
+   "cheapest": 300.0,
+   "p25": 398.0,
    "top": [
-    "LANVIN Curb Low Top Suede Sneakers Gray White Light Blue Black New w/ Box",
-    "Lanvin Curb Sneakers White/Multicolored Size 42/9"
+    "Ferragamo GRENOBLE Gancini Black Suede Leather Dress Loafers Buckle Mens Drivers",
+    "Ferragamo Driver Loafers 11.5 D Gancini Black Suede Leather Grenoble Buckle"
    ]
   },
-  "lanvin-curb-black": {
-   "n": 33,
-   "median": 450.0,
-   "cheapest": 219.75,
-   "p25": 350.0,
-   "top": [
-    "Lanvin Curb Chevron White Black Low Top Sneakers with Zigzag Laces",
-    "LANVIN Curb Sneakers \u2018Black Gum\u2019 Men\u2019s Low Top Lace-Up Sneakers New w/ Box"
-   ]
-  },
-  "jilsander-moon-white": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "jilsander-moon-black": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "amiri-slipon-loafer-black": {
+  "sf-vara-loafer": {
    "n": 1,
-   "median": 380.0,
-   "cheapest": 380.0,
-   "p25": 380.0,
+   "median": 394.99,
+   "cheapest": 394.99,
+   "p25": 394.99,
    "top": [
-    "AMIRI Men's Black Leather Slip-On Loafers Gold Chain Almond Toe US 13"
+    "NIB Salvatore Ferragamo Mens Amer Vara Buckle Black Leather Driving Loafers 6 E"
    ]
   },
-  "amiri-skyline-white-blue": {
-   "n": 1,
-   "median": 650.0,
-   "cheapest": 650.0,
-   "p25": 650.0,
+  "sf-gancini-driver": {
+   "n": 19,
+   "median": 448.75,
+   "cheapest": 398.0,
+   "p25": 398.0,
    "top": [
-    "AMIRI Men\u2019s Low Top MA Skyline Lace Up Colorblock Logo Sneakers White/Brown New"
+    "Ferragamo Driver Loafers 10 EE Gancini Black Suede Leather Grenoble Buckle Shoes",
+    "Ferragamo Driver Loafers 9.5EE Gancini Black Suede Leather Grenoble Buckle Shoes"
    ]
   },
-  "amiri-skyline-khaki": {
+  "sf-palinuro": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "amiri-ma1": {
+  "sf-embossed-hitop": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "sf-gancini-sneaker": {
+   "n": 47,
+   "median": 378.5,
+   "cheapest": 313.5,
+   "p25": 357.5,
+   "top": [
+    "FERRAGAMO PIERRE WHITE LEATHER RAINBOW STADS GANCINI LOGO SNEAKERS 10.5 C ITALY",
+    "FERRAGAMO PIERRE WHITE LEATHER RAINBOW STADS GANCINI LOGO SNEAKERS 11 C ITALY"
+   ]
+  },
+  "sf-leather-loafer": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "mcq-oversized": {
+   "n": 32,
+   "median": 242.5,
+   "cheapest": 185.5,
+   "p25": 208.6,
+   "top": [
+    "Alexander McQueen Men's Classic All White Oversized Sneakers",
+    "Alexander McQueen Oversized Sneakers Men's White Leather Shoes Free Shipping"
+   ]
+  },
+  "amiri-perf": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "tods-loafer": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "dg-logopatch": {
+   "n": 1,
+   "median": 325.0,
+   "cheapest": 325.0,
+   "p25": 325.0,
+   "top": [
+    "Dolce & Gabbana White Leather Logo Patch Low-Top Sneakers Red Detail-EU37"
+   ]
+  },
+  "bal-tracktrail": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "hogan-hilight": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "marg-replica": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "marg-replica-rep": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "bal-venom": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "casa-delmar": {
+   "n": 1,
+   "median": 537.99,
+   "cheapest": 537.99,
+   "p25": 537.99,
+   "top": [
+    "New in Box Men\u2019s Casablanca Del Mar White Paneled Sneakers Size 9"
+   ]
+  },
+  "casa-court": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "marsell-passo": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-belt-red": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-belt-brown": {
    "n": 7,
-   "median": 500.0,
-   "cheapest": 250.62,
-   "p25": 375.0,
+   "median": 360.0,
+   "cheapest": 256.0,
+   "p25": 259.0,
    "top": [
-    "AMIRI Crystal MA-1 Skeleton Top Sneaker White/Black Low Top Lace Up",
-    "Amiri MA-1 Sneaker White/Red Size EU 45 (US Men\u2019s 12) Brand New , Original all"
+    "Gucci GG Supreme Canvas Interlocking G Buckle Belt Brown Leather 223891 Size 34",
+    "Gucci GG Supreme Monogram Canvas Belt Silver Interlocking G Buckle Brown 85-34"
    ]
   },
-  "amiri-skel-low": {
-   "n": 34,
-   "median": 449.0,
-   "cheapest": 220.0,
-   "p25": 375.0,
-   "top": [
-    "AMIRI Skel Top Low Men's Leather Lace-Up Sneakers White/Silver US 10",
-    "Amiri Skel Low Top Sneakers Size 43 (10 US) White/Black"
-   ]
-  },
-  "marni-fussbett-brown": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "marsell-passo-black": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "givenchy-newcity-black": {
-   "n": 21,
-   "median": 529.99,
-   "cheapest": 400.94,
-   "p25": 499.99,
-   "top": [
-    "New Givenchy Black Canvas City Platform Low Top Sneakers 38 EU NIB",
-    "New Givenchy Men's City Court Sneakers Tennis Shoes Size 11 White Black Band"
-   ]
-  },
-  "margiela-replica": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "margiela-tabi-derby": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "casablanca-court": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "casablanca-delmar": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "balenciaga-venom-derby": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "dvn-suede-sneaker": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "dsq2-boat": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "isabelmarant-fitzo": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "jilsander-laceup": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "kikok-komlo": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "vw-cardholder": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "baobao-clam-wallet": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "mm6-salomon-xt": {
+  "gucci-belt-thin": {
    "n": 0,
    "median": null,
    "cheapest": null,
