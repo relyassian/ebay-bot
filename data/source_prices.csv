@@ -45,7 +45,7 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355426430327,11,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,12,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
 355426430327,13,,END US sold out 2026-09-30 (page read); other stores sold out or unprofitable,,false,0,2026-09-30T23:22:02Z
-356084785661,,241.06,"Cettire (page read 2026-10-23, Add to bag shown, duties included; code 775189CLNKGANST676145 Palladio)",https://www.cettire.com/products/salvatore-ferragamo-logo-engraved-cuff-links-922605775,false,1,2026-10-23T10:52:00Z
+356084785661,,241.06,"Cettire (page read 2026-10-28, Add to bag shown, duties included; code 775189CLNKGANST676145 Palladio)",https://www.cettire.com/products/salvatore-ferragamo-logo-engraved-cuff-links-922605775,false,1,2026-10-28T11:05:00Z
 355066429434,5,,no in-stock source found 2026-10-22 (checked: Italist/CHN boutique),,false,0,2026-10-22T11:07:00Z
 355066429434,5.5,,"no in-stock source found 2026-10-23 (checked: Italist/CHN boutique, all sizes sold out)",,true,0,2026-10-23T10:51:00Z
 355066429434,6,,"no in-stock source found 2026-10-23 (checked: Italist/CHN boutique, all sizes sold out)",,true,0,2026-10-23T10:51:00Z
@@ -57,22 +57,22 @@ item_id,size,cost,source,url,overseas,in_stock_sources,checked_at
 355066429434,9.5,,no in-stock source found 2026-10-22 (checked: Italist/CHN boutique),,false,0,2026-10-22T11:07:00Z
 355066429434,10,,no in-stock source found 2026-10-22 (checked: Italist/CHN boutique),,false,0,2026-10-22T11:07:00Z
 355420832785,5,,no in-stock source found 2026-10-22 (checked: Farfetch),,false,0,2026-10-22T11:07:00Z
-355420832785,5.5,950.00,Farfetch (US 5.5 Wide; style 686084; duties included; size menu read in browser 2026-10-26); other stores not rechecked today,https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-26T11:25:00Z
-355420832785,6,725.00,Farfetch (US 6 Wide; style 686084; duties included; size menu read in browser 2026-10-26); other stores not rechecked today,https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-26T11:25:00Z
-355420832785,6.5,725.00,Farfetch (US 6.5 Wide; style 686084; duties included; size menu read in browser 2026-10-26); other stores not rechecked today,https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-26T11:25:00Z
-355420832785,7,725.00,Farfetch (US 7 Wide; style 686084; duties included; size menu read in browser 2026-10-26); other stores not rechecked today,https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-26T11:25:00Z
+355420832785,5.5,950.00,Farfetch (US 5.5 Wide; style 686084; duties included; size menu read in browser 2026-10-28 11:05Z),https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-28T11:05:00Z
+355420832785,6,725.00,Farfetch (US 6 Wide; style 686084; duties included; size menu read in browser 2026-10-28 11:05Z),https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-28T11:05:00Z
+355420832785,6.5,725.00,Farfetch (US 6.5 Wide; style 686084; duties included; size menu read in browser 2026-10-28 11:05Z),https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-28T11:05:00Z
+355420832785,7,725.00,Farfetch (US 7 Wide; style 686084; duties included; size menu read in browser 2026-10-28 11:05Z),https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-28T11:05:00Z
 355420832785,7.5,,"Farfetch: size not in menu (sold out), read 2026-10-26; other stores not rechecked",https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,0,2026-10-26T11:25:00Z
-355420832785,8,950.00,Farfetch (US 8 Wide; style 686084; duties included; size menu read in browser 2026-10-26); other stores not rechecked today,https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-26T11:25:00Z
+355420832785,8,950.00,Farfetch (US 8 Wide; style 686084; duties included; size menu read in browser 2026-10-28 11:05Z),https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-28T11:05:00Z
 355420832785,8.5,,no in-stock source found 2026-10-22 (checked: Farfetch),,false,0,2026-10-22T11:07:00Z
-355420832785,9,950.00,Farfetch (US 9 Wide; style 686084; duties included; size menu read in browser 2026-10-26); other stores not rechecked today,https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-26T11:25:00Z
-355420832785,9.5,950.00,Farfetch (US 9.5 Wide; style 686084; duties included; size menu read in browser 2026-10-26); other stores not rechecked today,https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-26T11:25:00Z
+355420832785,9,950.00,Farfetch (US 9 Wide; style 686084; duties included; size menu read in browser 2026-10-28 11:05Z),https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,1,2026-10-28T11:05:00Z
+355420832785,9.5,,"Farfetch: size not in menu (sold out), read 2026-10-28 11:05Z",https://www.farfetch.com/shopping/men/ferragamo-moccasins-with-gancini-reversible-ornament-item-12576370.aspx,false,0,2026-10-28T11:05:00Z
 355420832785,10.5,,no in-stock source found 2026-10-22 (checked: Farfetch),,false,0,2026-10-22T11:07:00Z
-355422763143,6,460.00,"Farfetch (EU 39; style CS1735AN990, duties included; duties included; size menu read in browser 2026-10-26); also 1 other store(s) read today, next $483",https://www.farfetch.com/shopping/men/dolce-gabbana-saint-tropez-low-top-sneakers-item-20045140.aspx,false,2,2026-10-26T11:25:00Z
+355422763143,6,460.00,"Farfetch (EU 39; style CS1735AN990, duties included; size menu read in browser 2026-10-28 11:05Z); GOAT also in stock",https://www.farfetch.com/shopping/men/dolce-gabbana-saint-tropez-low-top-sneakers-item-20045140.aspx,false,2,2026-10-28T11:05:00Z
 355422763143,6.5,,"no in-stock source found 2026-10-22 (checked: Farfetch, GOAT)",,false,0,2026-10-22T11:07:00Z
-355422763143,7,596,GOAT new EU 40 = US 7 (browser read 2026-10-28 10:44Z); other stores not rechecked today,https://www.goat.com/sneakers/dolce-gabbana-saint-tropez-calfskin-sneaker-white-cs1735an99080002,false,1,2026-10-28T10:44:00Z
+355422763143,7,460.00,"Farfetch (EU 40; style CS1735AN990, duties included; size menu read in browser 2026-10-28 11:05Z); GOAT also in stock",https://www.farfetch.com/shopping/men/dolce-gabbana-saint-tropez-low-top-sneakers-item-20045140.aspx,false,2,2026-10-28T11:05:00Z
 355422763143,7.5,,"no in-stock source found 2026-10-22 (checked: Farfetch, GOAT)",,false,0,2026-10-22T11:07:00Z
 355422763143,8,762,GOAT new EU 41 = US 8 (browser read 2026-10-28 10:44Z); other stores not rechecked today,https://www.goat.com/sneakers/dolce-gabbana-saint-tropez-calfskin-sneaker-white-cs1735an99080002,false,1,2026-10-28T10:44:00Z
-355422763143,8.5,650,GOAT new EU 41.5 = US 8.5 (browser read 2026-10-26 10:55Z),https://www.goat.com/sneakers/dolce-gabbana-saint-tropez-calfskin-sneaker-white-cs1735an99080002,false,1,2026-10-26T10:55:00Z
+355422763143,8.5,452.00,"Farfetch (EU 41.5; style CS1735AN990, duties included; size menu read in browser 2026-10-28 11:05Z); GOAT also in stock",https://www.farfetch.com/shopping/men/dolce-gabbana-saint-tropez-low-top-sneakers-item-20045140.aspx,false,2,2026-10-28T11:05:00Z
 355422763143,9,,"no in-stock source found 2026-10-22 (checked: Farfetch, GOAT)",,false,0,2026-10-22T11:07:00Z
 355422763143,9.5,,"no in-stock source found 2026-10-22 (checked: Farfetch, GOAT)",,false,0,2026-10-22T11:07:00Z
 355422763143,10,,"no in-stock source found 2026-10-22 (checked: Farfetch, GOAT)",,false,0,2026-10-22T11:07:00Z
