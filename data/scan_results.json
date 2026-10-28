@@ -1,455 +1,153 @@
 {
- "checked": "2026-10-28T20:36:24Z",
+ "checked": "2026-10-28T20:44:53Z",
  "items": {
-  "myt-2": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-7": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-21": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-23": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-24": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-25": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-29": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-30": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-32": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-33": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-37": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-39": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-41": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-42": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-43": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-44": {
+  "e5-0": {
    "n": 1,
-   "median": 418.0,
-   "cheapest": 418.0,
-   "p25": 418.0,
+   "median": 1100.0,
+   "cheapest": 1100.0,
+   "p25": 1100.0,
    "top": [
-    "NWT Etro Runway Floral Paisley Men\u2019s Shirt. 100% Linen.   Medium/EU 39"
+    "Ami Paris Zipped Jacket GreenUnisex"
    ]
   },
-  "myt-46": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-47": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-48": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-51": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-52": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-55": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-60": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-61": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-64": {
+  "e5-1": {
    "n": 1,
-   "median": 695.0,
-   "cheapest": 695.0,
-   "p25": 695.0,
+   "median": 1450.0,
+   "cheapest": 1450.0,
+   "p25": 1450.0,
    "top": [
-    "*NEW* RICK OWENS FW24 MATTE COATED WIDE LEG GETH JEANS $1500 (BLACK CHALK, 31)"
+    "MAISON MARGIELA MEN'S REVERSIBLE TRUCKER JACKET SIZE 46 ---RARE---"
    ]
   },
-  "myt-65": {
-   "n": 1,
-   "median": 350.0,
-   "cheapest": 350.0,
-   "p25": 350.0,
-   "top": [
-    "Our Legacy Evening Argyle Wool Cardigan Mens Size XL"
-   ]
-  },
-  "myt-66": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-68": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-69": {
+  "e5-2": {
    "n": 2,
-   "median": 215.0,
-   "cheapest": 65.0,
-   "p25": 65.0,
+   "median": 527.0,
+   "cheapest": 527.0,
+   "p25": 527.0,
    "top": [
-    "LEMAIRE x UNIQLO U Men's Designer Milano Wool Blend Mock Neck Sweater S Gray NWT",
-    "Lemaire Wool-Blend V-Neck Sweater (Men\u2019s/Medium)"
+    "Casablanca Drawstring Silk Shorts in Graphic Mountain Multicolor BNWT XX-Large",
+    "Casablanca Drawstring Silk Shorts in Graphic Mountain Multicolor BNWT Small"
    ]
   },
-  "myt-74": {
+  "e5-3": {
+   "n": 16,
+   "median": 643.62,
+   "cheapest": 359.13,
+   "p25": 495.9,
+   "top": [
+    "NWT Casablanca Monogram Wave 100% Silk Satin Cuban Collar Shirt Size S",
+    "CASABLANCA Luxury Crochet Knit Shirt White Blue Size L Monogram Pearl Button NWT"
+   ]
+  },
+  "e5-4": {
+   "n": 8,
+   "median": 505.5,
+   "cheapest": 289.0,
+   "p25": 450.0,
+   "top": [
+    "MM6 MAISON MARTIN MARGIELA DENIM SHIRT SPLICED SLEEVE JACKET Sz. 38IT/2US/S",
+    "MM6 maison martin margiela denim shirt jacket"
+   ]
+  },
+  "e5-5": {
    "n": 1,
-   "median": 198.0,
-   "cheapest": 198.0,
-   "p25": 198.0,
+   "median": 2200.0,
+   "cheapest": 2200.0,
+   "p25": 2200.0,
    "top": [
-    "DOLCE & GABBANA White Cotton Jersey DAL CUORE ALLE MANI Printed T-Shirt Top M"
+    "Our Legacy Size 50 Large Pharos Bomber Calfskin Leather Shearling Collar NWT"
    ]
   },
-  "myt-75": {
+  "e5-6": {
+   "n": 1,
+   "median": 352.0,
+   "cheapest": 352.0,
+   "p25": 352.0,
+   "top": [
+    "Rhude Racing Crest T-Shirt in Vintage Black / Navy BNWT Medium"
+   ]
+  },
+  "e5-7": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "myt-76": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-78": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-79": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-80": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-81": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-82": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-83": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-85": {
+  "e5-8": {
    "n": 3,
-   "median": 1155.9,
-   "cheapest": 876.0,
-   "p25": 876.0,
+   "median": 566.51,
+   "cheapest": 566.51,
+   "p25": 566.51,
    "top": [
-    "Herno X8114 Mens Black Wool Cashmere Single-Breasted Coat Size 56",
-    "Herno Men's Cashmere Silk And Light Faux Fur Navy Down Coat  Size US 48 $2170.00"
+    "RHUDE Split Petrol Logo LS Tee RHPS26TT17012 Men's XXL Long Sleeve T-Shirt New",
+    "RHUDE Split Petrol Logo LS Tee RHPS26TT17012_L Men's Size L Long Sleeve T-Shirt"
    ]
   },
-  "myt-86": {
-   "n": 5,
-   "median": 180.0,
-   "cheapest": 113.04,
-   "p25": 169.25,
-   "top": [
-    "NEW Dolce Gabbana Cotton Trouser 38 US 4 Tall Gray Straight Leg Pants Italy",
-    "NWT DOLCE & GABBANA 2WPT2T STRAIGHT LEG WHITE COTTON DENIM PANTS JEANS 42 ITALY"
-   ]
-  },
-  "myt-87": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-91": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-92": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-93": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-94": {
+  "e5-9": {
    "n": 2,
-   "median": 348.44,
-   "cheapest": 347.44,
-   "p25": 347.44,
+   "median": 1178.0,
+   "cheapest": 1000.0,
+   "p25": 1000.0,
    "top": [
-    "Canali NWT Chinos / Casual Pants Size 46 (30 US) Slim Solid Beige Cotton Blend",
-    "Canali NWT Chinos / Casual Pants Size 54 (US 38) Regular Fit Blue Cotton Blend"
+    "Size 30 - Rick Owens Drkshdw Double Cargo Jeans - Blue",
+    "Rick Owens Drkshdw Mineral Pearl Denim Double Cargo Jeans"
    ]
   },
-  "myt-97": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
+  "e5-10": {
+   "n": 3,
+   "median": 398.9,
+   "cheapest": 387.0,
+   "p25": 387.0,
+   "top": [
+    "Rick Owens T-Shirt Jumbo SS Tee in Pearl/Black BNWT Small",
+    "Rick Owens DRKSHDW Hollywood Logo Jumbo Long Sleeve Tee Shirt White Black"
+   ]
   },
-  "myt-98": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-102": {
+  "e5-11": {
    "n": 1,
-   "median": 2545.0,
-   "cheapest": 2545.0,
-   "p25": 2545.0,
+   "median": 852.0,
+   "cheapest": 852.0,
+   "p25": 852.0,
    "top": [
-    "54IT- Tom Ford WOOL SILK LINEN SHELTON JACKET BNWT - JDSG02"
+    "Rick Owens x Moncler Drawstring Jogger Sweatpants in Black BNWT Large"
    ]
   },
-  "myt-103": {
-   "n": 9,
-   "median": 155.77,
-   "cheapest": 74.87,
-   "p25": 120.0,
-   "top": [
-    "NWT Uniqlo Jil Sander Black Striped Suit Jacket Wool Poly Blend Men\u2019s L",
-    "NWT Uniqlo Jil Sander Men's Wool Serge Jacket Khaki Size Medium \ud83d\udd25\ud83d\udd25"
-   ]
-  },
-  "myt-105": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-107": {
+  "e5-12": {
    "n": 1,
-   "median": 440.94,
-   "cheapest": 440.94,
-   "p25": 440.94,
+   "median": 852.0,
+   "cheapest": 852.0,
+   "p25": 852.0,
    "top": [
-    "Dries Van Noten NWT Lace Up Cargo Hoodie Size Medium in Solid Black 100% Cotton"
+    "Rick Owens x Moncler Drawstring Jogger Sweatpants in Black BNWT Large"
    ]
   },
-  "myt-108": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-109": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-110": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-111": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-114": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-115": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-116": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-117": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "myt-118": {
-   "n": 4,
-   "median": 998.12,
-   "cheapest": 894.58,
-   "p25": 900.0,
+  "e5-13": {
+   "n": 2,
+   "median": 632.0,
+   "cheapest": 632.0,
+   "p25": 632.0,
    "top": [
-    "Burberry Single-Breasted Wool Blazer Jacket",
-    "Burberry Men\u2019s Black Monogram Twill Blazer 40R Single-Breasted 2-Button"
+    "Moncler x Rick Owens Jumbo Short Sleeve T-Shirt in Black BNWT Large",
+    "Moncler x Rick Owens Jumbo Short Sleeve T-Shirt in Black BNWT X-Small"
    ]
+  },
+  "e5-14": {
+   "n": 2,
+   "median": 632.0,
+   "cheapest": 632.0,
+   "p25": 632.0,
+   "top": [
+    "Moncler x Rick Owens Jumbo Short Sleeve T-Shirt in Black BNWT Large",
+    "Moncler x Rick Owens Jumbo Short Sleeve T-Shirt in Black BNWT X-Small"
+   ]
+  },
+  "e5-15": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
   }
  }
 }

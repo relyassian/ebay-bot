@@ -1,4 +1,4 @@
-scan: 60
+scan: 16
 demand: -1
 explore: 0
 order fees: 2
@@ -66,7 +66,7 @@ market 820207186853: ours 994.99 vs cheapest - (0 others) · Gucci Screener GG S
 market 820207186878: ours 849.99 vs cheapest 325.0 (2 others) · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top
 market 820207186919: ours 709.99 vs cheapest 390.0 (4 others) · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top 
 market 820207186962: ours 754.99 vs cheapest - (0 others) · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Me
-market 820223864929: ours 704.99 vs cheapest 399.97 (8 others) · Gucci Loafer with Interlocking G Brown Men's Leath
+market 820223864929: ours 704.99 vs cheapest 399.97 (9 others) · Gucci Loafer with Interlocking G Brown Men's Leath
 market 820223865172: ours 674.99 vs cheapest 450.0 (9 others) · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sne
 market 820228649208: ours 989.99 vs cheapest - (0 others) · Bottega Veneta Eliot Mid-Top Sneaker Multi-Color M
 market 820228649230: ours 764.99 vs cheapest - (0 others) · Ferragamo Cassini Low-Top Sneaker Blue Men's Low T
