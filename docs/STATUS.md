@@ -497,3 +497,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Oct 28: second candidate sweep (Farfetch/Cettire/END/SSENSE/Nordstrom + StockX small goods)
 - 0 candidates. Ferragamo Farfetch sale ($377-523) needs eBay ~$750-800; eBay medians $380-450. SSENSE sale: only near-miss Givenchy New City black $299 (eBay median $530, n=21, net ~$111 at the median, <$100 if undercut; duty/shipping from SSENSE unverified). END, Cettire, Nordstrom: nothing. StockX small goods: asks >= retail, no spread (Gucci belt ceiling ~$110 vs asks $162+).
 - Not reached: Neiman (403), GOAT direct (403). Tip: eBay comp scans need real manufacturer style codes (SSENSE SKUs return n=0).
+
+## Oct 28 evening: apparel research (docs/apparel_candidates.md) + CLAUDE.md scope updated
+- ~1,100 men's apparel items screened (Italist, Nugnes1920, END, SSENSE, Mytheresa) vs eBay active asks (not sold data). 1 formal survivor (Rhude Split Petrol LS tee, END $214 M/L/XL, comps n=3 all $566.51 = likely one seller, weak). Better leads (comps n=1-2): Rick Owens x Moncler Jumbo tee (END $231, comps $632), Rick Owens x Moncler jogger ($342 vs $852), DRKSHDW Double Cargo jeans ($399 vs $1000+), AMI zipped jacket ($387 vs $1100).
+- Re-check at 16:xx ET: END page for the Rick Owens x Moncler tee returns 404 (gone/sold out/URL changed) -> leads decay fast; NOT building apparel support in bot/listing.py (only sneaker/loafer/dress_shoe/belt/tie today) until a lead is confirmed live with per-size stock.
+- If built later: CATEGORY_IDS tshirt 15687, pants 57989, jeans 11483, jacket 57988, sweater 11484, hoodie 155183; size name "Size"; clothing is NJ tax exempt; eBay Verify will reveal required specifics.
