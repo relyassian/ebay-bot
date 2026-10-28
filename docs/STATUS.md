@@ -493,3 +493,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Oct 28 check-in + one-week review (7:25am ET)
 - Research recovered: newest source_prices checked_at 2026-10-28T11:05Z (before the stale-hide). daily-sync/sale-alerts/market green. 81 live, 0 hidden-size notices. Room 13,776 items / $274k. notices.json empty.
 - One-week review (Oct 21 -> Oct 28): sales 0 new (total 1, $899.99). Watchers 255 -> 263 (+3%). views_7d 442 -> 597 (+35%), partly the 9-14 newly listed items (87 -> 101 tracked). Ads: 10 listings raised (1@10%, 3@12%, 1@15%, 2@18%, 3@20%), eBay accepted all. Verdict: keep $75 floor, ad rates, 25% sale badges one more week (traffic up, no sales yet; too early/no evidence to roll back). Re-review Nov 4.
+
+## Oct 28: second candidate sweep (Farfetch/Cettire/END/SSENSE/Nordstrom + StockX small goods)
+- 0 candidates. Ferragamo Farfetch sale ($377-523) needs eBay ~$750-800; eBay medians $380-450. SSENSE sale: only near-miss Givenchy New City black $299 (eBay median $530, n=21, net ~$111 at the median, <$100 if undercut; duty/shipping from SSENSE unverified). END, Cettire, Nordstrom: nothing. StockX small goods: asks >= retail, no spread (Gucci belt ceiling ~$110 vs asks $162+).
+- Not reached: Neiman (403), GOAT direct (403). Tip: eBay comp scans need real manufacturer style codes (SSENSE SKUs return n=0).
