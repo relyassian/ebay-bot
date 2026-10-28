@@ -67,6 +67,7 @@ Google Sheet dashboard (read-only) each run · bookkeeping per order (sale, fees
 
 ## Product scope
 - Now: luxury men's shoes (sneakers, loafers, dress shoes). Belts and ties are supported but only listed when a deep discount clears the floor: new luxury belts/ties resell on eBay below retail (checked Sept 30), so typical buy-price ceilings are ~65–80% off retail (e.g. Gucci GG Supreme belt ≤ ~$199, Ferragamo Gancini ≤ ~$128); ties almost never qualify.
+- **Apparel in scope (Rafael, Oct 28)**: men's shirts, pants, jackets, knitwear etc. are fine at any price point as long as they clear the same $100 net floor and pass the idol-worship / inappropriate-content filter (nothing Christian or religious, nothing inappropriate or explicit; brands in `config.yaml` → `exclude`). The listing pipeline only supports shoes, belts and ties today, so apparel categories must be added to `bot/listing.py` only after research finds candidates that clear the floor.
 - Later, only if the numbers prove out: wallets, cardholders, sunglasses, bags, then high-ticket apparel (≥ ~$800 retail). Skip cheap apparel.
 - Cufflinks are in scope (Rafael, Sept 30): Ferragamo Logo Engraved Cufflinks (356084785661) sourced from Cettire, the only store with stock, so it's listed in `sync.single_source_items`.
 - Belts are sized as the brand marks them (usually cm); ties are one-size single listings. Neither goes through Authenticity Guarantee.
