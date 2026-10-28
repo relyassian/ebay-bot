@@ -1,30 +1,215 @@
 {
- "checked": "2026-10-28T11:17:22Z",
+ "checked": "2026-10-28T16:09:42Z",
  "items": {
-  "mcq-loafer-778158": {
-   "n": 1,
-   "median": 249.99,
-   "cheapest": 249.99,
-   "p25": 249.99,
+  "lanvin-lnv1-silver": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "lanvin-lnv1-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "lanvin-jla-gray": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "lanvin-curb-offwhite": {
+   "n": 34,
+   "median": 549.0,
+   "cheapest": 263.0,
+   "p25": 400.1,
    "top": [
-    "$485 Alexander McQueen Men's Black Leather Loafer with Silver Skull 389537 1000"
+    "LANVIN Curb Low Top Suede Sneakers Gray White Light Blue Black New w/ Box",
+    "Lanvin Curb Sneakers White/Multicolored Size 42/9"
    ]
   },
-  "givenchy-bh009-black": {
+  "lanvin-curb-black": {
+   "n": 33,
+   "median": 450.0,
+   "cheapest": 219.75,
+   "p25": 350.0,
+   "top": [
+    "Lanvin Curb Chevron White Black Low Top Sneakers with Zigzag Laces",
+    "LANVIN Curb Sneakers \u2018Black Gum\u2019 Men\u2019s Low Top Lace-Up Sneakers New w/ Box"
+   ]
+  },
+  "jilsander-moon-white": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "givenchy-bh009-beige": {
+  "jilsander-moon-black": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "doucals-du3260": {
+  "amiri-slipon-loafer-black": {
+   "n": 1,
+   "median": 380.0,
+   "cheapest": 380.0,
+   "p25": 380.0,
+   "top": [
+    "AMIRI Men's Black Leather Slip-On Loafers Gold Chain Almond Toe US 13"
+   ]
+  },
+  "amiri-skyline-white-blue": {
+   "n": 1,
+   "median": 650.0,
+   "cheapest": 650.0,
+   "p25": 650.0,
+   "top": [
+    "AMIRI Men\u2019s Low Top MA Skyline Lace Up Colorblock Logo Sneakers White/Brown New"
+   ]
+  },
+  "amiri-skyline-khaki": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "amiri-ma1": {
+   "n": 7,
+   "median": 500.0,
+   "cheapest": 250.62,
+   "p25": 375.0,
+   "top": [
+    "AMIRI Crystal MA-1 Skeleton Top Sneaker White/Black Low Top Lace Up",
+    "Amiri MA-1 Sneaker White/Red Size EU 45 (US Men\u2019s 12) Brand New , Original all"
+   ]
+  },
+  "amiri-skel-low": {
+   "n": 34,
+   "median": 449.0,
+   "cheapest": 220.0,
+   "p25": 375.0,
+   "top": [
+    "AMIRI Skel Top Low Men's Leather Lace-Up Sneakers White/Silver US 10",
+    "Amiri Skel Low Top Sneakers Size 43 (10 US) White/Black"
+   ]
+  },
+  "marni-fussbett-brown": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "marsell-passo-black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "givenchy-newcity-black": {
+   "n": 21,
+   "median": 529.99,
+   "cheapest": 400.94,
+   "p25": 499.99,
+   "top": [
+    "New Givenchy Black Canvas City Platform Low Top Sneakers 38 EU NIB",
+    "New Givenchy Men's City Court Sneakers Tennis Shoes Size 11 White Black Band"
+   ]
+  },
+  "margiela-replica": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "margiela-tabi-derby": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "casablanca-court": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "casablanca-delmar": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "balenciaga-venom-derby": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "dvn-suede-sneaker": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "dsq2-boat": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "isabelmarant-fitzo": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "jilsander-laceup": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "kikok-komlo": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "vw-cardholder": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "baobao-clam-wallet": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "mm6-salomon-xt": {
    "n": 0,
    "median": null,
    "cheapest": null,
