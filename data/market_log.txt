@@ -1,4 +1,4 @@
-scan: 582
+scan: 60
 demand: -1
 explore: 0
 order fees: 2
