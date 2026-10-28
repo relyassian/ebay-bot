@@ -1,4 +1,5 @@
 # Store promo codes, refreshed by the daily research (see bot/promos.py)
+# 2026-10-28: Gmail (last 21 days, 12 stores) empty; no new codes. Farfetch GET10 expires today Oct 28.
 # 2026-10-26: Gmail (last 21 days, 12 stores) empty; no new codes. Farfetch GET10 ends ~Oct 28, entries unchanged.
 # 2026-10-25 (11:30Z): Gmail (last 21 days, 12 stores): only a StockX "Luxe for Less" marketing email, no code. Farfetch GET10 banner (up to 10% off selected styles) still showing, ends ~Oct 28.
 # 2026-10-25 (01:xxZ): Gmail (last 21 days, 12 stores) empty again; no new codes. Cettire OCT5 expired Oct 23, removed.
