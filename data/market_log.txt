@@ -1,4 +1,4 @@
-scan: 413
+scan: 582
 demand: -1
 explore: 0
 order fees: 2
@@ -98,7 +98,7 @@ market 820277098563: ours 1099.99 vs cheapest 735.95 (1 others) · Gucci Screene
 market 820281910101: ours 1309.99 vs cheapest - (0 others) · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
 market 820281910201: ours None vs cheapest 380.0 (11 others) · Gucci Driver Horsebit - Black Men's Leather Drivin
 market 820281910306: ours None vs cheapest 276.25 (23 others) · Gucci Driver Horsebit - Green Men's Suede Driving 
-market 820281910460: ours None vs cheapest 440.0 (25 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
+market 820281910460: ours None vs cheapest 440.0 (26 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
 market 820281910571: ours None vs cheapest 447.0 (3 others) · Gucci Tennis 1977 White Green Red Men's Leather Lo
 market 355066429434: ours None vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
