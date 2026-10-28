@@ -1,70 +1,35 @@
 {
- "checked": "2026-10-28T11:04:48Z",
+ "checked": "2026-10-28T11:11:55Z",
  "items": {
-  "fendi-basket-e25": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "fendi-e26": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "fendi-missina": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "bv-high-high-top": {
-   "n": 10,
-   "median": 375.55,
-   "cheapest": 292.5,
-   "p25": 308.24,
+  "mcq-loafer-778158": {
+   "n": 1,
+   "median": 249.99,
+   "cheapest": 249.99,
+   "p25": 249.99,
    "top": [
-    "NIB $950 Bottega Veneta Men Leather High Top Sneaker Shoes White 10 US/43 Eu",
-    "NIB $950 Bottega Veneta Men Leather High Top Sneaker Shoes White 8 US/41 Eu"
+    "$485 Alexander McQueen Men's Black Leather Loafer with Silver Skull 389537 1000"
    ]
   },
-  "tomford-slipon": {
+  "givenchy-bh009-black": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "ferragamo-gancini-nylon": {
-   "n": 60,
-   "median": 378.5,
-   "cheapest": 183.25,
-   "p25": 349.0,
-   "top": [
-    "Ferragamo Men's White Cotton Poplin Logo Italy Gancini Jacquard Shirt Size XL",
-    "Salvatore Ferragamo White Reversible Belt 2.5cm EU80 Gold Gancini Buckle"
-   ]
-  },
-  "dg-ariosto": {
+  "givenchy-bh009-beige": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "hogan-h-suede": {
-   "n": 2,
-   "median": 186.35,
-   "cheapest": 99.0,
-   "p25": 99.0,
-   "top": [
-    "Hogan Suede Sneakers Blue White Lace Up Logo Accent Low Top E30189D05 Designer",
-    "HOGAN Royal Blue Suede Men's Shoes,Size 11,Black Sole,Extra Laces,New Open Box"
-   ]
+  "doucals-du3260": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
   }
  }
 }
