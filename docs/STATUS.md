@@ -479,3 +479,12 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Effect: bot/sync.py decide() hides every live size with no row <36h old at the next daily-sync. Not yet seen to fire (last daily-sync 2026-10-27 16:49Z). Next scheduled research: 10:40Z (6:40 ET) Oct 28.
 - I tried to fire the research task now; the permission classifier denied it. Left for Rafael to run it / approve. No config loosened (max_source_age_hours stays 36).
 - 81 live, 1 sale total, watchers 262, views_7d 599. Room 13,776 items / $274k unused (limit is profitable candidates, not eBay room).
+
+## Oct 28: daily research (scheduled, 10:41-11:20Z, Mac browser linked)
+- Guard: newest checked_at was Oct 26 11:25Z (rows already >36h stale at start; outage Oct 27 = USAGE_LIMIT on the recurring task). Ran Part A in full.
+- Part A: GOAT 398 rows (69 of 73 pages' needed sizes via buy_bar_data; ~4 sizes with no ask left unchanged), StockX 105 rows (28 pages, top-level reader one page per call; iframe reader is UNRELIABLE: showed all-BID on pages that have asks, do not use), Farfetch Ferragamo Gancini moccasin 355420832785 (6 rows refreshed, US 9.5 sold out -> blanked, new size 11.5 $950 seen but not on listing), Farfetch D&G Saint Tropez 355422763143 (US 6 $460, US 7 $460 now cheaper than GOAT, US 8.5 $452), Cettire cufflinks $241.06 in stock. Pushed in 3 commits (0ebd901, 394794d, 36d9bbb); the daily-sync for 36d9bbb was cancelled by a newer push, so check that a sync ran after it.
+- Not refreshed: 8 non-live Farfetch candidates, Antonioli, END (expire; non-live). 4 StockX sizes with only BID left unchanged.
+- Part B: selling limit room is $274k so it is NOT skipped by rule, but I did not write new candidates (time went to Part A after the outage recovery).
+- Part C: Gmail (21 days, 12 stores) empty; promos.yaml note updated (Farfetch GET10 expires today).
+- Part D (light): Nugnes1920 sneakers/loafers/shoes/belts/accessories-man collections, >=45% off and in stock: Alexander McQueen leather loafer 778158 $445 (retail $890), Givenchy BH009 nabuk sneakers black/beige $425 ($850), Doucal's loafer $237.50, Moncler/Y-3 (brands not approved: not scanned). Scanned ~4 collections x up to 4 pages; 4 sent to the eBay comp check (requests/scan.json); results pending when this was written, no candidates written yet.
+- Browser tool notes: javascript_tool params are `action: javascript_exec` + `text` (REPL, no `return`); one StockX page per call (2 per batch times out at 50s).
