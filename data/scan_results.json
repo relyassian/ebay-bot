@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-28T16:16:32Z",
+ "checked": "2026-10-28T17:18:32Z",
  "items": {
   "lanvin-lnv1-a": {
    "n": 0,
@@ -111,8 +111,8 @@
    "top": []
   },
   "mcq-oversized": {
-   "n": 32,
-   "median": 242.5,
+   "n": 33,
+   "median": 300.0,
    "cheapest": 185.5,
    "p25": 208.6,
    "top": [
