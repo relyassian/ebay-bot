@@ -508,3 +508,11 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Farfetch men's sale (browser, signed in): deepest loaded -60% (Etudes Studio jacket $189, XS/S only). Typical -10% to -40%. 0 candidates.
 - Listing room is not the limit (13.7k items / $274k free). Limit is cost vs eBay price.
 - Still open: Givenchy New City black (SSENSE $299, eBay median $530) needs Rafael go-ahead after duty/shipping check; Black Friday (Nov 27) re-scan.
+
+## Oct 29: daily research (scheduled, 10:41-11:50Z, Mac browser linked)
+- Guard passed (newest checked_at was Oct 28 11:05Z). Part A: GOAT 397 rows (69 pages, buy_bar_data, all fetched), StockX 88 rows (29 pages, 4 parallel tabs works: seed+3 tabs, one page per browser_batch), Farfetch Ferragamo Gancini moccasin (US 5-9.5 refreshed; 10.5 blanked, not in menu) and D&G Saint Tropez (US 6/7/8.5 unchanged $460/$460/$452), Cettire cufflinks $241.06 in stock.
+- NOT refreshed (17 StockX rows): big sizes (about 12+) that the StockX size list does not show; they keep the Oct 28 11:04Z timestamp and expire ~23:04Z Oct 29, so those sizes come off sale tonight until tomorrow's run. Also not refreshed: non-live Farfetch/Antonioli/END rows.
+- Part B: skipped for time (room $274k is not the limit); 0 candidates written.
+- Part C: Gmail (21 days, 12 stores) empty. Farfetch GET10 expired Oct 28: removed from promos.yaml. Farfetch banner is only a refer-a-friend 10%, not a code.
+- Part D (light): Nugnes1920 sneakers/loafers/shoes/belts/accessories-man at >=45% off and in stock: same as Oct 28 (McQueen loafer 778158 $445, Givenchy BH009 black/beige $425, Doucal's loafer $237.50; Y-3 not approved). 4 items sent to the eBay comp scan (keys d-*), results not back yet when written; Nugnes ships from Italy (10% duty) so a median >= ~$750 is needed. 0 candidates.
+- Browser notes: StockX list is truncated for large sizes; Farfetch size menu reads via the second "Select size" element click (listbox shows "<size> Wide $<price>", prices differ per size).

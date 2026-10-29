@@ -1,4 +1,5 @@
 # Store promo codes, refreshed by the daily research (see bot/promos.py)
+# 2026-10-29: Gmail (last 21 days, 12 stores) empty; no new codes. Farfetch GET10 expired Oct 28, removed (Farfetch banner now only a refer-a-friend 10%, not a code).
 # 2026-10-28: Gmail (last 21 days, 12 stores) empty; no new codes. Farfetch GET10 expires today Oct 28.
 # 2026-10-26: Gmail (last 21 days, 12 stores) empty; no new codes. Farfetch GET10 ends ~Oct 28, entries unchanged.
 # 2026-10-25 (11:30Z): Gmail (last 21 days, 12 stores): only a StockX "Luxe for Less" marketing email, no code. Farfetch GET10 banner (up to 10% off selected styles) still showing, ends ~Oct 28.
@@ -13,5 +14,4 @@
 # GOAT and StockX showed no buyer code. Others not re-read today.
 cettire:
   - {code: FIRST10, discount: "extra 10% off, first purchase only, Cettire app only", source: "Cettire site banner, read Oct 14"}
-farfetch:
-  - {code: GET10, discount: "up to 10% off selected styles only; basket min $300 before promo, max $300 off, once per customer, not with other codes", expires: 2026-10-28, source: "Farfetch product page terms, read Oct 13"}
+farfetch: []
