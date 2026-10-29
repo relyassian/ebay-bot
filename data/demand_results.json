@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-28T17:18:32Z",
+ "checked": "2026-10-29T10:52:16Z",
  "items": {
   "355426430327": {
    "listings": 0,
@@ -108,7 +108,7 @@
      "price": 749.99,
      "title": "NEW GUCCI MEN\u2019S BEIGE EBONY GG TENNIS 1977 SNEAKER SHOES 8/US 8.5",
      "seller": "current-styles",
-     "fb": 7612
+     "fb": 7613
     }
    ]
   },
@@ -127,11 +127,20 @@
    "top": []
   },
   "355420967506": {
-   "listings": 0,
+   "listings": 1,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": null,
-   "top": []
+   "median_price": 1270.0,
+   "top": [
+    {
+     "sold": 0,
+     "created": "2025-12-24T01:54:51.000Z",
+     "price": 1270.0,
+     "title": "Gucci Black Leather Horsebit Web Lug Sole Loafer",
+     "seller": "ssam355",
+     "fb": 59
+    }
+   ]
   },
   "355066429434": {
    "listings": 0,
@@ -180,7 +189,7 @@
      "price": 749.0,
      "title": "Balenciaga Runner Sneakers In Matte Black - Men's Size US 13 (772774W3RBT1000)",
      "seller": "jdm_bryian",
-     "fb": 363
+     "fb": 364
     },
     {
      "sold": 0,
@@ -208,27 +217,27 @@
    "top": [
     {
      "sold": 0,
+     "created": "2026-07-20T17:53:27.000Z",
+     "price": 499.0,
+     "title": "Size 12 NEW Balenciaga Runner Sneaker High Black White - Super Clean (45)",
+     "seller": "alexzh76",
+     "fb": 875
+    },
+    {
+     "sold": 0,
      "created": "2026-07-03T18:01:22.000Z",
      "price": 699.99,
      "title": "Size 10/43 - Balenciaga Runner Sneaker High Triple White - Brand New",
      "seller": "dstar.mrkt",
-     "fb": 1855
+     "fb": 1863
     },
     {
      "sold": 0,
-     "created": "2025-12-21T17:50:35.000Z",
-     "price": 499.0,
-     "title": "Balenciaga Runner Sneaker White Size 37 US 7. Brand New with Box and Dust Bag",
-     "seller": "thegangeriarchive",
-     "fb": 2
-    },
-    {
-     "sold": 0,
-     "created": "2026-05-05T14:35:42.000Z",
-     "price": 1012.0,
-     "title": "Balenciaga Mesh Runner Sneaker in White / Fluo Yellow / Grey / Purple BNWB 46",
+     "created": "2026-06-23T07:06:09.000Z",
+     "price": 960.0,
+     "title": "Balenciaga Runner Sneaker in White / Beige / Grey / Blue BNWB 41",
      "seller": "nothingfake37",
-     "fb": 1403
+     "fb": 1404
     }
    ]
   },
@@ -244,7 +253,7 @@
      "price": 169.95,
      "title": "Bally Waltec Men's 6198385 Navy Blue Leather Loafer MSRP $620",
      "seller": "authenticdeals",
-     "fb": 13936
+     "fb": 13943
     },
     {
      "sold": 0,
@@ -354,12 +363,12 @@
    "listings": 3,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 551.95,
+   "median_price": 581.0,
    "top": [
     {
      "sold": 0,
      "created": "2026-05-01T16:58:25.000Z",
-     "price": 551.95,
+     "price": 581.0,
      "title": "Gucci Gucci Ace GG Embossed - Black 625787-1XK10-1000 Available Now",
      "seller": "mad-goods",
      "fb": 1124
@@ -370,7 +379,7 @@
      "price": 550.0,
      "title": "Gucci Ace 'GG Embossed - Black' 625787 1XK10 1000  Size 15.5us Or (15 Gucci)",
      "seller": "81gdrago81",
-     "fb": 1163
+     "fb": 1165
     },
     {
      "sold": 0,
@@ -383,20 +392,11 @@
    ]
   },
   "820207186222": {
-   "listings": 1,
+   "listings": 0,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 619.0,
-   "top": [
-    {
-     "sold": 0,
-     "created": "2026-04-23T20:14:32.000Z",
-     "price": 619.0,
-     "title": "GUCCI Ace GG Embossed Mystic White Men\u2019s Sneakers Tennis Shoes Size US 17",
-     "seller": "wortheverypennie",
-     "fb": 700
-    }
-   ]
+   "median_price": null,
+   "top": []
   },
   "820205329339": {
    "listings": 0,
@@ -455,7 +455,7 @@
      "price": 416.0,
      "title": "Gucci x adidas Gazelle Black GG Monogram IE2264 Men Size",
      "seller": "swaxbox",
-     "fb": 51557
+     "fb": 51598
     },
     {
      "sold": 0,
@@ -471,7 +471,7 @@
      "price": 517.0,
      "title": "Gucci x Gazelle 'Black GG Monogram' - IE2264 Men",
      "seller": "mxcltd2",
-     "fb": 865
+     "fb": 867
     }
    ]
   },
@@ -494,7 +494,7 @@
      "price": 499.99,
      "title": "Men\u2019s Brand New Gucci Sneakers Sz-13 [724004 fAA1U 1158]",
      "seller": "kicks_4_you",
-     "fb": 6560
+     "fb": 6570
     },
     {
      "sold": 0,
@@ -502,15 +502,15 @@
      "price": 399.0,
      "title": "Gucci Men's Red Basket Low White Demetra Black Sneakers Size 12G 12.5 US",
      "seller": "9_lives",
-     "fb": 2530
+     "fb": 2531
     },
     {
      "sold": 0,
-     "created": "2025-08-04T03:19:34.000Z",
-     "price": 600.0,
-     "title": "Size 9 - Gucci Basket High Black Demetra Red",
-     "seller": "platinumtradingcards",
-     "fb": 57
+     "created": "2025-01-10T04:18:42.000Z",
+     "price": 399.99,
+     "title": "NEW AUTHENTIC GUCCI  BASKET LOW \"RED BLACK DEMETRA\" MENS GUCCI 13  ( US 13.5 )",
+     "seller": "romm3030",
+     "fb": 16095
     }
    ]
   },
@@ -518,7 +518,7 @@
    "listings": 10,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 382.5,
+   "median_price": 395.0,
    "top": [
     {
      "sold": 0,
@@ -561,19 +561,19 @@
    "top": [
     {
      "sold": 0,
+     "created": "2023-11-19T19:06:46.000Z",
+     "price": 499.99,
+     "title": "NEW AUTHENTIC GUCCI  BASKET HIGH \"BLACK DEMETRA\" MENS GUCCI 6.5 (US 7)",
+     "seller": "romm3030",
+     "fb": 16095
+    },
+    {
+     "sold": 0,
      "created": "2025-08-04T03:19:34.000Z",
      "price": 600.0,
      "title": "Size 9 - Gucci Basket High Black Demetra Red",
      "seller": "platinumtradingcards",
      "fb": 57
-    },
-    {
-     "sold": 0,
-     "created": "2023-11-19T19:06:46.000Z",
-     "price": 499.99,
-     "title": "NEW AUTHENTIC GUCCI  BASKET HIGH \"BLACK DEMETRA\" MENS GUCCI 6.5 (US 7)",
-     "seller": "romm3030",
-     "fb": 16094
     },
     {
      "sold": 0,
@@ -609,11 +609,11 @@
     },
     {
      "sold": 0,
-     "created": "2026-08-16T07:39:29.000Z",
-     "price": 450.0,
-     "title": "Size 11 - Gucci Basket High Green Demetra",
-     "seller": "ld624",
-     "fb": 296
+     "created": "2023-11-17T02:25:45.000Z",
+     "price": 489.99,
+     "title": "GUCCI High Top BASKET Sneakers \"Green Demetra\" MENS UK 9 US 9.5 $980 NIB Authent",
+     "seller": "oks101",
+     "fb": 21711
     }
    ]
   },
@@ -629,7 +629,7 @@
      "price": 1800.0,
      "title": "Gucci Basket High White Demetra Red Men\u2019s High Top Logo Sneakers (Size 11)",
      "seller": "bodegasnorlax",
-     "fb": 32
+     "fb": 33
     },
     {
      "sold": 0,
@@ -661,7 +661,7 @@
      "price": 365.0,
      "title": "12 NEW $950 GUCCI Mens White Green GG Demetra Basket Distressed Low-Top SNEAKERS",
      "seller": "coutureforall",
-     "fb": 10886
+     "fb": 10888
     },
     {
      "sold": 0,
@@ -669,15 +669,15 @@
      "price": 595.0,
      "title": "GUCCI Demetra GG Supreme Basket Low Top Sneakers Green White Men's Size 12 NEW",
      "seller": "100kellid",
-     "fb": 2656
+     "fb": 2658
     },
     {
      "sold": 0,
-     "created": "2025-08-15T16:09:34.000Z",
-     "price": 399.99,
-     "title": "NEW AUTHENTIC GUCCI  BASKET LOW \"WHITE DEMETRA GREEN\" MENS GUCCI 13  ( US 13.5 )",
-     "seller": "romm3030",
-     "fb": 16094
+     "created": "2025-09-08T23:03:31.000Z",
+     "price": 399.0,
+     "title": "Authentic Men's Gucci Green White Demetra Basket Low Sneakers 698785 New $950",
+     "seller": "msand1",
+     "fb": 24777
     }
    ]
   },
@@ -693,7 +693,7 @@
      "price": 399.0,
      "title": "Gucci Men's Red Basket Low White Demetra Black Sneakers Size 12G 12.5 US",
      "seller": "9_lives",
-     "fb": 2530
+     "fb": 2531
     },
     {
      "sold": 0,
@@ -725,7 +725,7 @@
      "price": 399.0,
      "title": "Gucci Men's Red Basket Low White Demetra Black Sneakers Size 12G 12.5 US",
      "seller": "9_lives",
-     "fb": 2530
+     "fb": 2531
     },
     {
      "sold": 0,
@@ -737,11 +737,11 @@
     },
     {
      "sold": 0,
-     "created": "2025-01-10T04:18:42.000Z",
-     "price": 399.99,
-     "title": "NEW AUTHENTIC GUCCI  BASKET LOW \"RED BLACK DEMETRA\" MENS GUCCI 13  ( US 13.5 )",
-     "seller": "romm3030",
-     "fb": 16094
+     "created": "2023-11-25T06:19:03.000Z",
+     "price": 419.99,
+     "title": "GUCCI Low Top BASKET Sneakers Demetra MENS UK 9.5 US 10 Red Black $950 100% Auth",
+     "seller": "oks101",
+     "fb": 21711
     }
    ]
   },
@@ -773,7 +773,7 @@
      "price": 750.0,
      "title": "Gucci D3915 Black Leather Green Interlocking G Horsebit Driver Shoes Size 11 G",
      "seller": "lamoda2016",
-     "fb": 34111
+     "fb": 34119
     }
    ]
   },
@@ -815,19 +815,19 @@
    "top": [
     {
      "sold": 0,
-     "created": "2024-07-31T17:19:36.000Z",
-     "price": 530.0,
-     "title": "\ud83c\udd95\ufe0fGUCCI QUENTIN Horsebit Black Leather DRIVER LOAFER Men's Shoes 9 US-9.5",
-     "seller": "sheros2010",
-     "fb": 6287
-    },
-    {
-     "sold": 0,
      "created": "2025-10-14T04:14:34.000Z",
      "price": 499.99,
      "title": "Gucci Driver Horsebit Loafer Men's Black 624698 1XH10 Size 8",
      "seller": "nikov28",
      "fb": 134
+    },
+    {
+     "sold": 0,
+     "created": "2024-07-31T17:19:36.000Z",
+     "price": 530.0,
+     "title": "\ud83c\udd95\ufe0fGUCCI QUENTIN Horsebit Black Leather DRIVER LOAFER Men's Shoes 9 US-9.5",
+     "seller": "sheros2010",
+     "fb": 6288
     },
     {
      "sold": 0,
@@ -864,7 +864,7 @@
    "listings": 8,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 499.5,
+   "median_price": 520.0,
    "top": [
     {
      "sold": 0,
@@ -872,7 +872,7 @@
      "price": 449.0,
      "title": "GUCCI Interlocking G Horsebit Logo Supreme Loafer Brown Leather Mens UK 7 US 7.5",
      "seller": "greatdealsa2c",
-     "fb": 6005
+     "fb": 6006
     },
     {
      "sold": 0,
@@ -880,7 +880,7 @@
      "price": 447.0,
      "title": "GUCCI Interlocking G Horsebit Logo Supreme Loafer Brown Leather Mens UK 7.5 US 8",
      "seller": "greatdealsa2c",
-     "fb": 6005
+     "fb": 6006
     },
     {
      "sold": 0,
@@ -900,11 +900,11 @@
    "top": [
     {
      "sold": 0,
-     "created": "2026-07-01T20:40:38.000Z",
-     "price": 579.0,
-     "title": "Gucci Mac80 Sneaker Off White Black Size 40.5",
-     "seller": "mkcb2971",
-     "fb": 489
+     "created": "2025-07-29T21:26:23.000Z",
+     "price": 525.0,
+     "title": "Gucci MAC80 Sneaker 'Off White Black' MEN",
+     "seller": "yanchuns123",
+     "fb": 140
     },
     {
      "sold": 0,
@@ -916,11 +916,11 @@
     },
     {
      "sold": 0,
-     "created": "2025-07-29T21:26:23.000Z",
-     "price": 525.0,
-     "title": "Gucci MAC80 Sneaker 'Off White Black' MEN",
-     "seller": "yanchuns123",
-     "fb": 140
+     "created": "2026-07-01T20:40:38.000Z",
+     "price": 579.0,
+     "title": "Gucci Mac80 Sneaker Off White Black Size 40.5",
+     "seller": "mkcb2971",
+     "fb": 489
     }
    ]
   },
@@ -936,15 +936,7 @@
      "price": 449.99,
      "title": "NIB Gucci Mac80 Leather Sneaker Blue White Size UK9.5 US10 Authentic",
      "seller": "a.m.studio",
-     "fb": 509
-    },
-    {
-     "sold": 0,
-     "created": "2026-07-02T16:19:10.000Z",
-     "price": 450.0,
-     "title": "Authentic Gucci MAC80 Off-White/Blue Mens Sneaker/Trainers US11.5 EU45 UK11",
-     "seller": "vluxstyle",
-     "fb": 1338
+     "fb": 510
     },
     {
      "sold": 0,
@@ -953,6 +945,14 @@
      "title": "Gucci MAC80 Sneaker White Blue",
      "seller": "yanchuns123",
      "fb": 140
+    },
+    {
+     "sold": 0,
+     "created": "2026-07-02T16:19:10.000Z",
+     "price": 450.0,
+     "title": "Authentic Gucci MAC80 Off-White/Blue Mens Sneaker/Trainers US11.5 EU45 UK11",
+     "seller": "vluxstyle",
+     "fb": 1338
     }
    ]
   },
@@ -964,19 +964,19 @@
    "top": [
     {
      "sold": 0,
-     "created": "2026-07-02T16:19:10.000Z",
-     "price": 450.0,
-     "title": "Authentic Gucci MAC80 Off-White/Blue Mens Sneaker/Trainers US11.5 EU45 UK11",
-     "seller": "vluxstyle",
-     "fb": 1338
-    },
-    {
-     "sold": 0,
      "created": "2025-07-29T21:26:23.000Z",
      "price": 525.0,
      "title": "Gucci MAC80 Sneaker 'Off White Black' MEN",
      "seller": "yanchuns123",
      "fb": 140
+    },
+    {
+     "sold": 0,
+     "created": "2026-07-02T16:19:10.000Z",
+     "price": 450.0,
+     "title": "Authentic Gucci MAC80 Off-White/Blue Mens Sneaker/Trainers US11.5 EU45 UK11",
+     "seller": "vluxstyle",
+     "fb": 1338
     },
     {
      "sold": 0,
@@ -1008,7 +1008,7 @@
      "price": 695.0,
      "title": "GUCCI MEN'S MAC80 SNEAKER. SIZE USA 7.5 / GUCCI 7. OFF WHITE & BLUE LEATHER. NEW",
      "seller": "vadik3355",
-     "fb": 2349
+     "fb": 2350
     },
     {
      "sold": 0,
@@ -1016,7 +1016,7 @@
      "price": 649.0,
      "title": "GUCCI MEN'S MAC80 SNEAKER. SIZE USA 8 / GUCCI 7.5. OFF WHITE & BLUE LEATHER. NEW",
      "seller": "vadik3355",
-     "fb": 2349
+     "fb": 2350
     }
    ]
   },
@@ -1165,7 +1165,7 @@
      "price": 699.0,
      "title": "Gucci Run Sneaker Interlocking G Black Technical Knit Men's Size 12.5 US 13 NEW",
      "seller": "100kellid",
-     "fb": 2656
+     "fb": 2658
     },
     {
      "sold": 0,
@@ -1173,7 +1173,7 @@
      "price": 499.0,
      "title": "NIB Gucci Run Floral Print Knit Sneaker UK 9.5 US 10 Black Multicolor Men",
      "seller": "sevenril_luxe",
-     "fb": 2320
+     "fb": 2321
     },
     {
      "sold": 0,
@@ -1197,7 +1197,7 @@
      "price": 599.0,
      "title": "NIB Gucci Run Knit Sneaker EU 41.5 US 11.5  Black White Interlocking G",
      "seller": "sevenril_luxe",
-     "fb": 2320
+     "fb": 2321
     },
     {
      "sold": 0,
@@ -1213,7 +1213,7 @@
      "price": 349.0,
      "title": "Gucci Men\u2019s Sneaker GG Run Knit White/ Gray/ Black UK 12 US 12.5 - NEW in box",
      "seller": "greatdealsa2c",
-     "fb": 6005
+     "fb": 6006
     }
    ]
   },
@@ -1258,20 +1258,20 @@
      "price": 499.0,
      "title": "Gucci Tennis 1977 Black Ivory Supreme Men's Sneakers Size 14G",
      "seller": "desertshoes",
-     "fb": 19020
+     "fb": 19023
     }
    ]
   },
   "820207186919": {
-   "listings": 4,
+   "listings": 5,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 635.0,
+   "median_price": 620.0,
    "top": [
     {
      "sold": 0,
      "created": "2026-08-17T11:11:00.000Z",
-     "price": 671.65,
+     "price": 475.95,
      "title": "Gucci Gucci Tennis 1977 Blue Ivory 606111-2KQ10-4463 Available Now",
      "seller": "mad-goods",
      "fb": 1124
@@ -1286,11 +1286,11 @@
     },
     {
      "sold": 0,
-     "created": "2026-08-04T22:42:29.000Z",
-     "price": 390.0,
-     "title": "GUCCI Tennis 1977 men\u2019s low-top canvas sneakers Blue/Ivory UK 13 US 13.5 $790",
-     "seller": "alwaysshop4less",
-     "fb": 1685
+     "created": "2026-08-17T11:11:00.000Z",
+     "price": 671.65,
+     "title": "Gucci Gucci Tennis 1977 Blue Ivory 606111-2KQ10-4463 Available Now",
+     "seller": "mad-goods",
+     "fb": 1124
     }
    ]
   },
@@ -1341,7 +1341,7 @@
      "price": 799.99,
      "title": "Maison Margiela Sprinters Sneaker Shoes NEW size 35 EU 5 US Green White Grey",
      "seller": "crystalsdesandiego",
-     "fb": 319
+     "fb": 320
     }
    ]
   },
@@ -1361,73 +1361,73 @@
   },
   "belt:gucci": {
    "listings": 10,
-   "sold_total": 3,
-   "sold_per_30d": 1.0,
-   "median_price": 294.5,
+   "sold_total": 1,
+   "sold_per_30d": 0.2,
+   "median_price": 300.0,
    "top": [
-    {
-     "sold": 2,
-     "created": "2026-08-10T21:34:25.000Z",
-     "price": 250.75,
-     "title": "New Gucci Men\u2019s Gucci Print Leather Belt Black 100/40 793760",
-     "seller": "onlyluxuryclothing12",
-     "fb": 5997
-    },
     {
      "sold": 1,
      "created": "2026-06-29T14:06:25.000Z",
      "price": 250.75,
      "title": "New Gucci Men\u2019s Gucci Print Leather Belt Black 90/36 793760",
      "seller": "onlyluxuryclothing12",
-     "fb": 5997
+     "fb": 5998
     },
     {
      "sold": 0,
-     "created": "2026-10-28T14:19:59.000Z",
-     "price": 350.0,
-     "title": "GUCCI GG  Marmot Reversible Belt GG SUPREME BEIGE/EBONY/BLACK Size 32",
+     "created": "2026-10-23T01:09:00.000Z",
+     "price": 300.0,
+     "title": "Gucci Men's Interlocking G Logo Leather Belt color Black Size 80/32",
      "seller": "kamda55",
      "fb": 53
+    },
+    {
+     "sold": 0,
+     "created": "2026-10-24T17:17:47.000Z",
+     "price": 375.0,
+     "title": "New Gucci Feline Head Leather Belt With Interlocking G Detail. MSRP $520",
+     "seller": "studiodress",
+     "fb": 2303
     }
    ]
   },
   "belt:ferragamo": {
    "listings": 10,
-   "sold_total": 9,
-   "sold_per_30d": 1.8,
+   "sold_total": 38,
+   "sold_per_30d": 11.3,
    "median_price": 95.0,
    "top": [
     {
-     "sold": 2,
-     "created": "2026-05-12T14:54:44.000Z",
-     "price": 95.0,
-     "title": "Salvatore Ferragamo Gancini Men's Reversible Leather Belt",
-     "seller": "elizabeth237270",
-     "fb": 1248
-    },
-    {
-     "sold": 2,
-     "created": "2026-06-27T15:14:18.000Z",
-     "price": 95.0,
-     "title": "Salvatore Ferragamo Gancini Men's Reversible Leather Belt",
-     "seller": "elizabeth237270",
-     "fb": 1248
-    },
-    {
-     "sold": 2,
+     "sold": 15,
      "created": "2026-05-22T01:00:40.000Z",
      "price": 95.0,
      "title": "Salvatore Ferragamo Gancini Men's Reversible Leather Belt",
      "seller": "elizabeth237270",
-     "fb": 1248
+     "fb": 1255
+    },
+    {
+     "sold": 8,
+     "created": "2026-06-27T15:14:18.000Z",
+     "price": 95.0,
+     "title": "Salvatore Ferragamo Gancini Men's Reversible Leather Belt",
+     "seller": "elizabeth237270",
+     "fb": 1255
+    },
+    {
+     "sold": 6,
+     "created": "2026-05-22T00:55:55.000Z",
+     "price": 95.0,
+     "title": "Salvatore Ferragamo Gancini Men's Reversible Leather Belt",
+     "seller": "elizabeth237270",
+     "fb": 1255
     }
    ]
   },
   "belt:bally": {
    "listings": 10,
-   "sold_total": 25,
-   "sold_per_30d": 1.3,
-   "median_price": 154.22,
+   "sold_total": 28,
+   "sold_per_30d": 1.4,
+   "median_price": 144.22,
    "top": [
     {
      "sold": 9,
@@ -1435,7 +1435,7 @@
      "price": 138.25,
      "title": "Bally 6235340 Men's Logo Buckle Webbing Stripe Reversible Belt EU 100/US 40",
      "seller": "authenticdeals",
-     "fb": 13936
+     "fb": 13943
     },
     {
      "sold": 8,
@@ -1443,22 +1443,22 @@
      "price": 139.95,
      "title": "Bally 6302245 Men's Mirror Buckle Adjustable Reversible Black Belt EU 110/US 44",
      "seller": "authenticdeals",
-     "fb": 13936
+     "fb": 13943
     },
     {
      "sold": 3,
-     "created": "2024-12-11T20:28:02.000Z",
-     "price": 166.95,
-     "title": "Bally 6302246 Men's Mirror Buckle Adjustable Reversible Belt EU 110/US 44",
+     "created": "2024-12-10T18:06:31.000Z",
+     "price": 132.95,
+     "title": "Bally 6305015 Emblem Adjustable Reversible Leather Black Belt EU 95/US 38",
      "seller": "authenticdeals",
-     "fb": 13936
+     "fb": 13943
     }
    ]
   },
   "wallet:gucci": {
    "listings": 10,
-   "sold_total": 6,
-   "sold_per_30d": 7.5,
+   "sold_total": 7,
+   "sold_per_30d": 7.3,
    "median_price": 300.0,
    "top": [
     {
@@ -1470,44 +1470,44 @@
      "fb": 38
     },
     {
+     "sold": 1,
+     "created": "2026-01-05T15:28:09.000Z",
+     "price": 399.0,
+     "title": "GUCCI GG Canvas Men\u2019s Wallet ( New )",
+     "seller": "jy7476",
+     "fb": 148
+    },
+    {
      "sold": 0,
      "created": "2026-10-26T21:23:21.000Z",
      "price": 250.0,
      "title": "Gucci GG Supreme Card Holder Black Grey Double G Wallet w/ Box & Dust Bag",
      "seller": "jason970524",
      "fb": 1
-    },
-    {
-     "sold": 0,
-     "created": "2026-01-17T17:52:02.000Z",
-     "price": 314.99,
-     "title": "Gucci Wallet \u201cDouble G\u201d Olive Green \u201cShanghai Metal\u201d BRAND NEW WITH PAPERS",
-     "seller": "brooklyn13a",
-     "fb": 167
     }
    ]
   },
   "wallet:ferragamo": {
    "listings": 10,
-   "sold_total": 13,
-   "sold_per_30d": 1.6,
-   "median_price": 234.99,
+   "sold_total": 11,
+   "sold_per_30d": 1.5,
+   "median_price": 244.99,
    "top": [
-    {
-     "sold": 7,
-     "created": "2023-12-15T16:01:46.000Z",
-     "price": 169.99,
-     "title": "Salvatore Ferragamo Brown Card Case Holder Wallet New in Box",
-     "seller": "saledoctor",
-     "fb": 1517
-    },
     {
      "sold": 5,
      "created": "2024-01-26T15:15:20.000Z",
      "price": 297.49,
      "title": "Salvatore Ferragamo Men's Chocolate Brown Pebbled Leather Bifold Wallet",
      "seller": "vip_couture",
-     "fb": 81203
+     "fb": 81209
+    },
+    {
+     "sold": 5,
+     "created": "2024-05-21T03:02:12.000Z",
+     "price": 239.99,
+     "title": "Salvatore Ferragamo Men's Blue Leather Wallet Bifold New With Tags",
+     "seller": "saledoctor",
+     "fb": 1517
     },
     {
      "sold": 1,
@@ -1521,9 +1521,9 @@
   },
   "wallet:prada": {
    "listings": 10,
-   "sold_total": 10,
-   "sold_per_30d": 3.8,
-   "median_price": 257.5,
+   "sold_total": 11,
+   "sold_per_30d": 4.0,
+   "median_price": 361.99,
    "top": [
     {
      "sold": 8,
@@ -1531,7 +1531,7 @@
      "price": 174.8,
      "title": "Prada Saffiano Leather Card Holder Zip Coin Pocket 6 Card Slots Unisex Wallet 8\u00d7",
      "seller": "jagr-568351",
-     "fb": 43
+     "fb": 44
     },
     {
      "sold": 2,
@@ -1539,15 +1539,15 @@
      "price": 205.39,
      "title": "Prada Saffiano Leather Zip Card Holder Wallet Brown 2MM003",
      "seller": "jagr-568351",
-     "fb": 43
+     "fb": 44
     },
     {
-     "sold": 0,
-     "created": "2026-10-27T23:39:17.000Z",
-     "price": 215.0,
-     "title": "Brand New Auth. PRADA Saffiano Leather Compact Snap Trifold Wallet  Red (Rubino)",
-     "seller": "ramaxrama",
-     "fb": 128
+     "sold": 1,
+     "created": "2026-07-11T15:26:33.000Z",
+     "price": 742.5,
+     "title": "Prada Men\u2019s Gray Vitello Micro Grain Leather Triangle Logo Bifold Wallet New",
+     "seller": "queenbeebeverlyhills",
+     "fb": 1843
     }
    ]
   },
@@ -1585,73 +1585,73 @@
   },
   "sunglasses:gucci": {
    "listings": 10,
-   "sold_total": 375,
-   "sold_per_30d": 35.2,
-   "median_price": 152.07,
+   "sold_total": 323,
+   "sold_per_30d": 42.0,
+   "median_price": 155.86,
    "top": [
     {
      "sold": 180,
      "created": "2025-12-24T15:15:42.000Z",
-     "price": 138.52,
+     "price": 156.33,
      "title": "Gucci Grey Browline Men's Sunglasses GG0748S 001 59 GG0748S 001 59",
      "seller": "leperfect",
-     "fb": 269701
+     "fb": 269846
     },
     {
      "sold": 91,
      "created": "2026-01-15T15:15:53.000Z",
-     "price": 174.99,
+     "price": 173.67,
      "title": "Gucci Grey Square Men's Sunglasses GG0340S 006 58 GG0340S 006 58",
      "seller": "leperfect",
-     "fb": 269701
+     "fb": 269846
     },
     {
-     "sold": 78,
-     "created": "2022-04-11T02:03:55.000Z",
-     "price": 293.6,
-     "title": "GUCCI GG0336S 001 Gold Brown Men's Rectangle Sunglasses 60 mm",
-     "seller": "newbranditems",
-     "fb": 35512
+     "sold": 16,
+     "created": "2026-07-16T15:13:26.000Z",
+     "price": 115.49,
+     "title": "Gucci Grey Rectangular Men's Sunglasses GG0746S 001 57 GG0746S 001 57",
+     "seller": "leperfect",
+     "fb": 269846
     }
    ]
   },
   "sunglasses:prada": {
    "listings": 10,
-   "sold_total": 106,
-   "sold_per_30d": 4.2,
-   "median_price": 165.0,
+   "sold_total": 7,
+   "sold_per_30d": 8.9,
+   "median_price": 184.5,
    "top": [
     {
-     "sold": 102,
-     "created": "2023-10-18T22:06:01.000Z",
-     "price": 366.4,
-     "title": "PRADA PR 09ZSF 1AB5S0 Black Grey Men's 55 mm Sunglasses",
-     "seller": "newbranditems",
-     "fb": 35512
+     "sold": 3,
+     "created": "2026-10-03T09:37:25.000Z",
+     "price": 162.0,
+     "title": "PRADA PR 65ZS ZVN09T Gold Black Blue Grey Lenses Sunglasses - NEW",
+     "seller": "countryheartfarm501c3",
+     "fb": 7
     },
     {
-     "sold": 4,
-     "created": "2026-08-07T13:44:56.000Z",
-     "price": 159.99,
-     "title": "Prada Sunglasses PS50ZS 1BC09U Silver & Black Frame / Grey Lens NEW 65mm",
-     "seller": "glassesworlds",
-     "fb": 57511
+     "sold": 2,
+     "created": "2026-10-07T02:09:38.000Z",
+     "price": 256.99,
+     "title": "PRADA PR 10ZSF 1AB5S0 Black Dark Grey 55 mm Men's Sunglasses",
+     "seller": "sunglassparade",
+     "fb": 23072
     },
     {
-     "sold": 0,
-     "created": "2026-10-28T08:06:39.000Z",
-     "price": 89.99,
-     "title": "Prada 3717 Rectangular Sunglasses Black Frame Brown Orange Lenses",
-     "seller": "julian_mu",
-     "fb": 78
+     "sold": 1,
+     "created": "2026-10-07T02:09:34.000Z",
+     "price": 279.0,
+     "title": "PRADA PR 10ZS 1AB5S0 Black Dark Grey 54 mm Men's Sunglasses",
+     "seller": "sunglassparade",
+     "fb": 23072
     }
    ]
   },
   "tie:ferragamo": {
    "listings": 10,
-   "sold_total": 7,
-   "sold_per_30d": 4.0,
-   "median_price": 125.0,
+   "sold_total": 6,
+   "sold_per_30d": 3.7,
+   "median_price": 130.0,
    "top": [
     {
      "sold": 3,
@@ -1667,7 +1667,7 @@
      "price": 69.49,
      "title": "NWT Men's Ferragamo Silk Tie Luxury Executive Business Formal Necktie",
      "seller": "amillz5",
-     "fb": 13
+     "fb": 14
     },
     {
      "sold": 1,
@@ -1675,7 +1675,7 @@
      "price": 125.0,
      "title": "Salvatore Ferragamo New Bell Pepper Silk Tie Necktie",
      "seller": "black*label*resale",
-     "fb": 15748
+     "fb": 15751
     }
    ]
   },
@@ -1683,7 +1683,7 @@
    "listings": 10,
    "sold_total": 1,
    "sold_per_30d": 0.1,
-   "median_price": 262.99,
+   "median_price": 259.99,
    "top": [
     {
      "sold": 1,
@@ -1695,27 +1695,27 @@
     },
     {
      "sold": 0,
-     "created": "2026-09-07T02:09:22.000Z",
-     "price": 310.0,
-     "title": "Salvatore Ferragamo Gancini Cufflinks New In Box",
-     "seller": "lasantino",
-     "fb": 3066
-    },
-    {
-     "sold": 0,
      "created": "2026-10-20T01:33:31.000Z",
-     "price": 265.98,
+     "price": 259.98,
      "title": "Salvatore Ferragamo Cufflinks Gancini Silver",
      "seller": "luxesyndicate",
      "fb": 951
+    },
+    {
+     "sold": 0,
+     "created": "2026-10-18T00:32:19.000Z",
+     "price": 250.0,
+     "title": "Salvatore Ferragamo Men\u2019s  Silvertone Cufflinks NIB",
+     "seller": "ogbaru",
+     "fb": 4590
     }
    ]
   },
   "cufflinks:gucci": {
    "listings": 10,
-   "sold_total": 5,
+   "sold_total": 7,
    "sold_per_30d": 0.5,
-   "median_price": 340.5,
+   "median_price": 362.5,
    "top": [
     {
      "sold": 5,
@@ -1726,20 +1726,20 @@
      "fb": 562
     },
     {
+     "sold": 2,
+     "created": "2024-01-17T18:50:19.000Z",
+     "price": 416.0,
+     "title": "Gucci Interlocking G Sterling Silver Enamel Blue Cufflinks YBE64558900100U",
+     "seller": "watchwarehouse",
+     "fb": 23468
+    },
+    {
      "sold": 0,
      "created": "2026-09-16T02:39:39.000Z",
      "price": 249.0,
      "title": "New Authentic Gucci GG Logo Lapis Azuli Sterling Silver Cufflinks",
      "seller": "araphaelm",
-     "fb": 959
-    },
-    {
-     "sold": 0,
-     "created": "2026-03-11T12:34:48.000Z",
-     "price": 356.99,
-     "title": "Gucci Mens G Cube Cufflinks",
-     "seller": "directluxury",
-     "fb": 5491
+     "fb": 960
     }
    ]
   },
@@ -1751,11 +1751,11 @@
    "top": [
     {
      "sold": 0,
-     "created": "2026-10-22T02:12:11.000Z",
-     "price": 340.99,
-     "title": "100% Authentic Gucci Men's Ace Sneakers Brand New Size 11.5 (Size 44.5)",
-     "seller": "sneaker_fiendz",
-     "fb": 46
+     "created": "2026-10-25T19:28:43.000Z",
+     "price": 300.0,
+     "title": "Gucci Men's Ace Embroidered Bee  Sneakers - Size 8.5",
+     "seller": "rubepere430",
+     "fb": 30
     },
     {
      "sold": 0,
@@ -1767,11 +1767,11 @@
     },
     {
      "sold": 0,
-     "created": "2026-09-12T20:46:52.000Z",
-     "price": 500.0,
-     "title": "Men Gucci Ace Sneaker Size 12 Black Leather",
-     "seller": "industryheightsresale",
-     "fb": 294
+     "created": "2026-10-22T02:12:11.000Z",
+     "price": 340.99,
+     "title": "100% Authentic Gucci Men's Ace Sneakers Brand New Size 11.5 (Size 44.5)",
+     "seller": "sneaker_fiendz",
+     "fb": 46
     }
    ]
   },
@@ -1779,23 +1779,15 @@
    "listings": 10,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 499.99,
+   "median_price": 437.02,
    "top": [
     {
      "sold": 0,
-     "created": "2026-09-20T00:10:13.000Z",
-     "price": 599.99,
-     "title": "New Gucci Tennis 1977 GG Canvas Low Top Sneaker Beige/Ebony 606111 Size 11 Mens",
-     "seller": "chennyeats",
-     "fb": 814
-    },
-    {
-     "sold": 0,
-     "created": "2026-10-18T00:26:28.000Z",
+     "created": "2026-10-19T00:25:49.000Z",
      "price": 550.0,
-     "title": "Men's Gucci Tennis 1977 Denim Low Top Sneakers Size 9.5 Fits 10.5 Us Made Italy",
+     "title": "Men's Gucci Tennis 1977 Denim Low Top Sneakers Size 10 Fits 11 US Made Italy",
      "seller": "treasures4you-29",
-     "fb": 476
+     "fb": 477
     },
     {
      "sold": 0,
@@ -1804,15 +1796,31 @@
      "title": "Gucci Tennis 1977 Delave New Denim GG -Mens - EU47 US13 - BRAND NEW",
      "seller": "roberbo_98",
      "fb": 86
+    },
+    {
+     "sold": 0,
+     "created": "2026-01-08T01:58:24.000Z",
+     "price": 499.0,
+     "title": "Authentic Men's Gucci Off The Grid Black GG Tennis 1977 Sneakers 628709 New $830",
+     "seller": "msand1",
+     "fb": 24777
     }
    ]
   },
   "sneaker:gucci-screener": {
    "listings": 10,
-   "sold_total": 0,
-   "sold_per_30d": 0.0,
-   "median_price": 599.0,
+   "sold_total": 1,
+   "sold_per_30d": 0.6,
+   "median_price": 560.87,
    "top": [
+    {
+     "sold": 1,
+     "created": "2026-09-04T12:30:14.000Z",
+     "price": 765.0,
+     "title": "Gucci Screener GG Supreme - Dark Blue Red 763525-FACMI-8443 Available Now",
+     "seller": "mad-goods",
+     "fb": 1124
+    },
     {
      "sold": 0,
      "created": "2026-10-26T00:52:53.000Z",
@@ -1827,15 +1835,7 @@
      "price": 598.0,
      "title": "New! GUCCI Screener Sneaker Distressed Leather Size 39 (M'S 6-6.5/L'S 8 TO 8.5)",
      "seller": "jaxpawn904",
-     "fb": 5927
-    },
-    {
-     "sold": 0,
-     "created": "2026-10-05T16:01:54.000Z",
-     "price": 523.74,
-     "title": "Gucci Screener High Top Sneakers GG Men's 7.5 (US 8.5) Original Box Monogram NWT",
-     "seller": "learningtoresell",
-     "fb": 510
+     "fb": 5928
     }
    ]
   },
@@ -1843,31 +1843,31 @@
    "listings": 10,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 499.99,
+   "median_price": 474.99,
    "top": [
-    {
-     "sold": 0,
-     "created": "2025-12-20T13:39:05.000Z",
-     "price": 499.99,
-     "title": "NEW AUTHENTIC GUCCI MAC80 LOW OFF WHITE BLACK AGED FINISH MENS GUCCI 11.5 (US 12",
-     "seller": "romm3030",
-     "fb": 16094
-    },
     {
      "sold": 0,
      "created": "2026-08-01T16:15:49.000Z",
      "price": 499.99,
      "title": "NEW AUTHENTIC GUCCI MAC80 LOW 'DUNE - AGED FINISH' MENS GUCCI 8.5 (US 9)",
      "seller": "romm3030",
-     "fb": 16094
+     "fb": 16095
     },
     {
      "sold": 0,
-     "created": "2026-10-07T03:47:52.000Z",
-     "price": 399.99,
-     "title": "NIB Gucci MAC80 Off-White Cream Pink Distressed Sneakers US 6.5 EU36.5 Authentic",
-     "seller": "a.m.studio",
-     "fb": 509
+     "created": "2025-12-20T13:39:05.000Z",
+     "price": 499.99,
+     "title": "NEW AUTHENTIC GUCCI MAC80 LOW OFF WHITE BLACK AGED FINISH MENS GUCCI 11.5 (US 12",
+     "seller": "romm3030",
+     "fb": 16095
+    },
+    {
+     "sold": 0,
+     "created": "2025-10-17T12:41:54.000Z",
+     "price": 499.99,
+     "title": "NEW AUTHENTIC GUCCI MAC80 LOW 'DUNE - AGED FINISH' MENS GUCCI 7.5 (US 8)",
+     "seller": "romm3030",
+     "fb": 16095
     }
    ]
   },
@@ -1875,7 +1875,7 @@
    "listings": 10,
    "sold_total": 10,
    "sold_per_30d": 1.2,
-   "median_price": 347.98,
+   "median_price": 387.5,
    "top": [
     {
      "sold": 4,
@@ -1883,7 +1883,7 @@
      "price": 345.96,
      "title": "$1490 Balenciaga Men's White Track Hike Caged Mesh High-Top Sneaker Shoes 45",
      "seller": "truehabit",
-     "fb": 404232
+     "fb": 404318
     },
     {
      "sold": 4,
@@ -1891,7 +1891,7 @@
      "price": 345.96,
      "title": "$1490 Balenciaga Men's White Track Hike Caged Mesh High-Top Sneaker Shoes 44",
      "seller": "truehabit",
-     "fb": 404232
+     "fb": 404318
     },
     {
      "sold": 2,
@@ -1905,10 +1905,18 @@
   },
   "sneaker:balenciaga-runner": {
    "listings": 10,
-   "sold_total": 0,
-   "sold_per_30d": 0.0,
+   "sold_total": 1,
+   "sold_per_30d": 0.1,
    "median_price": 300.0,
    "top": [
+    {
+     "sold": 1,
+     "created": "2026-01-08T20:48:29.000Z",
+     "price": 689.0,
+     "title": "Size 45EU/12US - Balenciaga Runner Marathon Neon Unreleased\ud83c\udfbe NEW/RETAIL $1.4K!",
+     "seller": "diversesolez",
+     "fb": 5597
+    },
     {
      "sold": 0,
      "created": "2026-10-26T20:48:42.000Z",
@@ -1924,14 +1932,6 @@
      "title": "(2026) Balenciaga Runner Sneaker \u2018Black Matte\u2019 - Size 9 US / 42 EU",
      "seller": "don3030",
      "fb": 109
-    },
-    {
-     "sold": 0,
-     "created": "2026-10-24T17:42:05.000Z",
-     "price": 350.0,
-     "title": "(2026) Balenciaga Runner Sneaker \u2018Black Matte\u2019 - Size 10 US / 43 EU",
-     "seller": "don3030",
-     "fb": 109
     }
    ]
   },
@@ -1943,11 +1943,19 @@
    "top": [
     {
      "sold": 0,
-     "created": "2026-09-30T18:28:07.000Z",
-     "price": 245.0,
-     "title": "New! Balenciaga '3XL' Sock Sneaker Black Knit Mens Size 7 US 40 Eur. MSRP $1080",
-     "seller": "onlythebestbrands",
-     "fb": 5489
+     "created": "2026-10-28T05:46:09.000Z",
+     "price": 650.0,
+     "title": "Balenciaga 3XL Sneaker Size 40 (7-7.5US) Brand New Og All",
+     "seller": "ig_heatla",
+     "fb": 116
+    },
+    {
+     "sold": 0,
+     "created": "2026-07-07T22:20:00.000Z",
+     "price": 719.1,
+     "title": "Balenciaga 3XL Fishnet Mesh Sneakers Eggshell Crystal Men\u2019s EU 44/US 11",
+     "seller": "luxefashionn",
+     "fb": 238
     },
     {
      "sold": 0,
@@ -1956,14 +1964,6 @@
      "title": "Balenciaga 3Xl Sock Sneaker Men's Size 40 ( 7 US)",
      "seller": "designerbar5",
      "fb": 917
-    },
-    {
-     "sold": 0,
-     "created": "2026-10-15T08:08:27.000Z",
-     "price": 404.99,
-     "title": "Balenciaga 3Xl Slip-On Sneaker Men's",
-     "seller": "la_via",
-     "fb": 92407
     }
    ]
   },
@@ -1971,7 +1971,7 @@
    "listings": 10,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 582.5,
+   "median_price": 700.0,
    "top": [
     {
      "sold": 0,
@@ -1991,18 +1991,18 @@
     },
     {
      "sold": 0,
-     "created": "2026-05-21T23:12:58.000Z",
-     "price": 450.0,
-     "title": "Maison Margiela Tabi Ballet Flats 38 Split Toe Black Leather Italy NEW Designer",
-     "seller": "electrahavenhub",
-     "fb": 320
+     "created": "2026-09-13T02:14:11.000Z",
+     "price": 995.0,
+     "title": "Maison Margiela Tabi County Loafers US 12 EU 45 Mens Black Calf Leather $1685",
+     "seller": "affordable-elegance",
+     "fb": 9860
     }
    ]
   },
   "sneaker:margiela-replica": {
    "listings": 10,
-   "sold_total": 4,
-   "sold_per_30d": 1.2,
+   "sold_total": 3,
+   "sold_per_30d": 0.5,
    "median_price": 487.5,
    "top": [
     {
@@ -2015,19 +2015,19 @@
     },
     {
      "sold": 1,
-     "created": "2026-09-13T19:47:18.000Z",
-     "price": 574.99,
-     "title": "Maison Margiela Replica Low Top Lace-Up Sneakers White Gray Colorblock GumSz 9.5",
-     "seller": "indysells317",
-     "fb": 12
-    },
-    {
-     "sold": 1,
      "created": "2026-08-04T03:17:36.000Z",
      "price": 222.3,
      "title": "New Size EU44 White Grey Maison Margiela Replica 2019 Free Shipping \ud83e\udd4a",
      "seller": "cui2026",
      "fb": 53
+    },
+    {
+     "sold": 0,
+     "created": "2026-10-25T21:11:32.000Z",
+     "price": 310.0,
+     "title": "Maison Margiela GAT Replica Sport Trainers Size US 10",
+     "seller": "ga-562868",
+     "fb": 9
     }
    ]
   },
@@ -2039,11 +2039,11 @@
    "top": [
     {
      "sold": 0,
-     "created": "2026-04-15T01:21:50.000Z",
-     "price": 1000.0,
-     "title": "Prada Cloudbust Thunder Shoes Mens Size 9 Black Knit Fabric Sneakers",
-     "seller": "wavesneakz",
-     "fb": 7084
+     "created": "2026-10-02T19:08:46.000Z",
+     "price": 795.0,
+     "title": "Prada 2EG293 Men's Cloudbust Thunder Sneakers White Trainers Luxury Shoes UK 7",
+     "seller": "realluxe1",
+     "fb": 2145
     },
     {
      "sold": 0,
@@ -2055,19 +2055,19 @@
     },
     {
      "sold": 0,
-     "created": "2026-04-15T01:18:29.000Z",
+     "created": "2026-04-15T01:21:50.000Z",
      "price": 1000.0,
-     "title": "Prada Cloudbust Thunder Shoes Mens Size 11 Black Knit Fabric Sneakers",
+     "title": "Prada Cloudbust Thunder Shoes Mens Size 9 Black Knit Fabric Sneakers",
      "seller": "wavesneakz",
-     "fb": 7084
+     "fb": 7098
     }
    ]
   },
   "sneaker:prada-monolith": {
-   "listings": 7,
+   "listings": 6,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 1000.0,
+   "median_price": 990.0,
    "top": [
     {
      "sold": 0,
@@ -2079,30 +2079,30 @@
     },
     {
      "sold": 0,
-     "created": "2026-03-24T22:19:46.000Z",
-     "price": 1300.0,
-     "title": "SOLD OUT EVERYWHERE! BRAND NEW PRADA MONOLITH LOAFERS!!  NEVER WORN",
-     "seller": "swaylove66",
-     "fb": 43
-    },
-    {
-     "sold": 0,
      "created": "2025-04-07T22:02:35.000Z",
      "price": 800.0,
      "title": "prada monolith loafers men's shoes (black leather)",
      "seller": "ja_688551",
      "fb": 0
+    },
+    {
+     "sold": 0,
+     "created": "2026-03-24T22:19:46.000Z",
+     "price": 1300.0,
+     "title": "SOLD OUT EVERYWHERE! BRAND NEW PRADA MONOLITH LOAFERS!!  NEVER WORN",
+     "seller": "swaylove66",
+     "fb": 43
     }
    ]
   },
   "loafer:gucci-horsebit": {
    "listings": 10,
-   "sold_total": 1,
-   "sold_per_30d": 0.2,
-   "median_price": 510.0,
+   "sold_total": 7,
+   "sold_per_30d": 1.3,
+   "median_price": 495.0,
    "top": [
     {
-     "sold": 1,
+     "sold": 7,
      "created": "2026-05-24T11:38:12.000Z",
      "price": 299.0,
      "title": "Gucci Men's Horsebit Web GG Loafers Brown Leather Slip On Dress Shoes",
@@ -2119,19 +2119,19 @@
     },
     {
      "sold": 0,
-     "created": "2026-09-10T06:58:28.000Z",
-     "price": 625.95,
-     "title": "Gucci Mens Merino Wool Horsebit Loafers IT 47.5 US 14 Ivory Butterscotch NIB",
-     "seller": "made2keep",
-     "fb": 548
+     "created": "2026-10-18T00:13:26.000Z",
+     "price": 495.0,
+     "title": "New Gucci Men's Tan and Brown Monogram Loafer with Horsebit, US Size 8 1/2",
+     "seller": "123bestdeals",
+     "fb": 166
     }
    ]
   },
   "loafer:ferragamo": {
    "listings": 10,
    "sold_total": 5,
-   "sold_per_30d": 0.9,
-   "median_price": 429.0,
+   "sold_per_30d": 0.7,
+   "median_price": 444.99,
    "top": [
     {
      "sold": 3,
@@ -2139,7 +2139,7 @@
      "price": 429.0,
      "title": "NIB FERRAGAMO BROWN LEATHER FORT GANCINI BIT LOGO LOAFERS 11 E ITALY",
      "seller": "designersgala",
-     "fb": 6406
+     "fb": 6408
     },
     {
      "sold": 1,
@@ -2147,23 +2147,23 @@
      "price": 439.99,
      "title": "NiB Salvatore Ferragamo Men's Goyamvit Best Penny Loafer Brown Size 8 EE FLD222",
      "seller": "ndsolutionsp",
-     "fb": 7491
+     "fb": 7497
     },
     {
      "sold": 1,
-     "created": "2026-08-24T22:16:30.000Z",
-     "price": 445.0,
-     "title": "NIB FERRAGAMO IGNAZIO BLACK LEATHER GANCINI BIT LOGO LUG PLATFORM LOAFERS 10.5 M",
-     "seller": "designersgala",
-     "fb": 6406
+     "created": "2026-06-12T17:45:38.000Z",
+     "price": 535.0,
+     "title": "Ferragamo Grandioso2 Gancini  Bit Pebble Black Leather Men's Loafers",
+     "seller": "nilpark",
+     "fb": 6511
     }
    ]
   },
   "loafer:tods": {
    "listings": 10,
-   "sold_total": 1,
-   "sold_per_30d": 0.2,
-   "median_price": 288.5,
+   "sold_total": 2,
+   "sold_per_30d": 0.4,
+   "median_price": 271.0,
    "top": [
     {
      "sold": 1,
@@ -2174,52 +2174,52 @@
      "fb": 24
     },
     {
-     "sold": 0,
-     "created": "2026-10-28T02:00:00.000Z",
-     "price": 220.0,
-     "title": "$775 Tod\u2019s Gommino Suede Leather Driving Loafer Shoes Brown Mens Size 6 / US 7.5",
-     "seller": "sneakrsniper23",
-     "fb": 1547
+     "sold": 1,
+     "created": "2026-05-29T17:13:34.000Z",
+     "price": 239.0,
+     "title": "$875.00 Tod's Men's Gommino Polished Calf Brown Driving loafer 8.5-9 US/41.5 EU",
+     "seller": "annasfashionclub",
+     "fb": 24
     },
     {
      "sold": 0,
-     "created": "2026-10-01T21:33:42.000Z",
-     "price": 260.0,
-     "title": "Tod's Mocassino City Gommino Leather Driving Loafers Shoes Black 8.5 US / 7.5 UK",
-     "seller": "editedbyerin",
-     "fb": 193
+     "created": "2026-06-15T04:05:00.000Z",
+     "price": 295.0,
+     "title": "\u200bTod\u2019s Gommino Driving Men\u2019s Leather Loafers Brown UK 9 US 10.5 - New $695",
+     "seller": "edesignershop",
+     "fb": 3671
     }
    ]
   },
   "sneaker:golden-goose": {
    "listings": 10,
-   "sold_total": 0,
-   "sold_per_30d": 0.0,
-   "median_price": 395.49,
+   "sold_total": 1,
+   "sold_per_30d": 0.3,
+   "median_price": 391.98,
    "top": [
+    {
+     "sold": 1,
+     "created": "2026-07-10T08:25:54.000Z",
+     "price": 306.99,
+     "title": "Golden Goose Ball Star Men Sneakers Dark Brown tone-on-tone Leather Star - Men's",
+     "seller": "klosk_83",
+     "fb": 7
+    },
     {
      "sold": 0,
      "created": "2026-10-14T15:00:43.000Z",
      "price": 391.98,
      "title": "Golden Goose Super-Star Men US10 EU43 White/Brown Leather Low Top Casual Sneaker",
      "seller": "cargolargo",
-     "fb": 692977
+     "fb": 693040
     },
     {
      "sold": 0,
-     "created": "2026-06-09T05:43:52.000Z",
-     "price": 266.99,
-     "title": "\ud83d\udd25 Golden Goose True Star [Green] Sneaker For Men's - Brand New | Made in italy",
+     "created": "2026-07-10T08:01:26.000Z",
+     "price": 289.99,
+     "title": "Golden Goose Deluxe Brand Dad-Star Blue/Silver - Men's Sneakers - BRAND NEW 100%",
      "seller": "klosk_83",
      "fb": 7
-    },
-    {
-     "sold": 0,
-     "created": "2026-10-28T16:47:04.000Z",
-     "price": 400.0,
-     "title": "Golden Goose Ball Star White & Blue Leather Sneakers EU 43 Brand New",
-     "seller": "chrischris1636",
-     "fb": 181
     }
    ]
   },
@@ -2227,15 +2227,15 @@
    "listings": 10,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 295.0,
+   "median_price": 285.5,
    "top": [
     {
      "sold": 0,
-     "created": "2026-10-28T14:53:51.000Z",
-     "price": 290.0,
-     "title": "Common Projects Achilles Low, Size 47 (US 14), Black, brand new in box",
-     "seller": "jwhawk12",
-     "fb": 0
+     "created": "2026-10-26T19:45:06.000Z",
+     "price": 295.0,
+     "title": "common projects original achilles low warm white size 47 BRAND NEW NEVER WORN",
+     "seller": "vgym1467",
+     "fb": 22
     },
     {
      "sold": 0,
@@ -2247,11 +2247,11 @@
     },
     {
      "sold": 0,
-     "created": "2026-10-26T19:45:06.000Z",
-     "price": 295.0,
-     "title": "common projects original achilles low warm white size 47 BRAND NEW NEVER WORN",
-     "seller": "vgym1467",
-     "fb": 22
+     "created": "2026-10-02T00:24:09.000Z",
+     "price": 281.0,
+     "title": "COMMON PROJECTS Size 10 Brown Tan 1728 43 0514 Leather Low Top Lace Up Shoes",
+     "seller": "sgconsignment",
+     "fb": 4119
     }
    ]
   },
@@ -2259,7 +2259,7 @@
    "listings": 10,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 212.49,
+   "median_price": 221.49,
    "top": [
     {
      "sold": 0,
@@ -2271,19 +2271,19 @@
     },
     {
      "sold": 0,
+     "created": "2026-09-13T05:13:27.000Z",
+     "price": 217.99,
+     "title": "Axel Arigato Dice-A Low-Top Sneakers, Brand Size 40 ( US Size 7.5 )",
+     "seller": "leperfect",
+     "fb": 269847
+    },
+    {
+     "sold": 0,
      "created": "2025-12-27T20:55:11.000Z",
      "price": 270.0,
      "title": "NEW Axel Arigato Sonar Sneakers Black Grey - Size US 9 (EU 42) - with Box",
      "seller": "pablishis_vault",
      "fb": 3
-    },
-    {
-     "sold": 0,
-     "created": "2026-09-13T05:13:27.000Z",
-     "price": 217.99,
-     "title": "Axel Arigato Dice-A Low-Top Sneakers, Brand Size 40 ( US Size 7.5 )",
-     "seller": "leperfect",
-     "fb": 269701
     }
    ]
   },
@@ -2291,42 +2291,42 @@
    "listings": 10,
    "sold_total": 0,
    "sold_per_30d": 0.0,
-   "median_price": 318.6,
+   "median_price": 349.99,
    "top": [
     {
      "sold": 0,
-     "created": "2026-10-26T22:53:29.000Z",
-     "price": 400.0,
-     "title": "NEW AMIRI Skel Top Hi Men\u2019s High Top Sneakers Gray/White US 11 EU 44 SS22MFS002",
-     "seller": "blinkityblink",
-     "fb": 17
+     "created": "2026-10-27T21:12:18.000Z",
+     "price": 210.0,
+     "title": "AMIRI Men\u2019s US 11 Low Top Lace-Up Sneakers White/Black Star Pattern New Box",
+     "seller": "orn5976",
+     "fb": 0
     },
     {
      "sold": 0,
-     "created": "2026-10-24T19:05:07.000Z",
-     "price": 349.99,
-     "title": "AMIRI MA Runner Sneakers Men US 11 EU 44 Red White Mesh Leather Shoes JL26175",
-     "seller": "treasurebeauty",
-     "fb": 1528
+     "created": "2026-10-26T20:24:58.000Z",
+     "price": 375.0,
+     "title": "Amiri MA-1 Sneaker White/Red Size EU 45 (US Men\u2019s 12) Brand New , Original all",
+     "seller": "ran_6325",
+     "fb": 66
     },
     {
      "sold": 0,
-     "created": "2026-07-21T17:17:29.000Z",
-     "price": 319.2,
-     "title": "NIB Amiri Stadium Mid Men\u2019s Size 11-11.5 (EU 45) Free Shipping",
-     "seller": "theshoechick",
-     "fb": 3557
+     "created": "2026-10-19T13:44:13.000Z",
+     "price": 349.98,
+     "title": "AMIRI Skel Chunky Low Top Leather Sneaker In White Air Blue- Men's EU 44/US 11",
+     "seller": "bybristolbay",
+     "fb": 32463
     }
    ]
   },
   "sneaker:off-white": {
    "listings": 10,
-   "sold_total": 1,
-   "sold_per_30d": 0.1,
+   "sold_total": 2,
+   "sold_per_30d": 0.2,
    "median_price": 475.0,
    "top": [
     {
-     "sold": 1,
+     "sold": 2,
      "created": "2025-11-28T01:03:04.000Z",
      "price": 242.0,
      "title": "Men's Shoes OFF-WHITE Out Of Office gree New",
@@ -2339,15 +2339,15 @@
      "price": 248.0,
      "title": "NEW OFF-WHITE Out Of Office Blue Men's Shoes FREE SHIPPING",
      "seller": "mllda-93",
-     "fb": 200
+     "fb": 201
     },
     {
      "sold": 0,
-     "created": "2026-07-15T14:01:51.000Z",
-     "price": 450.0,
-     "title": "Off-White Men Out Of Office Sneaker Size EU 45 US 12.5 Grey White Leather",
-     "seller": "callixteshoes",
-     "fb": 16422
+     "created": "2026-10-05T20:06:03.000Z",
+     "price": 249.97,
+     "title": "Off-White Out Of Office Leather Sneakers In Green/Black - Men's Size EU 40/US 7",
+     "seller": "bybristolbay",
+     "fb": 32463
     }
    ]
   }
