@@ -516,3 +516,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part C: Gmail (21 days, 12 stores) empty. Farfetch GET10 expired Oct 28: removed from promos.yaml. Farfetch banner is only a refer-a-friend 10%, not a code.
 - Part D (light): Nugnes1920 sneakers/loafers/shoes/belts/accessories-man at >=45% off and in stock: same as Oct 28 (McQueen loafer 778158 $445, Givenchy BH009 black/beige $425, Doucal's loafer $237.50; Y-3 not approved). 4 items sent to the eBay comp scan (keys d-*), results not back yet when written; Nugnes ships from Italy (10% duty) so a median >= ~$750 is needed. 0 candidates.
 - Browser notes: StockX list is truncated for large sizes; Farfetch size menu reads via the second "Select size" element click (listbox shows "<size> Wide $<price>", prices differ per size).
+
+## Oct 29 7:30am ET check-in
+- Research ran (newest source_prices checked_at 11:35Z). sale-alerts/daily-sync/market all green. 81 live, 0 drafts waiting. No sales (total still 1, $899.99). notices.json empty. Limits free: 13,776 items / $274,347.
+- No listing changes made. Open: Givenchy New City go-ahead, BG CSV, Black Friday re-scan.
