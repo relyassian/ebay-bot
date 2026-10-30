@@ -2,11 +2,6 @@ scan: 4
 demand: 117
 explore: 0
 order fees: 2
-market 355422678861: ours None vs cheapest - (0 others) · Dolce & Gabbana Portofino Vintage Sneakers Black C
-market 355422689102: ours None vs cheapest - (0 others) · Dolce & Gabbana Saint Tropez Sneakers Black Calfsk
-market 355422702908: ours None vs cheapest - (0 others) · Dolce & Gabbana New Roma Sneakers Black Calfskin N
-market 355422763143: ours 839.99 vs cheapest - (0 others) · Dolce & Gabbana Saint Tropez Sneakers White Calfsk
-market 355423513413: ours 809.99 vs cheapest 524.99 (4 others) · Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Me
 market 355426430327: ours None vs cheapest - (0 others) · Dolce & Gabbana New Roma Sneakers White Calfskin N
 market 355426469262: ours 904.99 vs cheapest - (0 others) · Gucci Ace GG Supreme Sneaker Black/Grey Men's Leat
 market 355428047951: ours 944.99 vs cheapest - (0 others) · Gucci Ace Embroidered Bee Sneaker White Men's Leat
@@ -62,11 +57,11 @@ market 820207186853: ours 994.99 vs cheapest - (0 others) · Gucci Screener GG S
 market 820207186878: ours 849.99 vs cheapest 325.0 (2 others) · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top
 market 820207186919: ours 709.99 vs cheapest 390.0 (4 others) · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top 
 market 820207186962: ours 754.99 vs cheapest - (0 others) · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Me
-market 820223864929: ours 704.99 vs cheapest 462.0 (7 others) · Gucci Loafer with Interlocking G Brown Men's Leath
+market 820223864929: ours 704.99 vs cheapest 399.97 (9 others) · Gucci Loafer with Interlocking G Brown Men's Leath
 market 820223865172: ours 674.99 vs cheapest 450.0 (9 others) · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sne
 market 820228649208: ours 989.99 vs cheapest - (0 others) · Bottega Veneta Eliot Mid-Top Sneaker Multi-Color M
 market 820228649230: ours 764.99 vs cheapest - (0 others) · Ferragamo Cassini Low-Top Sneaker Blue Men's Low T
-market 820228649253: ours 599.99 vs cheapest 500.0 (1 others) · Ferragamo Cosma High-Top Sneaker Black Men's Sneak
+market 820228649253: ours 599.99 vs cheapest 399.99 (2 others) · Ferragamo Cosma High-Top Sneaker Black Men's Sneak
 market 820228649857: ours None vs cheapest - (0 others) · Prada Monolith Brushed Leather Loafer Black Men's 
 market 820229263569: ours 789.99 vs cheapest - (0 others) · Ferragamo Lunar Paneled Slip-On Sneaker Medium Bro
 market 820229263683: ours 493.99 vs cheapest - (0 others) · Ferragamo Lunar Paneled Slip-On Sneaker Red Men's 
@@ -94,7 +89,7 @@ market 820277098563: ours 1099.99 vs cheapest 735.95 (1 others) · Gucci Screene
 market 820281910101: ours 1309.99 vs cheapest - (0 others) · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
 market 820281910201: ours None vs cheapest 380.0 (11 others) · Gucci Driver Horsebit - Black Men's Leather Drivin
 market 820281910306: ours None vs cheapest 276.25 (23 others) · Gucci Driver Horsebit - Green Men's Suede Driving 
-market 820281910460: ours None vs cheapest 440.0 (24 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
+market 820281910460: ours None vs cheapest 436.05 (24 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
 market 820281910571: ours None vs cheapest 447.0 (3 others) · Gucci Tennis 1977 White Green Red Men's Leather Lo
 market 355066429434: ours None vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
@@ -102,9 +97,28 @@ market 355066574768: ours None vs cheapest - (0 others) · Salvatore Ferragamo M
 market 355420832785: ours 1154.99 vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Reversible Ganci
 market 355420948879: ours None vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Painted Gancini 
 market 355420967506: ours None vs cheapest 1270.0 (1 others) · Gucci Horsebit Loafer with Web Black Leather Men's
+market 355422678861: ours None vs cheapest - (0 others) · Dolce & Gabbana Portofino Vintage Sneakers Black C
+market 355422689102: ours None vs cheapest - (0 others) · Dolce & Gabbana Saint Tropez Sneakers Black Calfsk
+market 355422702908: ours None vs cheapest - (0 others) · Dolce & Gabbana New Roma Sneakers Black Calfskin N
+market 355422763143: ours 839.99 vs cheapest - (0 others) · Dolce & Gabbana Saint Tropez Sneakers White Calfsk
+market 355423513413: ours 809.99 vs cheapest 524.99 (4 others) · Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Me
 Price check: 100 listings compared, 37 priced more than 5% above another seller.
-📋 Daily eBay check · Thu Oct 29
+📋 Daily eBay check · Fri Oct 30
 
-What I did: raised the price a little on 1 listing because the store got pricier.
+What I did: took 9 listings (or some sizes) off sale because stores ran out; raised the price a little on 1 listing because the store got pricier; lowered the price 3% on 1 listing that hadn't sold in a week.
 Nothing for you to do.
+
+⚠️ Store prices haven't been refreshed yet today. Either the morning research is still running (you'll get an updated report when it finishes) or it couldn't reach your Mac. Listings stay as they were, a backup run tries again at 10am, and nothing is relisted until stock is confirmed.
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/0BQAAeSwzvtq1qXr/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cosma High-Top Sneaker Black Sneakers…\nSizes: all 2 sizes · now from $599.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649253"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/Y1oAAeSwoOBq1qVj/$_1.JPG?set_id=8800005007', 'text': "📉 PRICE LOWERED 3%\nGucci Re-Web GG Canvas Sneaker White/Beige Low…\nSizes: US 9 · now from $1,224.99\n\nWhy: No sale in 7 days at the old price. It still makes you $100+, and it drops again next week if it doesn't sell (never below $100 profit).\nhttps://www.ebay.com/itm/820204075633"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/HWEAAOSw4VBlupju/$_57.PNG?set_id=8800005007', 'text': "🚫 TAKEN OFF SALE\nGucci Ace Embroidered Bee Sneaker Black Leather…\nSizes: US 12, 13\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/355428079713"}
+{'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/dZwAAOSwb9Nluz2m/$_57.PNG?set_id=8800005007', 'text': "🚫 TAKEN OFF SALE\nGucci Ace Sneaker with Web Beige/Ebony GG…\nSizes: US 11.5\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/355429385763"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/tCoAAeSwNXxq1qXN/$_1.JPG?set_id=8800005007', 'text': "🚫 TAKEN OFF SALE\nGucci Ace Sneaker with Web White/Green/Red Low…\nSizes: US 12.5\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075398"}
+Also changed:
+• Taken Off Sale: Gucci Rhyton Leather Sneaker Ivory Low Top… (all 2 sizes) https://www.ebay.com/itm/820204075737
+• Taken Off Sale: Gucci Ace GG Supreme Bees Sneaker Beige/Ebony… (US 11.5, 14) https://www.ebay.com/itm/820205329339
+• Taken Off Sale: Gucci Tennis 1977 High-Top Sneaker Beige/Ebony… (US 13.5) https://www.ebay.com/itm/820205329783
+• Taken Off Sale: Gucci Ace GG Embossed Sneaker Black Leather Low… (US 13, 13.5) https://www.ebay.com/itm/820205698211
+• Taken Off Sale: Gucci MAC80 Sneaker Off-White/Green Leather Low… (US 13) https://www.ebay.com/itm/820277097802
+• Taken Off Sale: Gucci Screener GG Supreme Sneaker Dark Blue/Red… (US 12, 13.5, 14.5) https://www.ebay.com/itm/820277098563
+Ad rates: 2 listings up, 2 back down (2 at 8%, 1 at 15%, 1 at 18%); eBay accepted 4 of 4
