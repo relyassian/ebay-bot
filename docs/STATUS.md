@@ -520,3 +520,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Oct 29 7:30am ET check-in
 - Research ran (newest source_prices checked_at 11:35Z). sale-alerts/daily-sync/market all green. 81 live, 0 drafts waiting. No sales (total still 1, $899.99). notices.json empty. Limits free: 13,776 items / $274,347.
 - No listing changes made. Open: Givenchy New City go-ahead, BG CSV, Black Friday re-scan.
+
+## Nov 1 7:21am ET check-in (also covers the missed Oct 30 notice)
+- PROBLEM: research has not run since Oct 29 (newest source_prices checked_at 2026-10-29T11:35Z, ~49h old). daily-sync last ran Oct 30 17:07Z; nothing Oct 31/Nov 1. sale-alerts chain is healthy (runs every ~25 min).
+- Effect: all live source rows are past max_source_age_hours (36h). Next daily-sync will set every live size to qty 0 (by design). Until then listings still show stock that was last verified Oct 29, so a sale now carries cancellation risk. Did NOT dispatch daily-sync or fire the research trigger (no listing changes in check-ins).
+- No sales (total 1, $899.99). 81 live, notices empty, limits 13,776 items / $274,347. Interest ~266 watchers / ~698 views_7d (Oct 30).
+- Needs Rafael: run/enable "eBay daily research" (trig_01KccF1saAhBjHmECjbhgdVJ) and check why daily-sync stopped.
