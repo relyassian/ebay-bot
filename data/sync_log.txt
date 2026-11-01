@@ -1,20 +1,12 @@
 scan: 4
-demand: -1
+demand: 117
 explore: 0
 order fees: 2
-market 355426430327: ours None vs cheapest - (0 others) · Dolce & Gabbana New Roma Sneakers White Calfskin N
-market 355426469262: ours 904.99 vs cheapest - (0 others) · Gucci Ace GG Supreme Sneaker Black/Grey Men's Leat
-market 355428047951: ours 944.99 vs cheapest - (0 others) · Gucci Ace Embroidered Bee Sneaker White Men's Leat
-market 355428079713: ours 1154.99 vs cheapest - (0 others) · Gucci Ace Embroidered Bee Sneaker Black Men's Leat
-market 355429309757: ours 904.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Blue Men's Lea
-market 355429340181: ours 934.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Green Men's Le
-market 355429355271: ours 1033.99 vs cheapest 485.0 (1 others) · Gucci Ace GG Crystal Canvas Sneaker Black Men's Le
-market 355429385763: ours 1036.99 vs cheapest - (0 others) · Gucci Ace Sneaker with Web Beige/Ebony GG Supreme 
 market 820204075354: ours 919.99 vs cheapest - (0 others) · Gucci Ace Sneaker with Web Black/Navy/Red Men's Lo
 market 820204075398: ours None vs cheapest 565.0 (2 others) · Gucci Ace Sneaker with Web White/Green/Red Men's L
 market 820204075433: ours 734.99 vs cheapest 430.95 (3 others) · Gucci x adidas Gazelle GG Monogram Sneaker Black M
 market 820204075474: ours 863.99 vs cheapest - (0 others) · Gucci x adidas Gazelle Suede Sneaker Light Blue Me
-market 820204075517: ours 814.99 vs cheapest - (0 others) · Gucci Horsebit Driver Loafer with Web Black/Green/
+market 820204075517: ours 814.99 vs cheapest 629.99 (1 others) · Gucci Horsebit Driver Loafer with Web Black/Green/
 market 820204075592: ours 759.99 vs cheapest 499.99 (3 others) · Gucci Horsebit Driver Loafer Black Men's Leather D
 market 820204075633: ours 1224.99 vs cheapest 950.0 (1 others) · Gucci Re-Web GG Canvas Sneaker White/Beige Men's L
 market 820204075737: ours None vs cheapest 499.0 (3 others) · Gucci Rhyton Leather Sneaker Ivory Men's Low Top S
@@ -57,11 +49,11 @@ market 820207186853: ours 994.99 vs cheapest - (0 others) · Gucci Screener GG S
 market 820207186878: ours 849.99 vs cheapest 325.0 (2 others) · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top
 market 820207186919: ours 709.99 vs cheapest 390.0 (4 others) · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top 
 market 820207186962: ours 754.99 vs cheapest - (0 others) · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Me
-market 820223864929: ours 704.99 vs cheapest 399.97 (8 others) · Gucci Loafer with Interlocking G Brown Men's Leath
+market 820223864929: ours 704.99 vs cheapest 399.97 (9 others) · Gucci Loafer with Interlocking G Brown Men's Leath
 market 820223865172: ours 674.99 vs cheapest 450.0 (9 others) · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sne
 market 820228649208: ours 989.99 vs cheapest - (0 others) · Bottega Veneta Eliot Mid-Top Sneaker Multi-Color M
 market 820228649230: ours 764.99 vs cheapest - (0 others) · Ferragamo Cassini Low-Top Sneaker Blue Men's Low T
-market 820228649253: ours 599.99 vs cheapest 399.99 (2 others) · Ferragamo Cosma High-Top Sneaker Black Men's Sneak
+market 820228649253: ours 599.99 vs cheapest 500.0 (1 others) · Ferragamo Cosma High-Top Sneaker Black Men's Sneak
 market 820228649857: ours None vs cheapest - (0 others) · Prada Monolith Brushed Leather Loafer Black Men's 
 market 820229263569: ours 789.99 vs cheapest - (0 others) · Ferragamo Lunar Paneled Slip-On Sneaker Medium Bro
 market 820229263683: ours 493.99 vs cheapest - (0 others) · Ferragamo Lunar Paneled Slip-On Sneaker Red Men's 
@@ -83,13 +75,13 @@ market 820277097445: ours 1064.99 vs cheapest - (0 others) · Gucci MAC80 High-T
 market 820277097634: ours 574.99 vs cheapest 490.0 (5 others) · Gucci MAC80 Sneaker Off-White/Black Men's Leather 
 market 820277097802: ours 1044.99 vs cheapest - (0 others) · Gucci MAC80 Sneaker Off-White/Green Men's Leather 
 market 820277097979: ours 634.99 vs cheapest 492.0 (3 others) · Gucci Re-Web Sneaker Black Men's Leather Low Top S
-market 820277098190: ours 964.99 vs cheapest 492.0 (16 others) · Gucci Re-Web Sneaker White Men's Leather Low Top S
+market 820277098190: ours 964.99 vs cheapest 492.0 (17 others) · Gucci Re-Web Sneaker White Men's Leather Low Top S
 market 820277098381: ours 1209.99 vs cheapest 750.0 (1 others) · Gucci Run Sneaker Light Grey/Brown Men's Suede Low
 market 820277098563: ours 1099.99 vs cheapest 735.95 (1 others) · Gucci Screener GG Supreme Sneaker Dark Blue/Red Me
 market 820281910101: ours 1309.99 vs cheapest - (0 others) · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
 market 820281910201: ours None vs cheapest 380.0 (11 others) · Gucci Driver Horsebit - Black Men's Leather Drivin
-market 820281910306: ours None vs cheapest 276.25 (23 others) · Gucci Driver Horsebit - Green Men's Suede Driving 
-market 820281910460: ours None vs cheapest 436.05 (24 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
+market 820281910306: ours None vs cheapest 260.0 (22 others) · Gucci Driver Horsebit - Green Men's Suede Driving 
+market 820281910460: ours None vs cheapest 440.0 (28 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
 market 820281910571: ours None vs cheapest 447.0 (3 others) · Gucci Tennis 1977 White Green Red Men's Leather Lo
 market 355066429434: ours None vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
@@ -102,11 +94,200 @@ market 355422689102: ours None vs cheapest - (0 others) · Dolce & Gabbana Saint
 market 355422702908: ours None vs cheapest - (0 others) · Dolce & Gabbana New Roma Sneakers Black Calfskin N
 market 355422763143: ours 839.99 vs cheapest - (0 others) · Dolce & Gabbana Saint Tropez Sneakers White Calfsk
 market 355423513413: ours 809.99 vs cheapest 524.99 (4 others) · Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Me
-Price check: 100 listings compared, 35 priced more than 5% above another seller.
-📋 Daily eBay check · Fri Oct 30
+market 355428047951: ours 944.99 vs cheapest - (0 others) · Gucci Ace Embroidered Bee Sneaker White Men's Leat
+market 355428079713: ours 1154.99 vs cheapest - (0 others) · Gucci Ace Embroidered Bee Sneaker Black Men's Leat
+market 355426430327: ours None vs cheapest - (0 others) · Dolce & Gabbana New Roma Sneakers White Calfskin N
+market 355426469262: ours 904.99 vs cheapest - (0 others) · Gucci Ace GG Supreme Sneaker Black/Grey Men's Leat
+market 355429309757: ours 904.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Blue Men's Lea
+market 355429340181: ours 934.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Green Men's Le
+market 355429355271: ours 1033.99 vs cheapest 485.0 (1 others) · Gucci Ace GG Crystal Canvas Sneaker Black Men's Le
+market 355429385763: ours 1036.99 vs cheapest - (0 others) · Gucci Ace Sneaker with Web Beige/Ebony GG Supreme 
+Price check: 100 listings compared, 36 priced more than 5% above another seller.
+SYNC ERRORS:
+Gucci Run Sneaker White Black Knit Low Top… (820207186802): eBay refused the change (ReviseFixedPriceItem failed: ['System error. Unable to process your request. Please try again later.', 'Funds from your sales may be unavailable and show as on hold for a period of time. Learn more: https://www.ebay.com/help/selling/getting-paid/getting-paid-items-youve-sold/pending-payments?id=4816)
+📋 Daily eBay check · Sun Nov 1
 
-What I did: raised the price a little on 1 listing because the store got pricier.
+What I did: took 73 listings (or some sizes) off sale because stores ran out.
 Nothing for you to do.
 
+⚠️ Couldn't update 1 listing(s); I'm looking into it:
+• Gucci Run Sneaker White Black Knit Low Top… (820207186802): eBay refused the change (ReviseFixedPriceItem failed: ['System error. Unable to process your request
+
 ⚠️ Store prices haven't been refreshed yet today. Either the morning research is still running (you'll get an updated report when it finishes) or it couldn't reach your Mac. Listings stay as they were, a backup run tries again at 10am, and nothing is relisted until stock is confirmed.
-{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/0BQAAeSwzvtq1qXr/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cosma High-Top Sneaker Black Sneakers…\nSizes: all 2 sizes · now from $599.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649253"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/JJAAAeSw40Zq1qXF/$_1.JPG?set_id=8800005007', 'text': "🚫 TAKEN OFF SALE\nGucci Ace Sneaker with Web Black/Navy/Red Low…\nSizes: all 3 sizes\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075354"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/XnEAAeSwvOVq1pUC/$_1.JPG?set_id=8800005007', 'text': "🚫 TAKEN OFF SALE\nGucci x adidas Gazelle GG Monogram Sneaker…\nSizes: all 2 sizes\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075433"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/YzYAAeSwTxJq1pUA/$_1.JPG?set_id=8800005007', 'text': "🚫 TAKEN OFF SALE\nGucci x adidas Gazelle Suede Sneaker Light Blue…\nSizes: US 7.5\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075474"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/ICoAAeSwK3xq1qW6/$_1.JPG?set_id=8800005007', 'text': "🚫 TAKEN OFF SALE\nGucci Horsebit Driver Loafer with Web…\nSizes: US 6, 7, 8, 8.5, 11.5, 12.5\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075517"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/CIQAAeSwfW9q1qXW/$_1.JPG?set_id=8800005007', 'text': "🚫 TAKEN OFF SALE\nGucci Horsebit Driver Loafer Black Leather…\nSizes: all 4 sizes\n\nWhy: No store has it in stock right now, so if it sold you'd have to cancel. It comes back on sale by itself when a store restocks.\nhttps://www.ebay.com/itm/820204075592"}
+Also changed:
+• Taken Off Sale: Gucci Re-Web GG Canvas Sneaker White/Beige Low… (US 9) https://www.ebay.com/itm/820204075633
+• Taken Off Sale: Gucci Screener GG Canvas Sneaker… (US 7.5) https://www.ebay.com/itm/820204075830
+• Taken Off Sale: Gucci Interlocking G Driver Moccasin Brown… (US 5.5, 6, 6.5, 7) https://www.ebay.com/itm/820205221528
+• Taken Off Sale: Gucci Interlocking G Driver Moccasin Washed… (US 13) https://www.ebay.com/itm/820205221563
+• Taken Off Sale: Gucci Interlocking G Loafer with Web… (US 12) https://www.ebay.com/itm/820205221628
+• Taken Off Sale: Gucci MAC80 Sneaker Black/Off-White Leather Low… (US 12, 12.5, 13.5) https://www.ebay.com/itm/820205221669
+• Taken Off Sale: Gucci Noel Driver Loafer Black Leather Driving… (US 12.5) https://www.ebay.com/itm/820205221755
+• Taken Off Sale: Gucci Re-Web GG Canvas Sneaker Black Low Top… (US 9) https://www.ebay.com/itm/820205221855
+• Taken Off Sale: Gucci Ace Sneaker with Perforated Interlocking… (US 6.5, 7, 7.5, 8, 10.5) https://www.ebay.com/itm/820205329431
+• Taken Off Sale: Gucci MAC80 Sneaker Off-White Leather Low Top… (US 13.5) https://www.ebay.com/itm/820205329595
+• Taken Off Sale: Gucci Tennis 1977 High-Top Sneaker Beige/Ebony… (US 7, 8.5, 11.5, 12, 12.5, 13) https://www.ebay.com/itm/820205329783
+• Taken Off Sale: Louis Vuitton LV Skate Sneaker Beige/White Low… (all 2 sizes) https://www.ebay.com/itm/820205389034
+• Taken Off Sale: Gucci Ace GG Embossed Sneaker Black Leather Low… (US 11.5, 15.5) https://www.ebay.com/itm/820205698211
+• Taken Off Sale: Balenciaga Runner Sneaker White Mesh Low Top… (all 2 sizes) https://www.ebay.com/itm/820207186196
+• Taken Off Sale: Gucci Ace GG Embossed - White Leather Low Top… (US 12) https://www.ebay.com/itm/820207186222
+• Taken Off Sale: Gucci Basket Black Red Demetra Low Top Sneakers… (US 7) https://www.ebay.com/itm/820207186253
+• Taken Off Sale: Gucci Basket Green Demetra Low Top Sneakers New (US 6.5, 7.5, 8, 8.5, 9, 10, 10.5, 11.5, 12.5, 13) https://www.ebay.com/itm/820207186287
+• Taken Off Sale: Gucci Basket Grey Yellow Blue Demetra Low Top… (all 3 sizes) https://www.ebay.com/itm/820207186315
+• Taken Off Sale: Gucci Basket High Black Demetra High Top… (all 7 sizes) https://www.ebay.com/itm/820207186346
+• Taken Off Sale: Gucci Basket High Green Demetra High Top… (all 3 sizes) https://www.ebay.com/itm/820207186379
+• Taken Off Sale: Gucci Basket High White Demetra Red High Top… (US 12) https://www.ebay.com/itm/820207186442
+• Taken Off Sale: Gucci Basket Low White Demetra Green Low Top… (US 7, 7.5, 10, 10.5, 11.5, 12.5, 13) https://www.ebay.com/itm/820207186465
+• Taken Off Sale: Gucci Basket Low White Demetra Red Low Top… (all 13 sizes) https://www.ebay.com/itm/820207186489
+• Taken Off Sale: Gucci Basket Red Black Demetra Low Top Sneakers… (all 7 sizes) https://www.ebay.com/itm/820207186525
+• Taken Off Sale: Gucci Driver Interlocking G - Green Leather… (US 7, 8, 9) https://www.ebay.com/itm/820207186550
+• Taken Off Sale: Gucci GG Screener Grey Navy Suede Low Top… (US 12.5) https://www.ebay.com/itm/820207186594
+• Taken Off Sale: Gucci MAC80 Sneaker White Blue Leather Low Top… (all 3 sizes) https://www.ebay.com/itm/820207186615
+• Taken Off Sale: Gucci Rhyton Interlocking G Star Leather Low… (US 7) https://www.ebay.com/itm/820207186641
+• Taken Off Sale: Gucci Rhyton Maxi GG Supreme - Black Khaki… (US 7.5, 8, 9, 9.5, 10, 10.5, 11) https://www.ebay.com/itm/820207186667
+• Taken Off Sale: Gucci Rhyton White Red Green Reflective Mesh… (all 2 sizes) https://www.ebay.com/itm/820207186704
+• Taken Off Sale: Gucci Run Sneaker Beige Ebony Monogram Leather… (US 8, 9.5, 10, 11.5, 12, 12.5) https://www.ebay.com/itm/820207186744
+• Taken Off Sale: Gucci Run Sneaker Black Knit Low Top Sneakers… (US 12, 12.5) https://www.ebay.com/itm/820207186774
+• Taken Off Sale: Gucci Run Sneaker White Suede Low Top Sneakers… (US 6.5, 7, 10.5, 11, 11.5, 12, 12.5, 13) https://www.ebay.com/itm/820207186833
+• Taken Off Sale: Gucci Screener GG Supreme - Black Grey Leather… (all 4 sizes) https://www.ebay.com/itm/820207186853
+• Taken Off Sale: Gucci Tennis 1977 Black Ivory Canvas Low Top… (US 13) https://www.ebay.com/itm/820207186878
+• Taken Off Sale: Gucci Tennis 1977 Blue Ivory Canvas Low Top… (US 13) https://www.ebay.com/itm/820207186919
+• Taken Off Sale: Gucci Tennis 1977 Low GG Monogram - Ebony Beige… (all 3 sizes) https://www.ebay.com/itm/820207186962
+• Taken Off Sale: Gucci Loafer with Interlocking G Brown Leather… (all 9 sizes) https://www.ebay.com/itm/820223864929
+• Taken Off Sale: Gucci MAC80 Sneaker Blue Leather Low Top… (US 6, 7.5, 8, 9, 9.5, 10, 10.5, 11) https://www.ebay.com/itm/820223865172
+• Taken Off Sale: Bottega Eliot Mid-Top Sneaker Multi-Color Low… (US 7, 8, 9, 10, 11) https://www.ebay.com/itm/820228649208
+• Taken Off Sale: Ferragamo Cassini Low-Top Sneaker Blue Low Top… (all 2 sizes) https://www.ebay.com/itm/820228649230
+• Taken Off Sale: Ferragamo Cosma High-Top Sneaker Black Sneakers… (all 2 sizes) https://www.ebay.com/itm/820228649253
+• Taken Off Sale: Ferragamo Lunar Paneled Slip-On Sneaker Medium… (all 6 sizes) https://www.ebay.com/itm/820229263569
+• Taken Off Sale: Ferragamo Lunar Paneled Slip-On Sneaker Red Low… (all 6 sizes) https://www.ebay.com/itm/820229263683
+• Taken Off Sale: Ferragamo Nima Knit Low-Top Sneaker Blue Low… (US 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5) https://www.ebay.com/itm/820229263765
+• Taken Off Sale: Gucci Horsebit Driver Loafer with Web Brown… (US 6.5, 11, 11.5, 12, 12.5, 13) https://www.ebay.com/itm/820229263903
+• Taken Off Sale: McQueen Contrast Sole Leather Penny Loafer… (all 4 sizes) https://www.ebay.com/itm/820229265137
+• Taken Off Sale: Ferragamo Logo Engraved Cufflinks () https://www.ebay.com/itm/356084785661
+• Taken Off Sale: Gucci Horsebit Loafer Ivory Merino Wool Loafers… (all 7 sizes) https://www.ebay.com/itm/820277097048
+• Taken Off Sale: Gucci MAC80 Sneaker Dune Leather Low Top… (US 6.5, 8, 8.5, 9, 10.5, 11, 11.5, 12, 12.5) https://www.ebay.com/itm/820277097224
+• Taken Off Sale: Gucci MAC80 High-Top Sneaker Black/Off-White… (US 5.5, 6, 6.5, 7, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12.5) https://www.ebay.com/itm/820277097445
+• Taken Off Sale: Gucci MAC80 Sneaker Off-White/Black Leather Low… (all 8 sizes) https://www.ebay.com/itm/820277097634
+• Taken Off Sale: Gucci MAC80 Sneaker Off-White/Green Leather Low… (US 7, 8, 8.5, 10, 10.5, 11, 12.5) https://www.ebay.com/itm/820277097802
+• Taken Off Sale: Gucci Re-Web Sneaker Black Leather Low Top… (US 5.5, 6.5, 7, 7.5, 8, 8.5, 9.5) https://www.ebay.com/itm/820277097979
+• Taken Off Sale: Gucci Re-Web Sneaker White Leather Low Top… (US 5.5, 7.5, 8.5, 9.5, 10, 10.5, 12.5) https://www.ebay.com/itm/820277098190
+• Taken Off Sale: Gucci Run Sneaker Light Grey/Brown Suede Low… (US 5, 6.5, 9, 9.5, 10, 11, 12.5, 13.5, 14) https://www.ebay.com/itm/820277098381
+• Taken Off Sale: Gucci Screener GG Supreme Sneaker Dark Blue/Red… (US 7, 8, 9, 10, 10.5) https://www.ebay.com/itm/820277098563
+• Taken Off Sale: Gucci Cordovan Lux Lace-Up Shoe Black New (all 2 sizes) https://www.ebay.com/itm/820281910101
+• Taken Off Sale: Ferragamo Moccasin with Reversible Gancini Bit… (US 6, 7) https://www.ebay.com/itm/355420832785
+• Taken Off Sale: D&G Saint Tropez Sneakers White Calfskin… (US 6, 7, 8.5) https://www.ebay.com/itm/355422763143
+• Taken Off Sale: Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas… (US 5.5, 7, 7.5, 8, 8.5, 9.5, 10.5, 11, 11.5, 12.5) https://www.ebay.com/itm/355423513413
+• Taken Off Sale: Gucci Ace Embroidered Bee Sneaker White Leather… (all 15 sizes) https://www.ebay.com/itm/355428047951
+• Taken Off Sale: Gucci Ace Embroidered Bee Sneaker Black Leather… (US 8) https://www.ebay.com/itm/355428079713
+• Taken Off Sale: Gucci Ace GG Supreme Sneaker Black/Grey Leather… (all 14 sizes) https://www.ebay.com/itm/355426469262
+• Taken Off Sale: Gucci Ace GG Crystal Canvas Sneaker Blue… (US 6.5, 8, 9) https://www.ebay.com/itm/355429309757
+• Taken Off Sale: Gucci Ace GG Crystal Canvas Sneaker Green… (US 7.5, 8.5, 9) https://www.ebay.com/itm/355429340181
+• Taken Off Sale: Gucci Ace GG Crystal Canvas Sneaker Black… (US 9, 9.5, 10.5) https://www.ebay.com/itm/355429355271
+• Taken Off Sale: Gucci Ace Sneaker with Web Beige/Ebony GG… (US 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 12.5) https://www.ebay.com/itm/355429385763
+markdown 820204075354: 0% · Gucci Ace Sneaker with Web Black/Navy/Red Men's Low Top Sneakers Authentic New
+markdown 820204075398: 0% · Gucci Ace Sneaker with Web White/Green/Red Men's Low Top Sneakers Authentic New
+markdown 820204075433: 0% · Gucci x adidas Gazelle GG Monogram Sneaker Black Men's Low Top Sneakers New
+markdown 820204075474: 0% · Gucci x adidas Gazelle Suede Sneaker Light Blue Men's Low Top Sneakers Men's New
+markdown 820204075517: 0% · Gucci Horsebit Driver Loafer with Web Black/Green/Red Men's Driving Shoes New
+markdown 820204075592: 0% · Gucci Horsebit Driver Loafer Black Men's Leather Driving Shoes Authentic New
+markdown 820204075633: 0% · Gucci Re-Web GG Canvas Sneaker White/Beige Men's Low Top Sneakers Authentic New
+markdown 820204075737: 0% · Gucci Rhyton Leather Sneaker Ivory Men's Low Top Sneakers Authentic Men's New
+markdown 820204075830: 0% · Gucci Screener GG Canvas Sneaker Black/Green/Red Men's Low Top Sneakers New
+markdown 820205221528: 0% · Gucci Interlocking G Driver Moccasin Brown Men's Leather Driving Shoes Men's New
+markdown 820205221563: 0% · Gucci Interlocking G Driver Moccasin Washed Indigo Men's Driving Shoes Men's New
+markdown 820205221628: 0% · Gucci Interlocking G Loafer with Web Black/Green/Red Men's Leather Loafers New
+markdown 820205221669: 0% · Gucci MAC80 Sneaker Black/Off-White Men's Leather Low Top Sneakers Authentic New
+markdown 820205221755: 0% · Gucci Noel Driver Loafer Black Men's Leather Driving Shoes Authentic Men's New
+markdown 820205221855: 0% · Gucci Re-Web GG Canvas Sneaker Black Men's Low Top Sneakers Authentic Men's New
+markdown 820205329339: 0% · Gucci Ace GG Supreme Bees Sneaker Beige/Ebony Men's Canvas Low Top Sneakers New
+markdown 820205329431: 0% · Gucci Ace Sneaker with Perforated Interlocking G White Men's New
+markdown 820205329595: 0% · Gucci MAC80 Sneaker Off-White Men's Leather Low Top Sneakers Authentic Men's New
+markdown 820205329783: 0% · Gucci Tennis 1977 High-Top Sneaker Beige/Ebony GG Men's Canvas Sneakers New
+markdown 820205389034: 0% · Louis Vuitton LV Skate Sneaker Beige/White Men's Low Top Sneakers Authentic New
+markdown 820205698211: 0% · Gucci Ace GG Embossed Sneaker Black Men's Leather Low Top Sneakers Authentic New
+markdown 820207186160: 0% · Balenciaga Runner Sneaker Black Matte Men's Mesh Low Top Sneakers Authentic New
+markdown 820207186196: 0% · Balenciaga Runner Sneaker White Men's Mesh Low Top Sneakers Authentic Men's New
+markdown 820207186222: 0% · Gucci Ace GG Embossed - White Men's Leather Low Top Sneakers Authentic Men's New
+markdown 820207186253: 0% · Gucci Basket Black Red Men's Demetra Low Top Sneakers Authentic Men's New
+markdown 820207186287: 0% · Gucci Basket Green Demetra Men's Low Top Sneakers Authentic Men's Authentic New
+markdown 820207186315: 0% · Gucci Basket Grey Yellow Blue Men's Demetra Low Top Sneakers Authentic Men's New
+markdown 820207186346: 0% · Gucci Basket High Black Demetra Men's High Top Sneakers Authentic Men's New
+markdown 820207186379: 0% · Gucci Basket High Green Demetra Men's High Top Sneakers Authentic Men's New
+markdown 820207186442: 0% · Gucci Basket High White Demetra Red Men's High Top Sneakers Authentic Men's New
+markdown 820207186465: 0% · Gucci Basket Low White Demetra Green Men's Low Top Sneakers Authentic Men's New
+markdown 820207186489: 0% · Gucci Basket Low White Demetra Red Men's Low Top Sneakers Authentic Men's New
+markdown 820207186525: 0% · Gucci Basket Red Black Demetra Men's Low Top Sneakers Authentic Men's New
+markdown 820207186550: 0% · Gucci Driver Interlocking G - Green Men's Leather Driving Shoes Authentic New
+markdown 820207186594: 0% · Gucci GG Screener Grey Navy Men's Suede Low Top Sneakers Authentic Men's New
+markdown 820207186615: 0% · Gucci MAC80 Sneaker White Blue Men's Leather Low Top Sneakers Authentic New
+markdown 820207186641: 0% · Gucci Rhyton Interlocking G Star Men's Leather Low Top Sneakers Authentic New
+markdown 820207186667: 0% · Gucci Rhyton Maxi GG Supreme - Black Khaki Beige Men's Low Top Sneakers New
+markdown 820207186704: 0% · Gucci Rhyton White Red Green Reflective Men's Mesh Low Top Sneakers Men's New
+markdown 820207186744: 0% · Gucci Run Sneaker Beige Ebony Monogram Men's Leather Low Top Sneakers Men's New
+markdown 820207186774: 0% · Gucci Run Sneaker Black Men's Knit Low Top Sneakers Authentic Men's New
+markdown 820207186802: 0% · Gucci Run Sneaker White Black Men's Knit Low Top Sneakers Authentic Men's New
+markdown 820207186833: 0% · Gucci Run Sneaker White Suede Men's Low Top Sneakers Authentic Men's New
+markdown 820207186853: 0% · Gucci Screener GG Supreme - Black Grey Men's Leather Low Top Sneakers Men's New
+markdown 820207186878: 0% · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top Sneakers Authentic Men's New
+markdown 820207186919: 0% · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top Sneakers Authentic Men's New
+markdown 820207186962: 0% · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Men's Low Top Sneakers Men's New
+markdown 820223864929: 0% · Gucci Loafer with Interlocking G Brown Men's Leather Loafers Authentic Men's New
+markdown 820223865172: 0% · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sneakers Authentic Men's New
+markdown 820228649208: 0% · Bottega Veneta Eliot Mid-Top Sneaker Multi-Color Men's Low Top Sneakers New
+markdown 820228649230: 0% · Ferragamo Cassini Low-Top Sneaker Blue Men's Low Top Sneakers Authentic New
+markdown 820228649253: 0% · Ferragamo Cosma High-Top Sneaker Black Men's Sneakers Authentic Men's New
+markdown 820228649857: 0% · Prada Monolith Brushed Leather Loafer Black Men's Loafers Authentic Men's New
+markdown 820229263569: 0% · Ferragamo Lunar Paneled Slip-On Sneaker Medium Brown Men's Low Top Sneakers New
+markdown 820229263683: 0% · Ferragamo Lunar Paneled Slip-On Sneaker Red Men's Low Top Sneakers Authentic New
+markdown 820229263765: 0% · Ferragamo Nima Knit Low-Top Sneaker Blue Men's Low Top Sneakers Authentic New
+markdown 820229263903: 0% · Gucci Horsebit Driver Loafer with Web Brown Men's Leather Driving Shoes New
+markdown 820229265137: 0% · Alexander McQueen Contrast Sole Leather Penny Loafer Black/White Men's New
+markdown 820253018067: 0% · Bally Leather Loafer Blue Men's Loafers Authentic Men's Authentic Men's New
+markdown 820253018257: 0% · Bally Logo-Plaque Leather Loafer Grey Men's Loafers Authentic Men's New
+markdown 820253018386: 0% · Brunello Cucinelli Panelled Suede Sneaker Beige Men's Low Top Sneakers Men's New
+markdown 820253018496: 0% · Dolce & Gabbana Portofino Lambskin Sneaker Off-White Men's Low Top Sneakers New
+markdown 820253018812: 0% · Givenchy Padded Nylon and Leather Trainer Sneaker Black Men's New
+markdown 820253018968: 0% · Lanvin Curb Cut-Out Lace-Up Sneaker Pink Men's Suede Low Top Sneakers Men's New
+markdown 820253019164: 0% · Maison Margiela Sprinters Sneaker Black Men's Leather Low Top Sneakers Men's New
+markdown 820256466735: 0% · Givenchy Gent Leather Derby Black Men's New
+markdown 820259478300: 0% · Maison Margiela Sprinters Sneaker White/Grey Men's Mesh Low Top Sneakers New
+markdown 356084785661: 0% · Salvatore Ferragamo Logo Engraved Cufflinks
+markdown 820277097048: 0% · Gucci Horsebit Loafer Ivory Merino Wool Men's Loafers Authentic Men's New
+markdown 820277097224: 0% · Gucci MAC80 Sneaker Dune Men's Leather Low Top Sneakers Authentic Men's New
+markdown 820277097445: 0% · Gucci MAC80 High-Top Sneaker Black/Off-White Men's Leather Sneakers Men's New
+markdown 820277097634: 0% · Gucci MAC80 Sneaker Off-White/Black Men's Leather Low Top Sneakers Authentic New
+markdown 820277097802: 0% · Gucci MAC80 Sneaker Off-White/Green Men's Leather Low Top Sneakers Authentic New
+markdown 820277097979: 0% · Gucci Re-Web Sneaker Black Men's Leather Low Top Sneakers Authentic Men's New
+markdown 820277098190: 0% · Gucci Re-Web Sneaker White Men's Leather Low Top Sneakers Authentic Men's New
+markdown 820277098381: 0% · Gucci Run Sneaker Light Grey/Brown Men's Suede Low Top Sneakers Authentic New
+markdown 820277098563: 0% · Gucci Screener GG Supreme Sneaker Dark Blue/Red Men's Low Top Sneakers Men's New
+markdown 820281910101: 0% · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
+markdown 820281910201: 0% · Gucci Driver Horsebit - Black Men's Leather Driving Shoes Authentic Men's New
+markdown 820281910306: 0% · Gucci Driver Horsebit - Green Men's Suede Driving Shoes Authentic Men's New
+markdown 820281910460: 0% · Gucci Horsebit Loafer Black Men's Leather Loafers Authentic Men's Authentic New
+markdown 820281910571: 0% · Gucci Tennis 1977 White Green Red Men's Leather Low Top Sneakers Authentic New
+markdown 355066429434: 0% · Salvatore Ferragamo Grandioso Moccasin with Gancini Ornament Black Men's New
+markdown 355066509978: 0% · Salvatore Ferragamo Rolo Moccasin with Reversible Gancini Bit Black Men's New
+markdown 355066574768: 0% · Salvatore Ferragamo Moccasin with Gancini Ornament Brown Men's Loafers Men's New
+markdown 355420832785: 0% · Salvatore Ferragamo Moccasin with Reversible Gancini Bit Black Wide EE Men's New
+markdown 355420948879: 0% · Salvatore Ferragamo Moccasin with Painted Gancini Bit Black Men's Loafers New
+markdown 355420967506: 0% · Gucci Horsebit Loafer with Web Black Leather Men's Loafers Authentic Men's New
+markdown 355422678861: 0% · Dolce & Gabbana Portofino Vintage Sneakers Black Coated Jacquard Men's New
+markdown 355422689102: 0% · Dolce & Gabbana Saint Tropez Sneakers Black Calfskin Men's Leather Authentic New
+markdown 355422702908: 0% · Dolce & Gabbana New Roma Sneakers Black Calfskin Nappa Men's Leather Men's New
+markdown 355422763143: 0% · Dolce & Gabbana Saint Tropez Sneakers White Calfskin Men's Leather Authentic New
+markdown 355423513413: 0% · Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas Men's Low Top Sneakers Men's New
+markdown 355428047951: 0% · Gucci Ace Embroidered Bee Sneaker White Men's Leather Low Top Sneakers Men's New
+markdown 355428079713: 0% · Gucci Ace Embroidered Bee Sneaker Black Men's Leather Low Top Sneakers Men's New
+markdown 355426430327: 0% · Dolce & Gabbana New Roma Sneakers White Calfskin Nappa Men's Leather Men's New
+markdown 355426469262: 0% · Gucci Ace GG Supreme Sneaker Black/Grey Men's Leather Low Top Sneakers Men's New
+markdown 355429309757: 0% · Gucci Ace GG Crystal Canvas Sneaker Blue Men's Leather Low Top Sneakers New
+markdown 355429340181: 0% · Gucci Ace GG Crystal Canvas Sneaker Green Men's Leather Low Top Sneakers New
+markdown 355429355271: 0% · Gucci Ace GG Crystal Canvas Sneaker Black Men's Leather Low Top Sneakers New
+markdown 355429385763: 0% · Gucci Ace Sneaker with Web Beige/Ebony GG Supreme Men's Low Top Sneakers New
+No listing has enough margin for a sale right now.
+Ad rates: 0 listings up, 64 back down (64 at 8%); eBay accepted 64 of 64
