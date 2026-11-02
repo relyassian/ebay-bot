@@ -526,3 +526,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Effect: all live source rows are past max_source_age_hours (36h). Next daily-sync will set every live size to qty 0 (by design). Until then listings still show stock that was last verified Oct 29, so a sale now carries cancellation risk. Did NOT dispatch daily-sync or fire the research trigger (no listing changes in check-ins).
 - No sales (total 1, $899.99). 81 live, notices empty, limits 13,776 items / $274,347. Interest ~266 watchers / ~698 views_7d (Oct 30).
 - Needs Rafael: run/enable "eBay daily research" (trig_01KccF1saAhBjHmECjbhgdVJ) and check why daily-sync stopped.
+
+## Nov 2: daily research (scheduled, ~05:40-06:15Z, Mac browser linked)
+- Guard passed (newest checked_at was Oct 29 11:35Z; research had lapsed Oct 30-Nov 1). Part A: GOAT 423 rows (73 pages, buy_bar_data), StockX 96 rows (29 pages, one page per call), Cettire cufflinks $241.06 in stock. All stamped ~06:0xZ Nov 2.
+- NOT refreshed: Farfetch Ferragamo Gancini moccasin (10 rows) and D&G Saint Tropez (3 rows): the size menu would not open in the browser this time (page header now shows $725 vs stored $1,032, unverified). 4 StockX rows (big/BID sizes) and 6 GOAT rows with no GOAT size stay stale; they go off sale after 36h (safe). Draft-only Farfetch/Antonioli rows not re-read.
+- Part B skipped (no confirmed room check). Part C: Gmail 21 days empty; promos.yaml unchanged. Part D skipped this run (time spent on the 3-day gap).
+- Note: the local clone was detached/stale at start; fast-forwarded to origin/main.
