@@ -532,3 +532,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - NOT refreshed: Farfetch Ferragamo Gancini moccasin (10 rows) and D&G Saint Tropez (3 rows): the size menu would not open in the browser this time (page header now shows $725 vs stored $1,032, unverified). 4 StockX rows (big/BID sizes) and 6 GOAT rows with no GOAT size stay stale; they go off sale after 36h (safe). Draft-only Farfetch/Antonioli rows not re-read.
 - Part B skipped (no confirmed room check). Part C: Gmail 21 days empty; promos.yaml unchanged. Part D skipped this run (time spent on the 3-day gap).
 - Note: the local clone was detached/stale at start; fast-forwarded to origin/main.
+
+## Nov 2 ~11:45Z (6:45am ET): second research pass (scheduled)
+- Guard did not match (newest checked_at 06:05Z = 1:05am ET, before 6am ET), so I ran, but Part A prices are only ~5.5h old (GOAT/StockX/Cettire from the 06:05Z run), so I did not re-read them.
+- Retried Farfetch (Ferragamo Gancini moccasin, 10 rows; D&G Saint Tropez, 3 rows): the page now shows Farfetch's bot-protection screen, no size menu, nothing read. Left unchanged (not trying to bypass). Those 13 rows are from Oct 22-29, already past 36h, so those sizes stay off sale until Farfetch loads again or another store has them.
+- Part B skipped (no change). Part C: Gmail 21 days empty; promos.yaml comment only. Part D skipped (time; same yield as Oct 29).
