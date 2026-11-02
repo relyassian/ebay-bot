@@ -537,3 +537,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Guard did not match (newest checked_at 06:05Z = 1:05am ET, before 6am ET), so I ran, but Part A prices are only ~5.5h old (GOAT/StockX/Cettire from the 06:05Z run), so I did not re-read them.
 - Retried Farfetch (Ferragamo Gancini moccasin, 10 rows; D&G Saint Tropez, 3 rows): the page now shows Farfetch's bot-protection screen, no size menu, nothing read. Left unchanged (not trying to bypass). Those 13 rows are from Oct 22-29, already past 36h, so those sizes stay off sale until Farfetch loads again or another store has them.
 - Part B skipped (no change). Part C: Gmail 21 days empty; promos.yaml comment only. Part D skipped (time; same yield as Oct 29).
+
+## Nov 2 7:35am ET check-in
+- Recovered: research ran Nov 2 06:05Z and a second pass 11:41Z; daily-sync succeeded 06:05Z; sale-alerts green. Newest source_prices checked_at 06:05Z (1:05am ET, so not "after 6am"; second pass deliberately skipped re-reading 5h-old prices).
+- During the gap daily-sync (Nov 1 12:40Z) zeroed stale sizes: stats showed only 6 live sizes on Nov 1 (was 346 on Oct 30). Nov 2 live-size count not yet in stats.json; should be back up after the 06:05Z sync (unverified).
+- Farfetch rows (Gancini 10, D&G Saint Tropez 3) unrefreshed (Farfetch bot screen); those sizes stay off sale.
+- No sales (total 1, $899.99); 81 listings, 0 drafts waiting, notices empty, limits 13,776 / $274,347. Watchers ~271, views_7d ~688 (Nov 1). No listing changes made by this check-in.
