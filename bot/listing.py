@@ -7,7 +7,7 @@ Candidate files live in data/candidates/<id>.yaml (written by the daily research
   model: New Roma
   colorway: Black
   style_code: CS2036A1065 80999
-  category: sneaker                  # sneaker | loafer | dress_shoe | accessory
+  category: sneaker                  # sneaker | loafer | dress_shoe | belt | tie | tshirt | pants | jeans | jacket | sweater | hoodie
   department: Men
   color: Black
   upper_material: Leather            # only if verified
@@ -51,11 +51,22 @@ CATEGORY_IDS = {           # eBay US leaf categories (eBay's Verify step rejects
     "dress_shoe": "53120",
     "belt": "2993",         # Men's Accessories > Belts
     "tie": "15662",         # Men's Accessories > Ties
+    # Apparel (Rafael, Oct 28 / Nov 3: clothing in scope). eBay's Verify step rejects a wrong category or a missing
+    # required specific before anything lists, so a mistake here shows up as an "invalid" draft, never a bad listing.
+    "tshirt": "15687",      # Men's T-Shirts
+    "pants": "57989",       # Men's Pants (joggers, cargo, trousers; jeans use "jeans")
+    "jeans": "11483",       # Men's Jeans
+    "jacket": "57988",      # Men's Coats, Jackets & Vests
+    "sweater": "11484",     # Men's Sweaters
+    "hoodie": "155183",     # Men's Hoodies & Sweatshirts
 }
-TYPE = {"sneaker": "Sneaker", "loafer": "Loafer", "dress_shoe": "Dress", "belt": "Belt", "tie": "Tie"}
+APPAREL = ("tshirt", "pants", "jeans", "jacket", "sweater", "hoodie")
+TYPE = {"sneaker": "Sneaker", "loafer": "Loafer", "dress_shoe": "Dress", "belt": "Belt", "tie": "Tie",
+        "tshirt": "T-Shirt", "pants": "Pants", "jeans": "Jeans", "jacket": "Jacket", "sweater": "Sweater",
+        "hoodie": "Hoodie"}
 # variation name per category; None = one-size item (single SKU, quantity 1)
 SIZE_NAME = {"sneaker": "US Shoe Size", "loafer": "US Shoe Size", "dress_shoe": "US Shoe Size",
-             "belt": "Size", "tie": None}
+             "belt": "Size", "tie": None, **{k: "Size" for k in ("tshirt", "pants", "jeans", "jacket", "sweater", "hoodie")}}
 
 
 @dataclass
@@ -121,12 +132,19 @@ def build_specifics(c: dict) -> dict:
         "Brand": c["brand"],
         "Model": c["model"],
         "Department": c.get("department", "Men"),
-        "Type": TYPE.get(c["category"], "Casual"),
+        "Type": c.get("type") or TYPE.get(c["category"], "Casual"),
         "Color": c.get("color") or c.get("colorway"),
         "Upper Material": c.get("upper_material"),
         "Product Line": c.get("product_line"),
         "Style": c.get("style") or STYLE.get(c["category"]),
     }
+    if c["category"] in APPAREL:
+        s["Size Type"] = c.get("size_type", "Regular")
+        s["Material"] = c.get("material") or c.get("upper_material")
+        s["Upper Material"] = None                      # shoe-only specific
+        s["Model"] = c.get("model") if c.get("model_specific", True) else None
+        # only verified extras from the candidate file (Sleeve Length, Neckline, Fit, Rise, Pattern, ...)
+        s.update(c.get("extra_specifics") or {})
     return {k: v for k, v in s.items() if v}
 
 
@@ -182,6 +200,12 @@ def build_description(c: dict, sizes: list[SizeLine]) -> str:
                 f"<th style='{_CSS['th']}'>Size on the shoe</th></tr>{rows}</table>"]
         if c.get("fit_note"):
             out.append(f"<p style='{_CSS['p']}margin-top:10px;'>{e(c['fit_note'])}</p>")
+    elif cat in APPAREL and sizes:
+        out += [f"<h2 style='{_CSS['h2']}'>Size guide</h2>",
+                f"<p style='{_CSS['p']}'>Choose your size from the menu. Sizes are as {e(c['brand'])} marks them. "
+                f"Available: {e(', '.join(s.us for s in sizes))}. Message us before you buy if you need measurements.</p>"]
+        if c.get("fit_note"):
+            out.append(f"<p style='{_CSS['p']}'>{e(c['fit_note'])}</p>")
     elif cat == "belt" and sizes:
         out += [f"<h2 style='{_CSS['h2']}'>Size guide</h2>",
                 f"<p style='{_CSS['p']}'>Belt sizes are as the brand marks them (usually cm, measured to the middle hole). "

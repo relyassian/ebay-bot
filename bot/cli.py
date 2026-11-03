@@ -104,7 +104,7 @@ def cmd_show(args) -> int:
     for item_id in args.item_ids:
         l = get_item(item_id, token)
         print(f"{l.item_id}  {l.title}")
-        for v in sorted(l.variations, key=lambda v: float(v.size or 0)):
+        for v in sorted(l.variations, key=lambda v: (float(v.size) if str(v.size or "0").replace(".", "", 1).isdigit() else 99, str(v.size))):
             print(f"  {v.size:>5}  ${v.price:>8.2f}  available {v.available}  (sold {v.sold})")
         if not l.variations:
             print(f"  ${l.price:.2f}  available {(l.quantity or 0) - (l.sold or 0)}")

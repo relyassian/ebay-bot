@@ -188,7 +188,7 @@ def parse_orders(root: ET.Element) -> list[Sale]:
         for tr in o.findall("e:TransactionArray/e:Transaction", NS):
             size = None
             for nv in tr.findall("e:Variation/e:VariationSpecifics/e:NameValueList", NS):
-                if t(nv, "e:Name") == SIZE_NAME:
+                if t(nv, "e:Name") in (SIZE_NAME, "Size"):
                     size = t(nv, "e:Value")
             out.append(Sale(
                 order_id=t(o, "e:OrderID"), item_id=t(tr, "e:Item/e:ItemID"),

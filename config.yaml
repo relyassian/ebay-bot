@@ -21,6 +21,7 @@ profit:
   store_shipping:             # measured at real checkout (Oct 5): StockX total = ask × 1.0595 + $14.95; GOAT = price + $14.95
     StockX: 14.95             # (StockX's ~6% fee is already in the cost rows; GOAT charges no fee; no NJ tax on shoes)
     GOAT: 14.95
+    END US apparel: 40        # Nov 3: $20 inbound + $20 reship to the buyer (apparel doesn't go through the authenticator)
   overseas_duty_rate: 0.10
   reship_cost: 20             # when a source can't keep the eVTN on line 2
 

@@ -93,3 +93,21 @@ def test_excluded_brands_and_motifs_never_list():
     assert excluded_reason({"brand": "Gucci", "model": "Ace", "colorway": "Medusa Print"}, cfg)
     assert not excluded_reason({"brand": "Gucci", "model": "Ace Sneaker with Web", "colorway": "White"}, cfg)
     assert not excluded_reason({"brand": "Gucci", "model": "Horsebit Driver Loafer", "colorway": "Black"}, cfg)
+
+
+def test_apparel_draft_uses_size_variation_and_blocks_without_photos():
+    from bot.config import load_config
+    from bot.listing import APPAREL, CATEGORY_IDS, SIZE_NAME, make_draft
+    cfg = load_config()
+    assert all(k in CATEGORY_IDS and SIZE_NAME[k] == "Size" for k in APPAREL)
+    c = {"id": "t-tee", "brand": "Rick Owens x Moncler", "model": "Jumbo Short Sleeve T-Shirt", "colorway": "Dark Dust",
+         "color": "Brown", "category": "tshirt", "department": "Men", "material": "Cotton", "price": 600.0,
+         "photos": ["https://example.com/a.jpg"],
+         "sizes": [{"us": "M", "native": "M", "cost": 303, "source": "END US apparel", "overseas": True, "in_stock_sources": 1}]}
+    d = make_draft(c, cfg)
+    assert d.blocked_reason is None and d.category_id == "15687"
+    assert d.specifics["Size Type"] == "Regular" and d.specifics["Material"] == "Cotton" and "Upper Material" not in d.specifics
+    assert d.sizes and d.sizes[0].net >= cfg["profit"]["floor"]
+    assert "MU01" not in d.title and "Size guide" in d.description
+    c["photos"] = []
+    assert "needs photos" in make_draft(c, cfg).blocked_reason
