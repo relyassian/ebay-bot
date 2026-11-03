@@ -548,3 +548,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Guard passed (newest checked_at was Nov 2 06:05Z). Part A: GOAT 418 rows refreshed from buy_bar_data (73 pages; 7 sizes no longer offered were blanked; 2 rows with >35% jumps left stale: 355423513413 US 5.5, 820207186196 US 12). StockX 49 rows refreshed (28 of 29 pages read, 4 parallel tabs; LV skate skipped). StockX rows are updated from their own source only (no GOAT-vs-StockX cheapest merge). Sizes missing from StockX's truncated list stay stale.
 - NOT refreshed: Farfetch (Gancini 10 rows, D&G Saint Tropez 3) - bot screen last time, not retried; ~43 rows older than 36h remain and go off sale.
 - Part B skipped (room $274k is not the limit; 0 candidates). Part C: Gmail 21 days empty, promos.yaml unchanged. Part D skipped (time spent on StockX).
+
+## Nov 3 7:21am ET check-in
+- Healthy. Research ran today (newest checked_at 11:50Z = 6:50am ET; GOAT 418 rows, StockX refreshed). daily-sync x2 and sale-alerts green. Live sizes back to 378 (was 6 on Nov 1).
+- No sales (total 1, $899.99). 81 listings, 0 drafts waiting, notices empty, limits 13,776 / $274,347. Watchers 272, views_7d 590 (down from 688 after the Nov 1 gap).
+- Open: Givenchy New City go-ahead, BG CSV, Nov 4 re-review of $75 floor/ad rates/sale badges, Black Friday (Nov 27) re-scan. No listing changes made.
