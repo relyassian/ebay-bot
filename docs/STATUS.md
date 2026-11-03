@@ -543,3 +543,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - During the gap daily-sync (Nov 1 12:40Z) zeroed stale sizes: stats showed only 6 live sizes on Nov 1 (was 346 on Oct 30). Nov 2 live-size count not yet in stats.json; should be back up after the 06:05Z sync (unverified).
 - Farfetch rows (Gancini 10, D&G Saint Tropez 3) unrefreshed (Farfetch bot screen); those sizes stay off sale.
 - No sales (total 1, $899.99); 81 listings, 0 drafts waiting, notices empty, limits 13,776 / $274,347. Watchers ~271, views_7d ~688 (Nov 1). No listing changes made by this check-in.
+
+## Nov 3: daily research (scheduled, ~11:40-12:25Z, Mac browser linked)
+- Guard passed (newest checked_at was Nov 2 06:05Z). Part A: GOAT 418 rows refreshed from buy_bar_data (73 pages; 7 sizes no longer offered were blanked; 2 rows with >35% jumps left stale: 355423513413 US 5.5, 820207186196 US 12). StockX 49 rows refreshed (28 of 29 pages read, 4 parallel tabs; LV skate skipped). StockX rows are updated from their own source only (no GOAT-vs-StockX cheapest merge). Sizes missing from StockX's truncated list stay stale.
+- NOT refreshed: Farfetch (Gancini 10 rows, D&G Saint Tropez 3) - bot screen last time, not retried; ~43 rows older than 36h remain and go off sale.
+- Part B skipped (room $274k is not the limit; 0 candidates). Part C: Gmail 21 days empty, promos.yaml unchanged. Part D skipped (time spent on StockX).
