@@ -559,3 +559,12 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Checked the known near-misses live: Givenchy New City black (SSENSE $299, style 261278M237014): only IT 40.5 left, "Only 1 remaining" -> NOT listed (one unit = cancellation risk). MM6 SH3WS0012P6435T1003 (Biffi $191.88): page flags Sold Out/Pre-order, per-size stock unreadable -> NOT listed.
 - Result: the lower floor mostly widens margins for products we already track; no new candidate files written.
 - Revert: set profit.floor back to 100.
+
+## Nov 3 night: apparel built, 4 leads tried (Rafael: "go, find anything to start making sales")
+- Code: apparel categories (tshirt, pants, jeans, jacket, sweater, hoodie) in `bot/listing.py`, size variation, specifics, `END US apparel: 40` shipping (ships to Rafael, then reship), sale alerts parse "Size". 54 tests pass.
+- END product URLs must end in `.html`. Research task must re-read END apparel rows daily or sizes auto-hide after 36h.
+- eBay API returned 0 comps for all four (the Oct 28 asks of $566-$1,356 were single-seller active listings, now not found). Prices below are priced under those old asks, not on proven sales.
+- END live prices rose since Oct 28: tee $303, jogger $447, cargo $522, Rhude $279. Landed = price x 1.10 + $40.
+- Approved (auto, will list on next sale-alerts run): Rick Owens x Moncler Jumbo Tee Dark Dust S/M/L at $549 (net ~$96); Rhude Split Petrol Long Sleeve M/L/XL at $499 (net ~$79). Stock is "one left" / "few left" per size: cancellation risk is real.
+- Blocked: Moncler jogger ($749) and DRKSHDW cargo jeans ($879): eBay requires Inseam and Style; END does not state inseam, so not filled (rule: only verifiable specifics). Candidates stay in data/candidates; add `extra_specifics: {Inseam: ..., Style: ...}` once a measurement is verified.
+- Photos are END product photos (exact style code), not eBay catalog.
