@@ -1,7 +1,7 @@
 from types import SimpleNamespace as NS
 
 from bot.ads import best_rate
-from bot.config import load_config
+from tests._cfg import load_config
 from bot.market import _matches
 
 

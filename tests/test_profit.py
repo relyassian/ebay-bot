@@ -1,4 +1,4 @@
-from bot.config import load_config
+from tests._cfg import load_config
 from bot.profit import floor_price, landed_cost, net_profit, tier
 
 CFG = load_config()
@@ -26,7 +26,7 @@ def test_tiers():
 
 def test_ad_price_cover_keeps_profit():
     from bot.ads import covered_price
-    from bot.config import load_config
+    from tests._cfg import load_config
     from bot.profit import net_profit
     cfg = load_config()
     base = dict(cfg, profit=dict(cfg["profit"], promoted_rate=0.0))
