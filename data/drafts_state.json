@@ -324,8 +324,8 @@
     "status": "live"
   },
   "rhude-split-petrol-logo-long-sleeve-vintage-white": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820312366345",
+    "status": "live"
   },
   "rick-owens-drkshdw-double-cargo-jeans-washed-indigo": {
     "errors": [
@@ -344,7 +344,7 @@
     "status": "invalid"
   },
   "rick-owens-x-moncler-jumbo-tee-dark-dust": {
-    "approved_by": "auto (Rafael's standing rule, Oct 5)",
-    "status": "approved"
+    "item_id": "820312366372",
+    "status": "live"
   }
 }
