@@ -553,3 +553,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Healthy. Research ran today (newest checked_at 11:50Z = 6:50am ET; GOAT 418 rows, StockX refreshed). daily-sync x2 and sale-alerts green. Live sizes back to 378 (was 6 on Nov 1).
 - No sales (total 1, $899.99). 81 listings, 0 drafts waiting, notices empty, limits 13,776 / $274,347. Watchers 272, views_7d 590 (down from 688 after the Nov 1 gap).
 - Open: Givenchy New City go-ahead, BG CSV, Nov 4 re-review of $75 floor/ad rates/sale badges, Black Friday (Nov 27) re-scan. No listing changes made.
+
+## Nov 3 evening: floor lowered to $50 (Rafael: "make more listings, even if we just make $50")
+- `config.yaml` profit.floor 100 -> 50 (commit 95b01e3). Effects: new listings and live sizes now need >= $50 net; decay/market-drop floors (1.5x) become $75; brand_min_net (LV $200) and item_min_net.json overrides unchanged; ads/markdown/market floors were already $75. Tests pinned to the old $100 via tests/_cfg.py (53 pass).
+- Checked the known near-misses live: Givenchy New City black (SSENSE $299, style 261278M237014): only IT 40.5 left, "Only 1 remaining" -> NOT listed (one unit = cancellation risk). MM6 SH3WS0012P6435T1003 (Biffi $191.88): page flags Sold Out/Pre-order, per-size stock unreadable -> NOT listed.
+- Result: the lower floor mostly widens margins for products we already track; no new candidate files written.
+- Revert: set profit.floor back to 100.
