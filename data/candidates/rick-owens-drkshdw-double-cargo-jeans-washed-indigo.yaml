@@ -1,0 +1,37 @@
+id: rick-owens-drkshdw-double-cargo-jeans-washed-indigo
+brand: Rick Owens DRKSHDW
+model: Double Cargo Jeans
+colorway: Washed Indigo
+color: Blue
+style_code: DU01F4361-DWB-06
+category: jeans
+department: Men
+material: Cotton
+price: 879
+included:
+- Item
+- Original tags
+handling_days: 7
+photos:
+- https://www.endclothing.com/cdn/shop/files/b833cd771e41c3976f3960851b53db48f7b67ae2.jpg?v=1788520552&width=1600
+- https://www.endclothing.com/cdn/shop/files/0f7d3ddd7f69b7eb0c72668b59fb5d62c83ff569.jpg?v=1788520552&width=1600
+- https://www.endclothing.com/cdn/shop/files/0cc360c7ecb12e3f5014fd520681b737403ec615.jpg?v=1788520552&width=1600
+- https://www.endclothing.com/cdn/shop/files/b48b5adf06f735b4adfbe336b429d445eb731b84.jpg?v=1788520552&width=1600
+photo_source: store product photo (END), exact style code
+sizes:
+- us: '28'
+  native: '28'
+  cost: 522.0
+  source: END US apparel
+  url: https://www.endclothing.com/us/rick-owens-drkshdw-double-cargo-jeans-du01f4361-dwb-06.html
+  overseas: true
+  in_stock_sources: 1
+  checked_at: '2026-11-03T22:33:06Z'
+- us: '32'
+  native: '32'
+  cost: 522.0
+  source: END US apparel
+  url: https://www.endclothing.com/us/rick-owens-drkshdw-double-cargo-jeans-du01f4361-dwb-06.html
+  overseas: true
+  in_stock_sources: 1
+  checked_at: '2026-11-03T22:33:06Z'
