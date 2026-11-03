@@ -322,5 +322,29 @@
   "prada-monolith-loafer-black": {
     "item_id": "820228649857",
     "status": "live"
+  },
+  "rhude-split-petrol-logo-long-sleeve-vintage-white": {
+    "approved_by": "auto (Rafael's standing rule, Oct 5)",
+    "status": "approved"
+  },
+  "rick-owens-drkshdw-double-cargo-jeans-washed-indigo": {
+    "errors": [
+      "Error 21919303: The item specific Inseam\u00a0is missing.\u00a0Add Inseam to this listing, enter a valid value, and then try again. [The item specific Inseam\u00a0is missing., The item specific Inseam\u00a0is missing.\u00a0Add Inseam to this listing, enter a valid value, and then try again., 3, Inseam]",
+      "Error 21919303: The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again. [The item specific Style\u00a0is missing., The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again., 3, Style]",
+      "Warning 21920406: You and your buyers can have confidence that this item will undergo a professional inspection to verify that it is authentic and matches the listing's details. [You and your buyers can have confidence that this item will undergo a professional inspection to verify that it is authentic and matches the listing's details., You and your buyers can have confidence that this item will undergo a professional inspection to verify that it is authentic and matches the listing's details.]"
+    ],
+    "status": "invalid"
+  },
+  "rick-owens-x-moncler-drawstring-jogger-dark-dust": {
+    "errors": [
+      "Error 21919303: The item specific Inseam\u00a0is missing.\u00a0Add Inseam to this listing, enter a valid value, and then try again. [The item specific Inseam\u00a0is missing., The item specific Inseam\u00a0is missing.\u00a0Add Inseam to this listing, enter a valid value, and then try again., 3, Inseam]",
+      "Error 21919303: The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again. [The item specific Style\u00a0is missing., The item specific Style\u00a0is missing.\u00a0Add Style to this listing, enter a valid value, and then try again., 3, Style]",
+      "Warning 21920406: You and your buyers can have confidence that this item will undergo a professional inspection to verify that it is authentic and matches the listing's details. [You and your buyers can have confidence that this item will undergo a professional inspection to verify that it is authentic and matches the listing's details., You and your buyers can have confidence that this item will undergo a professional inspection to verify that it is authentic and matches the listing's details.]"
+    ],
+    "status": "invalid"
+  },
+  "rick-owens-x-moncler-jumbo-tee-dark-dust": {
+    "approved_by": "auto (Rafael's standing rule, Oct 5)",
+    "status": "approved"
   }
 }

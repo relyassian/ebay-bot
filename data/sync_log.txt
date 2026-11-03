@@ -81,7 +81,7 @@ market 820277098563: ours 1064.99 vs cheapest 699.9 (1 others) · Gucci Screener
 market 820281910101: ours 1059.99 vs cheapest - (0 others) · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
 market 820281910201: ours 584.99 vs cheapest 380.0 (11 others) · Gucci Driver Horsebit - Black Men's Leather Drivin
 market 820281910306: ours 474.99 vs cheapest 260.0 (22 others) · Gucci Driver Horsebit - Green Men's Suede Driving 
-market 820281910460: ours 619.99 vs cheapest 440.0 (24 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
+market 820281910460: ours 619.99 vs cheapest 440.0 (23 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
 market 820281910571: ours 559.99 vs cheapest 447.0 (3 others) · Gucci Tennis 1977 White Green Red Men's Leather Lo
 market 355066429434: ours None vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
@@ -104,14 +104,14 @@ market 355429355271: ours 894.99 vs cheapest 485.0 (1 others) · Gucci Ace GG Cr
 market 355429385763: ours 949.99 vs cheapest - (0 others) · Gucci Ace Sneaker with Web Beige/Ebony GG Supreme 
 Price check: 100 listings compared, 39 priced more than 5% above another seller.
 SYNC ERRORS:
-Gucci MAC80 Sneaker Black/Off-White Leather Low… (820205221669): eBay refused the change (ReviseFixedPriceItem failed: ['System error. Unable to process your request. Please try again later.', 'Funds from your sales may be unavailable and show as on hold for a period of time. Learn more: https://www.ebay.com/help/selling/getting-paid/getting-paid-items-youve-sold/pending-payments?id=4816)
+Gucci Basket Red Black Demetra Low Top Sneakers… (820207186525): eBay refused the change (ReviseFixedPriceItem failed: ['System error. Unable to process your request. Please try again later.', "This item is eligible for Authenticity Guarantee. This includes verification by an authenticator before it's delivered to your buyer.", 'You will receive a free shipping label once the item is sol)
 📋 Daily eBay check · Tue Nov 3
 
 What I did: raised the price a little on 53 listings because the store got pricier.
 Nothing for you to do.
 
 ⚠️ Couldn't update 1 listing(s); I'm looking into it:
-• Gucci MAC80 Sneaker Black/Off-White Leather Low… (820205221669): eBay refused the change (ReviseFixedPriceItem failed: ['System error. Unable to process your re
+• Gucci Basket Red Black Demetra Low Top Sneakers… (820207186525): eBay refused the change (ReviseFixedPriceItem failed: ['System error. Unable to process your re
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/JJAAAeSw40Zq1qXF/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web Black/Navy/Red Low…\nSizes: US 6.5, 7.5 · now from $779.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075354"}
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/tCoAAeSwNXxq1qXN/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web White/Green/Red Low…\nSizes: US 12.5 · now from $659.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075398"}
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/XnEAAeSwvOVq1pUC/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci x adidas Gazelle GG Monogram Sneaker…\nSizes: all 2 sizes · now from $664.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075433"}
@@ -122,6 +122,7 @@ Also changed:
 • Price Raised: Gucci Screener GG Canvas Sneaker… (US 7.5) https://www.ebay.com/itm/820204075830
 • Price Raised: Gucci Interlocking G Driver Moccasin Washed… (US 13) https://www.ebay.com/itm/820205221563
 • Price Raised: Gucci Interlocking G Loafer with Web… (US 12) https://www.ebay.com/itm/820205221628
+• Price Raised: Gucci MAC80 Sneaker Black/Off-White Leather Low… (US 12, 12.5, 13.5) https://www.ebay.com/itm/820205221669
 • Price Raised: Gucci Noel Driver Loafer Black Leather Driving… (US 12.5) https://www.ebay.com/itm/820205221755
 • Price Raised: Gucci MAC80 Sneaker Off-White Leather Low Top… (US 13.5) https://www.ebay.com/itm/820205329595
 • Price Raised: Gucci Tennis 1977 High-Top Sneaker Beige/Ebony… (US 11.5, 12) https://www.ebay.com/itm/820205329783
@@ -133,7 +134,6 @@ Also changed:
 • Price Raised: Gucci Basket High White Demetra Red High Top… (US 12) https://www.ebay.com/itm/820207186442
 • Price Raised: Gucci Basket Low White Demetra Green Low Top… (US 7, 7.5, 10, 10.5, 11.5, 12.5, 13) https://www.ebay.com/itm/820207186465
 • Price Raised: Gucci Basket Low White Demetra Red Low Top… (all 13 sizes) https://www.ebay.com/itm/820207186489
-• Price Raised: Gucci Basket Red Black Demetra Low Top Sneakers… (all 7 sizes) https://www.ebay.com/itm/820207186525
 • Price Raised: Gucci Driver Interlocking G - Green Leather… (US 7, 8, 9) https://www.ebay.com/itm/820207186550
 • Price Raised: Gucci GG Screener Grey Navy Suede Low Top… (US 12.5) https://www.ebay.com/itm/820207186594
 • Price Raised: Gucci MAC80 Sneaker White Blue Leather Low Top… (US 8, 11.5) https://www.ebay.com/itm/820207186615
