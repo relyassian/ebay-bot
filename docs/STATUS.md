@@ -568,3 +568,11 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Approved (auto, will list on next sale-alerts run): Rick Owens x Moncler Jumbo Tee Dark Dust S/M/L at $549 (net ~$96); Rhude Split Petrol Long Sleeve M/L/XL at $499 (net ~$79). Stock is "one left" / "few left" per size: cancellation risk is real.
 - Blocked: Moncler jogger ($749) and DRKSHDW cargo jeans ($879): eBay requires Inseam and Style; END does not state inseam, so not filled (rule: only verifiable specifics). Candidates stay in data/candidates; add `extra_specifics: {Inseam: ..., Style: ...}` once a measurement is verified.
 - Photos are END product photos (exact style code), not eBay catalog.
+
+## Nov 4 check-in (7:20am ET)
+- Research did NOT run today: newest source_prices checked_at is Nov 3 22:33Z. Rows (incl. END apparel) auto-hide sizes after 36h (~Nov 5 10:30 ET) unless it runs.
+- Bot: sale-alerts chain healthy (success 11:35Z, next run in progress). daily-sync last ran Nov 3 22:35Z (succeeded; a duplicate dispatch was cancelled).
+- Live now: Rick Owens x Moncler tee (820312366372, $549) and Rhude long sleeve (820312366345, $499). No sales since the Oct total ($899.99, 1 sale). Selling room 13,776 items / $274,347.
+- Needs Rafael: inseam for the Moncler jogger and DRKSHDW cargo jeans (eBay rejects drafts without it; notices.json).
+- Apparel comps (Nov 4): Rick Owens Zip Hoodie n=1 at $698 vs END $796 -> fails; Zip Knitted Hoodie and Tommy Tee n=0 (no price evidence). Not listed.
+- No listing changes made by this check-in.
