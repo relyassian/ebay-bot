@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-03T22:41:30Z",
+ "checked": "2026-11-04T01:45:55Z",
  "items": {
   "a-rom-tee": {
    "n": 0,
@@ -28,6 +28,29 @@
    "cheapest": null,
    "p25": null,
    "top": []
+  },
+  "a-ro-zipknit": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "a-ro-tommy-ls": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "a-ro-ziphoodie": {
+   "n": 1,
+   "median": 697.8,
+   "cheapest": 697.8,
+   "p25": 697.8,
+   "top": [
+    "SLAB BY RICK OWENS HOODIE double zip up black nwt size s wje1008"
+   ]
   }
  }
 }
