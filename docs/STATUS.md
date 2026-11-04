@@ -576,3 +576,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Needs Rafael: inseam for the Moncler jogger and DRKSHDW cargo jeans (eBay rejects drafts without it; notices.json).
 - Apparel comps (Nov 4): Rick Owens Zip Hoodie n=1 at $698 vs END $796 -> fails; Zip Knitted Hoodie and Tommy Tee n=0 (no price evidence). Not listed.
 - No listing changes made by this check-in.
+
+## Nov 4: daily research (scheduled run fired 17:06Z, ~5h late; Mac link dropped mid-run)
+- Done: GOAT refreshed for all 73 pages (419 rows read, 1 now sold out; buy_bar_data method), pushed 19288c9 ("checked_at" 17:30Z). StockX: 25 of 29 pages (72 rows refreshed, 2 blanked as BID-only), checked_at 17:40Z.
+- NOT done: StockX gucci-screener-black-canvas, gucci-screener-gg-supreme-dark-blue-red, gucci-tennis-1977-canvas-high-top-beige-gg-print, gucci-tennis-1977-gg-canvas, louis-vuitton-lv-skate; Farfetch/END/Antonioli/Cettire rows (Nov 2-3 reads, expire ~Nov 5 evening); Part B (selling-limit room is $274k, so it was due), Part C (Gmail promos), Part D scan.
+- Cause: Rafael's Mac dropped off the bridge ("device not connected") at ~17:45Z; retried twice. Rows from the unread stores expire 36h after their last read.
+- Next: rerun when the Mac is back; the Nov 5 scheduled run should cover the skipped parts.
