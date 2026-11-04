@@ -26,5 +26,26 @@
   "model": "Split Petrol Logo Long Sleeve T-Shirt",
   "colorway": "Vintage White",
   "style_code": "RHPS26TT17012-6010"
+ },
+ {
+  "key": "a-ro-zipknit",
+  "brand": "Rick Owens",
+  "model": "Zip Knitted Hoodie",
+  "colorway": "Black",
+  "style_code": "RU01F2614-KWVH-09"
+ },
+ {
+  "key": "a-ro-tommy-ls",
+  "brand": "Rick Owens",
+  "model": "Long Sleeve Tommy T T-Shirt",
+  "colorway": "Black",
+  "style_code": "RU01F2276-BA-09"
+ },
+ {
+  "key": "a-ro-ziphoodie",
+  "brand": "Rick Owens",
+  "model": "Zip Hoodie",
+  "colorway": "Black",
+  "style_code": "RU01F2241-BA-09"
  }
 ]
