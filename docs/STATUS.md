@@ -586,3 +586,12 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Nov 4 night: Italist sneaker screen (Rafael: "there's got to be things online")
 - Italist men's sneakers sorted by discount (read live, 40 items): almost all 15-40% off retail; only Michael Kors -78% (not luxury-resale), Comme des Garcons/Reebok x Palm Angels -37-40% at $123-131 (low price, nets under floor after $20 ship + 10% duty). Gucci -21 to -30% ($803-$946), Golden Goose -13 to -19%: above or at current eBay prices for the same models. Saint Laurent is on the exclude list.
 - Conclusion: eBay already prices luxury shoes ~25-35% under retail, so only 50%+ off works; no source seen has that outside BrandsGateway and Black Friday (Nov 27).
+
+## Nov 5 — first sale bought (order 23-15364-04589)
+- Bought at Jomashop, order **M40FV9XM**, Nov 5 ~4am ET: Ferragamo Logo-Patch Panelled Sneakers (021271 766299), size 11, $163.95 (DM40 = 40% off, free Standard shipping, no tax, card ending 0814). Shipped DIRECT to buyer Cruz Russell, 135 Jewett Ave, Jersey City NJ 07304 (Rafael's choice). Confirmation email went to relyassian@gmail.com.
+- eBay: sold $339.99, earnings $300.59 (fees $27.20 + ad $12.20) -> net about $136.64. Ship by Nov 9 11:59pm PST; buyer window Nov 9-16. Funds on hold until Nov 19.
+- Open: add tracking to eBay when Jomashop sends it. Standard shipping may be slow (processing 1-3 days + 3-7 days): watch the Nov 9 ship-by.
+- Unverified: Jomashop "Size 11" is assumed US (GOAT says US 11). Billing address was left as the buyer's address (payment still went through).
+- Jomashop priced invoice/gift receipt: no confirmed way to hide price; "Send gift receipt" checkbox exists at checkout, effect unknown.
+- Jomashop returns: 30 days, new items, original packaging, customer pays return shipping; refund method unknown (one review says gift cards).
+- Todo: record Jomashop as a source row in data/source_prices.csv; build returns-by-source (needs Rafael OK on CLAUDE.md rule 7); reconcile bookkeeping for this order.
