@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-05T21:36:42Z",
+ "checked": "2026-11-05T21:47:51Z",
  "items": {
   "givenchy_nabuk_beige": {
    "n": 0,
@@ -111,6 +111,413 @@
    "top": []
   },
   "ro_cargobelas_offwhite": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-gg0746s-001": {
+   "n": 6,
+   "median": 198.44,
+   "cheapest": 116.11,
+   "p25": 159.0,
+   "top": [
+    "Gucci Grey Rectangular Men's Sunglasses GG0746S 001 57 GG0746S 001 57",
+    "GUCCI GG0746S 001 57-17 145 Sunglasses Black Frames w/ Grey Lenses Men's New"
+   ]
+  },
+  "gucci-gg0340s-006": {
+   "n": 5,
+   "median": 261.0,
+   "cheapest": 167.41,
+   "p25": 214.99,
+   "top": [
+    "Gucci Grey Square Men's Sunglasses GG0340S 006 58 GG0340S 006 58",
+    "Gucci Men's 58 mm Gloss Black  Sunglasses GG0340S-006-58"
+   ]
+  },
+  "gucci-gg0010s-001": {
+   "n": 4,
+   "median": 227.4,
+   "cheapest": 195.3,
+   "p25": 214.99,
+   "top": [
+    "GUCCI GG0010S 001 Black Grey 58mm Square Men's Sunglasses",
+    "Gucci Men's 58 mm Shiny Black  Sunglasses GG0010S-001-58"
+   ]
+  },
+  "gucci-gg0381sn-007": {
+   "n": 3,
+   "median": 234.99,
+   "cheapest": 208.65,
+   "p25": 208.65,
+   "top": [
+    "Gucci Polarized Grey Square Men's Sunglasses GG0381SN 007 57 GG0381SN 007 57",
+    "Gucci Men's 57 mm Shiny Black  Sunglasses GG0381SN-007-57"
+   ]
+  },
+  "gucci-gg1221s-004": {
+   "n": 4,
+   "median": 204.0,
+   "cheapest": 156.99,
+   "p25": 157.99,
+   "top": [
+    "Gucci GG1221S 004 56mm Square Rimless Sunglasses Gold with Brown Logo Lens",
+    "Gucci GG1221S 004 56mm Square Rimless Sunglasses Gold with Brown Logo Lens"
+   ]
+  },
+  "gucci-gg0637sk-001": {
+   "n": 1,
+   "median": 149.0,
+   "cheapest": 149.0,
+   "p25": 149.0,
+   "top": [
+    "Gucci Grey Square Men's Sunglasses GG0637SK 001 56 GG0637SK 001 56"
+   ]
+  },
+  "gucci-gg0529s-001": {
+   "n": 2,
+   "median": 342.78,
+   "cheapest": 195.56,
+   "p25": 195.56,
+   "top": [
+    "Gucci Grey Navigator Men's Sunglasses GG0529S 001 60 GG0529S 001 60",
+    "Gucci GG0529S-001 60 Men\u2019s Sunglasses | Gold Metal Frame | Authentic Luxury"
+   ]
+  },
+  "prada-pr06ys-2au8c1": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "prada-pra06s-16k08z": {
+   "n": 1,
+   "median": 367.48,
+   "cheapest": 367.48,
+   "p25": 367.48,
+   "top": [
+    "Prada Grey Square Men's Sunglasses PR A06S 16K08Z 50 PR A06S 16K08Z 50"
+   ]
+  },
+  "prada-pr27zs-17k08z": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "prada-pr02zs-15f08g": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "prada-pr25zs-1ab08g": {
+   "n": 1,
+   "median": 395.88,
+   "cheapest": 395.88,
+   "p25": 395.88,
+   "top": [
+    "PRADA 0PR25ZS 1AB08G 53M  BLACK/POLARIZED BLACK LENS"
+   ]
+  },
+  "prada-pr71zs-1bo5s0": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "prada-prb11s-16k731": {
+   "n": 1,
+   "median": 398.98,
+   "cheapest": 398.98,
+   "p25": 398.98,
+   "top": [
+    "Prada Dark Grey Rectangular Men's Sunglasses PR B11S 16K731 57 PR B11S 16K731 57"
+   ]
+  },
+  "tomford-ft0906n-01a": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "tomford-ft0999-52a": {
+   "n": 1,
+   "median": 146.31,
+   "cheapest": 146.31,
+   "p25": 146.31,
+   "top": [
+    "Tom Ford FT0999 52A 58mm Men Sunglasses"
+   ]
+  },
+  "tomford-ft0999-01n": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "tomford-ft0447-52b": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "tomford-ft0907-52e": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "tomford-ft1020-52a": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "tomford-ft0586-28a": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "tomford-ft0753-01b": {
+   "n": 1,
+   "median": 259.0,
+   "cheapest": 259.0,
+   "p25": 259.0,
+   "top": [
+    "New Tom Ford Raoul Black Acetate Navigator Grey Men's Sunglasses FT0753 01B 62"
+   ]
+  },
+  "oakley-oo9102-9102e8": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "oakley-oo9102-9102j9": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "oakley-oo9102-9102d6": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "oakley-oo9189-918938": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "oakley-oo9100-910009": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "burberry-be4291-3001g": {
+   "n": 2,
+   "median": 305.0,
+   "cheapest": 305.0,
+   "p25": 305.0,
+   "top": [
+    "Burberry BE4291-3001G-38 138mm Authentic NEW",
+    "Burberry BE4291-3001G-38 138mm Authentic NEW"
+   ]
+  },
+  "burberry-be4291-396180": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "burberry-be4426-412373": {
+   "n": 1,
+   "median": 138.58,
+   "cheapest": 138.58,
+   "p25": 138.58,
+   "top": [
+    "Burberry Bronze Square Men's Sunglasses BE4426 412373 50 BE4426 412373 50"
+   ]
+  },
+  "burberry-be4348-394671": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "burberry-be4358-400187": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "burberry-be4293-394671": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "rayban-rb3522-001-13": {
+   "n": 2,
+   "median": 220.47,
+   "cheapest": 191.99,
+   "p25": 191.99,
+   "top": [
+    "20%OFF | RAY-BAN SUNGLASSES Polished Arista Gold RB3522 001/13 61-17-135",
+    "New Ray-Ban Sunglasses RB 3522 001/13 61-17 Gold & Tortoise Frame w/ Brown Fade"
+   ]
+  },
+  "rayban-rb4420-601-80": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "rayban-rb2197-901-48": {
+   "n": 1,
+   "median": 199.99,
+   "cheapest": 199.99,
+   "p25": 199.99,
+   "top": [
+    "Ray Ban RB2197 901/48 52 Elliot  Black Gray Polarized 2197 Sunglasses Rayban"
+   ]
+  },
+  "rayban-rb3720-002-k8": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "rayban-rb3765-919631": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "rayban-rb3025-001-4e": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-wallet-474575": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-wallet-575164": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-wallet-625558": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-cardcase-771159": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "prada-wallet-1mh132": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "prada-wallet-1ml188-f0002": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "prada-wallet-1ml225": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "prada-wallet-1mc442": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-belt-414516": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-belt-406831-1000": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-belt-411924-4009": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "gucci-belt-411924-1000": {
+   "n": 3,
+   "median": 500.0,
+   "cheapest": 470.0,
+   "p25": 470.0,
+   "top": [
+    "Gucci Men's Black Gucci Signature Leather Belt 411924 CWC1N 1000 100B",
+    "Gucci Black Authentic Signature Leather Belt OFFER 411924 CWC1N 1000 110 Italy"
+   ]
+  },
+  "gucci-belt-598092": {
    "n": 0,
    "median": null,
    "cheapest": null,
