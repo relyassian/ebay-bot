@@ -1,55 +1,29 @@
 {
- "checked": "2026-11-05T11:51:42Z",
+ "checked": "2026-11-05T12:01:40Z",
  "items": {
-  "a-rom-tee": {
+  "givenchy_nabuk_beige": {
    "n": 0,
    "median": null,
    "cheapest": null,
    "p25": null,
    "top": []
   },
-  "a-rom-jogger": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "a-drk-cargo": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "a-rhude-ls": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "a-ro-zipknit": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "a-ro-tommy-ls": {
-   "n": 0,
-   "median": null,
-   "cheapest": null,
-   "p25": null,
-   "top": []
-  },
-  "a-ro-ziphoodie": {
+  "moncler_trailgrip_white": {
    "n": 1,
-   "median": 697.8,
-   "cheapest": 697.8,
-   "p25": 697.8,
+   "median": 499.0,
+   "cheapest": 499.0,
+   "p25": 499.0,
    "top": [
-    "SLAB BY RICK OWENS HOODIE double zip up black nwt size s wje1008"
+    "Moncler Trailgrip GTX Sneakers Navy White Red Men\u2019s Size 11"
+   ]
+  },
+  "mcqueen_loafer_black": {
+   "n": 1,
+   "median": 249.99,
+   "cheapest": 249.99,
+   "p25": 249.99,
+   "top": [
+    "$485 Alexander McQueen Men's Black Leather Loafer with Silver Skull 389537 1000"
    ]
   }
  }
