@@ -1,3 +1,65 @@
-[{"key":"givenchy_nabuk_beige","brand":"Givenchy","model":"Nabuk and synthetic fiber sneakers","colorway":"Beige","style_code":"BH009KH1PP-100"},
-{"key":"moncler_trailgrip_white","brand":"Moncler","model":"Trailgrip Sneakers","colorway":"White","style_code":"L109A4M00280-M8443"},
-{"key":"mcqueen_loafer_black","brand":"Alexander McQueen","model":"Leather Loafer","colorway":"Black","style_code":"778158WIES4-1081"}]
+[
+ {
+  "key": "givenchy_nabuk_beige",
+  "brand": "Givenchy",
+  "model": "Nabuk and synthetic fiber sneakers",
+  "colorway": "Beige",
+  "style_code": "BH009KH1PP-100"
+ },
+ {
+  "key": "moncler_trailgrip_white",
+  "brand": "Moncler",
+  "model": "Trailgrip Sneakers",
+  "colorway": "White",
+  "style_code": "L109A4M00280-M8443"
+ },
+ {
+  "key": "mcqueen_loafer_black",
+  "brand": "Alexander McQueen",
+  "model": "Leather Loafer",
+  "colorway": "Black",
+  "style_code": "778158WIES4-1081"
+ },
+ {
+  "key": "burberry_sub_hightop_black",
+  "brand": "Burberry",
+  "model": "Knitted Sub High-Top Sock Sneakers",
+  "colorway": "Black",
+  "style_code": "8052333"
+ },
+ {
+  "key": "ferragamo_gancini_plaque_brown",
+  "brand": "Salvatore Ferragamo",
+  "model": "Gancini-Plaque Round-Toe Loafers",
+  "colorway": "Brown",
+  "style_code": "023610 772477"
+ },
+ {
+  "key": "ferragamo_gancini_plaque_green",
+  "brand": "Salvatore Ferragamo",
+  "model": "Gancini-Plaque Round-Toe Loafers",
+  "colorway": "Dark Green",
+  "style_code": "023610 773004"
+ },
+ {
+  "key": "ferragamo_montreal_gancini_black",
+  "brand": "Salvatore Ferragamo",
+  "model": "Montreal Gancini Leather Loafers",
+  "colorway": "Black",
+  "style_code": "020740 752443"
+ },
+ {
+  "key": "ferragamo_rubber_loafer",
+  "brand": "Salvatore Ferragamo",
+  "model": "Rubber Detailed Loafers",
+  "colorway": "",
+  "style_code": "022429 768723"
+ },
+ {
+  "key": "ferragamo_markderby",
+  "brand": "Salvatore Ferragamo",
+  "model": "Mark Derby",
+  "colorway": "",
+  "style_code": "020636 750550"
+ }
+]
