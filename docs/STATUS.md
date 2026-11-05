@@ -608,3 +608,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Research ran (newest checked_at 11:50Z = 6:50am ET). sale-alerts, daily-sync, market scan all green; one sale-alerts run in progress.
 - Sales: 1 (order 23-15364-04589), bought at Jomashop M40FV9XM; waiting on tracking (ship by Nov 9). notices.json empty. Selling room: 13,776 items / $274,347.
 - Rescheduling the check-in as ~12 one-time send_later tasks was NOT done (Rafael wants one recurring task, not a pile of one-offs). Needs one recurring trigger instead.
+
+## Nov 5 afternoon
+- Tracking added to eBay order 23-15364-04589: UniUni UUS6B52571541176201 (Jomashop M40FV9XM), via add-tracking workflow run 42110468394 (live). UniUni shows label created only; Jomashop est. delivery Nov 13. eBay: "ensure carrier has package by Nov 9". Gift receipt box was ticked on Jomashop (email shows "GIFT RECEIPT").
+- Green Gucci Ace (order 11-15213-78941, $899.99): buyer opened item-not-received; eBay stepped in, update within 48h, funds on hold. Rafael should NOT refund himself. Tracking 878356372280 (12 digits, possibly FedEx) shows nothing at USPS: find the carrier and claim.
+- Rafael asked (Nov 5): check every reliable source, list nonstop. Request saved in data/rafael_requests.txt for the next research run.
