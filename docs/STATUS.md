@@ -582,3 +582,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - NOT done: StockX gucci-screener-black-canvas, gucci-screener-gg-supreme-dark-blue-red, gucci-tennis-1977-canvas-high-top-beige-gg-print, gucci-tennis-1977-gg-canvas, louis-vuitton-lv-skate; Farfetch/END/Antonioli/Cettire rows (Nov 2-3 reads, expire ~Nov 5 evening); Part B (selling-limit room is $274k, so it was due), Part C (Gmail promos), Part D scan.
 - Cause: Rafael's Mac dropped off the bridge ("device not connected") at ~17:45Z; retried twice. Rows from the unread stores expire 36h after their last read.
 - Next: rerun when the Mac is back; the Nov 5 scheduled run should cover the skipped parts.
+
+## Nov 4 night: Italist sneaker screen (Rafael: "there's got to be things online")
+- Italist men's sneakers sorted by discount (read live, 40 items): almost all 15-40% off retail; only Michael Kors -78% (not luxury-resale), Comme des Garcons/Reebok x Palm Angels -37-40% at $123-131 (low price, nets under floor after $20 ship + 10% duty). Gucci -21 to -30% ($803-$946), Golden Goose -13 to -19%: above or at current eBay prices for the same models. Saint Laurent is on the exclude list.
+- Conclusion: eBay already prices luxury shoes ~25-35% under retail, so only 50%+ off works; no source seen has that outside BrandsGateway and Black Friday (Nov 27).
