@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-05T18:55:26Z",
+ "checked": "2026-11-05T21:24:22Z",
  "items": {
   "givenchy_nabuk_beige": {
    "n": 0,
@@ -24,6 +24,52 @@
    "p25": 249.99,
    "top": [
     "$485 Alexander McQueen Men's Black Leather Loafer with Silver Skull 389537 1000"
+   ]
+  },
+  "burberry_sub_hightop_black": {
+   "n": 1,
+   "median": 189.0,
+   "cheapest": 189.0,
+   "p25": 189.0,
+   "top": [
+    "Burberry Knitted Sub High-Top Sock Sneakers Black Mens US 15 EU 48 NIB"
+   ]
+  },
+  "ferragamo_gancini_plaque_brown": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "ferragamo_gancini_plaque_green": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "ferragamo_montreal_gancini_black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "ferragamo_rubber_loafer": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "ferragamo_markderby": {
+   "n": 1,
+   "median": 401.69,
+   "cheapest": 401.69,
+   "p25": 401.69,
+   "top": [
+    "Ferragamo Mark Leather Derby Shoes"
    ]
   }
  }
