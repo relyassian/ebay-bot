@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-05T21:24:22Z",
+ "checked": "2026-11-05T21:30:15Z",
  "items": {
   "givenchy_nabuk_beige": {
    "n": 0,
@@ -71,6 +71,51 @@
    "top": [
     "Ferragamo Mark Leather Derby Shoes"
    ]
+  },
+  "jilsander_moon_black": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "jilsander_moon_offwhite": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "marni_fussbett_sabot_brown": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "givenchy_new_city_black": {
+   "n": 21,
+   "median": 529.99,
+   "cheapest": 400.94,
+   "p25": 499.99,
+   "top": [
+    "New Givenchy Black Canvas City Platform Low Top Sneakers 38 EU NIB",
+    "New Givenchy Men's City Court Sneakers Tennis Shoes Size 10 White Black Band"
+   ]
+  },
+  "ro_temple_stefan_jeans": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
+  },
+  "ro_cargobelas_offwhite": {
+   "n": 0,
+   "median": null,
+   "cheapest": null,
+   "p25": null,
+   "top": []
   }
  }
 }
