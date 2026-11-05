@@ -61,5 +61,47 @@
   "model": "Mark Derby",
   "colorway": "",
   "style_code": "020636 750550"
+ },
+ {
+  "key": "jilsander_moon_black",
+  "brand": "Jil Sander",
+  "model": "Moon Sneakers",
+  "colorway": "Black",
+  "style_code": "261249M237005"
+ },
+ {
+  "key": "jilsander_moon_offwhite",
+  "brand": "Jil Sander",
+  "model": "Moon Sneakers",
+  "colorway": "Off-White",
+  "style_code": "261249M237000"
+ },
+ {
+  "key": "marni_fussbett_sabot_brown",
+  "brand": "Marni",
+  "model": "Fussbett Sabot Loafers",
+  "colorway": "Brown",
+  "style_code": "261379M234003"
+ },
+ {
+  "key": "givenchy_new_city_black",
+  "brand": "Givenchy",
+  "model": "New City Sneakers",
+  "colorway": "Black",
+  "style_code": "261278M237014"
+ },
+ {
+  "key": "ro_temple_stefan_jeans",
+  "brand": "Rick Owens",
+  "model": "Temple Stefan Jeans",
+  "colorway": "Black",
+  "style_code": "SSENSE-18674481"
+ },
+ {
+  "key": "ro_cargobelas_offwhite",
+  "brand": "Rick Owens",
+  "model": "Concordians Cargobelas Cargo Pants",
+  "colorway": "Off-White",
+  "style_code": "SSENSE-17877211"
  }
 ]
