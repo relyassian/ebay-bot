@@ -603,3 +603,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part B: not run (room $274k means it was due; time went to Part A and blocked stores). Part C: Gmail 21 days empty (13 stores), promos.yaml comment updated.
 - Part D (Nugnes1920 *-man collections, >=45% off, in stock): 18 hits, ~13 unique. Excluded brands dropped (Valentino Vlogo loafer, Saint Laurent). Best leads: Givenchy Nabuk sneaker beige BH009KH1PP-100 $425 (retail $850, EU 41/43/44), Moncler Trailgrip white L109A4M00280 $330 (retail $600, EU 43.5/44/45 only), McQueen loafer black 778158WIES4-1081 $445 (EU 40 only = single size), Moncler Monaco2 $245 (1 size), Y-3 Gazelle/Stan Smith $154 (1 size), Doucal's loafer $237 (1 size). Comps requested via requests/scan.json (commit 29f1bea); `market` run #31 was still queued at 12:00Z, so results land in data/scan_results.json later. No candidates written (no comps yet; Nugnes ships from Italy, add 10% duty + $20). Next run: read scan_results keys givenchy_nabuk_beige / moncler_trailgrip_white / mcqueen_loafer_black and write candidates if net >= floor ($50, 3 sizes rule).
 - Scheduled task this chat owns: eBay daily research (this run). Open: Cettire/Farfetch need a manual unblock to refresh.
+
+## Nov 5 7:20am ET check-in
+- Research ran (newest checked_at 11:50Z = 6:50am ET). sale-alerts, daily-sync, market scan all green; one sale-alerts run in progress.
+- Sales: 1 (order 23-15364-04589), bought at Jomashop M40FV9XM; waiting on tracking (ship by Nov 9). notices.json empty. Selling room: 13,776 items / $274,347.
+- Rescheduling the check-in as ~12 one-time send_later tasks was NOT done (Rafael wants one recurring task, not a pile of one-offs). Needs one recurring trigger instead.
