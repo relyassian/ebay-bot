@@ -2,7 +2,7 @@
 dry_run: false               # the GitHub repo variable LIVE=true is the real on/off switch (see .github/workflows)
 
 profit:
-  floor: 50                   # Rafael, Nov 3: "even if we just make $50 on these new listings lets do it" (was 100). Drops now stop at 1.5x = $75; brand_min_net (LV $200) and item_min_net still apply
+  floor: 30                   # Rafael, Nov 5: "even if you are sure we net at least $30 after all fees, start listing; higher profit = higher priority". Was 50 (Nov 3), 100 before. Drops stop at 1.5x = $45; brand_min_net (LV $200) and item_min_net still apply
   target: 250                 # Tier A
   ebay_fee_rate: 0.136        # measured from a real $974 order
   promoted_rate: 0.0          # set when Promoted Listings are on
