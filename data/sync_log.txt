@@ -1,34 +1,8 @@
-scan: 3
+scan: 15
 demand: 4
 explore: 0
 order fees: 3
-market 820207186160: ours None vs cheapest 350.0 (3 others) · Balenciaga Runner Sneaker Black Matte Men's Mesh L
-market 820207186196: ours None vs cheapest 1015.0 (6 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
-market 820207186222: ours 649.99 vs cheapest - (0 others) · Gucci Ace GG Embossed - White Men's Leather Low To
-market 820207186253: ours 754.99 vs cheapest 375.0 (10 others) · Gucci Basket Black Red Men's Demetra Low Top Sneak
-market 820207186287: ours 559.99 vs cheapest 189.0 (36 others) · Gucci Basket Green Demetra Men's Low Top Sneakers 
-market 820207186315: ours 788.49 vs cheapest - (0 others) · Gucci Basket Grey Yellow Blue Men's Demetra Low To
-market 820207186346: ours 714.99 vs cheapest 350.0 (5 others) · Gucci Basket High Black Demetra Men's High Top Sne
-market 820207186379: ours 594.99 vs cheapest 350.0 (7 others) · Gucci Basket High Green Demetra Men's High Top Sne
-market 820207186442: ours 904.99 vs cheapest 410.0 (3 others) · Gucci Basket High White Demetra Red Men's High Top
-market 820207186465: ours 499.99 vs cheapest 295.0 (11 others) · Gucci Basket Low White Demetra Green Men's Low Top
-market 820207186489: ours 449.99 vs cheapest 299.99 (6 others) · Gucci Basket Low White Demetra Red Men's Low Top S
-market 820207186525: ours 554.99 vs cheapest 375.0 (8 others) · Gucci Basket Red Black Demetra Men's Low Top Sneak
-market 820207186550: ours 604.99 vs cheapest 429.9 (3 others) · Gucci Driver Interlocking G - Green Men's Leather 
-market 820207186594: ours 844.99 vs cheapest - (0 others) · Gucci GG Screener Grey Navy Men's Suede Low Top Sn
-market 820207186615: ours 669.99 vs cheapest 450.0 (9 others) · Gucci MAC80 Sneaker White Blue Men's Leather Low T
-market 820207186641: ours 589.99 vs cheapest 675.0 (1 others) · Gucci Rhyton Interlocking G Star Men's Leather Low
-market 820207186667: ours 764.99 vs cheapest - (0 others) · Gucci Rhyton Maxi GG Supreme - Black Khaki Beige M
-market 820207186704: ours 739.99 vs cheapest 450.0 (3 others) · Gucci Rhyton White Red Green Reflective Men's Mesh
-market 820207186744: ours 844.99 vs cheapest 595.0 (1 others) · Gucci Run Sneaker Beige Ebony Monogram Men's Leath
-market 820207186774: ours 624.99 vs cheapest 300.0 (14 others) · Gucci Run Sneaker Black Men's Knit Low Top Sneaker
-market 820207186802: ours 474.99 vs cheapest 330.0 (3 others) · Gucci Run Sneaker White Black Men's Knit Low Top S
-market 820207186833: ours 821.74 vs cheapest - (0 others) · Gucci Run Sneaker White Suede Men's Low Top Sneake
-market 820207186853: ours 904.99 vs cheapest - (0 others) · Gucci Screener GG Supreme - Black Grey Men's Leath
-market 820207186878: ours 834.99 vs cheapest 325.0 (2 others) · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top
-market 820207186919: ours 614.99 vs cheapest 390.0 (4 others) · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top 
-market 820207186962: ours 717.24 vs cheapest - (0 others) · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Me
-market 820223864929: ours 669.99 vs cheapest 462.0 (7 others) · Gucci Loafer with Interlocking G Brown Men's Leath
+market 820223864929: ours 669.99 vs cheapest 399.97 (8 others) · Gucci Loafer with Interlocking G Brown Men's Leath
 market 820223865172: ours 639.99 vs cheapest 450.0 (9 others) · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sne
 market 820228649208: ours 834.99 vs cheapest - (0 others) · Bottega Veneta Eliot Mid-Top Sneaker Multi-Color M
 market 820228649230: ours 840.99 vs cheapest - (0 others) · Ferragamo Cassini Low-Top Sneaker Blue Men's Low T
@@ -104,43 +78,48 @@ market 820205329595: ours 759.99 vs cheapest 292.0 (20 others) · Gucci MAC80 Sn
 market 820205329783: ours 709.99 vs cheapest - (0 others) · Gucci Tennis 1977 High-Top Sneaker Beige/Ebony GG 
 market 820205389034: ours 1981.99 vs cheapest - (0 others) · Louis Vuitton LV Skate Sneaker Beige/White Men's L
 market 820205698211: ours 584.99 vs cheapest 550.0 (3 others) · Gucci Ace GG Embossed Sneaker Black Men's Leather 
+market 820207186160: ours None vs cheapest 350.0 (3 others) · Balenciaga Runner Sneaker Black Matte Men's Mesh L
+market 820207186196: ours None vs cheapest 499.0 (9 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
+market 820207186222: ours 649.99 vs cheapest - (0 others) · Gucci Ace GG Embossed - White Men's Leather Low To
+market 820207186253: ours 754.99 vs cheapest 375.0 (10 others) · Gucci Basket Black Red Men's Demetra Low Top Sneak
+market 820207186287: ours 559.99 vs cheapest 189.0 (36 others) · Gucci Basket Green Demetra Men's Low Top Sneakers 
+market 820207186315: ours 788.49 vs cheapest - (0 others) · Gucci Basket Grey Yellow Blue Men's Demetra Low To
+market 820207186346: ours 714.99 vs cheapest 350.0 (5 others) · Gucci Basket High Black Demetra Men's High Top Sne
+market 820207186379: ours 594.99 vs cheapest 350.0 (7 others) · Gucci Basket High Green Demetra Men's High Top Sne
+market 820207186442: ours 904.99 vs cheapest 410.0 (3 others) · Gucci Basket High White Demetra Red Men's High Top
+market 820207186465: ours 499.99 vs cheapest 295.0 (11 others) · Gucci Basket Low White Demetra Green Men's Low Top
+market 820207186489: ours 449.99 vs cheapest 299.99 (6 others) · Gucci Basket Low White Demetra Red Men's Low Top S
+market 820207186525: ours 554.99 vs cheapest 375.0 (8 others) · Gucci Basket Red Black Demetra Men's Low Top Sneak
+market 820207186550: ours 604.99 vs cheapest 429.9 (3 others) · Gucci Driver Interlocking G - Green Men's Leather 
+market 820207186594: ours 844.99 vs cheapest - (0 others) · Gucci GG Screener Grey Navy Men's Suede Low Top Sn
+market 820207186615: ours 669.99 vs cheapest 450.0 (8 others) · Gucci MAC80 Sneaker White Blue Men's Leather Low T
+market 820207186641: ours 589.99 vs cheapest 675.0 (1 others) · Gucci Rhyton Interlocking G Star Men's Leather Low
+market 820207186667: ours 764.99 vs cheapest - (0 others) · Gucci Rhyton Maxi GG Supreme - Black Khaki Beige M
+market 820207186704: ours 739.99 vs cheapest 450.0 (3 others) · Gucci Rhyton White Red Green Reflective Men's Mesh
+market 820207186744: ours 844.99 vs cheapest 595.0 (1 others) · Gucci Run Sneaker Beige Ebony Monogram Men's Leath
+market 820207186774: ours 624.99 vs cheapest 300.0 (14 others) · Gucci Run Sneaker Black Men's Knit Low Top Sneaker
+market 820207186802: ours 474.99 vs cheapest 330.0 (3 others) · Gucci Run Sneaker White Black Men's Knit Low Top S
+market 820207186833: ours 821.74 vs cheapest - (0 others) · Gucci Run Sneaker White Suede Men's Low Top Sneake
+market 820207186853: ours 904.99 vs cheapest - (0 others) · Gucci Screener GG Supreme - Black Grey Men's Leath
+market 820207186878: ours 834.99 vs cheapest 325.0 (2 others) · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top
+market 820207186919: ours 614.99 vs cheapest 390.0 (4 others) · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top 
+market 820207186962: ours 717.24 vs cheapest - (0 others) · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Me
 Price check: 102 listings compared, 38 priced more than 5% above another seller.
 📋 Daily eBay check · Thu Nov 5
 
-What I did: raised the price a little on 52 listings because the store got pricier; lowered the price 3% on 2 listings that hadn't sold in a week.
+What I did: raised the price a little on 52 listings because the store got pricier; lowered the price 3% on 16 listings that hadn't sold in a week.
 Nothing for you to do.
-{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/JQoAAeSwLEBq1qV0/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Basket Black Red Demetra Low Top Sneakers…\nSizes: US 7 · now from $754.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820207186253"}
-{'photo': 'https://i.ebayimg.com/images/g/8nwAAOSwp6Nnuo9i/s-l1600.jpg', 'text': "📈 PRICE RAISED\nGucci Basket Grey Yellow Blue Demetra Low Top…\nSizes: US 10 · now from $904.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820207186315"}
-{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/u2UAAeSwJZJq1qV4/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Basket High Black Demetra High Top…\nSizes: US 6.5, 7, 7.5, 9, 9.5 · now from $714.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820207186346"}
-{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/XPQAAeSw9mhq1qWI/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Basket High Green Demetra High Top…\nSizes: all 3 sizes · now from $594.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820207186379"}
-{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/JMgAAeSwxtBq1qVQ/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Basket High White Demetra Red High Top…\nSizes: US 12 · now from $904.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820207186442"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/Zi0AAeSwTyJq1qVs/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci MAC80 Sneaker Blue Leather Low Top…\nSizes: US 6, 7, 7.5, 8, 9, 9.5, 10.5, 11 · now from $794.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820223865172"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/OJ4AAeSwu81q1qW6/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nBottega Eliot Mid-Top Sneaker Multi-Color Low…\nSizes: US 7, 8, 9, 10, 11 · now from $809.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649208"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/XycAAeSwNUZq1qWy/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Lunar Paneled Slip-On Sneaker Medium…\nSizes: all 6 sizes · now from $339.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820229263569"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/vcIAAeSwoupq1qXx/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Lunar Paneled Slip-On Sneaker Red Low…\nSizes: all 6 sizes · now from $314.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820229263683"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/L18AAeSwJidq1qXw/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Nima Knit Low-Top Sneaker Blue Low…\nSizes: US 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5 · now from $514.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820229263765"}
 Also changed:
-• Price Raised: Gucci Basket Low White Demetra Green Low Top… (US 7, 7.5, 10, 10.5, 11.5, 12.5, 13) https://www.ebay.com/itm/820207186465
-• Price Raised: Gucci Basket Low White Demetra Red Low Top… (all 13 sizes) https://www.ebay.com/itm/820207186489
-• Price Raised: Gucci Basket Red Black Demetra Low Top Sneakers… (all 7 sizes) https://www.ebay.com/itm/820207186525
-• Price Raised: Gucci Driver Interlocking G - Green Leather… (US 7, 8, 9) https://www.ebay.com/itm/820207186550
-• Price Raised: Gucci GG Screener Grey Navy Suede Low Top… (US 12.5) https://www.ebay.com/itm/820207186594
-• Price Raised: Gucci MAC80 Sneaker White Blue Leather Low Top… (US 8, 11.5) https://www.ebay.com/itm/820207186615
-• Price Raised: Gucci Rhyton Interlocking G Star Leather Low… (US 7) https://www.ebay.com/itm/820207186641
-• Price Raised: Gucci Rhyton Maxi GG Supreme - Black Khaki… (US 7.5, 9, 9.5, 10, 10.5) https://www.ebay.com/itm/820207186667
-• Price Raised: Gucci Rhyton White Red Green Reflective Mesh… (all 2 sizes) https://www.ebay.com/itm/820207186704
-• Price Raised: Gucci Run Sneaker Beige Ebony Monogram Leather… (US 8, 10, 11.5, 12) https://www.ebay.com/itm/820207186744
-• Price Raised: Gucci Run Sneaker Black Knit Low Top Sneakers… (US 12, 12.5) https://www.ebay.com/itm/820207186774
-• Price Raised: Gucci Run Sneaker White Black Knit Low Top… (all 6 sizes) https://www.ebay.com/itm/820207186802
-• Price Raised: Gucci Run Sneaker White Suede Low Top Sneakers… (US 6.5, 7, 10.5, 11, 12, 12.5, 13) https://www.ebay.com/itm/820207186833
-• Price Raised: Gucci Screener GG Supreme - Black Grey Leather… (all 4 sizes) https://www.ebay.com/itm/820207186853
-• Price Raised: Gucci Tennis 1977 Blue Ivory Canvas Low Top… (US 13) https://www.ebay.com/itm/820207186919
-• Price Raised: Gucci Tennis 1977 Low GG Monogram - Ebony Beige… (US 10) https://www.ebay.com/itm/820207186962
-• Price Raised: Gucci MAC80 Sneaker Blue Leather Low Top… (US 6, 7, 7.5, 8, 9, 9.5, 10.5, 11) https://www.ebay.com/itm/820223865172
-• Price Raised: Bottega Eliot Mid-Top Sneaker Multi-Color Low… (US 7, 8, 9, 10, 11) https://www.ebay.com/itm/820228649208
-• Price Raised: Ferragamo Lunar Paneled Slip-On Sneaker Medium… (all 6 sizes) https://www.ebay.com/itm/820229263569
-• Price Raised: Ferragamo Lunar Paneled Slip-On Sneaker Red Low… (all 6 sizes) https://www.ebay.com/itm/820229263683
-• Price Raised: Ferragamo Nima Knit Low-Top Sneaker Blue Low… (US 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5) https://www.ebay.com/itm/820229263765
 • Price Raised: Gucci Horsebit Driver Loafer with Web Brown… (US 11) https://www.ebay.com/itm/820229263903
 • Price Raised: Gucci Horsebit Loafer Ivory Merino Wool Loafers… (US 5.5, 6, 6.5, 7, 7.5, 8) https://www.ebay.com/itm/820277097048
 • Price Raised: Gucci MAC80 Sneaker Dune Leather Low Top… (US 10.5) https://www.ebay.com/itm/820277097224
 • Price Raised: Gucci Cordovan Lux Lace-Up Shoe Black New (US 11.5) https://www.ebay.com/itm/820281910101
-• Price Raised: Gucci Driver Horsebit - Black Leather Driving… (all 6 sizes) https://www.ebay.com/itm/820281910201
+• Price Raised: Gucci Driver Horsebit - Black Leather Driving… (US 6.5, 7.5, 9, 12) https://www.ebay.com/itm/820281910201
 • Price Raised: Gucci Tennis 1977 White Green Red Leather Low… (all 5 sizes) https://www.ebay.com/itm/820281910571
 • Price Raised: Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas… (US 7, 7.5, 8, 8.5, 9.5, 10.5, 11, 11.5, 12.5) https://www.ebay.com/itm/355423513413
 • Price Raised: Gucci Ace Embroidered Bee Sneaker White Leather… (US 5.5, 6.5, 7.5, 8, 9, 10.5, 11, 11.5, 13, 15) https://www.ebay.com/itm/355428047951
@@ -162,5 +141,41 @@ Also changed:
 • Price Raised: Gucci Noel Driver Loafer Black Leather Driving… (US 12.5) https://www.ebay.com/itm/820205221755
 • Price Raised: Gucci MAC80 Sneaker Off-White Leather Low Top… (US 13.5) https://www.ebay.com/itm/820205329595
 • Price Raised: Gucci Tennis 1977 High-Top Sneaker Beige/Ebony… (US 11.5, 12) https://www.ebay.com/itm/820205329783
-• Price Lowered 3%: Gucci Horsebit Driver Loafer with Web… (US 11.5) https://www.ebay.com/itm/820204075517
-• Price Lowered 3%: Gucci Interlocking G Driver Moccasin Brown… (US 5.5) https://www.ebay.com/itm/820205221528
+• Price Raised: Gucci Basket Black Red Demetra Low Top Sneakers… (US 7) https://www.ebay.com/itm/820207186253
+• Price Raised: Gucci Basket Grey Yellow Blue Demetra Low Top… (US 10) https://www.ebay.com/itm/820207186315
+• Price Raised: Gucci Basket High Black Demetra High Top… (US 6.5, 7, 7.5, 9, 9.5) https://www.ebay.com/itm/820207186346
+• Price Raised: Gucci Basket High Green Demetra High Top… (all 3 sizes) https://www.ebay.com/itm/820207186379
+• Price Raised: Gucci Basket High White Demetra Red High Top… (US 12) https://www.ebay.com/itm/820207186442
+• Price Raised: Gucci Basket Low White Demetra Green Low Top… (US 7, 7.5, 10, 10.5, 11.5, 12.5) https://www.ebay.com/itm/820207186465
+• Price Raised: Gucci Basket Low White Demetra Red Low Top… (US 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11.5) https://www.ebay.com/itm/820207186489
+• Price Raised: Gucci Basket Red Black Demetra Low Top Sneakers… (US 6.5, 8.5, 10.5, 11.5) https://www.ebay.com/itm/820207186525
+• Price Raised: Gucci Driver Interlocking G - Green Leather… (US 7, 8, 9) https://www.ebay.com/itm/820207186550
+• Price Raised: Gucci GG Screener Grey Navy Suede Low Top… (US 12.5) https://www.ebay.com/itm/820207186594
+• Price Raised: Gucci MAC80 Sneaker White Blue Leather Low Top… (US 8, 11.5) https://www.ebay.com/itm/820207186615
+• Price Raised: Gucci Rhyton Interlocking G Star Leather Low… (US 7) https://www.ebay.com/itm/820207186641
+• Price Raised: Gucci Rhyton Maxi GG Supreme - Black Khaki… (US 7.5, 9, 9.5, 10, 10.5) https://www.ebay.com/itm/820207186667
+• Price Raised: Gucci Rhyton White Red Green Reflective Mesh… (all 2 sizes) https://www.ebay.com/itm/820207186704
+• Price Raised: Gucci Run Sneaker Beige Ebony Monogram Leather… (US 8, 10, 11.5, 12) https://www.ebay.com/itm/820207186744
+• Price Raised: Gucci Run Sneaker Black Knit Low Top Sneakers… (US 12, 12.5) https://www.ebay.com/itm/820207186774
+• Price Raised: Gucci Run Sneaker White Black Knit Low Top… (US 10.5, 11, 11.5, 13) https://www.ebay.com/itm/820207186802
+• Price Raised: Gucci Run Sneaker White Suede Low Top Sneakers… (US 6.5, 7, 10.5, 11, 12, 12.5, 13) https://www.ebay.com/itm/820207186833
+• Price Raised: Gucci Screener GG Supreme - Black Grey Leather… (all 4 sizes) https://www.ebay.com/itm/820207186853
+• Price Raised: Gucci Tennis 1977 Blue Ivory Canvas Low Top… (US 13) https://www.ebay.com/itm/820207186919
+• Price Raised: Gucci Tennis 1977 Low GG Monogram - Ebony Beige… (US 10) https://www.ebay.com/itm/820207186962
+• Price Lowered 3%: Gucci Loafer with Interlocking G Brown Leather… (all 9 sizes) https://www.ebay.com/itm/820223864929
+• Price Lowered 3%: Ferragamo Cosma High-Top Sneaker Black Sneakers… (all 2 sizes) https://www.ebay.com/itm/820228649253
+• Price Lowered 3%: Gucci MAC80 Sneaker Off-White/Black Leather Low… (all 8 sizes) https://www.ebay.com/itm/820277097634
+• Price Lowered 3%: Gucci Re-Web Sneaker Black Leather Low Top… (US 5.5, 6.5, 7, 8, 8.5) https://www.ebay.com/itm/820277097979
+• Price Lowered 3%: Gucci Re-Web Sneaker White Leather Low Top… (US 5.5, 7.5, 8.5, 9.5, 10, 10.5, 12.5) https://www.ebay.com/itm/820277098190
+• Price Lowered 3%: Gucci Driver Horsebit - Black Leather Driving… (US 6, 10) https://www.ebay.com/itm/820281910201
+• Price Lowered 3%: Gucci Driver Horsebit - Green Suede Driving… (US 7.5, 8, 8.5, 9.5, 11) https://www.ebay.com/itm/820281910306
+• Price Lowered 3%: Gucci Horsebit Loafer Black Leather Loafers New (US 10.5, 11, 12) https://www.ebay.com/itm/820281910460
+• Price Lowered 3%: Gucci Rhyton Leather Sneaker Ivory Low Top… (all 2 sizes) https://www.ebay.com/itm/820204075737
+• Price Lowered 3%: Gucci Ace GG Supreme Bees Sneaker Beige/Ebony… (US 11.5) https://www.ebay.com/itm/820205329339
+• Price Lowered 3%: Gucci Ace GG Embossed Sneaker Black Leather Low… (US 11.5, 13.5, 14, 15.5) https://www.ebay.com/itm/820205698211
+• Price Lowered 3%: Gucci Basket Green Demetra Low Top Sneakers New (US 6.5, 7.5, 8, 8.5, 9, 10, 10.5, 11.5, 12, 12.5, 13) https://www.ebay.com/itm/820207186287
+• Price Lowered 3%: Gucci Basket Low White Demetra Green Low Top… (US 13) https://www.ebay.com/itm/820207186465
+• Price Lowered 3%: Gucci Basket Low White Demetra Red Low Top… (US 12.5, 13) https://www.ebay.com/itm/820207186489
+• Price Lowered 3%: Gucci Basket Red Black Demetra Low Top Sneakers… (US 9.5, 12, 12.5) https://www.ebay.com/itm/820207186525
+• Price Lowered 3%: Gucci Run Sneaker White Black Knit Low Top… (US 12, 12.5) https://www.ebay.com/itm/820207186802
+Ad rates: 8 listings up, 0 back down (1 at 10%, 3 at 12%, 1 at 15%, 3 at 20%); eBay accepted 8 of 8
