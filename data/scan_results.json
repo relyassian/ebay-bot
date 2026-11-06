@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-05T22:00:33Z",
+ "checked": "2026-11-06T12:58:32Z",
  "items": {
   "givenchy_nabuk_beige": {
    "n": 0,
@@ -129,7 +129,7 @@
   },
   "gucci-gg0340s-006": {
    "n": 5,
-   "median": 261.0,
+   "median": 254.37,
    "cheapest": 167.41,
    "p25": 214.99,
    "top": [
@@ -158,12 +158,12 @@
    ]
   },
   "gucci-gg1221s-004": {
-   "n": 4,
-   "median": 204.0,
-   "cheapest": 156.99,
-   "p25": 157.99,
+   "n": 5,
+   "median": 157.99,
+   "cheapest": 154.84,
+   "p25": 156.99,
    "top": [
-    "Gucci GG1221S 004 56mm Square Rimless Sunglasses Gold with Brown Logo Lens",
+    "Gucci GG1221S 004 56mm Rectangle Sunglasses in Gold/Brown GG Logo Lens",
     "Gucci GG1221S 004 56mm Square Rimless Sunglasses Gold with Brown Logo Lens"
    ]
   },
@@ -355,9 +355,9 @@
   },
   "burberry-be4426-412373": {
    "n": 1,
-   "median": 138.58,
-   "cheapest": 138.58,
-   "p25": 138.58,
+   "median": 138.51,
+   "cheapest": 138.51,
+   "p25": 138.51,
    "top": [
     "Burberry Bronze Square Men's Sunglasses BE4426 412373 50 BE4426 412373 50"
    ]
