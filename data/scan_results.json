@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-07T12:00:48Z",
+ "checked": "2026-11-07T12:06:47Z",
  "items": {
   "gucci_lace_black_865172": {
    "n": 32,
@@ -13,12 +13,12 @@
   },
   "gucci_loafer_black_851396": {
    "n": 48,
-   "median": 556.0,
-   "cheapest": 243.0,
-   "p25": 425.0,
+   "median": 538.5,
+   "cheapest": 234.99,
+   "p25": 399.99,
    "top": [
-    "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
-    "Gucci Men's agrado Leather Loafers Black/Beige Size 9"
+    "GUCCI Horsebit Mens Loafers Black Leather Size 10 / 45 EUR Made In Italy",
+    "GUCCI - Black Leather Horsebit Loafers, Size-UK 9"
    ]
   },
   "fendi_missina_black": {
