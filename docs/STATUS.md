@@ -633,3 +633,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 ## Research log
 - 2026-11-08 (in-chat scheduled run): refreshed 524 GOAT/StockX rows + Farfetch/END; Gmail empty; Part B skipped; Part D 14 screened, 0 written.
 - 2026-11-07 (12:00Z, in-chat run): refreshed 519 GOAT/StockX sizes (5 went out of stock) plus Farfetch Ferragamo/D&G and END apparel (unchanged); Gmail promo scan empty. Part B skipped (limit room $274k is fine but no new candidates written; Part D looked first). Part D: Nugnes1920 men's shoes screened (~20 items at 40-51% off; Valentino excluded); 8 queued in requests/scan.json for the eBay comp check (Gucci lace-up/loafer, Fendi x2, Givenchy leather, D&G Ariosto, Margiela Replica, Rick Owens). Results land in data/scan_results.json; no candidates written yet. Yesterday's scan: Givenchy nabuk/Moncler/McQueen had 0-1 comps.
+
+## Nov 8 (afternoon, chat)
+- Floor $30 is live (config.yaml, Nov 5). 83 live, 2 blocked on Inseam, nothing new listed since Nov 5. Comps back for only 3 of 8 queued leads (Gucci 865172 and 851396 only size 6, Givenchy sneaker): all lose money at landed cost.
+- Gucci belt 411924 CWC1N 1000: Jomashop grid $418 before coupon, eBay median $500 (n=3); needs the real after-DM40 total + sizes (Jomashop product page does not render in the pane). Not listed.
+- Rafael asked (Nov 8): list more; is it worth watching all his own items? Answer: no (see chat); watching your own listings with another account is artificial engagement.
