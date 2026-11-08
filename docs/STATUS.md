@@ -638,3 +638,11 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Floor $30 is live (config.yaml, Nov 5). 83 live, 2 blocked on Inseam, nothing new listed since Nov 5. Comps back for only 3 of 8 queued leads (Gucci 865172 and 851396 only size 6, Givenchy sneaker): all lose money at landed cost.
 - Gucci belt 411924 CWC1N 1000: Jomashop grid $418 before coupon, eBay median $500 (n=3); needs the real after-DM40 total + sizes (Jomashop product page does not render in the pane). Not listed.
 - Rafael asked (Nov 8): list more; is it worth watching all his own items? Answer: no (see chat); watching your own listings with another account is artificial engagement.
+
+## Nov 8 (evening): deeper lead scan
+- Firecrawl works on Jomashop (product + search pages) but credits ran out ~16:30 ET (reset ~04:35Z Nov 9). eBay SOLD search works in the built-in browser pane (signed-in session; URL ...&LH_Sold=1&LH_Complete=1&LH_ItemCondition=1000): use it for real sold comps instead of active asks.
+- Gucci belt 411924 CWC1N 1000: Jomashop $418, no coupon on the page; net ~$0 at eBay median $500. Dead.
+- Jomashop scan (76 leads; /scratchpad file lost with container, re-run later): grid shows 30-40% coupon prices ("after coupon"). Sold comps: Prada PR B11S sold $218-306 vs Jomashop after-coupon $281 = loss; Tom Ford FT1119-D sold $161 vs $140 after coupon = ~$0; Burberry jackets sell mostly by auction at $100-300 = dead. Sunglasses are dominated by high-volume pro sellers at near-cost prices.
+- Mytheresa 60%+ off (136 men's items) has only Mytheresa item numbers, all Final Sale, free ship >$400: asked Rafael whether Final Sale is OK.
+- eBay ad rate is 8% on shoe listings (config ads.rate): include it in every net.
+- Next: after credit reset, scan Jomashop shoes/loafers (Gucci sneakers $588-748, Ferragamo Gancini) with sold comps; Mytheresa if Final Sale OK.
