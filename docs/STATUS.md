@@ -646,3 +646,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Mytheresa 60%+ off (136 men's items) has only Mytheresa item numbers, all Final Sale, free ship >$400: asked Rafael whether Final Sale is OK.
 - eBay ad rate is 8% on shoe listings (config ads.rate): include it in every net.
 - Next: after credit reset, scan Jomashop shoes/loafers (Gucci sneakers $588-748, Ferragamo Gancini) with sold comps; Mytheresa if Final Sale OK.
+
+## Nov 8 (night): GOAT/StockX shoe scan and Jomashop watch scan
+- GOAT/StockX shoes (~38 model families, GOAT lowest new + eBay sold comps): none nets $30. Near misses: Margiela Tabi S57WS0252 (sold ~$580, EU42 $438, ~-$4), Amiri Skel (+$11, one size). Balenciaga Triple S/Track/3XL, McQueen Oversized, Golden Goose, Common Projects sell below GOAT cost. StockX not read; Cettire blocked (403).
+- Jomashop watches (~150 tested, grid after-coupon price vs eBay sold BIN): leads need variant check before listing: Breitling Avenger 42 AB0146101C1A1 ($3,250 vs sold 3,600/4,199/4,500, est +$336), Oris Aquis 7769 4157 green ($1,780 vs 2,191-2,494, +$141, strap vs bracelet may be mixed), Breitling Superocean A17376211L2S1 ($2,995 vs 3,000-3,695, +$114). Weak: Tissot PRX chrono, Citizen BN1024-01E, Seiko SSB379 (+$28).
+- eBay sold search returned 403 after ~80 bulk loads; stopped, not bypassed. Retry later with few requests.
+- Watches are NOT supported in bot/listing.py (category, specifics, photos). eBay Authenticity Guarantee applies to watches >= $2,000 (ship to authenticator). Decision needed from Rafael on $3k watches (cash cap $5k).
