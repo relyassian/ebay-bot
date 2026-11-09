@@ -2,7 +2,7 @@ scan: 8
 demand: 4
 explore: 0
 order fees: 3
-market 820223864929: ours 644.99 vs cheapest 379.0 (10 others) · Gucci Loafer with Interlocking G Brown Men's Leath
+market 820223864929: ours 644.99 vs cheapest 379.0 (11 others) · Gucci Loafer with Interlocking G Brown Men's Leath
 market 820223865172: ours 694.99 vs cheapest 450.0 (8 others) · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sne
 market 820228649208: ours 809.99 vs cheapest - (0 others) · Bottega Veneta Eliot Mid-Top Sneaker Multi-Color M
 market 820228649230: ours 840.99 vs cheapest - (0 others) · Ferragamo Cassini Low-Top Sneaker Blue Men's Low T
@@ -27,21 +27,21 @@ market 820277097224: ours 924.99 vs cheapest - (0 others) · Gucci MAC80 Sneaker
 market 820277097445: ours 1029.99 vs cheapest - (0 others) · Gucci MAC80 High-Top Sneaker Black/Off-White Men's
 market 820277097634: ours 524.99 vs cheapest 490.0 (5 others) · Gucci MAC80 Sneaker Off-White/Black Men's Leather 
 market 820277097802: ours 1009.99 vs cheapest - (0 others) · Gucci MAC80 Sneaker Off-White/Green Men's Leather 
-market 820277097979: ours 614.99 vs cheapest 492.0 (2 others) · Gucci Re-Web Sneaker Black Men's Leather Low Top S
+market 820277097979: ours 614.99 vs cheapest 670.0 (1 others) · Gucci Re-Web Sneaker Black Men's Leather Low Top S
 market 820277098190: ours 889.99 vs cheapest 492.0 (18 others) · Gucci Re-Web Sneaker White Men's Leather Low Top S
 market 820277098381: ours 1169.99 vs cheapest 750.0 (1 others) · Gucci Run Sneaker Light Grey/Brown Men's Suede Low
 market 820277098563: ours 1064.99 vs cheapest 741.7 (1 others) · Gucci Screener GG Supreme Sneaker Dark Blue/Red Me
 market 820281910101: ours 1034.99 vs cheapest - (0 others) · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
 market 820281910201: ours 554.99 vs cheapest 380.0 (11 others) · Gucci Driver Horsebit - Black Men's Leather Drivin
 market 820281910306: ours 444.99 vs cheapest 260.0 (22 others) · Gucci Driver Horsebit - Green Men's Suede Driving 
-market 820281910460: ours 609.99 vs cheapest 440.0 (24 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
+market 820281910460: ours 609.99 vs cheapest 440.0 (28 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
 market 820281910571: ours 509.99 vs cheapest 447.0 (3 others) · Gucci Tennis 1977 White Green Red Men's Leather Lo
 market 355066429434: ours None vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
 market 355066574768: ours None vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Gancini Ornament
 market 355420832785: ours 1119.99 vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Reversible Ganci
 market 355420948879: ours None vs cheapest - (0 others) · Salvatore Ferragamo Moccasin with Painted Gancini 
-market 355420967506: ours None vs cheapest 1270.0 (1 others) · Gucci Horsebit Loafer with Web Black Leather Men's
+market 355420967506: ours None vs cheapest 599.0 (2 others) · Gucci Horsebit Loafer with Web Black Leather Men's
 market 355422678861: ours None vs cheapest - (0 others) · Dolce & Gabbana Portofino Vintage Sneakers Black C
 market 355422689102: ours None vs cheapest - (0 others) · Dolce & Gabbana Saint Tropez Sneakers Black Calfsk
 market 355422702908: ours None vs cheapest - (0 others) · Dolce & Gabbana New Roma Sneakers Black Calfskin N
@@ -104,18 +104,25 @@ market 820207186853: ours 874.99 vs cheapest - (0 others) · Gucci Screener GG S
 market 820207186878: ours 834.99 vs cheapest 325.0 (2 others) · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top
 market 820207186919: ours 589.99 vs cheapest 390.0 (4 others) · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top 
 market 820207186962: ours 717.24 vs cheapest - (0 others) · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Me
-Price check: 102 listings compared, 39 priced more than 5% above another seller.
-📋 Daily eBay check · Sun Nov 8
+Price check: 102 listings compared, 38 priced more than 5% above another seller.
+SYNC ERRORS:
+Ferragamo Logo Engraved Cufflinks (356084785661): eBay refused the change (ReviseFixedPriceItem failed: ['Auto decline amount cannot be greater than or equal to the Buy It Now price.', 'If this item sells by a Best Offer, you will not be able to require immediate payment.'])
+📋 Daily eBay check · Mon Nov 9
 
-What I did: raised the price a little on 50 listings because the store got pricier; lowered the price 3% on 1 listing that hadn't sold in a week.
+What I did: took 3 listings (or some sizes) off sale because stores ran out; put 2 listings back on sale; raised the price a little on 50 listings because the store got pricier.
 Nothing for you to do.
+
+⚠️ Couldn't update 1 listing(s); I'm looking into it:
+• Ferragamo Logo Engraved Cufflinks (356084785661): eBay refused the change (ReviseFixedPriceItem failed: ['Auto decline amount cannot be greater than or equal to
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/WYQAAeSwn1hq1qXd/$_1.JPG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Ace Sneaker with Perforated Interlocking…\nSizes: US 7.5 · you'd make $134\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820205329431"}
+{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/Ga0AAeSw9ONq1qVw/$_1.JPG?set_id=8800005007', 'text': "✅ BACK ON SALE\nGucci Run Sneaker Black Knit Low Top Sneakers…\nSizes: US 13 · you'd make $70\n\nWhy: A store has it in stock at a price that still makes you $100+.\nhttps://www.ebay.com/itm/820207186774"}
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/Zi0AAeSwTyJq1qVs/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci MAC80 Sneaker Blue Leather Low Top…\nSizes: US 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11 · now from $694.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820223865172"}
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/OJ4AAeSwu81q1qW6/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nBottega Eliot Mid-Top Sneaker Multi-Color Low…\nSizes: US 7, 8, 9, 10, 11 · now from $809.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649208"}
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/XycAAeSwNUZq1qWy/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Lunar Paneled Slip-On Sneaker Medium…\nSizes: all 6 sizes · now from $339.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820229263569"}
-{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/vcIAAeSwoupq1qXx/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Lunar Paneled Slip-On Sneaker Red Low…\nSizes: all 6 sizes · now from $314.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820229263683"}
-{'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/L18AAeSwJidq1qXw/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Nima Knit Low-Top Sneaker Blue Low…\nSizes: US 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5 · now from $514.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820229263765"}
 Also changed:
-• Price Raised: Gucci Horsebit Driver Loafer with Web Brown… (US 11, 12.5) https://www.ebay.com/itm/820229263903
+• Price Raised: Ferragamo Lunar Paneled Slip-On Sneaker Red Low… (all 6 sizes) https://www.ebay.com/itm/820229263683
+• Price Raised: Ferragamo Nima Knit Low-Top Sneaker Blue Low… (US 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5) https://www.ebay.com/itm/820229263765
+• Price Raised: Gucci Horsebit Driver Loafer with Web Brown… (US 11) https://www.ebay.com/itm/820229263903
 • Price Raised: Gucci Horsebit Loafer Ivory Merino Wool Loafers… (US 5.5, 6, 6.5, 7, 7.5, 8) https://www.ebay.com/itm/820277097048
 • Price Raised: Gucci MAC80 Sneaker Dune Leather Low Top… (US 10.5) https://www.ebay.com/itm/820277097224
 • Price Raised: Gucci Cordovan Lux Lace-Up Shoe Black New (US 11.5) https://www.ebay.com/itm/820281910101
@@ -153,11 +160,14 @@ Also changed:
 • Price Raised: Gucci Rhyton Interlocking G Star Leather Low… (US 7) https://www.ebay.com/itm/820207186641
 • Price Raised: Gucci Rhyton Maxi GG Supreme - Black Khaki… (US 7.5, 9, 9.5, 10, 10.5) https://www.ebay.com/itm/820207186667
 • Price Raised: Gucci Rhyton White Red Green Reflective Mesh… (all 2 sizes) https://www.ebay.com/itm/820207186704
-• Price Raised: Gucci Run Sneaker Beige Ebony Monogram Leather… (US 8, 10) https://www.ebay.com/itm/820207186744
+• Price Raised: Gucci Run Sneaker Beige Ebony Monogram Leather… (US 10) https://www.ebay.com/itm/820207186744
 • Price Raised: Gucci Run Sneaker Black Knit Low Top Sneakers… (US 12, 12.5) https://www.ebay.com/itm/820207186774
 • Price Raised: Gucci Run Sneaker White Black Knit Low Top… (all 6 sizes) https://www.ebay.com/itm/820207186802
 • Price Raised: Gucci Run Sneaker White Suede Low Top Sneakers… (US 6.5, 7, 10.5, 11, 12, 12.5, 13) https://www.ebay.com/itm/820207186833
 • Price Raised: Gucci Screener GG Supreme - Black Grey Leather… (all 4 sizes) https://www.ebay.com/itm/820207186853
 • Price Raised: Gucci Tennis 1977 Blue Ivory Canvas Low Top… (US 13) https://www.ebay.com/itm/820207186919
 • Price Raised: Gucci Tennis 1977 Low GG Monogram - Ebony Beige… (US 10) https://www.ebay.com/itm/820207186962
-• Price Lowered 3%: Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas… (US 6.5) https://www.ebay.com/itm/355423513413
+• Taken Off Sale: Gucci MAC80 Sneaker Off-White/Green Leather Low… (US 7) https://www.ebay.com/itm/820277097802
+• Taken Off Sale: Gucci Tennis 1977 Sneaker Beige/Ebony GG Canvas… (US 6.5) https://www.ebay.com/itm/355423513413
+• Taken Off Sale: Gucci Run Sneaker Beige Ebony Monogram Leather… (US 8) https://www.ebay.com/itm/820207186744
+Ad rates: 1 listings up, 0 back down (1 at 15%); eBay accepted 1 of 1
