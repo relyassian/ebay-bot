@@ -636,7 +636,15 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part B skipped (no vetted candidates). Part C: Gmail 21 days empty. Part D: Nugnes1920 men's shoes, 37 in-stock items at >=38% off; same leads as Nov 8 (D&G Ariosto/suede loafers, Margiela Replica, Gucci lace-up/loafer size 6 only, Givenchy). No new comps run (eBay comp queue not re-used), 0 candidates written.
 - Scheduled task this chat owns: eBay daily research (this run). Mac copy of STATUS.md not updated (no folder connected).
 
+## Nov 10: daily research (scheduled, ~11:40-12:30Z, Mac browser linked)
+- Guard passed (newest checked_at Nov 9 11:52Z). Part A: GOAT 72/72 pages via buy_bar_data (0 errors): 410 rows rewritten, 28 prices changed, 1 size sold out (355423513413 US 11). StockX 29/29 pages: 112 rows rewritten, 36 prices changed (biggest: 820277097802 US 11 $326->$863, 355426469262 US 8 $509->$685, 820229263903 US 11 $602->$731), 0 sold out, 0 restocked.
+- NOT refreshed: Farfetch/END/Antonioli/Cettire rows (Oct 22-26 draft-only rows; Nov 9 rows for the Ferragamo Gancini/D&G Farfetch combos kept, expire ~Nov 11 23:50Z if not re-read). Rows combining GOAT+Farfetch left unchanged.
+- Method note: StockX still ~3 pages per browser_batch; per-page JS wait can be cut to 1.8s. StockX prices are not in page HTML (client-rendered); iframes do not work.
+- Part B skipped (no vetted candidates). Part C: Gmail 21 days empty. Part D: NOT run in depth this run (time spent on StockX); 0 scanned, 0 candidates.
+- Mac copy of STATUS.md not updated (no folder connected). Scheduled task this chat owns: eBay daily research (this run).
+
 ## Research log
+- 2026-11-10 (scheduled run): refreshed 522 GOAT/StockX rows (64 price changes, 1 sold out); Gmail empty; Part B skipped; Part D not run.
 - 2026-11-09 (in-chat scheduled run): refreshed 521 GOAT/StockX rows + Farfetch/END/Cettire; Gmail empty; Part B skipped; Part D 37 screened, 0 written.
 - 2026-11-08 (in-chat scheduled run): refreshed 524 GOAT/StockX rows + Farfetch/END; Gmail empty; Part B skipped; Part D 14 screened, 0 written.
 - 2026-11-07 (12:00Z, in-chat run): refreshed 519 GOAT/StockX sizes (5 went out of stock) plus Farfetch Ferragamo/D&G and END apparel (unchanged); Gmail promo scan empty. Part B skipped (limit room $274k is fine but no new candidates written; Part D looked first). Part D: Nugnes1920 men's shoes screened (~20 items at 40-51% off; Valentino excluded); 8 queued in requests/scan.json for the eBay comp check (Gucci lace-up/loafer, Fendi x2, Givenchy leather, D&G Ariosto, Margiela Replica, Rick Owens). Results land in data/scan_results.json; no candidates written yet. Yesterday's scan: Givenchy nabuk/Moncler/McQueen had 0-1 comps.
