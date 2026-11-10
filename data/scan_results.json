@@ -1,24 +1,24 @@
 {
- "checked": "2026-11-09T21:37:19Z",
+ "checked": "2026-11-10T11:51:57Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 31,
-   "median": 719.0,
+   "n": 26,
+   "median": 725.14,
    "cheapest": 394.98,
-   "p25": 610.0,
+   "p25": 600.0,
    "top": [
     "New Gucci Men\u2019s Black Leather Platform Oxford Lace Up Shoes 11.5/US 12, 353028",
     "GUCCI SHOES MENS BLACK LEATHER SYLVIE PIPING LACE UP OXFORDS LOAFERS sz 7 US 7.5"
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 47,
-   "median": 599.99,
-   "cheapest": 299.0,
+   "n": 45,
+   "median": 510.98,
+   "cheapest": 243.0,
    "p25": 425.0,
    "top": [
-    "NWT Gucci Horsebit-detail Loafers 624698 Black Leather Men\u2019s EU7.5/US8",
-    "Gucci GG Guccissima Black Leather Driving Loafers Men Gucci Size 7.5 New"
+    "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
+    "Gucci Men's agrado Leather Loafers Black/Beige Size 9"
    ]
   },
   "fendi_missina_black": {
