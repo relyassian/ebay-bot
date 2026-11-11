@@ -1,9 +1,9 @@
 {
- "checked": "2026-11-10T18:47:27Z",
+ "checked": "2026-11-11T11:57:09Z",
  "items": {
   "gucci_lace_black_865172": {
    "n": 26,
-   "median": 725.14,
+   "median": 699.5,
    "cheapest": 394.98,
    "p25": 599.0,
    "top": [
@@ -12,8 +12,8 @@
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 45,
-   "median": 510.98,
+   "n": 47,
+   "median": 528.0,
    "cheapest": 243.0,
    "p25": 425.0,
    "top": [
@@ -36,8 +36,8 @@
    "top": []
   },
   "givenchy_leather_sneaker_black": {
-   "n": 30,
-   "median": 397.5,
+   "n": 31,
+   "median": 399.0,
    "cheapest": 200.0,
    "p25": 300.0,
    "top": [
