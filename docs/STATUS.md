@@ -667,3 +667,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Jomashop watches (~150 tested, grid after-coupon price vs eBay sold BIN): leads need variant check before listing: Breitling Avenger 42 AB0146101C1A1 ($3,250 vs sold 3,600/4,199/4,500, est +$336), Oris Aquis 7769 4157 green ($1,780 vs 2,191-2,494, +$141, strap vs bracelet may be mixed), Breitling Superocean A17376211L2S1 ($2,995 vs 3,000-3,695, +$114). Weak: Tissot PRX chrono, Citizen BN1024-01E, Seiko SSB379 (+$28).
 - eBay sold search returned 403 after ~80 bulk loads; stopped, not bypassed. Retry later with few requests.
 - Watches are NOT supported in bot/listing.py (category, specifics, photos). eBay Authenticity Guarantee applies to watches >= $2,000 (ship to authenticator). Decision needed from Rafael on $3k watches (cash cap $5k).
+
+## Research run 2026-11-11 (scheduled, 11:41Z start)
+- Guard passed (newest checked_at Nov 10 11:51Z). Part A: GOAT 72/72 pages via buy_bar_data (0 errors); StockX 29/29 pages (one page per call; 2 per batch to avoid the 50s timeout). 519 rows rewritten, 82 price changes, 12 rows now sold out (2 newly: 820205221563 US 13, 820207186489 US 15.5). Farfetch/END/Antonioli/Cettire rows NOT re-read: they expire ~36h after their last check (Nov 9 Farfetch rows ~Nov 11 23:50Z).
+- Part B skipped (no vetted candidates). Part C: Gmail 21 days empty. Part D: NOT run (time went to StockX); 0 scanned, 0 candidates.
+- Mac copy of STATUS.md not updated (no folder connected). Scheduled task this chat owns: eBay daily research.
+- Research log: 2026-11-11: 519 GOAT/StockX rows refreshed (82 price changes); Gmail empty; Part B/D skipped.
