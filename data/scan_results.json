@@ -1,9 +1,9 @@
 {
- "checked": "2026-11-11T18:51:02Z",
+ "checked": "2026-11-12T11:52:07Z",
  "items": {
   "gucci_lace_black_865172": {
    "n": 26,
-   "median": 709.5,
+   "median": 699.5,
    "cheapest": 394.98,
    "p25": 599.0,
    "top": [
@@ -12,13 +12,13 @@
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 45,
-   "median": 525.0,
-   "cheapest": 243.0,
-   "p25": 425.0,
+   "n": 46,
+   "median": 594.5,
+   "cheapest": 250.0,
+   "p25": 429.99,
    "top": [
-    "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
-    "Gucci GG Guccissima Black Leather Driving Loafers Men Gucci Size 7.5/ US 8 / New"
+    "Gucci GG Guccissima Black Leather Driving Loafers Men Gucci Size 7.5/ US 8 / New",
+    "NWT Gucci Horsebit-detail Loafers 624698 Black Leather Men\u2019s EU7.5/US8"
    ]
   },
   "fendi_missina_black": {
@@ -36,13 +36,13 @@
    "top": []
   },
   "givenchy_leather_sneaker_black": {
-   "n": 29,
-   "median": 396.0,
+   "n": 31,
+   "median": 399.0,
    "cheapest": 200.0,
    "p25": 300.0,
    "top": [
     "Givenchy Men\u2019s High-Top Sneakers Black/White Graphic Print Leather Logo Sz 9",
-    "Givenchy Logo Band Sneakers White Black Leather Men's US 10 EU 43 MK137"
+    "Givenchy Logo Band Sneakers White Black Leather Men's US 11 EU 44 MK137"
    ]
   },
   "dg_ariosto_suede_black": {
