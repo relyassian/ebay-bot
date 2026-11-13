@@ -1,24 +1,24 @@
 {
- "checked": "2026-11-13T11:58:41Z",
+ "checked": "2026-11-13T18:42:45Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 25,
-   "median": 700.0,
+   "n": 23,
+   "median": 699.0,
    "cheapest": 394.98,
-   "p25": 600.0,
+   "p25": 599.0,
    "top": [
     "New Gucci Men\u2019s Black Leather Platform Oxford Lace Up Shoes 11.5/US 12, 353028",
     "GUCCI SHOES MENS BLACK LEATHER SYLVIE PIPING LACE UP OXFORDS LOAFERS sz 7 US 7.5"
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 44,
-   "median": 549.0,
-   "cheapest": 243.0,
+   "n": 43,
+   "median": 590.0,
+   "cheapest": 250.0,
    "p25": 427.5,
    "top": [
-    "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
-    "Gucci GG Guccissima Black Leather Driving Loafers Men Gucci Size 7.5/ US 8 / New"
+    "Gucci GG Guccissima Black Leather Driving Loafers Men Gucci Size 7.5/ US 8 / New",
+    "Gucci Men's agrado Leather Loafers Black/Beige Size 9"
    ]
   },
   "fendi_missina_black": {
@@ -36,10 +36,10 @@
    "top": []
   },
   "givenchy_leather_sneaker_black": {
-   "n": 30,
-   "median": 399.0,
+   "n": 29,
+   "median": 359.0,
    "cheapest": 200.0,
-   "p25": 300.0,
+   "p25": 299.47,
    "top": [
     "Givenchy Men\u2019s High-Top Sneakers Black/White Graphic Print Leather Logo Sz 9",
     "Givenchy Logo Band Sneakers White Black Leather Men's US 10 EU 43 MK137"
