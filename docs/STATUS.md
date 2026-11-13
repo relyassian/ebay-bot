@@ -679,3 +679,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part B skipped (no vetted candidates). Part C: Gmail 21 days empty. Part D: Nugnes1920 men's shoes >=38% off, same leads as Nov 8-10 (D&G Ariosto, Margiela Replica, Gucci lace-up/loafer 1 size, Givenchy, Ferragamo nylon Gancini 6sz $477/795); no comps run, 0 candidates written.
 - Mac copy of STATUS.md not updated (no folder connected). Scheduled task this chat owns: eBay daily research.
 - Research log: 2026-11-12: 531 GOAT/StockX rows refreshed (31 price changes); Gmail empty; Part B skipped; Part D 0 written.
+
+## Research run 2026-11-13 (scheduled, 11:41Z start)
+- Guard passed (newest checked_at Nov 12 11:51Z). Part A: GOAT 72/72 pages via buy_bar_data (0 errors); StockX 29/29 pages (2 per batch). 531 GOAT/StockX rows rewritten (checked_at 2026-11-13T11:51Z), 78 price changes >= $1 (biggest: 820205221563 US 10 $540->$331, 355423513413 US 7.5 $412->$603), 0 newly sold out, 0 restocks. Farfetch/END/Antonioli/Cettire rows NOT re-read (Nov 9 Farfetch Ferragamo/D&G rows still past 36h: those sizes stay off sale until re-read).
+- Part B skipped (selling room $274k so not blocked, but no vetted candidates; time spent on Part A). Part C: Gmail 21 days empty, promos.yaml unchanged. Part D: NOT run (0 scanned, 0 written).
+- Mac copy of STATUS.md not updated (no folder connected). Scheduled task this chat owns: eBay daily research.
+- Research log: 2026-11-13: 531 GOAT/StockX rows refreshed (78 price changes); Gmail empty; Part B/D skipped.
