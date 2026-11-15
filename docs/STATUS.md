@@ -3,6 +3,11 @@ _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old
 _Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
+## Research run 2026-11-15 (partial, automated)
+- Nov 14 research did not run (last full refresh Nov 13 11:51Z). Nov 15 run refreshed only the 392 GOAT-sourced rows (72 GOAT pages, per-size buy_bar_data) at 11:42Z.
+- NOT refreshed: StockX (127 rows), END, Farfetch, Antonioli, Cettire rows (still Nov 13, past the 36h limit, so those sizes come off sale). Part B (new products), Part C (promos) and Part D (below-market scan) were not done.
+- 1 GOAT row had no seller at GOAT now and was left unchanged. Some GOAT asks show 2235/2435 (placeholder-like highs); kept as read.
+
 ## 1. What we've built
 - **ebay-bot** (GitHub `relyassian/ebay-bot`, public so Actions minutes stay free). Python on GitHub Actions, live on eBay (`LIVE=true` repo variable).
   - **sale-alerts** (`sales.yml`, `bot/listen.py`): self-chaining runs (~25 min each): Telegram replies, new-order check every 10 min, lists approved drafts, saves state. Verified running back-to-back at Oct 9 05:00 UTC.
