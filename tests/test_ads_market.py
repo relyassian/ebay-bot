@@ -65,6 +65,7 @@ def test_market_drops_never_below_floor(monkeypatch):
     import bot.market as mk
     from bot.sync import market_drops
     cfg = load_config()
+    cfg = dict(cfg, pricing=dict(cfg["pricing"], market_floor_net=75))   # test the floor mechanism itself, not today's config value
     now = datetime.now(timezone.utc)
     v1 = NS(size="9", price=900.0, available=1)
     v2 = NS(size="10", price=900.0, available=1)

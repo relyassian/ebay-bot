@@ -690,3 +690,7 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Part B skipped (selling room $274k so not blocked, but no vetted candidates; time spent on Part A). Part C: Gmail 21 days empty, promos.yaml unchanged. Part D: NOT run (0 scanned, 0 written).
 - Mac copy of STATUS.md not updated (no folder connected). Scheduled task this chat owns: eBay daily research.
 - Research log: 2026-11-13: 531 GOAT/StockX rows refreshed (78 price changes); Gmail empty; Part B/D skipped.
+
+## Nov 15 (chat): more sales
+- Rafael asked for more sales (1 sale in the account's life; ~100 views/day, ~300 watchers). Lowered net floors so the bot's own price drops go further: pricing.market_floor_net 75 -> 30 (market matching to just under the eBay median), markdown.floor_net 75 -> 45 (sale badges), ads.boost_floor_net 75 -> 45 (higher ad rates). New listings' floor stays $30; decay floor $45.
+- Effect lands on the next daily-sync / sale-alerts sync run. Watch the morning digest for the count of price changes; every drop still keeps net >= $30 incl. fees, 8%+ ads and 1% buffer.
