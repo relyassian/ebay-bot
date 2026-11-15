@@ -1,8 +1,8 @@
 {
- "checked": "2026-11-15T17:56:49Z",
+ "checked": "2026-11-15T22:50:46Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 29,
+   "n": 28,
    "median": 664.05,
    "cheapest": 300.0,
    "p25": 569.05,
@@ -12,10 +12,10 @@
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 44,
-   "median": 538.5,
+   "n": 43,
+   "median": 528.0,
    "cheapest": 243.0,
-   "p25": 429.99,
+   "p25": 425.0,
    "top": [
     "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
     "Gucci Men's agrado Leather Loafers Black/Beige Size 9"
