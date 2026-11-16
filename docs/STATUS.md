@@ -3,6 +3,12 @@ _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old
 _Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
+## Research run 2026-11-16 (automated, partial)
+- Mac reachable. GOAT: all 72 pages / 392 rows refreshed 11:43Z (61 prices changed; 12 moved >= $30). StockX: 29 pages read in the built-in browser, 71 rows refreshed 11:55Z; 55 StockX rows (sizes beyond the first ~12 in the size menu) and 1 BID-only size left unchanged so they expire at 36h.
+- NOT refreshed: END, Farfetch, Antonioli, Cettire rows (last read Oct 23 to Nov 9, already stale, off sale). Part B skipped (not enough time/browser budget).
+- Part C: Gmail (21 days, store senders) empty again; promos.yaml unchanged.
+- Part D: scanned Nugnes1920 men's shoe collections (7 brands) for >=38% off: 7 items; 3 new ones (McQueen leather loafer $445 vs $890, size 40 only; D&G Ariosto suede loafer $477 vs $795; D&G suede slipper $450 vs $750) added to requests/scan.json for the comp check. Best margin unknown until comps return. Candidates written: 0.
+
 ## Research run 2026-11-15 (partial, automated)
 - Nov 14 research did not run (last full refresh Nov 13 11:51Z). Nov 15 run refreshed only the 392 GOAT-sourced rows (72 GOAT pages, per-size buy_bar_data) at 11:42Z.
 - NOT refreshed: StockX (127 rows), END, Farfetch, Antonioli, Cettire rows (still Nov 13, past the 36h limit, so those sizes come off sale). Part B (new products), Part C (promos) and Part D (below-market scan) were not done.

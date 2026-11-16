@@ -54,5 +54,26 @@
   "model": "Minimal nylon and suede sneakers",
   "colorway": "Grey",
   "style_code": "RU01F2889 NDOLVX 787878"
+ },
+ {
+  "key": "mcq_loafer_black_778158",
+  "brand": "Alexander McQueen",
+  "model": "Leather loafer",
+  "colorway": "Black",
+  "style_code": "778158 WIES4 1081"
+ },
+ {
+  "key": "dg_ariosto_suede_black_a50734",
+  "brand": "Dolce & Gabbana",
+  "model": "Ariosto suede loafers",
+  "colorway": "Black",
+  "style_code": "A50734 AT441 80999"
+ },
+ {
+  "key": "dg_suede_slipper_brown_a50739",
+  "brand": "Dolce & Gabbana",
+  "model": "Suede slipper loafers",
+  "colorway": "Brown",
+  "style_code": "A50739 AS707 80024"
  }
 ]
