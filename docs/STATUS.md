@@ -709,3 +709,9 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Blocked on Rafael: TikTok Shop seller account, Kalodata login. Still needed: customs broker HTS/tariff check, 500-unit quote, SleekEZ (US 9,474,250) and Lumo (D822,391) patent check.
 - eBay: 83 listings keep running; no new broad scans. Still open: why 4 above-market Gucci listings did not drop; Rick Owens inseam; Final Sale OK?; stale source rows; Ferragamo 23-15364-04589 and Gucci 11-15213-78941 delivery checks.
 - Scheduled tasks owned by this chat: none created (offer pending: one recurring Sun-Fri 7:20am ET check-in).
+
+## Nov 15 (night 2): "check every website" sweep, 3 agents + sold-comp checks
+- US stores: only Nordstrom Rack readable; 0 leads (best Cavalli low-top $119.97, ~+$27). Rack "comparable value" inflated. Others unchecked (Firecrawl credits out, WebFetch empty).
+- Europe: only Nugnes1920 produced candidates; 6 other stores failed on price, 11 unchecked. Agent's eBay prices were guesses. My eBay SOLD check: Wales Bonner Gazelle Pony KK3640 sold $139-295, median ~$155 (agent assumed $300) -> ~-$15 net at landed ~$135, FAILS. Moncler Trailgrip GTX low sold $358-556 (typ ~$450) vs landed ~$349 -> ~$0 at median, +$80 only at top comp; FAILS (also assumes VAT removed + $20 ship, unverified). Monaco2 EU39 and Karintha not checked (guess comps, low confidence).
+- eBay other-seller BIN: 2 leads (Gucci Horsebit loafer US10 $228 all-in vs comps $355-600; Common Projects Achilles US13 $159 vs $275-295). Rejected: single-pair/other-seller stock = cancellation risk, no returns/counterfeit risk. Not listed.
+- Conclusion unchanged: nothing clears $30 on verified sold prices. Retry US/EU stores after Firecrawl reset (~04:35 UTC) if Rafael wants.
