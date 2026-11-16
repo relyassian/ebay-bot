@@ -700,3 +700,12 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Firecrawl Italist/Antonioli/Nugnes scan: 192 Italist leads at >=55% off (Italist "original" prices inflated, e.g. BV cardigan "$4,238"). Antonioli/Nugnes cap at 50% off. Mytheresa men's sale page empty ("synchronizing").
 - eBay sold comps (32 style codes, 22 pane loads, no 403): none qualifies. Related sold prices far below store cost: BV boots sold $395-750 vs cost $730-2113; BV sneakers $90-270 vs $509-688; Givenchy jackets/coats $300-805 vs $837-1506; Dsquared2 jackets $99-300 vs $488-1197. Exact-model comps mostly n=0 (style-code search returns generic results).
 - Conclusion: store sale prices are at or above eBay's real sold prices for apparel/boots; the profitable pool is limited to what is already listed (GOAT/StockX Gucci/Ferragamo). Files (lost on container reset): scratchpad store_leads.json, shortlist_comps.json.
+
+## Nov 15 (night): pet shedding kit supplier research
+- Subagent report (full: scratchpad pet_kit_research.md, lost with container): net ~$10.7/order air, ~$12.1 sea at $29.99 before ads (fees 8% + $4.70 FBT + 15% creator + 5% returns; landed $6.18 air / $4.78 sea, kit $3.00 @500, duty 22.5%).
+- Suppliers @500: Solado brush $0.67 (custom box needs 1,000), Huating brush $0.58-0.78, Xianwei glove $0.34. Unverified listing prices, not quotes.
+- Complaints (Chewy/blogs, Amazon blocked): short-coat pickup ~40%, bent pins/jam ~24%, bulky for cats.
+- Decision/recommendation: fix first. Do not spend $800 until price can be $34.99+ and Kalodata confirms demand. Samples only (~$50) if both hold.
+- Blocked on Rafael: TikTok Shop seller account, Kalodata login. Still needed: customs broker HTS/tariff check, 500-unit quote, SleekEZ (US 9,474,250) and Lumo (D822,391) patent check.
+- eBay: 83 listings keep running; no new broad scans. Still open: why 4 above-market Gucci listings did not drop; Rick Owens inseam; Final Sale OK?; stale source rows; Ferragamo 23-15364-04589 and Gucci 11-15213-78941 delivery checks.
+- Scheduled tasks owned by this chat: none created (offer pending: one recurring Sun-Fri 7:20am ET check-in).
