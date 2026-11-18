@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-18T11:47:27Z",
+ "checked": "2026-11-18T11:55:34Z",
  "items": {
   "gucci_lace_black_865172": {
    "n": 31,
@@ -13,9 +13,9 @@
   },
   "gucci_loafer_black_851396": {
    "n": 35,
-   "median": 500.0,
+   "median": 510.0,
    "cheapest": 243.0,
-   "p25": 419.0,
+   "p25": 425.0,
    "top": [
     "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
     "NWT Gucci Horsebit-detail Loafers 624698 Black Leather Men\u2019s EU7.5/US8"
