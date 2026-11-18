@@ -3,6 +3,12 @@ _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old
 _Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
+## Research run 2026-11-18 (automated, partial)
+- Mac reachable. GOAT: 392 of 393 rows refreshed 11:55Z (all 72 pages, per-size buy_bar_data; 24 prices changed, 6 moved >= $30; 1 size missing at GOAT now, left unchanged). StockX: all 29 pages read via same-origin iframes with NO Cloudflare block this time; 68 rows refreshed 12:05Z (30 prices changed, 10 moved >= $30); 59 rows for sizes beyond the visible size list left unchanged.
+- NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room fine at $274k, but no browser budget).
+- Part C: Gmail (21 days, store senders) empty; promos.yaml unchanged.
+- Part D: Nugnes1920 men's collections (30 brands) for >= 35% off: ~25 shoes/small goods + lots of apparel (apparel can't be listed yet). New vs Nov 17: Ferragamo nylon Gancini sneaker $477/795 (sizes 5-7.5), Margiela Replica red $510/850 (40-42), D&G Cushion sneaker $308/495, Givenchy sneakers $425/850; 3 added to requests/scan.json for comps. Candidates written: 0.
+
 ## Research run 2026-11-17 (automated, partial)
 - Mac reachable. GOAT: 392 of 393 rows refreshed 11:50Z (72 pages, per-size buy_bar_data; 21 prices changed, 7 moved >= $30; null/no-seller sizes left unchanged). StockX: 16 of 29 pages read via same-origin iframes, then Cloudflare "Just a moment" security check blocked the rest (not bypassed); 38 rows refreshed 11:58Z (8 prices changed); all-BID pages and sizes beyond the first ~12 in the size menu left unchanged.
 - NOT refreshed: 13 StockX pages (~89 rows, last read Nov 13/16), END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room is fine at $274k but no browser budget after StockX block).
