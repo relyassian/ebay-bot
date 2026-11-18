@@ -1,19 +1,19 @@
 {
- "checked": "2026-11-18T11:55:34Z",
+ "checked": "2026-11-18T12:57:32Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 31,
-   "median": 818.49,
+   "n": 30,
+   "median": 808.75,
    "cheapest": 394.98,
-   "p25": 636.0,
+   "p25": 610.0,
    "top": [
     "New Gucci Men\u2019s Black Leather Platform Oxford Lace Up Shoes 11.5/US 12, 353028",
     "Gucci Mens Black New Ace Guccy Leather Gold Flat Low Top Lace Sneakers G 9 10"
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 35,
-   "median": 510.0,
+   "n": 37,
+   "median": 510.98,
    "cheapest": 243.0,
    "p25": 425.0,
    "top": [
