@@ -746,3 +746,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 
 ## Decision Nov 18 (Rafael, 10:43pm): final-sale items OK
 - Rafael: final-sale items are fine "as long as you monitor them and make sure we can still get those prices". Condition: only list a final-sale item when a source row with size-level stock is re-verified daily (36h rule applies); hide the size if price/stock can't be confirmed. Risk to flag in every buy alert: no returns from the store if a buyer/authenticator rejects or the item is wrong. Yoox has no adapter: sizes are not visible via WebFetch (Firecrawl scrape needed), so Yoox listings need the daily research run to add Yoox rows.
+
+## Nov 19 (night task result): Tod's loafers
+- Scheduled rerun fired 04:45Z; Firecrawl still out of credits until 2026-11-20 04:35Z (hosted allowance reset is per UTC day and the Nov 19 allowance was already spent), so Yoox sizes unreadable; store rescan not run.
+- eBay sold (pane, Rafael re-signed in): Tod's Gommino men's driving loafers, 67 sold cards, bimodal: junk/misc $100-200, real new pairs $695-875 (several at $765/$825/$875 in Sep-Nov). If Yoox 17795880VC ($108, was $695, FINAL SALE) is a Gommino: net at $695 = 695*0.774 - 139 = ~$399; at $450 = ~$209. Model/sizes unconfirmed (Yoox page blank in pane, fetch shows no sizes).
+- Needs Rafael: open https://www.yoox.com/us/17795880VC/item and read the sizes shown + any shipping cost + material/name. Then list with daily re-check.
