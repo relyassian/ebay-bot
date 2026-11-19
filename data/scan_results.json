@@ -1,8 +1,8 @@
 {
- "checked": "2026-11-19T13:00:07Z",
+ "checked": "2026-11-19T19:36:28Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 29,
+   "n": 28,
    "median": 664.05,
    "cheapest": 300.0,
    "p25": 599.0,
@@ -13,7 +13,7 @@
   },
   "gucci_loafer_black_851396": {
    "n": 41,
-   "median": 510.0,
+   "median": 510.98,
    "cheapest": 243.0,
    "p25": 425.0,
    "top": [
@@ -42,7 +42,7 @@
    "p25": 300.0,
    "top": [
     "Givenchy Men\u2019s High-Top Sneakers Black/White Graphic Print Leather Logo Sz 9",
-    "Givenchy Logo Band Sneakers White Black Leather Men's US 11 EU 44 MK137"
+    "Givenchy Logo Band Sneakers White Black Leather Men's US 10 EU 43 MK137"
    ]
   },
   "dg_ariosto_suede_black": {
