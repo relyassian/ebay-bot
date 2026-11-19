@@ -154,7 +154,7 @@ def market_drops(listing: Listing, sources: dict, cfg: dict, auto: list, discoun
     from bot.market import market_for
     from bot.profit import floor_price
     now = now or datetime.now(timezone.utc)
-    m = market_for(listing.item_id)
+    m = market_for(listing.item_id, min_n=int(cfg.get("pricing", {}).get("market_min_n", 3)))
     if not m:
         return []
     from bot.profit import charm_near

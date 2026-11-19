@@ -733,3 +733,8 @@ eBay seller `rafaelelyassian` (Trading API, refresh token in GitHub secrets) · 
 - Europe: only Nugnes1920 produced candidates; 6 other stores failed on price, 11 unchecked. Agent's eBay prices were guesses. My eBay SOLD check: Wales Bonner Gazelle Pony KK3640 sold $139-295, median ~$155 (agent assumed $300) -> ~-$15 net at landed ~$135, FAILS. Moncler Trailgrip GTX low sold $358-556 (typ ~$450) vs landed ~$349 -> ~$0 at median, +$80 only at top comp; FAILS (also assumes VAT removed + $20 ship, unverified). Monaco2 EU39 and Karintha not checked (guess comps, low confidence).
 - eBay other-seller BIN: 2 leads (Gucci Horsebit loafer US10 $228 all-in vs comps $355-600; Common Projects Achilles US13 $159 vs $275-295). Rejected: single-pair/other-seller stock = cancellation risk, no returns/counterfeit risk. Not listed.
 - Conclusion unchanged: nothing clears $30 on verified sold prices. Retry US/EU stores after Firecrawl reset (~04:35 UTC) if Rafael wants.
+
+## Nov 18 (chat): why the Gucci listings didn't drop (found + fixed)
+- Horsebit Driver w/ Web black (n=1 competitor) and Rhyton reflective (n=2) were blocked by market_for min_n=3. Added pricing.market_min_n: 2 (config) used by market_drops; floor ($30 net) unchanged. Rhyton reflective sizes 7.5/8.5 now drop 814.99/819.99 -> 764.99/789.99. Horsebit w/ Web (n=1) still blocked on purpose (one ask can be a mismatch).
+- Ace GG Embossed black live sizes 11.5/15.5 use StockX rows last read Nov 13 (>36h), so no drops; the daily research leaves StockX sizes beyond the first ~12 in the size menu unread. Basket High White/Red size 12 only drops to 964.99 (GOAT cost $634 is the floor; market median $800 is below cost).
+- Tests: 54 pass (test lambdas accept min_n).

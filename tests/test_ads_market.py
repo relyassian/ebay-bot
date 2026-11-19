@@ -72,7 +72,7 @@ def test_market_drops_never_below_floor(monkeypatch):
     lst = NS(item_id="X1", variations=[v1, v2], price=None, quantity=None, sold=None)
     src = {("X1", "9"): NS(cost=300.0, overseas=False, source="GOAT", checked_at=now),
            ("X1", "10"): NS(cost=480.0, overseas=False, source="GOAT", checked_at=now)}
-    monkeypatch.setattr(mk, "market_for", lambda iid: {"median": 700.0, "n": 8})
+    monkeypatch.setattr(mk, "market_for", lambda iid, **kw: {"median": 700.0, "n": 8})
     ch = {c.size: c.new_price for c in market_drops(lst, src, cfg, [], now=now)}
     assert ch["9"] == 699.99                       # matched the market
     assert 700 < ch["10"] < 900                    # as close as the 1.5x floor allows
@@ -87,7 +87,7 @@ def test_floor100_items_go_lower(monkeypatch):
     now = datetime.now(timezone.utc)
     lst = NS(item_id="X9", variations=[NS(size="10", price=900.0, available=1)], price=None, quantity=None, sold=None)
     src = {("X9", "10"): NS(cost=480.0, overseas=False, source="GOAT", checked_at=now)}
-    monkeypatch.setattr(mk, "market_for", lambda iid: {"median": 500.0, "n": 8})
+    monkeypatch.setattr(mk, "market_for", lambda iid, **kw: {"median": 500.0, "n": 8})
     normal = market_drops(lst, src, cfg, [], now=now)[0].new_price
     cfg2 = dict(cfg, pricing=dict(cfg["pricing"], floor100_items=["X9"]))
     test = market_drops(lst, src, cfg2, [], now=now)[0].new_price
@@ -103,7 +103,7 @@ def test_market_floor_net_80_goes_lower_than_default(monkeypatch):
     now = datetime.now(timezone.utc)
     lst = NS(item_id="X8", variations=[NS(size="10", price=900.0, available=1)], price=None, quantity=None, sold=None)
     src = {("X8", "10"): NS(cost=480.0, overseas=False, source="GOAT", checked_at=now)}
-    monkeypatch.setattr(mk, "market_for", lambda iid: {"median": 500.0, "n": 8})
+    monkeypatch.setattr(mk, "market_for", lambda iid, **kw: {"median": 500.0, "n": 8})
     old = market_drops(lst, src, base, [], now=now)[0].new_price
     new = market_drops(lst, src, dict(base, pricing=dict(base["pricing"], market_floor_net=80)), [], now=now)[0].new_price
     assert new < old
