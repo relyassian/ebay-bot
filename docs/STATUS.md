@@ -3,6 +3,12 @@ _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old
 _Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
+## Research run 2026-11-19 (automated, partial)
+- Mac reachable. GOAT: 392 of 401 rows refreshed ~11:42Z (72 pages, per-size buy_bar_data; 29 prices changed, 12 moved >= $30; 9 sizes not at GOAT now, left unchanged). StockX: all 29 pages read via same-origin iframes, no Cloudflare block; 68 rows refreshed ~11:55Z (7 prices changed, 1 moved >= $30); 62 rows (BID-only or sizes beyond the visible list) left unchanged.
+- NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped again (limit room fine at $274k, but no browser budget).
+- Part C: Gmail (21 days, store senders) empty; promos.yaml unchanged.
+- Part D: Nugnes1920 men's collections (18 brands) for >= 38% off: same items as Nov 18 (Gucci loafer 851396 $588/950 size 1; McQueen loafer $445/890; D&G Ariosto/slipper/belts; Givenchy sneakers $420-425; Margiela Replica $510). Existing comps: Gucci 851396 median $510 (< cost), Givenchy median $398 (< cost+ship): none clear $100. Scanned ~20, candidates written: 0.
+
 ## Research run 2026-11-18 (automated, partial)
 - Mac reachable. GOAT: 392 of 393 rows refreshed 11:55Z (all 72 pages, per-size buy_bar_data; 24 prices changed, 6 moved >= $30; 1 size missing at GOAT now, left unchanged). StockX: all 29 pages read via same-origin iframes with NO Cloudflare block this time; 68 rows refreshed 12:05Z (30 prices changed, 10 moved >= $30); 59 rows for sizes beyond the visible size list left unchanged.
 - NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room fine at $274k, but no browser budget).
