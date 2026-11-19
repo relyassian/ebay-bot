@@ -16,5 +16,5 @@ RuntimeError: eBay token refresh failed (400): {"error":"invalid_grant","error_d
 scan: 14
 demand: 4
 explore: 0
-order fees failed: eBay token refresh failed (400): {"error":"invalid_grant","error_description":"the provided authorization refresh token is invalid or was issued to another client"}
+order fees failed: eBay token refresh failed (500): {"error":"server_error","error_description":"server encountered an unexpected condition that prevented it from fulfilling the request"}
 price check error: eBay token refresh failed (400): {"error":"invalid_grant","error_description":"the provided authorization refresh token is invalid or was issued to another client"}
