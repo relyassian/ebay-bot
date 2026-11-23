@@ -1,24 +1,24 @@
 {
- "checked": "2026-11-23T11:47:27Z",
+ "checked": "2026-11-23T12:52:59Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 29,
-   "median": 759.05,
+   "n": 27,
+   "median": 740.0,
    "cheapest": 380.0,
-   "p25": 636.0,
+   "p25": 599.0,
    "top": [
     "Gucci Men's Leather Lace-Up Derby Shoes 723610 Size 7.5 Black Leather New",
     "Gucci 812153 Black Leather Logo Lace-Up Cap Toe Oxford Dress Shoes Men\u2019s US 7"
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 45,
-   "median": 500.0,
-   "cheapest": 225.0,
-   "p25": 400.0,
+   "n": 46,
+   "median": 510.49,
+   "cheapest": 243.0,
+   "p25": 400.46,
    "top": [
-    "Gucci Size 10 Black Guccissima Leather Penny Loafers brand new in box",
-    "GUCCI - Black Leather Horsebit Loafers, Size-UK 9"
+    "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
+    "Gucci Men's Black Leather GG Web Logo Slip-On Dress Loafers US 6"
    ]
   },
   "fendi_missina_black": {
@@ -37,7 +37,7 @@
   },
   "givenchy_leather_sneaker_black": {
    "n": 31,
-   "median": 409.0,
+   "median": 399.0,
    "cheapest": 200.0,
    "p25": 299.47,
    "top": [
@@ -97,8 +97,8 @@
    "top": []
   },
   "givenchy_leather_sneaker_bh00b4h1x1": {
-   "n": 31,
-   "median": 399.0,
+   "n": 30,
+   "median": 404.0,
    "cheapest": 200.0,
    "p25": 299.47,
    "top": [
