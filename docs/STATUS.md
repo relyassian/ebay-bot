@@ -3,6 +3,12 @@ _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old
 _Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
+## Research run 2026-11-23 (automated, partial)
+- Mac reachable (built-in browser). GOAT: 389 of 393 rows refreshed ~11:55Z (72 pages, per-size buy_bar_data; 34 prices changed, 11 moved >= $30; 4 sizes not at GOAT now, left unchanged). StockX: all 29 pages read via same-origin iframes, no Cloudflare block; 99 rows refreshed ~12:10Z (70 prices changed, 37 moved >= $30); 28 rows (BID-only pages: MAC80 off-white / off-white-black / off-white-green, Rhyton; or sizes beyond the visible list) left unchanged. StockX rows were not compared against GOAT/other stores for a cheaper source.
+- NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room fine at $274k, but no browser budget).
+- Part C: Gmail (21 days, 13 store senders) empty; promos.yaml unchanged.
+- Part D: Nugnes1920 men's collections (11 brands) for >= 38% off, in stock: same set as Nov 22 (Givenchy sneakers $420-425, McQueen loafer $445/890 size 40, D&G Ariosto/slipper/belts, Ferragamo nylon Gancini sneaker $477/795 sizes 5-7, Gucci loafer 851396 size 6 only). Prior comps showed none clear $100. Scanned 17, candidates written: 0.
+
 ## Research run 2026-11-22 (automated, partial)
 - Mac reachable (built-in browser). GOAT: 390 of 393 rows refreshed ~11:50Z (72 pages, per-size buy_bar_data; 79 prices changed, 46 moved >= $30; 3 sizes not at GOAT now, left unchanged). StockX: only 14 of 29 pages read (same-origin iframes), then Cloudflare "Just a moment" blocked the rest; 17 rows refreshed ~11:58Z (all 17 moved >= $30). Not read: gucci-ayrton brown, horsebit-driver black, interlocking-g washed indigo / moccasins, mac80 (5), rhyton, screeners, tennis 1977 (2), LV skate; those StockX rows keep older checked_at.
 - NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room fine at $274k, but no browser budget).
