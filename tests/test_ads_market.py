@@ -108,3 +108,14 @@ def test_market_floor_net_80_goes_lower_than_default(monkeypatch):
     new = market_drops(lst, src, dict(base, pricing=dict(base["pricing"], market_floor_net=80)), [], now=now)[0].new_price
     assert new < old
     from bot.profit import net_profit
+
+
+def test_category_fee_athletic_8_percent_casual_13_6():
+    """Nov 24: Athletic Shoes ($150+) pay 8%; Casual Shoes keep 13.6% (real orders: $27.20 on $339.99 vs $132.90 on $974)."""
+    from bot.config import load_config
+    from bot.profit import net_profit, with_category_fee
+    cfg = load_config()
+    athletic, casual = "820229263683", "355429385763"          # Ferragamo Lunar (15709) / Gucci Ace (24087)
+    assert with_category_fee(cfg, athletic)["profit"]["ebay_fee_rate"] == 0.08
+    assert with_category_fee(cfg, casual)["profit"]["ebay_fee_rate"] == cfg["profit"]["ebay_fee_rate"]
+    assert net_profit(339.99, 165, with_category_fee(cfg, athletic)) > net_profit(339.99, 165, cfg)

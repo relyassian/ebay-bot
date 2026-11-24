@@ -31,6 +31,37 @@ def is_taxable(cfg: dict, item_id: str | None = None, category: str | None = Non
     return bool(category) and category in cfg["profit"].get("taxable_categories", [])
 
 
+_SNAP_CATS: dict | None = None
+
+
+def ebay_category_of(item_id) -> str | None:
+    """eBay category id of a live listing, read once from data/snapshot.json."""
+    global _SNAP_CATS
+    if _SNAP_CATS is None:
+        import json
+        from pathlib import Path
+        f = Path(__file__).resolve().parent.parent / "data" / "snapshot.json"
+        try:
+            _SNAP_CATS = {str(x["item_id"]): str(x.get("category") or "") for x in json.loads(f.read_text())}
+        except Exception:
+            _SNAP_CATS = {}
+    return _SNAP_CATS.get(str(item_id))
+
+
+def with_category_fee(cfg: dict, item_id) -> dict:
+    """Copy of cfg using the eBay final value fee of this listing's category (config profit.fee_rate_by_category).
+    Nov 24: Athletic Shoes priced $150+ pay 8% with no per-order fee (confirmed on an actual order: $27.20 on $339.99);
+    Casual and Dress Shoes pay 13.6% + $0.40 (confirmed on the Gucci order), so they keep ebay_fee_rate."""
+    by_cat = cfg["profit"].get("fee_rate_by_category") or {}
+    cat = ebay_category_of(item_id)
+    if not cat or cat not in {str(k) for k in by_cat}:
+        return cfg
+    rate = next(v for k, v in by_cat.items() if str(k) == cat)
+    c = dict(cfg)
+    c["profit"] = dict(cfg["profit"], ebay_fee_rate=float(rate))
+    return c
+
+
 def net_profit(ebay_price: float, landed: float, cfg: dict, *, reship: bool = False) -> float:
     p = cfg["profit"]
     keep = 1 - p["ebay_fee_rate"] - p["promoted_rate"] - p["inad_buffer_rate"]

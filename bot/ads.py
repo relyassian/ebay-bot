@@ -149,6 +149,8 @@ def item_rate(item_id: str, cfg: dict | None = None) -> float:
 
 def cfg_for(cfg: dict, item_id: str) -> dict:
     """Copy of cfg whose profit math uses this listing's own ad rate."""
+    from bot.profit import with_category_fee
+    cfg = with_category_fee(cfg, item_id)          # this listing's category fee (Athletic Shoes $150+ = 8%)
     rates = _load().get("item_rates", {})
     if str(item_id) not in rates:
         return cfg
@@ -170,6 +172,8 @@ def best_rate(listing, sources: dict, cfg: dict, rates: list[float], discount: f
     live = [(s, p) for s, p, a in rows if a > 0]
     if not live:
         return None
+    from bot.profit import with_category_fee
+    cfg = with_category_fee(cfg, listing.item_id)
     for rate in sorted(rates, reverse=True):
         c = dict(cfg)
         c["profit"] = dict(cfg["profit"], promoted_rate=rate)

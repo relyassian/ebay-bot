@@ -4,7 +4,9 @@ dry_run: false               # the GitHub repo variable LIVE=true is the real on
 profit:
   floor: 30                   # Rafael, Nov 5: "even if you are sure we net at least $30 after all fees, start listing; higher profit = higher priority". Was 50 (Nov 3), 100 before. Drops stop at 1.5x = $45; brand_min_net (LV $200) and item_min_net still apply
   target: 250                 # Tier A
-  ebay_fee_rate: 0.136        # measured from a real $974 order
+  ebay_fee_rate: 0.136        # measured from a real $974 order (Casual Shoes: 13.6% + $0.40, fee also applies to buyer sales tax)
+  fee_rate_by_category:       # Rafael, Nov 24: use each listing's real final value fee. Athletic Shoes at $150+ = 8%, no per-order fee (eBay fee page; real order 23-15364-04589: $27.20 on $339.99). Dress/Casual Shoes keep 13.6%.
+    "15709": 0.08
   promoted_rate: 0.0          # set when Promoted Listings are on
   inad_buffer_rate: 0.01      # "not as described" safety buffer
   sales_tax_rate: 0.06625     # NJ — items ship to eBay's NJ authenticator; only charged on taxable items:
