@@ -1,18 +1,18 @@
 {
- "checked": "2026-11-23T22:53:24Z",
+ "checked": "2026-11-24T11:46:06Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 29,
-   "median": 664.05,
+   "n": 30,
+   "median": 681.52,
    "cheapest": 300.0,
-   "p25": 569.05,
+   "p25": 599.0,
    "top": [
     "Gucci Nero Black Leather Cap Toe Lace-Up Oxford Dress Shoes Men's US 7.5",
     "Gucci Men's Leather Lace-Up Derby Shoes 723610 Size 7.5 Black Leather New"
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 44,
+   "n": 42,
    "median": 499.5,
    "cheapest": 225.0,
    "p25": 397.49,
