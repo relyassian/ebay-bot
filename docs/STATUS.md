@@ -3,6 +3,12 @@ _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old
 _Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
+## Research run 2026-11-25 (automated, partial)
+- Mac reachable (built-in browser). GOAT: 387 of 401 GOAT rows refreshed ~11:43Z (72 pages, per-size buy_bar_data; 26 prices changed, 8 moved >= $30; 6 sizes with no GOAT seller left unchanged). StockX: all 29 pages read via same-origin iframes; 72 rows refreshed ~12:0xZ (30 prices changed, 1 moved >= $30); 55 BID-only/unlisted sizes left unchanged. StockX not compared against other stores.
+- NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room $274k, but no browser budget).
+- Part C: Gmail (21 days, 13 store senders) empty; promos.yaml unchanged.
+- Part D: Nugnes1920 men's collections (12 brands) >= 38% off in stock: apparel (Gucci/Balenciaga/Givenchy/McQueen jackets, trousers, knitwear), Gucci loafer $588/1000, McQueen loafer $458/935, Givenchy sneakers $426-438. Mostly single sizes; no comps clearing $100. Scanned ~50, candidates written: 0.
+
 ## Research run 2026-11-24 (automated, partial)
 - Mac reachable (built-in browser). GOAT: 389 of 401 GOAT rows refreshed ~11:55Z (72 pages, per-size buy_bar_data; 26 prices changed, 5 moved >= $30; 12 sizes not at GOAT now, left unchanged). StockX: all 29 pages read via on-screen same-origin iframes (iframe must be on-screen, left:0 opacity .01, or the size menu won't open); 93 rows refreshed ~12:05Z (45 prices changed, 9 moved >= $30); BID-only sizes and sizes beyond the visible list left unchanged. StockX rows were not compared against GOAT/other stores for a cheaper source.
 - NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room fine at $274k, but no browser budget).
