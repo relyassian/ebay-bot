@@ -1,9 +1,9 @@
 {
- "checked": "2026-11-25T04:11:45Z",
+ "checked": "2026-11-25T04:54:41Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 34,
-   "median": 643.0,
+   "n": 37,
+   "median": 636.0,
    "cheapest": 300.0,
    "p25": 519.99,
    "top": [
@@ -12,7 +12,7 @@
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 37,
+   "n": 35,
    "median": 510.0,
    "cheapest": 243.0,
    "p25": 400.46,
