@@ -108,13 +108,117 @@ market 820395041791: ours 359.99 vs cheapest - (0 others) · Burberry Terrace Le
 market 820395124454: ours 364.99 vs cheapest - (0 others) · Burberry Terrace Leather Low-Top Sneaker Black Men
 market 820395124651: ours 359.99 vs cheapest - (0 others) · Burberry Terrace Leather Low-Top Sneaker White Men
 Price check: 105 listings compared, 40 priced more than 5% above another seller.
-shipto 820395041791: opened to Worldwide
-shipto 820395124454: opened to Worldwide
-shipto 820395124651: opened to Worldwide
+shipto 820277097048: opened to Worldwide
+shipto 820277097224: opened to Worldwide
+shipto 820277097445: opened to Worldwide
+shipto 820277097634: opened to Worldwide
+shipto 820277097802: opened to Worldwide
+shipto 820277097979: opened to Worldwide
+shipto 820277098190: opened to Worldwide
+shipto 820277098381: opened to Worldwide
+shipto 820277098563: opened to Worldwide
+shipto 820281910101: opened to Worldwide
+shipto 820281910201: opened to Worldwide
+shipto 820281910306: opened to Worldwide
+shipto 820281910460: opened to Worldwide
+shipto 820281910571: opened to Worldwide
+shipto 355066429434: opened to Worldwide
+shipto 355066509978: opened to Worldwide
+shipto 355066574768: opened to Worldwide
+shipto 355420832785: opened to Worldwide
+shipto 355420948879: opened to Worldwide
+shipto 355420967506: opened to Worldwide
+shipto 355422678861: opened to Worldwide
+shipto 355422689102: opened to Worldwide
+shipto 355422702908: opened to Worldwide
+shipto 355422763143: opened to Worldwide
+shipto 355423513413: opened to Worldwide
+shipto 355428047951: opened to Worldwide
+shipto 355428079713: opened to Worldwide
+shipto 355426430327: opened to Worldwide
+shipto 355426469262: opened to Worldwide
+shipto 355429309757: opened to Worldwide
+shipto 355429340181: opened to Worldwide
+shipto 355429355271: opened to Worldwide
+shipto 355429385763: opened to Worldwide
+shipto 820312366345: opened to Worldwide
+shipto 820312366372: opened to Worldwide
+shipto 820204075354: opened to Worldwide
+shipto 820204075398: opened to Worldwide
+shipto 820204075433: opened to Worldwide
+shipto 820204075474: opened to Worldwide
+shipto 820204075517: opened to Worldwide
+shipto 820204075592: opened to Worldwide
+shipto 820204075633: opened to Worldwide
+shipto 820204075737: opened to Worldwide
+shipto 820204075830: opened to Worldwide
+shipto 820205221528: opened to Worldwide
+shipto 820205221563: opened to Worldwide
+shipto 820205221628: opened to Worldwide
+shipto 820205221669: opened to Worldwide
+shipto 820205221755: opened to Worldwide
+shipto 820205221855: opened to Worldwide
+shipto 820205329339: opened to Worldwide
+shipto 820205329431: opened to Worldwide
+shipto 820205329595: opened to Worldwide
+shipto 820205329783: opened to Worldwide
+shipto 820205389034: opened to Worldwide
+shipto 820205698211: opened to Worldwide
+shipto 820207186160: opened to Worldwide
+shipto 820207186196: opened to Worldwide
+shipto 820207186222: opened to Worldwide
+shipto 820207186253: opened to Worldwide
+shipto 820207186287: opened to Worldwide
+shipto 820207186315: opened to Worldwide
+shipto 820207186346: opened to Worldwide
+shipto 820207186379: opened to Worldwide
+shipto 820207186442: opened to Worldwide
+shipto 820207186465: opened to Worldwide
+shipto 820207186489: opened to Worldwide
+shipto 820207186525: opened to Worldwide
+shipto 820207186550: opened to Worldwide
+shipto 820207186594: opened to Worldwide
+shipto 820207186615: opened to Worldwide
+shipto 820207186641: opened to Worldwide
+shipto 820207186667: opened to Worldwide
+shipto 820207186744: opened to Worldwide
+shipto 820207186774: opened to Worldwide
+shipto 820207186802: opened to Worldwide
+shipto 820207186833: opened to Worldwide
+shipto 820207186853: opened to Worldwide
+shipto 820207186878: opened to Worldwide
+shipto 820207186919: opened to Worldwide
+shipto 820207186962: opened to Worldwide
+shipto 820223864929: opened to Worldwide
+shipto 820223865172: opened to Worldwide
+shipto 820228649208: opened to Worldwide
+shipto 820228649230: opened to Worldwide
+shipto 820228649253: opened to Worldwide
+shipto 820228649857: opened to Worldwide
+shipto 820229263569: opened to Worldwide
+shipto 820229263683: opened to Worldwide
+shipto 820229263765: opened to Worldwide
+shipto 820229263903: opened to Worldwide
+shipto 820229265137: opened to Worldwide
+shipto 820253018067: opened to Worldwide
+shipto 820253018257: opened to Worldwide
+shipto 820253018386: opened to Worldwide
+shipto 820253018496: opened to Worldwide
+shipto 820253018812: opened to Worldwide
+shipto 820253018968: opened to Worldwide
+shipto 820253019164: opened to Worldwide
+shipto 820256466735: opened to Worldwide
+shipto 820259478300: opened to Worldwide
+shipto 356084785661: opened to Worldwide
+SYNC ERRORS:
+820207186704: couldn't open it to other countries (ReviseFixedPriceItem failed: ['System error. Unable to process your request. Please try again later.'])
 📋 Daily eBay check · Wed Nov 25
 
 What I did: raised the price a little on 6 listings because the store got pricier.
 Nothing for you to do.
+
+⚠️ Couldn't update 1 listing(s); I'm looking into it:
+• 820207186704: couldn't open it to other countries (ReviseFixedPriceItem failed: ['System error. Unable to process your request. Please try again later.'])
 {'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/yJ0AAOSwqw5luzS-/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace GG Crystal Canvas Sneaker Blue…\nSizes: US 7.5, 9 · now from $864.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355429309757"}
 {'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/dZwAAOSwb9Nluz2m/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web Beige/Ebony GG…\nSizes: US 5.5, 10, 10.5 · now from $999.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355429385763"}
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/JJAAAeSw40Zq1qXF/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web Black/Navy/Red Low…\nSizes: US 6.5 · now from $664.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820204075354"}
