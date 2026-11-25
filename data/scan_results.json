@@ -1,9 +1,9 @@
 {
- "checked": "2026-11-25T11:47:31Z",
+ "checked": "2026-11-25T12:45:11Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 34,
-   "median": 623.0,
+   "n": 37,
+   "median": 636.0,
    "cheapest": 300.0,
    "p25": 519.99,
    "top": [
@@ -12,10 +12,10 @@
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 34,
-   "median": 497.0,
+   "n": 32,
+   "median": 499.5,
    "cheapest": 243.0,
-   "p25": 361.25,
+   "p25": 400.46,
    "top": [
     "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
     "Gucci Men's Black Leather GG Web Logo Slip-On Dress Loafers US 6"
@@ -36,10 +36,10 @@
    "top": []
   },
   "givenchy_leather_sneaker_black": {
-   "n": 31,
-   "median": 399.0,
+   "n": 32,
+   "median": 404.0,
    "cheapest": 200.0,
-   "p25": 295.0,
+   "p25": 300.0,
    "top": [
     "Givenchy Men\u2019s High-Top Sneakers Black/White Graphic Print Leather Logo Sz 9",
     "Givenchy Logo Band Sneakers White Black Leather Men's US 11 EU 44 MK137"
@@ -97,10 +97,10 @@
    "top": []
   },
   "givenchy_leather_sneaker_bh00b4h1x1": {
-   "n": 32,
-   "median": 404.0,
+   "n": 31,
+   "median": 399.0,
    "cheapest": 200.0,
-   "p25": 300.0,
+   "p25": 295.0,
    "top": [
     "Givenchy Men\u2019s High-Top Sneakers Black/White Graphic Print Leather Logo Sz 9",
     "Givenchy Logo Band Sneakers White Black Leather Men's US 11 EU 44 MK137"
