@@ -96,3 +96,9 @@ sync:
   ignore_items: [358573823614]  # AirPods Max — Rafael's own item
   single_source_items: [356084785661]  # Ferragamo cufflinks: only Cettire stocks them; Rafael OK'd (Sept 30)
   ignore_title_words: [AirPods]  # Rafael's personal electronics listings: never touched by the bot
+
+shipping:
+  international:             # Rafael, Nov 25: open to as many countries as possible. eBay International Shipping: buyer pays shipping + import fees; stores only ship inside the US.
+    enabled: true
+    items: [820395041791, 820395124454, 820395124651]   # test on the 3 Burberry Terrace sneakers first (AG covers US/PR/CA/AU buyers); then "all"
+    exclude: []              # country codes to block, e.g. [RU, BY]; eBay already blocks embargoed countries

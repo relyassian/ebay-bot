@@ -274,6 +274,13 @@ def run(live: bool) -> list:
         if any(w in listing.title.lower() for w in words):
             continue
         checked += 1
+        try:
+            from bot.shipto import apply as _shipto
+            note = _shipto(cfg, item_id, token, live)
+            if note:
+                print("shipto", note)
+        except Exception as e:      # eBay may want an international service on this listing: log it, keep syncing
+            errors.append(f"{item_id}: couldn't open it to other countries ({str(e)[:200]})")
         if cfg.get("listing", {}).get("fuller_titles"):
             from bot.titles import enhance
             new_title = enhance(listing.title, listing.specifics)
