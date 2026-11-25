@@ -14,7 +14,7 @@ market 820277098563: ours 964.99 vs cheapest 779.95 (1 others) · Gucci Screener
 market 820281910101: ours 1269.99 vs cheapest - (0 others) · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
 market 820281910201: ours 654.99 vs cheapest 380.0 (10 others) · Gucci Driver Horsebit - Black Men's Leather Drivin
 market 820281910306: ours 444.99 vs cheapest 312.49 (21 others) · Gucci Driver Horsebit - Green Men's Suede Driving 
-market 820281910460: ours 584.99 vs cheapest 440.0 (26 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
+market 820281910460: ours 584.99 vs cheapest 440.0 (27 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
 market 820281910571: ours 489.99 vs cheapest 447.0 (3 others) · Gucci Tennis 1977 White Green Red Men's Leather Lo
 market 355066429434: ours None vs cheapest - (0 others) · Salvatore Ferragamo Grandioso Moccasin with Gancin
 market 355066509978: ours None vs cheapest - (0 others) · Salvatore Ferragamo Rolo Moccasin with Reversible 
@@ -33,7 +33,7 @@ market 355426430327: ours None vs cheapest - (0 others) · Dolce & Gabbana New R
 market 355426469262: ours 839.99 vs cheapest - (0 others) · Gucci Ace GG Supreme Sneaker Black/Grey Men's Leat
 market 355429309757: ours 864.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Blue Men's Lea
 market 355429340181: ours 904.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Green Men's Le
-market 355429355271: ours 949.99 vs cheapest 485.0 (1 others) · Gucci Ace GG Crystal Canvas Sneaker Black Men's Le
+market 355429355271: ours 949.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Black Men's Le
 market 355429385763: ours 964.24 vs cheapest - (0 others) · Gucci Ace Sneaker with Web Beige/Ebony GG Supreme 
 market 820312366345: ours None vs cheapest - (0 others) · Rhude Split Petrol Logo Long Sleeve T-Shirt Vintag
 market 820312366372: ours None vs cheapest - (0 others) · Rick Owens x Moncler Jumbo Short Sleeve T-Shirt Da
@@ -59,7 +59,7 @@ market 820205329783: ours 669.99 vs cheapest - (0 others) · Gucci Tennis 1977 H
 market 820205389034: ours 1981.99 vs cheapest 1443.9 (1 others) · Louis Vuitton LV Skate Sneaker Beige/White Men's L
 market 820205698211: ours 674.99 vs cheapest 550.0 (3 others) · Gucci Ace GG Embossed Sneaker Black Men's Leather 
 market 820207186160: ours None vs cheapest 749.0 (1 others) · Balenciaga Runner Sneaker Black Matte Men's Mesh L
-market 820207186196: ours None vs cheapest 499.0 (8 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
+market 820207186196: ours None vs cheapest 499.0 (9 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
 market 820207186222: ours 639.99 vs cheapest - (0 others) · Gucci Ace GG Embossed - White Men's Leather Low To
 market 820207186253: ours 659.99 vs cheapest 375.0 (10 others) · Gucci Basket Black Red Men's Demetra Low Top Sneak
 market 820207186287: ours 499.99 vs cheapest 295.0 (35 others) · Gucci Basket Green Demetra Men's Low Top Sneakers 
@@ -107,13 +107,12 @@ market 820259478300: ours None vs cheapest - (0 others) · Maison Margiela Sprin
 market 820395041791: ours 359.99 vs cheapest - (0 others) · Burberry Terrace Leather Low-Top Sneaker Loch Men'
 market 820395124454: ours 364.99 vs cheapest - (0 others) · Burberry Terrace Leather Low-Top Sneaker Black Men
 market 820395124651: ours 359.99 vs cheapest - (0 others) · Burberry Terrace Leather Low-Top Sneaker White Men
-Price check: 105 listings compared, 40 priced more than 5% above another seller.
-title 820395041791: "Burberry Terrace Leather Low-Top Sneaker Loch Men's Low Top Sneakers New" -> "Burberry Terrace Leather Low-Top Sneaker Loch Men's Low Top Sneakers Men's New"
-title 820395124454: "Burberry Terrace Leather Low-Top Sneaker Black Men's New" -> "Burberry Terrace Leather Low-Top Sneaker Black Men's Low Top Sneakers New"
-title 820395124651: "Burberry Terrace Leather Low-Top Sneaker White Men's New" -> "Burberry Terrace Leather Low-Top Sneaker White Men's Low Top Sneakers New"
+Price check: 105 listings compared, 39 priced more than 5% above another seller.
+title 820395124454: "Burberry Terrace Leather Low-Top Sneaker Black Men's Low Top Sneakers New" -> "Burberry Terrace Leather Low-Top Sneaker Black Men's Low Top Sneakers Men's New"
+title 820395124651: "Burberry Terrace Leather Low-Top Sneaker White Men's Low Top Sneakers New" -> "Burberry Terrace Leather Low-Top Sneaker White Men's Low Top Sneakers Men's New"
 📋 Daily eBay check · Wed Nov 25
 
-What I did: took 3 listings (or some sizes) off sale because stores ran out; raised the price a little on 6 listings because the store got pricier.
+What I did: raised the price a little on 7 listings because the store got pricier.
 Nothing for you to do.
 {'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/yJ0AAOSwqw5luzS-/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace GG Crystal Canvas Sneaker Blue…\nSizes: US 7.5, 9 · now from $864.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355429309757"}
 {'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/dZwAAOSwb9Nluz2m/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web Beige/Ebony GG…\nSizes: US 5.5, 10, 10.5 · now from $999.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355429385763"}
@@ -122,6 +121,4 @@ Nothing for you to do.
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/fIsAAeSwKWZq1qXJ/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cassini Low-Top Sneaker Blue Low Top…\nSizes: all 2 sizes · now from $509.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649230"}
 Also changed:
 • Price Raised: McQueen Contrast Sole Leather Penny Loafer… (US 7, 8.5, 9) https://www.ebay.com/itm/820229265137
-• Taken Off Sale: Burberry Terrace Leather Low-Top Sneaker Loch… (US 7.5, 8.5, 9, 9.5, 10, 10.5, 11) https://www.ebay.com/itm/820395041791
-• Taken Off Sale: Burberry Terrace Leather Low-Top Sneaker Black… (US 8, 9, 10, 12) https://www.ebay.com/itm/820395124454
-• Taken Off Sale: Burberry Terrace Leather Low-Top Sneaker White… (US 6, 6.5, 7.5, 8, 8.5, 9, 10, 11) https://www.ebay.com/itm/820395124651
+• Price Raised: Burberry Terrace Leather Low-Top Sneaker Loch… (US 7, 8) https://www.ebay.com/itm/820395041791
