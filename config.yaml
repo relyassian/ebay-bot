@@ -100,5 +100,5 @@ sync:
 shipping:
   international:             # Rafael, Nov 25: open to as many countries as possible. eBay International Shipping: buyer pays shipping + import fees; stores only ship inside the US.
     enabled: true
-    items: [820395041791, 820395124454, 820395124651]   # test on the 3 Burberry Terrace sneakers first (AG covers US/PR/CA/AU buyers); then "all"
+    items: all               # Nov 25: eBay accepted the 3-listing test, so every listing the bot manages (AirPods etc. stay ignored); AG still applies to US/PR/CA/AU buyers by itself
     exclude: []              # country codes to block, e.g. [RU, BY]; eBay already blocks embargoed countries
