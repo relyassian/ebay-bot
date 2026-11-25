@@ -9,7 +9,11 @@ color: Loch
 size_system: EU
 retail_price: 890
 discontinued_verified: false
-photos: []
+photos:
+- https://cdn2.jomashop.com/media/catalog/product/b/u/burberry-terrace-leather-lowtop-sneakers-8099414.jpg
+- https://cdn2.jomashop.com/media/catalog/product/b/u/burberry-terrace-leather-lowtop-sneakers-8099414_2.jpg
+- https://cdn2.jomashop.com/media/catalog/product/b/u/burberry-terrace-leather-lowtop-sneakers-8099414_3.jpg
+- https://cdn2.jomashop.com/media/catalog/product/b/u/burberry-terrace-leather-lowtop-sneakers-8099414_4.jpg
 included:
 - Shoes
 - Original box
@@ -115,3 +119,5 @@ sizes:
   overseas: false
   in_stock_sources: 1
   checked_at: '2026-11-24T23:45:00Z'
+photo_note: Jomashop product photos; Rafael OK Nov 24 ('use photos from anywhere').
+  Not another eBay seller's.
