@@ -3,6 +3,12 @@ _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old
 _Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
+## Research run 2026-11-26 (automated, partial)
+- Mac reachable (built-in browser). GOAT: 385 of 393 GOAT rows refreshed ~11:50Z (72 pages, per-size buy_bar_data; 26 prices changed, 7 moved >= $30; 8 sizes not at GOAT now, left unchanged). StockX: only 15 of 29 pages read (same-origin iframes), then Cloudflare "Just a moment" blocked the remaining 14 (not bypassed); 61 rows refreshed ~11:58Z (15 prices changed, 4 moved >= $30). The other ~70 StockX rows keep their Nov 25 timestamps and expire ~Nov 26 23:46Z (sizes come off sale) unless refreshed.
+- NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room $274k, but no browser budget).
+- Part C: Gmail (21 days, 13 store senders) empty; promos.yaml unchanged.
+- Part D: Nugnes1920 products.json (3000 products) men's shoes/belts/ties/wallets/sunglasses/jewellery >= 38% off in stock: 8 items, all single sizes (McQueen loafer EU 40 $445/890, Givenchy sneakers EU 44 $425/850, Doucal's loafer 43.5 $297, Paraboot 7/8 $198). No comps clearing $100. Candidates written: 0.
+
 ## Research run 2026-11-25 (automated, partial)
 - Mac reachable (built-in browser). GOAT: 387 of 401 GOAT rows refreshed ~11:43Z (72 pages, per-size buy_bar_data; 26 prices changed, 8 moved >= $30; 6 sizes with no GOAT seller left unchanged). StockX: all 29 pages read via same-origin iframes; 72 rows refreshed ~12:0xZ (30 prices changed, 1 moved >= $30); 55 BID-only/unlisted sizes left unchanged. StockX not compared against other stores.
 - NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room $274k, but no browser budget).
