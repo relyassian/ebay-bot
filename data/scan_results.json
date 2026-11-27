@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T11:46:05Z",
+ "checked": "2026-11-27T12:48:13Z",
  "items": {
   "gucci_lace_black_865172": {
    "n": 35,
@@ -12,10 +12,10 @@
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 40,
-   "median": 505.0,
+   "n": 37,
+   "median": 500.0,
    "cheapest": 243.0,
-   "p25": 397.49,
+   "p25": 361.25,
    "top": [
     "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
     "Gucci Men's Black Leather GG Web Logo Slip-On Dress Loafers US 6"
@@ -36,10 +36,10 @@
    "top": []
   },
   "givenchy_leather_sneaker_black": {
-   "n": 32,
-   "median": 404.0,
+   "n": 31,
+   "median": 399.0,
    "cheapest": 200.0,
-   "p25": 300.0,
+   "p25": 295.0,
    "top": [
     "Givenchy Men\u2019s High-Top Sneakers Black/White Graphic Print Leather Logo Sz 9",
     "Givenchy Logo Band Sneakers White Black Leather Men's US 11 EU 44 MK137"
