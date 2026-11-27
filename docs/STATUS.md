@@ -3,6 +3,12 @@ _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old
 _Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
+## Research run 2026-11-27 (automated, partial)
+- Mac reachable (built-in browser). GOAT: 385 of 393 GOAT rows refreshed ~11:50Z (72 pages, per-size buy_bar_data; 21 prices changed, 5 moved >= $30; 8 sizes not at GOAT now, left unchanged). StockX: only 8 of 29 pages read (same-origin iframes), then Cloudflare "Just a moment" blocked the other 21 (not bypassed); 35 rows refreshed ~11:58Z (5 prices changed, 3 moved >= $30). The ~90 StockX rows not read keep Nov 25/26 timestamps and expire within 36h (sizes come off sale) unless refreshed.
+- NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (no browser budget).
+- Part C: Gmail (21 days, store senders) empty; promos.yaml unchanged.
+- Part D: Nugnes1920 products.json (3500 products, gender_Man tag) men's shoes/boots/sandals >= 38% off, in stock: 7 items, all single sizes (Givenchy boots 39 $247/495, Givenchy sneakers 44 $425/850, McQueen loafer 40 $445/890, Y-3 Stan Smith 7 $154/280, Doucal's 43.5 $297/495, Paraboot 7/8 $198/330, Ferragamo sandals 7/8 $417/695). Same set as Nov 26, no comps clearing $100. Candidates written: 0.
+
 ## Research run 2026-11-26 (automated, partial)
 - Mac reachable (built-in browser). GOAT: 385 of 393 GOAT rows refreshed ~11:50Z (72 pages, per-size buy_bar_data; 26 prices changed, 7 moved >= $30; 8 sizes not at GOAT now, left unchanged). StockX: only 15 of 29 pages read (same-origin iframes), then Cloudflare "Just a moment" blocked the remaining 14 (not bypassed); 61 rows refreshed ~11:58Z (15 prices changed, 4 moved >= $30). The other ~70 StockX rows keep their Nov 25 timestamps and expire ~Nov 26 23:46Z (sizes come off sale) unless refreshed.
 - NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room $274k, but no browser budget).
