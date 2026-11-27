@@ -1,9 +1,9 @@
 {
- "checked": "2026-11-26T20:28:58Z",
+ "checked": "2026-11-27T11:46:05Z",
  "items": {
   "gucci_lace_black_865172": {
-   "n": 36,
-   "median": 657.02,
+   "n": 35,
+   "median": 650.0,
    "cheapest": 300.0,
    "p25": 519.99,
    "top": [
@@ -12,10 +12,10 @@
    ]
   },
   "gucci_loafer_black_851396": {
-   "n": 38,
-   "median": 499.5,
+   "n": 40,
+   "median": 505.0,
    "cheapest": 243.0,
-   "p25": 361.25,
+   "p25": 397.49,
    "top": [
     "GUCCI - Black Leather Horsebit Loafers, Size-UK 9",
     "Gucci Men's Black Leather GG Web Logo Slip-On Dress Loafers US 6"
