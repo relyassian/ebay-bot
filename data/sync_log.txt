@@ -19,7 +19,7 @@ market 355426430327: ours None vs cheapest - (0 others) · Dolce & Gabbana New R
 market 355426469262: ours 839.99 vs cheapest 584.95 (1 others) · Gucci Ace GG Supreme Sneaker Black/Grey Men's Leat
 market 355429309757: ours 864.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Blue Men's Lea
 market 355429340181: ours 904.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Green Men's Le
-market 355429355271: ours 949.99 vs cheapest 485.0 (1 others) · Gucci Ace GG Crystal Canvas Sneaker Black Men's Le
+market 355429355271: ours 949.99 vs cheapest - (0 others) · Gucci Ace GG Crystal Canvas Sneaker Black Men's Le
 market 355429385763: ours 964.24 vs cheapest - (0 others) · Gucci Ace Sneaker with Web Beige/Ebony GG Supreme 
 market 820312366345: ours None vs cheapest - (0 others) · Rhude Split Petrol Logo Long Sleeve T-Shirt Vintag
 market 820312366372: ours None vs cheapest - (0 others) · Rick Owens x Moncler Jumbo Short Sleeve T-Shirt Da
@@ -43,7 +43,7 @@ market 820205329431: ours 649.99 vs cheapest - (0 others) · Gucci Ace Sneaker w
 market 820205329595: ours None vs cheapest 450.0 (16 others) · Gucci MAC80 Sneaker Off-White Men's Leather Low To
 market 820205329783: ours 729.99 vs cheapest - (0 others) · Gucci Tennis 1977 High-Top Sneaker Beige/Ebony GG 
 market 820205389034: ours None vs cheapest 1443.9 (1 others) · Louis Vuitton LV Skate Sneaker Beige/White Men's L
-market 820205698211: ours 574.99 vs cheapest 550.0 (3 others) · Gucci Ace GG Embossed Sneaker Black Men's Leather 
+market 820205698211: ours 554.99 vs cheapest 550.0 (3 others) · Gucci Ace GG Embossed Sneaker Black Men's Leather 
 market 820207186160: ours None vs cheapest 749.0 (1 others) · Balenciaga Runner Sneaker Black Matte Men's Mesh L
 market 820207186196: ours None vs cheapest 700.0 (8 others) · Balenciaga Runner Sneaker White Men's Mesh Low Top
 market 820207186222: ours 639.99 vs cheapest - (0 others) · Gucci Ace GG Embossed - White Men's Leather Low To
@@ -70,7 +70,7 @@ market 820207186853: ours 964.99 vs cheapest - (0 others) · Gucci Screener GG S
 market 820207186878: ours 764.99 vs cheapest 280.0 (2 others) · Gucci Tennis 1977 Black Ivory Men's Canvas Low Top
 market 820207186919: ours 639.99 vs cheapest 390.0 (5 others) · Gucci Tennis 1977 Blue Ivory Men's Canvas Low Top 
 market 820207186962: ours 729.99 vs cheapest - (0 others) · Gucci Tennis 1977 Low GG Monogram - Ebony Beige Me
-market 820223864929: ours 534.99 vs cheapest 399.97 (7 others) · Gucci Loafer with Interlocking G Brown Men's Leath
+market 820223864929: ours 534.99 vs cheapest 399.97 (8 others) · Gucci Loafer with Interlocking G Brown Men's Leath
 market 820223865172: ours 649.99 vs cheapest 450.0 (8 others) · Gucci MAC80 Sneaker Blue Men's Leather Low Top Sne
 market 820228649208: ours 959.99 vs cheapest - (0 others) · Bottega Veneta Eliot Mid-Top Sneaker Multi-Color M
 market 820228649230: ours 509.99 vs cheapest - (0 others) · Ferragamo Cassini Low-Top Sneaker Blue Men's Low T
@@ -98,19 +98,19 @@ market 820277097224: ours 1009.99 vs cheapest - (0 others) · Gucci MAC80 Sneake
 market 820277097445: ours 934.99 vs cheapest - (0 others) · Gucci MAC80 High-Top Sneaker Black/Off-White Men's
 market 820277097634: ours 909.99 vs cheapest 490.0 (4 others) · Gucci MAC80 Sneaker Off-White/Black Men's Leather 
 market 820277097802: ours 914.99 vs cheapest - (0 others) · Gucci MAC80 Sneaker Off-White/Green Men's Leather 
-market 820277097979: ours 974.99 vs cheapest - (0 others) · Gucci Re-Web Sneaker Black Men's Leather Low Top S
+market 820277097979: ours 974.99 vs cheapest 492.0 (1 others) · Gucci Re-Web Sneaker Black Men's Leather Low Top S
 market 820277098190: ours 889.99 vs cheapest 299.0 (22 others) · Gucci Re-Web Sneaker White Men's Leather Low Top S
 market 820277098381: ours 1059.99 vs cheapest 750.0 (1 others) · Gucci Run Sneaker Light Grey/Brown Men's Suede Low
 market 820277098563: ours None vs cheapest 605.95 (2 others) · Gucci Screener GG Supreme Sneaker Dark Blue/Red Me
 market 820281910101: ours 1269.99 vs cheapest - (0 others) · Gucci Cordovan Lux Lace-Up Shoe Black Men's New
 market 820281910201: ours 654.99 vs cheapest 380.0 (10 others) · Gucci Driver Horsebit - Black Men's Leather Drivin
 market 820281910306: ours 444.99 vs cheapest 312.49 (21 others) · Gucci Driver Horsebit - Green Men's Suede Driving 
-market 820281910460: ours 564.99 vs cheapest 400.0 (29 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
+market 820281910460: ours 564.99 vs cheapest 400.0 (30 others) · Gucci Horsebit Loafer Black Men's Leather Loafers 
 market 820281910571: ours 489.99 vs cheapest 447.0 (3 others) · Gucci Tennis 1977 White Green Red Men's Leather Lo
 Price check: 105 listings compared, 36 priced more than 5% above another seller.
 📋 Daily eBay check · Fri Nov 27
 
-What I did: raised the price a little on 6 listings because the store got pricier; lowered the price 3% on 1 listing that hadn't sold in a week.
+What I did: raised the price a little on 6 listings because the store got pricier.
 Nothing for you to do.
 {'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/yJ0AAOSwqw5luzS-/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace GG Crystal Canvas Sneaker Blue…\nSizes: US 7.5, 9 · now from $864.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355429309757"}
 {'photo': 'https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/dZwAAOSwb9Nluz2m/$_57.PNG?set_id=8800005007', 'text': "📈 PRICE RAISED\nGucci Ace Sneaker with Web Beige/Ebony GG…\nSizes: US 5.5, 10 · now from $994.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/355429385763"}
@@ -119,4 +119,3 @@ Nothing for you to do.
 {'photo': 'https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/fIsAAeSwKWZq1qXJ/$_1.JPG?set_id=8800005007', 'text': "📈 PRICE RAISED\nFerragamo Cassini Low-Top Sneaker Blue Low Top…\nSizes: all 2 sizes · now from $509.99\n\nWhy: The store's price went up, so I raised it a little to keep you at $100+ profit (you said small changes don't need your OK).\nhttps://www.ebay.com/itm/820228649230"}
 Also changed:
 • Price Raised: McQueen Contrast Sole Leather Penny Loafer… (US 7, 8.5, 9) https://www.ebay.com/itm/820229265137
-• Price Lowered 3%: Gucci Ace GG Embossed Sneaker Black Leather Low… (US 11.5, 13.5) https://www.ebay.com/itm/820205698211
