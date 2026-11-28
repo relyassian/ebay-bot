@@ -3,6 +3,12 @@ _Last updated: Fri Oct 9, 2026, 1:40am ET. Rebuilt in the new chat after the old
 _Copies: Mac `~/Claude Code/STATUS.md` (the only folder this chat can reach now; an older v1 copy sits in `~/Desktop/eBay Arbitrage/` and is stale: delete it) and repo `docs/STATUS.md` (same content). Update both at the end of every work session._
 _Old chat = claude.ai chat `9ad43b66-8fb8-4bc1-99c9-04cade988b93` ("eBay Arbitrage", 550 turns, last message Oct 8 ~2:50pm ET). Its container (scratch files) is gone; everything committed is in the repo._
 
+## Research run 2026-11-28 (automated, partial)
+- Mac reachable (built-in browser). GOAT: 384 of 393 GOAT rows refreshed ~11:42Z (72 pages, per-size buy_bar_data; 23 prices changed, 7 moved >= $30; 9 sizes not at GOAT now, left unchanged). StockX: all 29 pages read this time (no Cloudflare block); 72 rows refreshed (21 prices changed, 8 moved >= $30). 55 StockX rows not refreshed: sizes not in the size menu (mostly 13+, and 3 BID = no seller), left unchanged; they expire within 36h unless another source covers them.
+- NOT refreshed: END, Farfetch, Antonioli, Jomashop, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (limit room $274k, but no browser budget).
+- Part C: Gmail (21 days, 13 store senders) empty; promos.yaml unchanged.
+- Part D: Nugnes1920 products.json (4000 products, gender_Man) shoes/belts/ties/wallets/etc >= 38% off in stock: 7 shoes (same set as Nov 27, all single sizes) + 1 Balenciaga cardigan XS $1185/2415. No comps clearing $100. Candidates written: 0.
+
 ## Research run 2026-11-27 (automated, partial)
 - Mac reachable (built-in browser). GOAT: 385 of 393 GOAT rows refreshed ~11:50Z (72 pages, per-size buy_bar_data; 21 prices changed, 5 moved >= $30; 8 sizes not at GOAT now, left unchanged). StockX: only 8 of 29 pages read (same-origin iframes), then Cloudflare "Just a moment" blocked the other 21 (not bypassed); 35 rows refreshed ~11:58Z (5 prices changed, 3 moved >= $30). The ~90 StockX rows not read keep Nov 25/26 timestamps and expire within 36h (sizes come off sale) unless refreshed.
 - NOT refreshed: END, Farfetch, Antonioli, Cettire rows (Oct 23 to Nov 9, stale, off sale). Part B skipped (no browser budget).
